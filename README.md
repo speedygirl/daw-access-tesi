@@ -5,8 +5,10 @@ Questo repository contiene il sorgente della mia tesi di laure in musicologia, s
 
 ## Struttura
 - Images contiene tutte le immagini che vengono referenziate dai file .md
-- [todo list](./todo list.md) sono appunti personali sul testo
+- [todo list](./todo%20list.md) sono appunti personali sul testo
 - I file Parte x.md sono le varie sezioni della tesi
     - [Parte 1](./Parte%201.md)
     - [Parte 2](./Parte%202.md)
     - [Parte 3](./Parte%203.md)
+- Cheatsheet markdown [help](./help.md)
+

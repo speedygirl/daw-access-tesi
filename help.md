@@ -37,3 +37,23 @@ Per inserire un'immagine
 [link come inserire le note](https://stackedit.io/)
 [link raffinatura risoluzione immagini](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
 [assistenza notepad](https://www.bing.com/search?q=assistenza+per+blocco+note+in+windows+10&filters=guid:%224466414-it-dia%22%20lang:%22it%22&form=T00032&ocid=HelpPane-BingIA)
+
+## TO DO LIST
+- [x] Cosa gia fatta
+- [ ] Cosa da fare
+
+## Caratteri utili
+- Backtick \`
+- Tilde \~
+
+## Esempio parola evidenziata
+In questo testo c'è una `parola` evidenziata di rosso
+
+In questo testo c'è una **parola** in maiuscolo
+
+In questo testo c'è una <mark>parola</mark> evidenziata
+
+## Commenti invisibili in visualizzazione
+[//]: # (This may be the most platform independent comment)
+<!--- your comment goes here and here -->
+[//]: <> (This is also a comment.)

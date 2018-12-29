@@ -201,6 +201,7 @@ Nella “mix window” sono accessibili anche le sottofinestre e dei menù conte
 Sono inaccessibili, quasi o del tutto, solo alcuni plug in di cui quello in foto  un esempio.
 
 ![PRO TOOLS MOD DELAY III](./images/foto-pro-tools-mod-delay-iii.png)
+
 Elementi nella barra dei menù sono raggruppati, scorrendo con freccia destra e sinistra vo legge igruppi, entrando con Shift+Maiusc+Freccia giù si entra nel singolo dove poi si scorre con normale neavigazione comodo perché consente di sapere già cosa conterrà quall’area di elementi senza doverli scorrere uno ad uno.
 In questa sezione è possibile raggiungere il mixer (sopra esposto) che è raggiungibile anche dal menù “window”; sempre dalla medesima sezione si raggiunge anche il pulsante per aggiungere il marker.
 
@@ -241,3 +242,174 @@ Alcuni tools per valutare, in Windows,  l’accessibilità degli UI elements, de
 Per testare i requisiti del programmatic access e l’accesso da tastiera non esiste alcun tools  che possa verificare appieno l’implementazione. L’articolo consiglia pertanto di usare più tools e, quando possibile, 
 gli SDK di Windows contengono svariati tools che sono utili per creare servizi e prodotti accessibili.
 (tradotto da me)
+
+### Scegliere se inserire o no nella tesi
+  - [Accessible Event Watcher](https://docs.microsoft.com/en-us/windows/desktop/winauto/accessible-event-watcher): The Accessible Event Watcher (AccEvent) tool **examines accessibility data to help validate application UI** elements, to ensure the UI elements raise **proper Microsoft Active Accessibility and UI Automation events when UI changes occur.** AccEvent is usually used to **debug** issues and to validate that custom **and extended controls are working** correctly.
+  - [Inspect](https://docs.microsoft.com/en-us/windows/desktop/winauto/inspect-objects): Inspect allows you to **view the accessibility data in any UI element.** It is especially useful, when **xtending a common control** or creating a **custom** control, **to ensure properties and control patterns are set correctly.**
+  - [AccScope](https://docs.microsoft.com/en-us/windows/desktop/winauto/accscope): The AccScope tool allows developers to visually evaluate the accessibility of their application **during the early design and development phases.** AccScope helps **visualize how a screen reader uses UI Automation information that an app provides.** It can **show areas where adding information** or support to your application **can improve** its accessibility.
+  -	[UI Accessibility Checker](https://docs.microsoft.com/en-us/windows/desktop/winauto/ui-accessibility-checker): The UI Accessibility Checker (AccChecker) tool **verifies** that **key UI accessibility requirements are** met. AccChecker includes verification checks for **UI Automation, Microsoft Active Accessibility**, and Accessible Rich Internet Applications (ARIA). It can provide a **static check** looking for **errors** such as missing names, tree issues and more. It helps verify **programmatic access** and has **advanced features to support automating accessibility testing**.
+  - [UI Automation Verify (UIA Verify)](https://docs.microsoft.com/en-us/windows/desktop/winauto/ui-automation-verify) is a testing **framework for manual and automated** testing of a **control's or application's** implementation of UI Automation. It can also log the test results. You can **integrate your application into the test code** and conduct regular, automated testing or spot checks of your UI Automation scenarios. This tool is useful to verify that changes to applications with established features do not have new issues or regressions in areas beyond the new features.
+
+(proseguio dello stesso articolo).
+
+windows “winsèy++” è il corrispettivo dell'inspector in mac.
+winsèy++”  è scaricabile al seguente link: 
+[aggiornato 8 settembre 2018; consultato 20 novembre 2018](https://sourceforge.net/projects/winspyex/.)
+
+Spy++ è uno dei tanti tools [```come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE```] per valutare l’accessibilità dei programmi in ambiente Widows. Spy++ permette di
+Visualizzare gerarchicamente la conformazione della struttura degli oggetti di sistema, comprendendo anche finestre, thread e processi. Di questi tre, unitamente ai messaggi selezionati dall’utente, consente la ricerca e la selezione delle loro proprietà. 
+
+<u>La finestra può essere anche selezionata, usando lo strumento di ricerca interno al tool e portandovi il puntatore del mouse.</u>
+
+- Visualizzare una struttura grafica delle relazioni tra gli oggetti di sistema, inclusi [processi](https://msdn.microsoft.com/it-it/library/dd470411.aspx) (In Microsoft Windows sono supportati più processi. Ogni processo può disporre di uno o più thread e a ognuno di essi possono essere associate una o più finestre di primo livello. In ogni finestra di primo livello può essere inclusa una serie di finestre.), [thread](https://msdn.microsoft.com/it-it/library/dd470403.aspx) (di esecuzione: quando un programma esegue un’operazione, lo fa eseguendo un filo logico, si parla di thread, quando ne esegue più di una è detto multithread) e [finestre](https://msdn.microsoft.com/it-it/library/dd460727.aspx).
+- Cercare le [finestre](https://msdn.microsoft.com/it-it/library/dd460734.aspx), i [thread](https://msdn.microsoft.com/it-it/library/dd460749.aspx), i [processi](https://msdn.microsoft.com/it-it/library/dd460757.aspx) o i [messaggi](https://msdn.microsoft.com/it-it/library/dd460755.aspx) specificati.
+- Visualizzare le proprietà delle [finestre](https://msdn.microsoft.com/it-it/library/dd460744.aspx), dei [thread](https://msdn.microsoft.com/it-it/library/dd470414.aspx), dei [processi](https://msdn.microsoft.com/it-it/library/dd460752.aspx) o dei [messaggi](https://msdn.microsoft.com/it-it/library/dd470392.aspx) selezionati.
+- Selezionare una finestra, un thread, un processo o un messaggio direttamente nella visualizzazione.
+- Usare lo [strumento di ricerca](https://msdn.microsoft.com/it-it/library/dd460750.aspx) per selezionare una finestra tramite posizionamento del puntatore del mouse.
+- Impostare le opzioni dei messaggi usando i parametri di selezione del log dei messaggi complessi.
+- 
+<u>Tratto da: https://msdn.microsoft.com/it-it/library/dd460756.aspx</u> (aggiornato aprile 2016; consultato 20 novembre 2018)
+
+Cubase per Windows
+Accessibility inspector
+Come trovare accessibility inspector by ale
+Digita in google: "voiceover accessibility debugger"
+Cliccare sul primo link dei risultati
+Accessibility inspector
+Accessibility inspector cos’è, utilità, funzionalità principali
+Articolo su accessibility inspector tratto da:
+[consultato 4 novembre 2018; pubblicato 9 maggio 2013; autore Léonie Watson](https://developer.paciellogroup.com/blog/2013/05/testing-and-debugging-ios-accessibility-for-voiceover/)
+
+```
+A differenza di altri, si tratta di un tool alquanto completo per analizzare l’accessibilità di programmi, siti web ecc…,  ad esclusione delle app mobile.
+I controlli nativi della UI hanno l’accessibilità incorporata come standard, quelli personalizzati sono rendibili accessibili senza difficoltà.
+
+Quando si esegue il test dell’app non c’è cosa migliore da fare che provare la propria app (o il prototipo) in uno stato stabile da essere utilizzata su un device, testarla con voiceover o meglio ancora chiedere agli utenti di voiceover di provarla. Questo dà un feedback realistico.
+Accessibility inspector	(disponibile nell’IOIS simulator) può anche essere usato per debuggare ogni problema che si incontra. Esso consente di simulare l’interazione con VoiceOver e di esaminare le informazioni di accessibilità che sono disponibili nei controlli della propria app.
+Accessibility inspector non ha un output vocale quindi è un tool di debugging piuttosto che un test tool.
+è quindi un buon approccio testare con VoiceOver e fare debgging con l’accessibility inspector.
+Per avviare l’Accessibility Inspector bisogna eseguire l’app nell’iOS simulator andare alla Home > Settings > General > Accessibility and slide the Accessibility Inspector switch to on. Questo apre l’Accessibility Inspector panel.
+Esso rimane attivo fino a che lo switch rimane attivo. Tuttavia è possibile attivarlo o disattivarlo temporaneamente usando l’interruttore (the toggle) all’angolo del pannello (un cerchio con una X).
+Quando si usa l’iOS simulator si può emulare le gesture del touch con il clicking del mouse.
+Nell’accessibility inspector si possono trovare due tipi di informazioni: properties e notifications.
+Accessibility properties: si può esaminare le label accessibili, value, hint (se disponibili).
+```
+```
+Accessibility traits and frame co-ordinate per ogni controllo. Come si aggiorna il codice, i cambiamenti sono riflessi in tempo reale, aiutando a sperimentare diverse soluzioni.
+Accessibility notifications aggiornano VoiceOver con quanto avviene nell’app. ad esempio si dovrebbe usare UIAccessibilityAnnouncementNotification   peer segnalare agli utilizatori di VoiceOver quando qualche informazione appare brevemente sullo schermo
+È un approccio efficace usanre in combinazione VoiceOver per testare e L’Accessibility Inspector per debuggare. Ad esempio, durante i test, si potrebbe scoprire un controllo indefinito. Usando l?inspector si può scoprire se effettivamentee è un’etichetta inaccessibile e che i trattti rilevanti siano stati resi disponibili. Se si ha la necessità di effettuare cambiamenti alla propria app si possono dapprima veirificare mediante l’Accessibility Inspector e poi con Voiceover nella prossima release.
+```
+
+(Tradotto da me)
+
+Cubase per Mac
+
+Per eseguire i test si è provato a cambiare le impostazioni di VoiceOver, modificando i parametri sempre nello stesso ordine:
+interagisci con tasto tab” e cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
+-	“interagisci con tasto tab” e eliminato l’opzione cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
+-	Eliminata l’opzione “interagisci con tasto tab” lasciando attiva “posizione iniziale cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
+-	“interagisci con tasto tab” e eliminato l’opzione “posizione iniziale cursore VoiceOver” su “cursore sul primo elemento della finestra modalità navigazione impostata su “puntatore del mouse” “sposta cursore VoiceOver” che consente al mouse di spostare il cursore VoiceOver a ogni spostamento del puntatore (in parole più facili lo spostamento della freccia).
+
+si è proceduto analizzando, dapprima lo start menù, notando che la parte sinistra, che contiene i link di supporto all’uso del programma, i link al sito della softwarehouse, e i tre buttons presenti nella parte inferiore sinistra, è lievemente più accessibile dell’altra porzione perché, portando con un clic del mouse il focus nel body della finestra, si possono scorrere i link ma non ne vengono letti i nomi precisi bensì viene notificta soltanto la generica presenza di link. La parte destra è completamente inaccessibile.
+La finestra non intercetta le shortcut quindi i comandi impartiti dall’utente tramite comandi rapidi vengono ignorati. Per ovviare al problema si è tentato, con esito negativo, il mandare a icona la finestra ma il programma si blocca ugualmente.
+Sono state tentate altre due strade, ma entrambe fallite: dapprima
+Modificando alcuni parametri delle impostazioni di VoiceOver: “posizione del cursore VoiceOver sul primo elemento della finestra e abolito “interagisci con tasto tab”.
+L’ultimo è stato l’impiego del comando Ccapslock+I, cioè la funzione cerca elementi specifica di VoiceOver.
+La sezione di destra si compone delle seguenti funzionalità, rappresentate tramite apposite icone: “recenti”; “mostra ultimi file aperti”; “recording”; “scoring” nel quale sono mostrati i vari tipi di progetto messi a disposizione dal programma, nella sezione in alto di questa regione si può selezionare i template personalizzati.
+“Producton”; “mastering”; e “altro” sono altri pulsanti della parte alta della finestra. I primi due sono template che è possibile creare; mentre “altro” sono tipi di template personalizzati creati dall’utente secondo le sue esigenze.
+I template personalizzati sono progetti che l’utente crea secondo le sue esigenze e che memorizza in modo da poterli riutilizzare successivamente senza dover reinserire gli stessi parametri ogni volta.
+Una volta che si è selezionato il progetto si deve indicare al programma dove salvarlo. 
+Per fare ciò sono state messe a disposizione funzioni come “usa posizione di default” oppure “definisci posizione progetto” cui è possibile selezionare o deselezionare tramite apposito flag col click del mouse.
+In basso a sinistra vi sono, in ordine, i buttons “apri altro”; “annulla” e “crea vuoto”.
+Il primo, “apri altro”, apre un file già presente sul disco fisso del computer; il secondo “annulla”, fa recedere dalle impostazioni o operazioni appena eseguite; mentre il terzo, “crea vuoto”, crea un nuovo progetto. Per crearlo è però prima necessario selezionare uno tra i template di progetto dalla parte superiore della finestra; oppure fare click sul pulsante “apri altro” da cui è possibile cercare la directory, ossia il percorso del file all’interno del disco del computer. 
+L’icona “crea nuovo progetto”, come quelle ad essa affini (recording, scoring, production, mastering e altro), è raggiungibile con Tab, ma VoiceOver non pronuncia il nome dell’icona.
+Si è quindi provveduto a modificare le proprietà relative alla modalità di navigazione di VoiceOver impostando su “sposta cursore VoiceOver con cursore mouse” per appurare quali sono gli elementi effettivamente selezionabili con tale taso.
+Sempre per il medesimo scopo, l’aprire il nuovo progetto, si è tentata un’altra via, mediante i menù in alto.
+Il scegliere la strada dei menù ha portato a comprendere che quando si sposta il focus sulla barra superiore, il programma va off focus, cosa che porta a cambiare il menù, togliendo da sottto il cursore il menù d’interesse per l’utente.
+Si è quindi proceduto a aprire la finestra “Nuovo progetto”, dando invio sull’apposita icona. La GUI apertasi è risultata completamente inaccessibile in quanto la sintesi vocale non intercettava nulla (nessun pulsante, nessun controllo) quindi, dal suo punto di vista, era come se lo schermo fosse vuoto. Al contrario, l’unica sezione funzionante è quella dei menù presenti nella barra dei menù, e i sottomenù relativi a ognuno dei menù di grado superiore, perché esportano i metadati provenienti dal sistema operativo. Il cursore si spossta agevolmente negli items ma non suggerisce le shortcut e, qualunque altra finestra si tenti d’aprire, è completamente inutilizzabile.
+Tali menù, sottomenù, e quindi gli items in essi contenuti, sono scorribili usando le frecce o il tracking del mouse; VoiceOver pronuncia “entro menù”, poi ancora Vo vocalizza “progetto cubase cubase element trattino senza titolo”
+Il menù all’inizio non consente di selezionare la scheda hardware da associare al programma.
+Per associare la scheda hardware bisogna entrare nella finestra progetto e ```PROCEDURA ASSOCIARE SCHEDA HARDWARE```
+Procedura by ale (provata usando mac real time Mac 7.5):
+- Menù “periferiche” (dalla barra dei menù)
+- Voce “impostazioni periferiche”
+- Nodo della Tree view “Vst audio sistem (sulla sinistra)“
+- Come driver audio selezionare la scheda Focusrite Scarlett 2i2.
+- Pulsante “ok” per confermare
+
+Procedura da Bontempi in mail 17 dicembre 2018
+È necessario aprire il menù “Studio”, selezionare la voce “Configurazione dello studio”, VST Audio System. Accanto alla voce “Driver ASIO” è situata la tendina di selezione dei driver (e quindi della scheda audio).
+
+Cubase obbliga l’utente a impostare nei minimi dettagli i parametri relativi alla scheda, ai bus ‘uscita e entrata, cosa che in altri software di editing, come ad eesempio Reaper e Pro Tools analizzati in precedenza, vengono eseguite in automatico dal computer senza richiedere particolari abilità tecniche all’utente.
+Usando il mouse si è provato a eseguire le seguenti azioni, dato che tutte le possibilità offerte dalla modifica dei vari parametri d’impostazione della sintesi sonoo risultati vani.
+Si è sfruttato il tracking del mouse per raggiungere gli strumenti VST, ma nonostante questo accorgimento VoiceOver non fornisce alcun feedback.
+Spostandosi su “attiva metronomo” VoiceOver vocalizza “Attiva metronomo” ma non fornisce informazioni aggiuntive, lo stesso per “Entro configurazione del metronomo” dove VoiceOver vocalizza configurazione metronomo  	PROBLEMA RISOLTO!!
+
+```
+Si è infine tentato di sfruttare la funzionalità “cerca nell’aiuto di Cubase” 
+ma a ogni lettera digitata nella query VoiceOver pronunciava “cerca nell’aiuto” ma non notificava alll’utente le lettere che sta immettendo.
+```
+
+In tanti programmi, soprattutto se composti da centinaia di comandi, è messa a disposizione la funzione di ricerca rapida delle shortcut o delle funzionalità attraverso una query ossia una casella di ricerca in cui è possibile scrivere quello che si sta cercando, alleviando all’utente la fatica di scorrre lunghi elenchi; cosa per giunta pressochè impossibile a un non vedente (come già precedentemente accennato).
+Per avere un’ulteriore conferma dell’inaccessibiliità della GUI della finestra progetto si è quindi provveduto a scaricare il tool per valutare l’accessibilità: l’accessibility inspector, che ha  riconfermato  quanto appena affermato. Si può infatti vedere dallo screenshot che l’interfaccia non espone i metadati necessari per l’accessibilità, che non sono stati impiegati i tag o i testi alternativi, che gli eelementi non sono stati raggruppati in maniera tale da agevolare la navigazione (da tastiera), l’interazione tramite mouse supportata dalla sintesi e l’interfaccia non è “focousabile”.
+
+Commentare lo screenshot in cui si vede l’accostamento tra l’interfaccia di cubase e la treevew della GUI riportata dall’accessibility inspector (folder screenshot in Mac pc ale).
+
+con xcode
+selezioni un controllo;
+visualizza metadati relativi a zona precedentemente selezionata col mouse
+
+----------------------
+la parte destra della finestra apertura cubase non ha nessun metadato.
+
+analizzata finestra progetto: in cuase
+elementi 0
+azioni 0
+
+```
+SPOSTARE NEL PUNTO CORRETTO NELLA ZONA DOVE SI PARLA DELLA FINESTRA PRINCIPALE DELLA SUA ZONA DI DESTRA. 
+Si apre la main windows del nuovo progetto presente nella barra dei menù in cima alla finestra, si seleziona il menù “progetto” e si seleziona la voce “impostazioni progetto. By ale.
+```
+
+```
+Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
+```
+
+VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato..
+
+Modalità cursore continuo è una modalità di scorrimento che tiene premuto capsloc ma non cambia nulla a livello di elementi.
+
+Ignora etichette ridondanti optrebbe servire a
+1. evitare di dire pulsante (in tag c’è pulsante che fa tal azione” )
+2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
+
+DA APUNTI DAVIDE GROTTA FONICO
+PANNELLO VST: 
+- GESTISCE INGRESSI E USCITE 
+- ASSOCIA CANALE VIRTUALE AL BUS RELATIVO FISICO OSSIA INTERFACCIA IL PROGRAMMA CON SCHEDA AUDIO ESTERNA
+
+F4 - APRE E CHIUDE IL PANNELLO CONNESSIONI VST
+
+![Windows CUBASE Connessioni VST Ingressi 1](./images/windows-cubase-connessioni-vst-ingressi-1.png)
+
+![Windows CUBASE Connessioni VST Ingressi 2](./images/windows-cubase-connessioni-vst-ingressi-2.png)
+
+
+ASSEGNARE BUS E CANALI ALLE TRACCE IN INGRESSO E IN USCITA
+(NB: LA PROCEDURA E’ IDENTICA SIA PER L’INGRESSO CHE PER L’USCITA).
+ASSEGNAZIONE USCITA (CONSIGLIABILE STEREO)
+DALL’INSPECTOR SCEGLIERE ```…… ASSOCIATO ALLA TRACCIA SELEZIONATA```, DOVE SI TROVANO ATTRIBUTI COME PANNING AUTOMAZIONIE MUTO
+PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 CANAL 1)
+SCEGLIERE **“ASSEGNAZIONE INGRESSO”**
+
+Synter cos’è e sua utilità
+
+Conclusione
+Tutti ipotizzano il non vedente solo come cieco totale senza considerare le possibilità di accesso anche agli ipovedenti gravi. Un caso in cui ciò è molto evidente è quello delle guide all’uso e installazione dei software presenti in YouTube, di cui si è parlato precedentemente; ma naturalmente sono innnumerevoli le situazioni.
+
+Query di ricerca – estendere la frase cosa serve la query cosa consente di ricercare.
+Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
+Spiegare software valutazione accessibilità, mettere screenshot che visualizza i suoi risultati.
+
+
+

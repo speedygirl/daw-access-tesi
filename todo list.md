@@ -34,12 +34,19 @@
     - [ ] Testo random, riferimento: "frequenza con cui i dati"
     - [ ] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
     - [ ] Completare con risposta, riferimento: "(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)"
+
+- [ ] Sistemare altre sezioni
     - [ ] Includere non includere, riferimento: "Impostazioni griglia (grid) FACOLTATIVO"
     - [ ] Completare con risposta, riferimento: "(inserisco qui il concetto di  playback engine? V pro tools ale)"
     - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIER PLAYBACK ENGINE"
     - [ ] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a dcasalino"
     - [ ] Sistemare testo random, sezione "AUDIO TRACK" fino a 16 righe dopo
-    - [ ] Rifare foto come screenshot
+    - [ ] Completare, riferimento: "come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE"
+    - [ ] Modificare, riferimento: "PROCEDURA ASSOCIARE SCHEDA HARDWARE"
+    - [ ] Aggiungere screenshot, riferimento: "interfaccia di cubase e la treevew della GUI"
+    - [ ] Modificare, riferimento: "ASSOCIATO ALLA TRACCIA SELEZIONATA"
+  
+- [ ] Rifare foto come screenshot
   
 ## Linee guida markdown
   - Le cose evidenziate in giallo sono marcate con il doppio asterisco \*\*

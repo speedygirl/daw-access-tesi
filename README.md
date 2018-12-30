@@ -10,25 +10,25 @@ Questo repository contiene il sorgente della mia tesi di laurea in musicologia, 
     - [Parte 1](./Parte%201.md) - Produzione Audio e Tecnologie (Strumenti software per la produzione audio)
     - 
         1. Cos'è la produzione audio e com'è nata
-            - Breve storia
-            - Situazione attuale
-            - Ruolo tuttofare (Musicista\Produttore)
-            - Filiera della produzione
+            1. Breve storia
+            2. Situazione attuale
+            3. Ruolo tuttofare (Musicista\Produttore)
+            4. Filiera della produzione
   
 
         2. Cenni storici sulle tecnologie di produzione audio
-            -  Supporti di registrazione\riproduzione
-            -  Magnetofono
-            -  Grammofono
-            -  Vinili
-            -  Audiocassette
-            -  CD
+            1. Supporti di registrazione\riproduzione
+            2. Magnetofono
+            3. Grammofono
+            4. Vinili
+            5. Audiocassette
+            6. CD
   
 
         3. Definizione di Digital Audio Workstation (DAW) con approfondimenti
         4. Cos'è il MIDI
-            - Storia
-            - Specifiche [tecniche](https://www.midi.org/)  
+            1. Storia
+            2. Specifiche [tecniche](https://www.midi.org/)  
 
 
     - [Parte 2](./Parte%202.md) - Elementi di accessibilità nel mondo del software

@@ -6,7 +6,7 @@
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 “Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale”.
 “Il risultato di tale operazione, costituito dall’unione di tracce rielaborate, consiste nella presentazione “di emozioni, idee creative e performance”.
-[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski]()
+[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 Nel manuale ”Producers handbook” 2 edizione, l’autore Bobby Owsinski espone le seguenti periodizzazioni e teorie.
 Esistono differenti categorizzazioni di produttori musicali: gli attivi, i passivi e gli ibridi. Naturalmente si tratta di definizioni convenzionali che servono a titolo orientativo  messe continuamente in discussione dalla pratica.
 I produttori attivi sono coinvolti in tutte le decisioni sia creative sia finanziarie; se però eccedono troppo in questa direzione, rischiano di perdere la visione globale del progetto ( ad esempio il caso di Georg Martin, di cui si parlerà più avanti).
@@ -21,7 +21,8 @@ A questo proposito va ricordato che ogni genere musicale necessita di un mixaggi
 Le operazioni di mixaggio possono essere compiute solo in studio. 
 Nelle esecuzioni dal vivo invece, non è possibile un rimaneggiamento del materiale a causa delle condizioni ambientali che impongono l’uso di attrezzature più economiche, indi meno fedeli, che causano una bassa definizione in frequenza del suono. Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza).
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
-Sviluppo cronologico della figura del produttore
+
+### Sviluppo cronologico della figura del produttore
 Sul piano cronologico possono essere, per quanto riguarda la professione del produttore, operate tre distinzioni. Si parla infatti di: early label era, mature music era, indipendent era.
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
 Questo lasso temporale è così ampio a causa dell’insufficienza dei mezzi di registrazione.
@@ -37,7 +38,7 @@ Le etichette discografiche avvertirono una minaccia significativa nell’acquisi
 E’ per questa ragione che l‘assunzione del produttore divenne a carico dell’artista: i rapporti tra l’uno e l’altro si modificarono , ed il produttore divenne  una sorta di consulente, “psicologo”.
 II ruolo creativo del produttore acquisì una maggiore preponderanza.
 
-Contemporanea
+#### Contemporanea
 Nel corso del tempo, come si è visto, il ruolo del produttore ha subito notevolit modifiche, anche e soprattutto grazie alle nuove tecnologie. Nonostante tutto però i produttori ancora oggi devono svolgere una molteplicità di funzioni; il produttore infatti è contemporaneamente: un direttore creativo (ha la visione complessiva del lavoro e deve mantenere l’armonia del processo creativo); svolge una funzione di intermediario tra le pressioni esterne e gli artisti durante la fase di registrazione; è il responsabile del budget (si occupa dei contratti e amministra le finanze, stabilisce prezzi e ruoli di ogni componente); è un casting director e un project manager.
 Il processo di produzione si compone di una serie di fasi.
 La prima è la cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione.  Il produttore spesso entra già in questa fase, che include il progetto di scrittura e arrangiamento della canzone, senza avere un ruolo attivo ma piuttosto quello di supporto, consigliere e critico. Egli propone suggerimenti relativi alle modifiche che riguardano l’arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
@@ -46,7 +47,7 @@ Vi è poi la fase, denominata post produzione, che coincide in genere con il mix
 La produzione di un brano implica l’impiego di una serie di attrezzature per l’acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste apparecchiature sono in genere elettroniche e/o meccaniche e sono tutte collocate all’’interno dello studio di registrazione.
 I brani realizzati dal produttore possono essere creati interamente all’interno dello studio.
 In passato le apparecchiature potevano essere di tipo sia elettronico sia meccanico mentre oggi vi è solo una distinzione tra hardware e software. Il fulcro dello studio odierno è la DAW e cioè un’apparecchiatura digitale usata dal produttore per svolgere sull’audio una serie di complesse operazioni. Essa può essere in DAP (Ditigal Audio Player), termine che fa riferimento al computer che fa da sequencer. (già trovata definizione, inserirla).
-https://www.lifewire.com/what-is-a-digital-audio-player-2438545
+[What is a digital audio player](https://www.lifewire.com/what-is-a-digital-audio-player-2438545)
 COL TERMINE DAP SI DEFINISCE QUALUNQUE TIPO DI DEVICE PER PROCESSARE SEGNALI AUDIO “PLAYBACK” IN SEGNALE DIGITALE, CHE PUÒ ESSERE MUNITO DI SCHERMO, A BASSA RISOLUZIONE, MA PUÒ ANCHE NON AVERLO. È IN GRADO SOLO DI DARE, IN OUTPUT, DI TESTO E GRAFICA DI BASE.
  Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in diversi formati: VSST, Direct X, RTAS, TDM.
 Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, di cui si tratterà di seguito, e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (imput/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un’elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
@@ -57,12 +58,12 @@ Tali strumentazioni permettono anche una produzione di registrazioni live ad un 
 
  
 
-Da Andrea Fenocchi
-2	
+### Da Andrea Fenocchi
+
 La produzione audio: cos’è e come si è sviluppata nel tempo
 NB per interlinea far riferimento a bozza introduzione 1.5 allineato a sinistra
-Definizione
-DEFINIZIONE DI PRODUZIONE AUDIO
+
+### DEFINIZIONE DI PRODUZIONE AUDIO
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 “Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale”.
 “Il risultato di tale operazione, costituito dall’unione di tracce rielaborate, consiste nella presentazione “di emozioni, idee creative e performance”.
@@ -91,7 +92,7 @@ L’avvio del terzo periodo è segnato invece da una sorta di ribellione: la dec
 Alla ricerca di un’autonomia dalle etichette discografiche non erano estranee motivazioni di ordine economico: se in un primo momento erano semplicemente salariati dalle etichette, più tardi i proventi gli derivavano dagli introiti derivanti dall’artista prescelto.
 Le etichette discografiche avvertirono una minaccia significativa nell’acquisita autonomia dei produttori: è per questa ragione che l‘assunzione del produttore divenne a carico dell’artista, così i rapporti tra l’uno e l’altro si modificarono, il produttore divenne infatti anche una sorta di consulente, “psicologo”, il ruolo creativo del produttore acquisì una maggiore preponderanza.
 
-Contemporanea
+### Contemporanea
 Nel corso del tempo, come si è visto, il ruolo del produttore ha subito ampie modifiche, anche e soprattutto grazie alle nuove tecnologie. Nonostante tutto però i produttori ancora oggi devono svolgere una molteplicità di funzioni; il produttore infatti è contemporaneamente: un direttore creativo (ha la visione complessiva del lavoro e deve mantenere l’armonia del processo creativo); svolge una funzione di intermediario tra le pressioni esterne e gli artisti durante la fase di registrazione; è il responsabile del budget (si occupa dei contratti e amministra le finanze, stabilisce prezzi e ruoli di ogni componente); è un casting director e un project manager.
 Il processo di produzione si compone di una serie di fasi.
 La prima è la cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione.  Il produttore spesso entra già in questa fase, che include il progetto di scrittura e arrangiamento della canzone, senza avere un ruolo attivo ma piuttosto quello di supporto, consigliere e critico. Egli propone suggerimenti relativi alle modifiche che riguardano l’arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.

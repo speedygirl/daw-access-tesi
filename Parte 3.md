@@ -302,7 +302,7 @@ Accessibility notifications aggiornano VoiceOver con quanto avviene nell’app. 
 
 (Tradotto da me)
 
-Cubase per Mac
+### Cubase per Mac
 
 Per eseguire i test si è provato a cambiare le impostazioni di VoiceOver, modificando i parametri sempre nello stesso ordine:
 interagisci con tasto tab” e cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
@@ -410,6 +410,5 @@ Tutti ipotizzano il non vedente solo come cieco totale senza considerare le poss
 Query di ricerca – estendere la frase cosa serve la query cosa consente di ricercare.
 Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
 Spiegare software valutazione accessibilità, mettere screenshot che visualizza i suoi risultati.
-
 
 

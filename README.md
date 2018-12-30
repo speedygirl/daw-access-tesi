@@ -5,7 +5,7 @@ Questo repository contiene il sorgente della mia tesi di laurea in musicologia, 
 
 ## Struttura
 - Images contiene tutte le immagini che vengono referenziate dai file .md
-- [todo list](./todo%20list.md) sono appunti personali sul testo
+- [todo list](./Todo.md) sono appunti personali sul testo
 - I file Parte x.md sono le varie sezioni della tesi
     - [Parte 1](./Parte%201.md) - Produzione Audio e Tecnologie (Strumenti software per la produzione audio)
     - 

@@ -1,20 +1,20 @@
 ## Analisi di accessibilità dei programmi
 ### Presupposti
-In questo lavoro si analizzano Reaper della Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione e anche nelle precedenti, fanno riferimento a queste versioni, se non diversamente indicato.
+In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione e anche nelle precedenti, fanno riferimento a queste versioni, se non diversamente indicato.
 Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 Se in una prima fase il lavoro si proponeva il limitarsi esclusivamente a Windows, si è poi preferito testare i programmi su entrambe le piattaforme per fornire un quadro più completo della situazione e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso; nelle modalità di ricevere i feedback; nell’ubicazione dei pulsanti nella GUI o nei menù.
 
 ### Perché testare con NVDA
 
-Si è scelto di usare la sintesi vocale NVDA perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
-è risultata molto efficace nella fase di testing dei programmi in quanto mi ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di click con entrambi i tasti, o di scrool con l’apposita rotella . 
+Si è scelto di usare la sintesi vocale NVDA (Non Visual Desktop Access) perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
+è risultata molto efficace nella fase di testing dei programmi in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di click con entrambi i tasti, o di scrool con l’apposita rotella. 
 Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle operazioni o si riavvia in automatico (ossia senza specifico intervento dell’utente)
 
 ### Installazione dei programmi
 #### Reaper versione 5.95 per Windows
 Il programma è progettato sia per il sistema operativo Windows che per Mac
-In Windows l’installazione di Reaper è molto accessibile in quando segue le procedure standard: la totalità dei contenuti delle varie finestre sono sono raggiungibili usando i tasti TAB e le frecce e la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
-A sunto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
+In Windows l’installazione di Reaper è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
+Aspetto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
 
 #### Reaper 5.921 per Mac
 <!-- da fare --> 
@@ -27,7 +27,7 @@ A sunto a suo favore è la facilità di gestione della pagina web da cui scarica
 -->
 
 ### Plug in
-All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità, scaricabili ai seguenti link, che però sono in grado di risolvere la gran parte dei problemi, ma non la totalità.
+All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità, scaricabili ai seguenti link, che sono  in grado di risolvere la gran parte dei problemi, ma non la totalità.
 
 [Download SWS Extension](http://www.sws-extension.org/)
 [Cockos Inc] (https://www.cockos.com/index.php)
@@ -35,15 +35,15 @@ All’utente non vedente non è sufficiente solamente installare il programma ma
 
 ### Metodo di analisi
 Per l’analisi si è proceduto manualmente testando ogni singolo pulsante, ogni singola feature; basandosi sul confronto delle indicazioni riportate nella guida https://osara.reaperaccessibility.com/; la community di sviluppatori https://github.com/jcsteh/osara e dalla documentazione riportata sul sito dell’azienda produttrice di Reaper Cockos inc; la quale talvolta risulta inaccessibile al non vedente. Vi sono poi tanti materiali in YouTube, ma purtroppo solo rivolti ai normodotati; nonostante ciò si è potuto ricorrere al canale di Garth Humphreys https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow;
-che è stato un fondamentale apporto non solo per quanto riguarda Mac, ma anche per Windows in quanto, provando, ho riscontrato la presenza di shortcut corrispondenti, ossia una corrispondenza tra la mappatura della keystroke nei due sistemi. Ad esempio quando in Windows la shortcut richiede il tasto start, in Mac richiede Mac+Control quando in Windows si usa Control in Mac si usa CMD; quando in Windows si usa Alt in Mac si usa Option; mentre Shift è uguale in entrambi.
+che è stato un fondamentale apporto non solo per quanto riguarda Macil sistema operativo , ma anche per Windows in quanto, provando, ho riscontrato la presenza di shortcut corrispondenti, ossia una corrispondenza tra la mappatura della keystroke nei due sistemi. Ad esempio quando in Windows la shortcut richiede il tasto start, in Mac richiede Mac+Control quando in Windows si usa Control in Mac si usa CMD; quando in Windows si usa Alt in Mac si usa Option; mentre Shift è uguale in entrambi.
 
-Si ricorda che alcune operazioni hanno effetti diversi secondo il focus ossia la medesima shortcut, se eseguita in un dato contesto, ha un effetto, che varia, se il focus è spostato altrove.
+Si ricorda che alcune operazioni hanno effetti diversi secondo il contesto in cui vengono eseguite e quindi dal posizionamento del  il focus. Ciò significa che  la medesima shortcut, se eseguita in un dato contesto, ha un effetto, che varia, se il focus è spostato altrove.
 
-In una fase iniziale si è provveduto a fare uno studio generico sulla GUI, per avere un’idea spaziale di dove fossero collocati gli elementi, usando il mouse.
+In una fase iniziale si è provveduto a fare uno studio generico sulla GUI (Graphical User Interface), per avere un’idea spaziale sul collocamento degli elementi, usando il mouse.
 
-Successivamente si è provveduto a esplorare nuovamente usando i tasti di navigazione, in ambiente Windows usando il tasto TAB e, in particolari finestre il tasto F6 per passare da un riquadro a un altro (dalla tree view all’elenco degli item).
+Successivamente si è provveduto a esplorarla nuovamente usando i tasti di navigazione: in ambiente Windows usando il tasto TAB (per navigare tra i controlli)e, in particolari tipologie finestre il tasto F6 per passare da un riquadro a un altro (dalla tree view all’elenco degli item).
 
-Nella terza fase è stato svolto uno studio sulle guide d’uso, avvalendosi, come già precisato, di più fonti in quanto nelle linee guida all’uso di questi software non è stata posta sufficiente attenzione al non vedente, cosa che ho riscontrato anche nelle risorse video. Ad esempio in YouTube si trovano decine di video che spiegano comandi in cui fondono imput da tastiera sommati a imput del mouse, e. troppo pochi specifici per i non vedenti. Sarebbe auspicabile trovare modalità di esecuzione dei comandi che vadano incontro alle esigenze di tutti.
+Nella terza fase si è svolto uno studio sulle guide d’uso, avvalendosi, come già precisato, di più fonti in quanto nelle linee guida all’uso di questi software non è stata posta sufficiente attenzione al non vedente, cosariscontrata anche nelle risorse video. Ad esempio in YouTube si trovano decine di video che spiegano comandi in cui fondono imput da tastiera sommati a imput del mouse, e. troppo pochi specifici per i non vedenti. Sarebbe auspicabile trovare modalità di esecuzione dei comandi che vadano incontro alle esigenze di tutti.
 
 Inoltre quelle poche risorse esistenti, rivolte specificatamente ai non vedenti, non tengono conto delle esigenze degli ipovedenti o degli ipovedenti gravi, in quanto danno un riferimento solo uditivo con la voce fuori campo, senza tener conto di un riscontro visivo (https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow).
 

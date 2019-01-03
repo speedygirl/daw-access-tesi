@@ -3,18 +3,27 @@
 #### 1.1 La produzione audio: cos’è e come si è sviluppata nel tempo
 
 <!-- DEFINIZIONE DI PRODUZIONE AUDIO -->
+La produzione audio è un processo di rielaborazione delle tracce ed è composto di quattro fasi: registrazione, editing, produzione mastering, postproduzione.
+La fase di registrazione può avvenire in presa diretta, osssia dal vivo, oppure in studio. La seconda permette una maggior qualità e più ampie possibilità di ritocchi sul materiale audio.
+La fase di editing durante la quale si modificano porzioni delle tracce. 
+Il mastering e produzione durante la quale si livellano le tracce , decidendo la frequenza di campionamento in base al supporto che si decide di utilizzare, si sceglie il "volume" generale dell'tenendo conto delle relazioni tra le varie tracce, le pause che devono intercorrere tra la fine del'una e l'inizio dell'altra.
+Infine la post produzione è la fase in cui si rivversa il materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito.
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 “Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale”.
 “Il risultato di tale operazione, costituito dall’unione di tracce rielaborate, consiste nella presentazione “di emozioni, idee creative e performance”.
 [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 Nel manuale ”Producers handbook” 2 edizione, l’autore Bobby Owsinski espone le seguenti periodizzazioni e teorie.
-Esistono differenti categorizzazioni di produttori musicali: gli attivi, i passivi e gli ibridi. Naturalmente si tratta di definizioni convenzionali che servono a titolo orientativo  messe continuamente in discussione dalla pratica.
-I produttori attivi sono coinvolti in tutte le decisioni sia creative sia finanziarie; se però eccedono troppo in questa direzione, rischiano di perdere la visione globale del progetto ( ad esempio il caso di Georg Martin, di cui si parlerà più avanti).
+Esistono differenti categorizzazioni di produttori musicali: gli attivi, i passivi e gli ibridi.
+Naturalmente si tratta di definizioni convenzionali che servono a titolo orientativo messe continuamente in discussione dalla pratica.
+I produttori attivi sono coinvolti in tutte le decisioni sia creative sia finanziarie; se però eccedono troppo in questa direzione, rischiano di perdere
+la visione globale del progetto (ad esempio il caso di Georg Martin, di cui si parlerà più avanti).
 Passivi sono invece coloro che delegano le decisioni pratiche contingenti ad altre figure professionali e intervengono solo in caso di problemi o necessità.
-I produttori ibridi, invece, appartengono a una categoria intermedia rispetto alle precedenti, dialogano con l’artista principale, ma spesso non si occupano degli additional musicians; creano le tracce ma non partecipano alla parte tecnica di scelta delle tracce e dei musicisti, limitandosi alla realizzazione del confezionamento finale del prodotto.
-La qualità del suono ha una ripercussione significativa sul piano commerciale ed è tenuto ,allora come oggi , in grande considerazione. L’evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti , cercando di raggiungere una sempre maggiore fedeltà. 
+I produttori ibridi, invece, appartengono a una categoria intermedia rispetto alle precedenti, dialogano con l’artista principale, ma spesso non si occupano 
+degli additional musicians; creano le tracce ma non partecipano alla parte tecnica di scelta delle tracce e dei musicisti, limitandosi alla realizzazione 
+del confezionamento finale del prodotto.
+La qualità del suono ha una ripercussione significativa sul piano commerciale ed è tenuto, allora come oggi, in grande considerazione. L’evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, cercando di raggiungere una sempre maggiore fedeltà. 
 Questo aspetto può essere considerato uno dei fattori più rilevanti del minor successo della cassetta rispetto al Compact Disk (CD).
-Per il motivo sopra esposto quando viene realizzato un buon mix, il successo commerciale del brano è particolarmente favorito, attraverso sperimentazione  e la ricerca di nuovi effetti sonori.  
+Per il motivo sopra esposto quando viene realizzato un buon mix, il successo commerciale del brano è particolarmente favorito, attraverso sperimentazione e la ricerca di nuovi effetti sonori.  
 Per contro un prodotto qualitativamente notevole può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
 In ogni caso il sound engenering non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un’influenza molto rilevante sugli effetti drammatici e emotivi del prodotto finale  per l’ascoltatore.
 A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente “ventaglio di emozioni”.

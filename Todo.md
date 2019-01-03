@@ -22,7 +22,7 @@
     - Domande: [Consultato 9 novembre 2018, Copyright © 2018 American Foundation for the Blind](http://www.afb.org/info/assistive-technology/speech-systems/35)
     - [Browse Speech Synthesizer Products](http://www.afb.org/info/assistive-technology/speech-systems/ProdBrowseCatResults.asp?CatID=50) 
     - [Browse Personal Digital Assistants with Speech Products](http://www.afb.org/info/assistive-technology/speech-systems/ProdBrowseCatResults.asp?CatID=48)
-
+- [ ] Reaper per Mac riferimento: Cmd+Shift+Spazio verificare in mac provando manualmente cosa fa questo comando e cosa VoiceOver vocalizza
 - [ ] Il tool per testare l’accessibilità usato dai 2 del video microsoft è da loro chiamato semplicemente “Inspect” e dimostrano come si usa  da 1/3 del video in avanti.
     ### Video [Consultato 13 novembre 2018, Caricato il 17 maggio 2017](https://www.youtube.com/watch?v=6b0K2883rXA)
 

@@ -62,3 +62,33 @@ In questo testo c'è una <mark>parola</mark> evidenziata
 per referenziare un file all'all'interno della cartella corrente è sufficente creare un link relativo al file 
 [titolo read me](./README.md)
 nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
+
+## Come utilizzare git da notepad++ (Terminale)
+1. Aprire terminale nella cartella corrente: Alt+F (Menu File), Apri Cartella File, Prompt Dei Comandi 
+2. Aggiungi tutti i file allo stages, digita: git add .
+3. Commenta, dove <message> è il testo del messaggio: git commit -am "<messaggio>"
+4. Invia le modifiche al server, digita: git push
+
+## Come utilizzare notepad++
+1. Switchare Tab metodo 1
+    1. Alt+E (Menu Finestra)
+    2. Selezionare con invio il file desierato
+2. Switchare tab metodo 2
+    1. CTRL+TAB N volte
+    2. Oppure mantieni premuto CTRL e scorri con le frecce su giù
+3. Per chiudere le singole tab ALT+W
+4. Per aprire la cartella corrente, Apri Cartella File, Esplora risorse
+5. Per andare alla riga tot, fare CTRL+G, scrivere il numero della riga e dare invio
+6. Trova nel file corrente CTRL+F
+7. Trova nei file aperti CTRL+SHIFT+F
+8. Sostituisci nel file corrente CTRL+H
+9. Trova successivo F3
+10. Trova precedente SHIFT+F3
+
+## Come utilizzare git da VS CODE
+1. Spallare VS CODE, per spallare VS code bisogna riavviare il programma
+2. Aprire ricerca comandi utilizzando: CTRL+SHIFT+P
+3. Cercare la voce "PREPARA TUTTE LE MODIFICHE PER COMMIT"
+4. Se non compare la voce, eseguire punto 1
+5. Altrimenti eseguire
+6. Commentare cercando "COMMIT" nella ricerca comandi

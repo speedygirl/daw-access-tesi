@@ -39,7 +39,7 @@
     - [ ] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
     - [ ] Completare render: aggiungere a definizione Alessio quella con risposta, riferimento: "(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)"
 - [ ]inserire canale valter scarfia (iphone nella query di ricerca)
-- - [ ] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per ragguingere uno stesso risultato"
+- [ ] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per ragguingere uno stesso risultato"
 - [ ] Sistemare altre sezioni
     - [ ] Includere non includere, riferimento: "Impostazioni griglia (grid) FACOLTATIVO"
     - [ ] Completare con risposta, riferimento: "(inserisco qui il concetto di  playback engine? V pro tools ale)"
@@ -60,6 +60,9 @@
 ## modifiche da fare su [Ale](./Ale.md)
 - [ ] paragrafo sul controller esterno inserire esempi per i primi 2 tipi d controller
 - [ ]   
+
+## Patch parte 1
+- [ ] Controllare specifiche tecniche midi da questo [Link](https://en.wikipedia.org/wiki/MIDI#Technical_specifications)
 
 ## Linee guida markdown
   - Le cose evidenziate in giallo sono marcate con il doppio asterisco \*\*

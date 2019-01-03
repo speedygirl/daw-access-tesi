@@ -84,6 +84,7 @@ nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
 8. Sostituisci nel file corrente CTRL+H
 9. Trova successivo F3
 10. Trova precedente SHIFT+F3
+11. Scorrere le sezioni da vs code, CTRL+SHIFT+O
 
 ## Come utilizzare git da VS CODE
 1. Spallare VS CODE, per spallare VS code bisogna riavviare il programma

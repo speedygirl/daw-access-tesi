@@ -88,8 +88,10 @@ nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
 
 ## Come utilizzare git da VS CODE
 1. Spallare VS CODE, per spallare VS code bisogna riavviare il programma
-2. Aprire ricerca comandi utilizzando: CTRL+SHIFT+P
-3. Cercare la voce "PREPARA TUTTE LE MODIFICHE PER COMMIT"
-4. Se non compare la voce, eseguire punto 1
-5. Altrimenti eseguire
-6. Commentare cercando "COMMIT" nella ricerca comandi
+2. Salvare tutte le eventuali modifiche
+3. Aprire ricerca comandi utilizzando: CTRL+SHIFT+P
+4. Cercare la voce "PREPARA TUTTE LE MODIFICHE PER COMMIT"
+5. Se non compare la voce, eseguire punto 1
+6. Altrimenti eseguire
+7. Commentare cercando "COMMIT" nella ricerca comandi
+8. pushare digitando in query "git push"

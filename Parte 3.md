@@ -5,19 +5,11 @@ Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 Se in una prima fase il lavoro si proponeva il limitarsi esclusivamente a Windows, si è poi preferito testare i programmi su entrambe le piattaforme per fornire un quadro più completo della situazione e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso; nelle modalità di ricevere i feedback; nell’ubicazione dei pulsanti nella GUI o nei menù.
 
 ### Perché testare con NVDA
-
-Si è scelto di usare la sintesi vocale NVDA (Non Visual Desktop Access) perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
+Si è scelto di usare la sintesi vocale NVDA (NonVisual Desktop Access) perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
 è risultata molto efficace nella fase di testing dei programmi in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di click con entrambi i tasti, o di scrool con l’apposita rotella. 
 Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle operazioni o si riavvia in automatico (ossia senza specifico intervento dell’utente)
 
 ### Installazione dei programmi
-#### Reaper versione 5.95 per Windows
-Il programma è progettato sia per il sistema operativo Windows che per Mac
-In Windows l’installazione di Reaper è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
-Aspetto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
-
-#### Reaper 5.921 per Mac
-<!-- da fare --> 
 
 
 #### Riferimenti
@@ -34,29 +26,32 @@ All’utente non vedente non è sufficiente solamente installare il programma ma
 
 
 ### Metodo di analisi
-Per l’analisi si è proceduto manualmente testando ogni singolo pulsante, ogni singola feature; basandosi sul confronto delle indicazioni riportate nella guida https://osara.reaperaccessibility.com/; la community di sviluppatori https://github.com/jcsteh/osara e dalla documentazione riportata sul sito dell’azienda produttrice di Reaper Cockos inc; la quale talvolta risulta inaccessibile al non vedente. Vi sono poi tanti materiali in YouTube, ma purtroppo solo rivolti ai normodotati; nonostante ciò si è potuto ricorrere al canale di Garth Humphreys https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow;
-che è stato un fondamentale apporto non solo per quanto riguarda Macil sistema operativo , ma anche per Windows in quanto, provando, ho riscontrato la presenza di shortcut corrispondenti, ossia una corrispondenza tra la mappatura della keystroke nei due sistemi. Ad esempio quando in Windows la shortcut richiede il tasto start, in Mac richiede Mac+Control quando in Windows si usa Control in Mac si usa CMD; quando in Windows si usa Alt in Mac si usa Option; mentre Shift è uguale in entrambi.
+Per l’analisi si è proceduto manualmente testando ogni singolo pulsante, ogni singola feature; basandosi sul confronto delle indicazioni riportate nella guida [^https://osara.reaperaccessibility.com/]; la community di sviluppatori [^https://github.com/jcsteh/osara] e dalla documentazione riportata sul sito dell’azienda produttrice di Reaper Cockos inc; la quale talvolta risulta inaccessibile al non vedente. Vi sono poi tanti materiali in YouTube, ma purtroppo solo rivolti ai normodotati in quanto indicano solo procedure via mouse basandosi su spiegazioni che prevedono esclusivamente l'uso della vista. Nonostante ciò si è potuto ricorrere al canale di Garth Humphreys [^https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow];
+che è stato un fondamentale apporto non solo per quanto riguarda il sistema operativo Mac, ma anche per Windows in quanto, provando, ho riscontrato la presenza di shortcut similari, ossia una corrispondenza tra la mappatura della keystroke nei due sistemi. Ad esempio quando in Windows la shortcut richiede il tasto Start, in Mac richiede Mac+Control; quando in Windows si usa Control in Mac si usa CMD; quando in Windows si usa Alt in Mac si usa Option; mentre Shift è uguale in entrambi.
+Si ricorda che alcune operazioni hanno effetti diversi secondo il contesto in cui vengono eseguite e quindi dal posizionamento del focus. Ciò significa che la medesima shortcut, se eseguita in un dato contesto, ha un effetto, che varia, se il focus è spostato altrove.
 
-Si ricorda che alcune operazioni hanno effetti diversi secondo il contesto in cui vengono eseguite e quindi dal posizionamento del  il focus. Ciò significa che  la medesima shortcut, se eseguita in un dato contesto, ha un effetto, che varia, se il focus è spostato altrove.
+Durante la fase iniziale si è provveduto a fare uno studio generico sulla GUI (Graphical User Interface), per avere un’idea spaziale sul collocamento degli elementi, usando il mouse.
+Successivamente si è provveduto a esplorarla nuovamente usando i tasti di navigazione da tastiera: in ambiente Windows usando il tasto TAB (per navigare tra i controlli) e, in particolari tipologie di finestre il tasto F6 per passare da un riquadro a un altro (dalla tree view all’elenco degli items).
 
-In una fase iniziale si è provveduto a fare uno studio generico sulla GUI (Graphical User Interface), per avere un’idea spaziale sul collocamento degli elementi, usando il mouse.
+Nella terza fase si è svolto uno studio sulle guide d’uso, avvalendosi, come già precisato, di più fonti in quanto nelle linee guida all’uso di questi software non è stata posta sufficiente attenzione al non vedente, cosa che è stata riscontrata anche nelle risorse video. Ad esempio in YouTube si trovano decine di video che spiegano comandi in cui fondono imput da tastiera sommati a imput del mouse e troppo pochi specifici per i non vedenti.
+Sarebbe auspicabile trovare modalità di esecuzione dei comandi che vadano incontro alle esigenze di tutti.
 
-Successivamente si è provveduto a esplorarla nuovamente usando i tasti di navigazione: in ambiente Windows usando il tasto TAB (per navigare tra i controlli)e, in particolari tipologie finestre il tasto F6 per passare da un riquadro a un altro (dalla tree view all’elenco degli item).
-
-Nella terza fase si è svolto uno studio sulle guide d’uso, avvalendosi, come già precisato, di più fonti in quanto nelle linee guida all’uso di questi software non è stata posta sufficiente attenzione al non vedente, cosariscontrata anche nelle risorse video. Ad esempio in YouTube si trovano decine di video che spiegano comandi in cui fondono imput da tastiera sommati a imput del mouse, e. troppo pochi specifici per i non vedenti. Sarebbe auspicabile trovare modalità di esecuzione dei comandi che vadano incontro alle esigenze di tutti.
-
-Inoltre quelle poche risorse esistenti, rivolte specificatamente ai non vedenti, non tengono conto delle esigenze degli ipovedenti o degli ipovedenti gravi, in quanto danno un riferimento solo uditivo con la voce fuori campo, senza tener conto di un riscontro visivo (https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow).
+Inoltre quelle poche risorse esistenti, rivolte specificatamente ai non vedenti, non tengono conto delle esigenze degli ipovedenti o degli ipovedenti gravi, in quanto danno un riferimento solo uditivo con la voce fuori campo, senza tener conto di un riscontro visivo [^https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow].
 
 sarebbe opportuno, oltre al pregevole, dettagliato commento vocale, aggiungere a video l’esecuzione  in tempo reale dei comandi impiegando tutto lo schermo, o anche solo metà per lasciare spazio all’immagine del parlante. Ai fini di facilitare ulteriormente gli ipovedenti l’ideale sarebbe la prima ipotesi. 
-Nella porzione di schermo dedicata alle procedure è importante non tralasciare l’evidenziare in tempo reale gli elementi e i controlli usati con riquadri.  Un esempio virtuoso è il canale di Valter Scarfia () che, nello spiegare funzionalità in merito all’Iphone, applica quanto appena affermato.
+Nella porzione di schermo dedicata alle procedure è importante non tralasciare l’evidenziare in tempo reale gli elementi e i controlli di volta in volta usati con riquadri dai bordi spessi e con colori contrastanti rispetto allo sfondo. 
+Un esempio virtuoso è il canale di Valter Scarfia [] che, nello spiegare funzionalità in merito all’Iphone, applica quanto appena affermato.
 
-Sono state provate tutte le possibilità per raggiungere uno stesso risultato: -la via estesa sfruttando i men- e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
+    DOVE?
+Sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
 
-Dall’esplorazione della GUI si è subito “trovato” i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
+Dall’esplorazione della GUI si sono subito “trovati” i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
 sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
 
-Tali controlli non sono totalmente accessibili in quanto non viene annunciato che si tratta di un pulsante e l’azione che nvi si può eseguire come ad esempio scorrimento, clic, ma viene annunciato solo il nome
-Si è passato a analizzare la finestra “project settings” dove si può regolare i parametri generali, relativi all’intero progetto come la frequenza di campionamento ```(la frequenza con cui i dati, i campioni, vengono registrati e memorizzati METTERE UNA BUONA DEFINIZIONE DI CAMPIONAMENTO)```, i BPM(BIT PER SECOND) METTERE UNA BUONA DEFINIZIONE DI CAMPIONAMENTO) il metro )ossia METTERE UNA BUONA DEFINIZIONE DI CAMPIONAMENTO;e deccla finestra è accessibile nella sua totalità in quanto vengono enunciate, per ogni controllo, il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente.
+Tali controlli non sono totalmente accessibili in quanto non viene annunciato che si tratta di un pulsante e l’azione che nvi si può eseguire come ad esempio scorrimento, clic, ma viene annunciato solo il nome del controllo.
+Si è passato a analizzare la finestra “project settings” dove si può regolare i parametri generali, relativi all’intero progetto come la frequenza di campionamento, i BPM, impostare il metro del brano, i parametri contenuti in questa finestra sono accessibili nella loro  totalità in quanto vengono enunciate, per ogni controllo, il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente.
+Per maggiore chiarezza si riportano le definizioni relative a frequenza di campionamento, BPM e metro, basandomi sulla mia esperienza personale di musicista e sugli studi accadeici svolti.
+La frequenza di campionamento il numero di volte al secondo in cui i dati, i campioni, vengono registrati e memorizzati (lo standard impiegato per i CD è 44.100 Hz al secondo). I BPM (Beat Per Second) il numero di beat al minuto impiegati in musica per dare l'indicazione relativa alla velocità del metronomo. Il metro ossia la ricorsività degli accenti (le battute).  
 
 dal navigare, tramite TAB i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
 
@@ -80,8 +75,10 @@ Le operazioni che di solito vengono svolte a progetto terminato, come l’esport
 il salvataggio può esser del singolo progetto con  Control+S; di tutti i progetti )cui non è associata alcuna shortcut) salva come Alt+S, può esserne chiuso solo uno con Control+F4 o tutti Control+Shift+F4, è stata posta attenzione alla difficoltà mnemonica causata dalle shortcut perciò in questi casi sono state associate shortcut standard, comuni nella gran parte dei programmi, mentre, laddove possibile, n è stato usato  il criterio che richiama la prima lettera del nome del comando. 
 
 I comandi Salva, Salva come o Salva tutti i progetti aprono una finestra standard di Windows perciò non si ritiene utile soffermarvisi eoo.
-
-Il comando Render si richiama con Control+Alt+R e livellare tra loro tutte le singole tracce del mixer e di ottenere una buona qualità di compressione delle stesse. ```(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)```
+2019
+Il comando Render si richiama con Control+Alt+R e consente di livellare tra loro tutte le singole tracce del mixer e di ottenere una buona qualità di compressione delle stesse.
+il processo di rendering è la parte definitiva di composit dell'IDE (Integrated Development Envirement).
+ ```(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)```
 
 La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tuttel e altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
 Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche da di non vedenti.
@@ -91,9 +88,20 @@ Inserire gli effetti è possibile in due modi: o dal pulsante presente nel mixer
 ### ```Impostazioni griglia (grid) FACOLTATIVO```
 Impostazioni dei canali di ingresso e di uscita, spiegare che in cubase devi fare tuto manualmente mentre in Reaper è tutto automatizzato.
 
+#### Reaper versione 5.95 per Windows installazione
+Il programma è progettato sia per il sistema operativo Windows che per Mac
+In Windows l’installazione di Reaper è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
+Aspetto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
 
-### Reaper per Mac / (ultima versione)
+####Reaper per Mac OS X versione 5.921 installazione
+  [^ Tratto da https://reaperaccessibility.com/index.php/Chapter_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac       Consultato 2 gennaio 2019)]
+Per installare Reaper sul sistema operativo Mac è necessario aprire REAPER disk image (.dmg), per aprire questo file è necessario accettare le condizioni di  licenza del programma cliccando su "aconsento".
+Infine  trascinare l'icona di Reaper all'interno della cartella applicazioni.
+Il programma è scaricabile, sia per Windows, che per Mac, al seguente link ufficiale della softwarehouse:
+[^https://www.reaper.fm/download.php]
 
+
+#### Reaper 5.921 per Mac
 Per quanto riguarda le  procedure impiegate, i è operato come descritto sopra.
 
 Dapprima provando a raggiungere tutti i menù (sia quelli della barra superiore coi relativi sottomenù, sia i menù contestuali), i controlli,  (ad esempio quelli sulle tracce, menù contestuali aperti dai controlli stessi). Si è tentato inoltre di navigare all’interno delle finestre, che nel complesso sono più accessibili che in Windows.
@@ -137,6 +145,9 @@ dove inserire l’envelope ossia nella zona selezionata \\”time seleciton” n
 la finestra è navigabile ,  come qualunque tipo di finestra in mac, con Capslock+Freccia destra/sinistra
 per concludere cliccare sui pulsanti Generate o close sempre raggiungibili con frecce e attivare l’opzione dando Capslock+Spazio.
 
+Per avviare la registrazione è necessario premere la combinazione •	Cmd+r . Per inserire una nuova traccia premere •	Cmd+%, il cursore è di default posizionato all'interno del campo editazione dove digitare il nome da assegnare alla traccia appena creataa.
+è possibile anche importare dei file esterni, recuperandoli dal disco fisso, premendo la cmbinazione Cmd+I e sfogliando tra le cartelle o digitando il path nella query di ricerca.
+
 ### Pro Tools per Windows
 ### Pro Tools per Mac
 
@@ -159,8 +170,9 @@ In alternativa si può premere sul pulsante “add new memory location”
 La gestione del Mixer, al contrario di altre DAW precedentemente trattate, è accessibile ed è stato possibile fare sia un’analisi da tastiera che da mouse ma, sorprendentemente dalle aspettative, funziona di gran lunga meglio da tastiera che col mouse in quanto col mouse si verificano spesso dei delay tra quando posizioni il cursore sul pulsante equando la sintesi vocale reagisce.
 Da tastiera è possibile accedere a    tutti i controlli:
 
-Il mixer funziona a livello 5(stabilito nella tabella ache si troverà in appendice) : ogni controllo , ogni slider del mxier funziona, su ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
-
+Il mixer è caratterizzato da un alto livello di accessibilità: ogni controllo , ogni slider del mxier funziona, su ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
+  INSERIRE SCREENSHOT DEL MIXER
+Si elencano le componenti del mixer
 #### Audio Track
 
 ##### Send A/e
@@ -184,7 +196,7 @@ Db del volume (si entra con shift+capslock+freccia giù nello slider e poi si re
 
 Level meter
 
-Sotto le tracce si può inserire dei commenti e vo suggerisce questa possibilità.
+sotto le tracce si può inserire dei commenti e VoiceOver suggerisce questa possibilità.
 
 Finestra plugin time adjuster
 
@@ -192,17 +204,16 @@ Parameter regolabile dallo slider  VoiceOVerdice di quanto i decibel aumentano e
 
 I 4 slider: i 2 grigi e i due verdi non sono accessibili da tastiera: il focus non si ferma, li salta completamente tentato quindi di raggiungere i 4 slider col mouse ma senza successo alcuno. In generale tutta la finestra al mouse era poco reattiva, , il focus si spostava con un certo delay
 
-Anche la finestra dei Menù relativo alla traccia vo dice “contenuto vuoto, ti trovi in un menù item”. (è il menù con gli item multichannel plugin mono plugin) screenshot su telegram auri
+Anche la finestra dei Menù relativo alla traccia VoiceOver annuncia “contenuto vuoto, ti trovi in un menù item”. (è il menù con gli items multichannel plugin mono plugin) screenshot su telegram auri
 
 Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
 
 Nella “mix window” sono accessibili anche le sottofinestre e dei menù contestuali relativi ai controlli sopracitati.
-
-Sono inaccessibili, quasi o del tutto, solo alcuni plug in di cui quello in foto  un esempio.
+Sono inaccessibili, quasi o del tutto, solo alcuni plug in di cui quello in foto è un esempio.
 
 ![PRO TOOLS MOD DELAY III](./images/foto-pro-tools-mod-delay-iii.png)
 
-Elementi nella barra dei menù sono raggruppati, scorrendo con freccia destra e sinistra vo legge igruppi, entrando con Shift+Maiusc+Freccia giù si entra nel singolo dove poi si scorre con normale neavigazione comodo perché consente di sapere già cosa conterrà quall’area di elementi senza doverli scorrere uno ad uno.
+Gli elementi nella barra dei menù sono raggruppati, scorrendo con freccia destra e sinistra VoiceOver legge i gruppi, entrando con Shift+Maiusc+Freccia giù si entra nel singolo dove poi si scorre con i comandi da tastiera tipici della normale neavigazione; ciò risulta particolarmente comodo per un utente non vedenteperché consente di sapere già cosa conterrà quell’area di elementi senza doverli scorrere uno ad uno.
 In questa sezione è possibile raggiungere il mixer (sopra esposto) che è raggiungibile anche dal menù “window”; sempre dalla medesima sezione si raggiunge anche il pulsante per aggiungere il marker.
 
 #### Comandi editazione traccia
@@ -329,17 +340,8 @@ Il scegliere la strada dei menù ha portato a comprendere che quando si sposta i
 Si è quindi proceduto a aprire la finestra “Nuovo progetto”, dando invio sull’apposita icona. La GUI apertasi è risultata completamente inaccessibile in quanto la sintesi vocale non intercettava nulla (nessun pulsante, nessun controllo) quindi, dal suo punto di vista, era come se lo schermo fosse vuoto. Al contrario, l’unica sezione funzionante è quella dei menù presenti nella barra dei menù, e i sottomenù relativi a ognuno dei menù di grado superiore, perché esportano i metadati provenienti dal sistema operativo. Il cursore si spossta agevolmente negli items ma non suggerisce le shortcut e, qualunque altra finestra si tenti d’aprire, è completamente inutilizzabile.
 Tali menù, sottomenù, e quindi gli items in essi contenuti, sono scorribili usando le frecce o il tracking del mouse; VoiceOver pronuncia “entro menù”, poi ancora Vo vocalizza “progetto cubase cubase element trattino senza titolo”
 Il menù all’inizio non consente di selezionare la scheda hardware da associare al programma.
-Per associare la scheda hardware bisogna entrare nella finestra progetto e ```PROCEDURA ASSOCIARE SCHEDA HARDWARE```
-Procedura by ale (provata usando mac real time Mac 7.5):
-- Menù “periferiche” (dalla barra dei menù)
-- Voce “impostazioni periferiche”
-- Nodo della Tree view “Vst audio sistem (sulla sinistra)“
-- Come driver audio selezionare la scheda Focusrite Scarlett 2i2.
-- Pulsante “ok” per confermare
-
-Procedura da Bontempi in mail 17 dicembre 2018
-È necessario aprire il menù “Studio”, selezionare la voce “Configurazione dello studio”, VST Audio System. Accanto alla voce “Driver ASIO” è situata la tendina di selezione dei driver (e quindi della scheda audio).
-
+Per associare la scheda hardware bisogna entrare nella finestra progetto e aprire il menù “Studio”, selezionare la voce “Configurazione dello studio”, VST Audio System. Accanto alla voce “Driver ASIO” è situata la tendina di selezione dei driver (e quindi della scheda audio).
+Tale procedura è la medesima sia nel sistema operativo Windows che in Mac ed è peculiarità delle versioni successive alla 9,
 Cubase obbliga l’utente a impostare nei minimi dettagli i parametri relativi alla scheda, ai bus ‘uscita e entrata, cosa che in altri software di editing, come ad eesempio Reaper e Pro Tools analizzati in precedenza, vengono eseguite in automatico dal computer senza richiedere particolari abilità tecniche all’utente.
 Usando il mouse si è provato a eseguire le seguenti azioni, dato che tutte le possibilità offerte dalla modifica dei vari parametri d’impostazione della sintesi sonoo risultati vani.
 Si è sfruttato il tracking del mouse per raggiungere gli strumenti VST, ma nonostante questo accorgimento VoiceOver non fornisce alcun feedback.
@@ -377,9 +379,9 @@ Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, pr
 
 VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato..
 
-Modalità cursore continuo è una modalità di scorrimento che tiene premuto capsloc ma non cambia nulla a livello di elementi.
+Modalità cursore continuo è una modalità di scorrimento che tiene premuto Capsloc ma non cambia nulla a livello di elementi.
 
-Ignora etichette ridondanti optrebbe servire a
+Ignora etichette ridondanti potrebbe servire a
 1. evitare di dire pulsante (in tag c’è pulsante che fa tal azione” )
 2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
 
@@ -407,8 +409,6 @@ Synter cos’è e sua utilità
 Conclusione
 Tutti ipotizzano il non vedente solo come cieco totale senza considerare le possibilità di accesso anche agli ipovedenti gravi. Un caso in cui ciò è molto evidente è quello delle guide all’uso e installazione dei software presenti in YouTube, di cui si è parlato precedentemente; ma naturalmente sono innnumerevoli le situazioni.
 
-Query di ricerca – estendere la frase cosa serve la query cosa consente di ricercare.
-Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
-Spiegare software valutazione accessibilità, mettere screenshot che visualizza i suoi risultati.
+
 
 

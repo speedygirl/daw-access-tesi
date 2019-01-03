@@ -57,3 +57,8 @@ In questo testo c'è una <mark>parola</mark> evidenziata
 [//]: # (This may be the most platform independent comment)
 <!--- your comment goes here and here -->
 [//]: <> (This is also a comment.)
+
+## referenziare file
+per referenziare un file all'all'interno della cartella corrente è sufficente creare un link relativo al file 
+[titolo read me](./README.md)
+nb attenzione alle maiuscole all'interno del titolo del file da referenziare.

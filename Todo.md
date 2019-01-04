@@ -39,17 +39,20 @@
     - [ ] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
     - [ ] Completare render: aggiungere a definizione Alessio quella con risposta, riferimento: "(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)"
 - [ ]inserire canale valter scarfia (iphone nella query di ricerca)
-- [ ] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per ragguingere uno stesso risultato"
+- [x] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per raggiungere uno stesso risultato"
 - [ ] Sistemare altre sezioni
     - [ ] Includere non includere, riferimento: "Impostazioni griglia (grid) FACOLTATIVO"
     - [ ] Completare con risposta, riferimento: "(inserisco qui il concetto di  playback engine? V pro tools ale)"
     - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIER PLAYBACK ENGINE"
+	              per trovare la sezione usare il seguente testo: 
+	              in Pro Tools per Mac Riferimento: "Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale"
     - [ ] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a casalino"
     - [ ] Sistemare testo random, sezione "AUDIO TRAck- [ ]  fino a 16 righe dopo
     - [ ] la sezione "audio track" riguarda il mixer: vengono citati tutti gli elementi che lo compongono.
     - [ ] inserire screenshot del mixer (che esplichi questi elementi)
     - [ ] Completare, riferimento: "come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE"
-    - [x ] Modificare, riferimento: "PROCEDURA ASSOCIARE SCHEDA HARDWARE"    
+	
+    - [x] Modificare, riferimento: "PROCEDURA ASSOCIARE SCHEDA HARDWARE"    
     - [ ] bus ingresso uscita inserire procedura mac e windows per sistemare appunti grotta e scrivere paragrafo (già mandata mail a bontempi a riguardo)
     - [ ] Aggiungere screenshot, riferimento: "interfaccia di cubase e la treevew della GUI"
     - [ ] in appunti Grotta Modificare, riferimento: "ASSOCIATO ALLA TRACCIA SELEZIONATA"

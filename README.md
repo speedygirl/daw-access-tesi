@@ -80,3 +80,7 @@ Questo repository contiene il sorgente della mia tesi di laurea in musicologia, 
 
 - Cheatsheet markdown [help](./help.md)
 
+## Generazione del docx
+Per generare i file è sufficente scaricare pandoc a questo link:
+[Pandoc per windows installer](https://github-production-release-asset-2e65be.s3.amazonaws.com/571770/ca828d80-f227-11e8-8810-9f48211d036a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190105T192907Z&X-Amz-Expires=300&X-Amz-Signature=c3b2bba3db799e0693603ef5b945d04756084a2b73e606d0f628faa3aff15c35&X-Amz-SignedHeaders=host&actor_id=46250495&response-content-disposition=attachment%3B%20filename%3Dpandoc-2.5-windows-x86_64.msi&response-content-type=application%2Foctet-stream)
+Dopo l'installazione basterà avviare lo script generate.cmd

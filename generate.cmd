@@ -1,0 +1,7 @@
+pandoc -s ".\Parte 1.md" -o ".\generated\Parte 1.docx" 
+pandoc -s ".\Parte 2.md" -o ".\generated\Parte 2.docx" 
+pandoc -s ".\Parte 3.md" -o ".\generated\Parte 3.docx" 
+pandoc -s ".\todo.md" -o ".\generated\todo.docx" 
+pandoc -s ".\README.md" -o ".\generated\README.docx" 
+pandoc -s ".\Ale.md" -o ".\generated\Ale.docx" 
+pandoc -s ".\help.md" -o ".\generated\help.docx"

@@ -158,18 +158,19 @@ L’impostazione degli ingressi e delle uscite, a differenza delle precedenti op
 Per eseguire i test si è utilizzata una scheda Focusrite Scarlett 2i2.
 Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale, mentre con quella esterna gli eventi della DAW. ```(inserisco qui il concetto di  playback engine? V pro tools ale)```.
 RIPARTIRE D QUI E INSERIER PLAYBACK ENGINE 
-I controlli "Play", "Stop" e "Rewind", attivabili col tasto Spazio, sono raggiungibili coi consueti comandi di navigazione tipici del sistema operativo Mac e sono situati o sui pannelli relativi alle singole tracce o nella barra superiore. Tale barra è molto funzionale perché gli elementi sono raggruppati per funzionalità, quindi scorrendo con le frecce destra e sinistra si capisce come sono distribuiti i gruppi e con le rimanenti due si entra all’interno di ogni gruppo. Ciò rende più intuitiva la navigazione e Pro Tools è l’unico programma ad avere questa caratteristica.
-Con capslock+Freccia destra/sinistra si sposta il focus tra le tracce, VoiceOver annuncia il nome della traccia ma non da il riferimento spaziale di dove essa sia collocata, non dice ad esempio “1 di 5 tracce” cosa che aiuterebbe a orientarsi nel caso di un numero elevato di tracce. Da come è ideata la struttura della GUI si può intuire che è progettato per gestire un numero molto elevato di tracce, mi aspettavo ci fossero aiuti in questo senso anche sul versante accessibilità.
-```SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a dcasalino```    
+I controlli "Play", "Stop" e "Rewind", attivabili col tasto Spazio, sono raggiungibili coi consueti comandi di navigazione tipici del sistema operativo Mac e sono situati o sui pannelli relativi alle singole tracce o nella barra superiore. Tale barra è molto funzionale perché gli elementi ivi contenuti sono raggruppati per funzionalità, quindi scorrendo con le frecce destra e sinistra si capisce come sono distribuiti i gruppi e con le rimanenti due si entra all’interno di ogni gruppo. Ciò rende più intuitiva la navigazione e Pro Tools è l’unico programma, tra i tre analizzati, ad avere questa caratteristica.
+Con la combinazione di tasti Capslock+Freccia destra/sinistra si sposta il focus tra le tracce, VoiceOver annuncia il nome della traccia ma non fornisce il riferimento spaziale di dove essa sia collocata, non dice ad esempio “1 di 5 tracce”, cosa che aiuterebbe a orientarsi nel caso di un numero elevato di elementi.
+Da come è ideata la struttura della GUI si può intuire che il programma è progettato per gestire un numero molto elevato di tracce, pertanto ci si  aspettavo vi fossero agevolazioni in questo senso anche sul versante accessibilità.
+```SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a casalino```    
 
 #### NAVIGAZIONE DELLE TRACCE
 Per inserire i marker è necessario portare il cursore sul tasto “marker” e premere il tasto “+” ………………
-In alternativa si può premere sul pulsante “add new memory location”
+In alternativa si può premere sul pulsante “Add new memory location”
 
-La gestione del Mixer, al contrario di altre DAW precedentemente trattate, è accessibile ed è stato possibile fare sia un’analisi da tastiera che da mouse ma, sorprendentemente dalle aspettative, funziona di gran lunga meglio da tastiera che col mouse in quanto col mouse si verificano spesso dei delay tra quando posizioni il cursore sul pulsante equando la sintesi vocale reagisce.
-Da tastiera è possibile accedere a    tutti i controlli:
-
-Il mixer è caratterizzato da un alto livello di accessibilità: ogni controllo , ogni slider del mxier funziona, su ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
+La gestione del Mixer, al contrario di altre DAW precedentemente trattate, è accessibile. E' stato possibile effettuare sia un’analisi sia impiegando la tastiera che il mouse ma, sorprendentemente , a differenza delle altre DAW analizzate, funziona  assai meglio da tastiera che col mouse. Ciò accade in quanto usando mouse si verificano spesso dei delay tra quando si  posiziona il cursore sul pulsante e il momento in cui la sintesi vocale reagisce.
+Tramite la tastiera è possibile accedere a tutti i controlli, che verranno elencati e mostrati nello screenshot più innanzi.
+Il mixer è caratterizzato da un elevato livello di accessibilità: ogni controllo, ogni slider funziona ed è facilmente intercettabile; ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
+Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
   INSERIRE SCREENSHOT DEL MIXER
 Si elencano le componenti del mixer
 #### Audio Track
@@ -182,38 +183,36 @@ Si elencano le componenti del mixer
   - Output
   - Auto
   - Autoread
-
-“in/fuori da know” vocalizza voiceover: la rotella per regolare
-il pan è accessibile
+Anche la manopola per regolare il pan è accessibile, nonostante l'arrivare a selezionarla correttamente e interagirvi abbia richiesto più tentativi.
 
 Track input monitor
 Track record enable
 Solo
 mute
 
-Db del volume (si entra con shift+capslock+freccia giù nello slider e poi si regola il volume fader con frecce destra (alzare e sinistra per abbassare)
+La quantità di Db del volume si regola entrando co con la combinazione di tasti Shift+Capslock+Freccia giù, nello slider e poi si regola il volume fader usando le frecce: frecce destra per alzare e sinistra per abbassare.
 
 Level meter
 
 sotto le tracce si può inserire dei commenti e VoiceOver suggerisce questa possibilità.
 
-Finestra plugin time adjuster
-
-Parameter regolabile dallo slider  VoiceOVerdice di quanto i decibel aumentano e da sempre suggerimenti su come interagire o interrompere l’interazione con il cursore o con il pulsante.
-
-I 4 slider: i 2 grigi e i due verdi non sono accessibili da tastiera: il focus non si ferma, li salta completamente tentato quindi di raggiungere i 4 slider col mouse ma senza successo alcuno. In generale tutta la finestra al mouse era poco reattiva, , il focus si spostava con un certo delay
-
-Anche la finestra dei Menù relativo alla traccia VoiceOver annuncia “contenuto vuoto, ti trovi in un menù item”. (è il menù con gli items multichannel plugin mono plugin) screenshot su telegram auri
-
-Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
-
-Nella “mix window” sono accessibili anche le sottofinestre e dei menù contestuali relativi ai controlli sopracitati.
+All'interno della “Mix window” sono accessibili anche le sottofinestre e dei menù contestuali relativi ai controlli sopracitati.
 Sono inaccessibili, quasi o del tutto, solo alcuni plug in di cui quello in foto è un esempio.
 
 ![PRO TOOLS MOD DELAY III](./images/foto-pro-tools-mod-delay-iii.png)
 
+Finestra "Plugin time adjuster"
+
+La funzione "Parameter" è regolabile dallo slider  VoiceOVer dice di quanto i decibel aumentano e fornisce  sempre suggerimenti su come iniziare o intterrompere l’interazione con il cursore o con il pulsante.
+
+I 4 slider: i 2 grigi e i due verdi non sono accessibili da tastiera: il focus non vi si ferma, venegono ignorati. Si è tentato quindi di raggiungere i 4 slider usando il mouse, ma ancora una volta senza successo alcuno.
+In generale tutta la finestra al mouse è poco reattiva, il focus si sposta con un certo delay
+
+Anche il menù nel quale sono contenuti gli items "Multichannel plugin", "Mono channel plugin" finestra dei Menù relativo alla traccia VoiceOver annuncia “contenuto vuoto, ti trovi in un menù item”. 
+![Mac Pro Tools Multi channel Mono channel plug in](./images/mac-protools-mono-muti-channel-plug-in.jpg) 
+
 Gli elementi nella barra dei menù sono raggruppati, scorrendo con freccia destra e sinistra VoiceOver legge i gruppi, entrando con Shift+Maiusc+Freccia giù si entra nel singolo dove poi si scorre con i comandi da tastiera tipici della normale neavigazione; ciò risulta particolarmente comodo per un utente non vedenteperché consente di sapere già cosa conterrà quell’area di elementi senza doverli scorrere uno ad uno.
-In questa sezione è possibile raggiungere il mixer (sopra esposto) che è raggiungibile anche dal menù “window”; sempre dalla medesima sezione si raggiunge anche il pulsante per aggiungere il marker.
+Nella barra dei menù è possibile raggiungere il mixer (sopra esposto), che è però richiamabile anche dal menù “Window”; sempre dalla medesima sezione si raggiunge anche il pulsante per aggiungere il marker.
 
 #### Comandi editazione traccia
 

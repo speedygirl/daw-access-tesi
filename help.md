@@ -1,6 +1,13 @@
 # Pate Prima: Produzione Audio
 ## 1.1 Cos'è produzione audio ; breve storia; situazione attuale (ruolo tuttofare del musicista/producer: segue tutto il processo)
 
+### Test note 
+Questo testo contiene una nota [^1]
+
+[^1]: explain
+
+Questo testo contiene una nota ^[inline]
+
 ### Definizione
 #### Definizione di produzione audio
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.

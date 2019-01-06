@@ -1,6 +1,6 @@
-pandoc -s ".\Parte 1.md" -o ".\generated\Parte 1.docx" 
+pandoc ".\Parte 1.md" ".\metadata.yaml" -s -o ".\generated\Parte 1.docx" 
 pandoc -s ".\Parte 2.md" -o ".\generated\Parte 2.docx" 
-pandoc -s ".\Parte 3.md" -o ".\generated\Parte 3.docx" 
+pandoc -s ".\Parte 3.md" -V fontsize=13pt -o ".\generated\Parte 3.docx" 
 pandoc -s ".\todo.md" -o ".\generated\todo.docx" 
 pandoc -s ".\README.md" -o ".\generated\README.docx" 
 pandoc -s ".\Ale.md" -o ".\generated\Ale.docx" 

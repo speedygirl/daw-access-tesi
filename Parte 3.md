@@ -148,6 +148,21 @@ Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per in
 è possibile anche importare dei file esterni, recuperandoli dal disco fisso, premendo la cmbinazione Cmd+I e sfogliando tra le cartelle o digitando il path nella query di ricerca.
 
 ### Pro Tools per Windows
+Non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
+NVDA segnala solo la presenza di un campo editazione, mentre sposta dosi con F6 non avvengono cambiamenti e tentando con TAB pronuncia “dashboard”.
+L’unico modo quindi per raggiungere il progetto è editare nel campo editazione il nome.
+I controlli laterali “Open” e “Create” non vengono citati da NVDA, così come anche i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
+Finestra apertura progetto Screenshot 1
+
+Raggiungendo il menù “File” e selezionando “Open project” si è aperta il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create”, mentre la parte sinistra e i pulsanti “Create Session”, Cancel, “Open” sono del tutto irraggiungibili., Tale finestra non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
+Anche questo pannello è stato testato usando i comandi di navigazione propri di Windows: tasto TAB, Control+Tab, F&,
+Tentando innumerevoli combinazioni di tasti si è arrivati a scoprire la shortcut Control+Shift+O che ha permesso di emulare la funzione del tasto “Open” altrimenti irraggiungibile.
+finestra apertura nuovo progetto Screenshot 2
+
+Il menù “File” contiene le seguenti opzioni:
+menù Salva screenshot 3
+
+
 ### Pro Tools per Mac
 
 La finestra "impostazioni progetto" è accessibile nella sua totalità fatta eccezione per i pulsanti “upgrade Pro Tools” e “download plug in”.

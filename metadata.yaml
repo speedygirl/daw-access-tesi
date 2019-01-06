@@ -1,0 +1,23 @@
+title: Accessibilità del DIgital Audio Recording
+author:
+- name: Gemma Pedrini affiliation: Università di Pavia    
+- name: Pierluigi Bontempi (Relatore)
+- name: Alessandro Bratus (Co-Relatore)
+keywords: 
+    - Audio
+    - Accessibility
+    - Recordin
+    - Studio
+    - Tesi
+    - UniPivi
+date: \today{}
+margin: margin=10cm
+abstract: |
+    Dapprima si definisce il concetto di produzione audio, per poi analizzare come cambia il lavoro del produttore dalla metà degli anni '50 a oggi.
+    Si passano poi in rassegna le principali tecnologie utilizzate per la registrazione e la produzione audio dalle origini fino all'attualità (dal fonografo alla Digital Audio Workstation). Si definisce infine il concetto di MIDI dandone una panoramica storica e le principali specifiche tecniche.
+    Nella seconda parte la tesi affronta: il concetto di accessibilità e di usabilità, le legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo di siti web e applicazioni,  per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti.
+    Si confrontano tre software di editing musicale (Cubase, Reaper e Pro Tools) valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente finale disabile.
+    Le problematiche eventualmente riscontrate verranno segnalate alle software house: verrà chiesta la documentazione tecnica relativa, verranno intervistati i programmatori, si cercheranno gli errori di programmazione analizzando porzioni di codice.
+    Con il medesimo procedimento si accenna quanto è avvenuto nella progettazione e programmazione del principale screen reader open-source NVDA.
+    Lo scopo del lavoro è invitare sviluppatori degli screen reader e software house a meglio integrare i loro prodotti dando prevalenza all’efficacia del lavoro verso il destinatario piuttosto che delle logiche di mercato.
+    Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.

@@ -148,21 +148,22 @@ Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per in
 è possibile anche importare dei file esterni, recuperandoli dal disco fisso, premendo la cmbinazione Cmd+I e sfogliando tra le cartelle o digitando il path nella query di ricerca.
 
 ### Pro Tools per Windows
-Pro tools Windows osservazioni
-I commenti sono posti sopra le foto cui si riferiscono.
-Non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
-NVDA segnala solo la presenza di un campo editazione, mentre sposta dosi con F6 non avvengono cambiamenti e tentando con TAB pronuncia “dashboard”.
-L’unico modo quindi per raggiungere il progetto è editare nel campo editazione il nome.
-I controlli laterali “Open” e “Create” non vengono citati da NVDA, così come anche i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
+
+non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
+nVDA segnala solo la presenza di un campo editazione, mentre spostandosi con il tasto F6 non avvengono cambiamenti e tentando con  TAB la sintesi pronuncia “dashboard”.
+L’unico modo quindi per raggiungere il progetto desiderato è editarne il nome all'interno field.
+I controlli laterali “Open” e “Create” non vengono citati da NVDA e non è possibile spostarvi il focus mediante tastiera, così come avviene anche per i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
+L'unica modalità trovata per aprire il progeto è usando la shortcut "Control+Shift+O".
 
 ![Screenshot Tipo progetto](./images/windows-protools-1-tipo-progetto.png)
 
-Raggiungendo il menù “File” e selezionando “Open project” si è aperta il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create”, mentre la parte sinistra e i pulsanti “Create Session”, Cancel, “Open” sono del tutto irraggiungibili., Tale finestra non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
-Anche questo pannello è stato testato usando i comandi di navigazione propri di Windows: tasto TAB, Control+Tab, F&,
+Raggiungendo il menù “File” e selezionando “Open project” si è aperto il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create” dwlla parte sinistra, mentre la parte sinistra in basso e i pulsanti “Create Session”, Cancel, “Open” posti nella parte destra in basso sono del tutto irraggiungibili., Tale finestra, come quella precedentemente analizzata, non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
+Anche questo pannello, come il precedente, è stato testato usando i comandi di navigazione propri di Windows: tasto TAB, Control+Tab, F&,
 Tentando innumerevoli combinazioni di tasti si è arrivati a scoprire la shortcut Control+Shift+O che ha permesso di emulare la funzione del tasto “Open” altrimenti irraggiungibile.
 
 ![Screenshot Apertura progetto](./images/windows-protools-2-apertura-progetto.png)
 
+Essendo che sono basati sulle APIs del sistema operativo, tutti i menù della menù bar sono perfettamente fruibili.
 Il menù “File” contiene le seguenti opzioni:
 * Create New... (Ctrl+N)
 * Open Project... (Ctrl+O)
@@ -334,39 +335,43 @@ Il seguente raggruppamento di controlli è stato testato usando il tracking del 
 
 ![Screenshot Normal Loop QuickPunch](./images/windows-protools-14-normal-loop-quickpunch.png)
 
-Usando il tasto TAB si è raggiunta la sezione per rinominare. È sufficiente entrare nel campo editazione e digitare il testo, per confermare premere Invio. Non è quindi non è richiesta la pressione del tasto F2.
+Usando il tasto TAB si è raggiunta la sezione per rinominare le tracce. È sufficiente entrare nel campo editazione e digitare il testo, per confermare premere Invio. Non è quindi richiesta, come in altre DAW, la pressione del tasto F2.
 
 ![Screenshot Rinomina Traccia](./images/windows-protools-15-rinomina-traccia.png)
 
-Il menù contestuale relativo alla traccia consente di adoprare le seguenti funzioni, come si vede nello screenshot, ma si è deciso di soffermarsi sulla funzione “meter change”. Essa è raggiungibile selezionando la voce “Insert” e successivamente, dal suo sottomenù, “Meter”.
+Il menù contestuale relativo alla traccia consente di adoprare le seguenti funzioni, come si vede nello screenshot, ma si è deciso di soffermarsi sulla funzione “Meter change”. Essa è raggiungibile selezionando la voce “Insert” e successivamente, dal suo sottomenù, “Meter change”.
 
 ![Screenshot Menu Contestuale Traccia](./images/windows-protools-16-menu-contestuale-traccia.png)
 
-La funzionalità “Change meter” non è accessibile: i field sono focalizzabili ma non viene dato un feedback vocale quando ci si sposta tra l’uno e l’altro col tasto TAB e è anche impossibile raggiungere i pulsanti sottostanti.
+La funzionalità “Meter change” non è accessibile: i field sono focalizzabili ma non viene dato un feedback vocale dalla sintesi quando ci si sposta tra l’uno e l’altro col tasto TAB ed è anche impossibile raggiungere i pulsanti sottostanti. I pulsanti, a differenza dei field, non sono focalizzabili dalla sintesi impiegando la tastiera.
 
-In questo contesto l’’unica finestra leggibile è quella d’errore, letta correttamente, eccetto il fatto che non viene segnalata dalla sintesi la presenza del tasto di conferma.
+In questo contesto l’unica finestra leggibile è quella d’errore, letta correttamente, eccetto il fatto che non viene segnalata dalla sintesi la presenza del button  di conferma.
 
 ![Screenshot Meter Change Error](./images/windows-protools-17-meter-change-error.png)
 
-“Strip silence” raggiungibile con “Control+Shift+U”la sintesi legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre  avrà lo stesso comporrtamento.
+Il pannello “Strip silence” è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
 
 ![Screenshot Strip Silence](./images/windows-protools-18-strip-silence.png)
 
 <!-- CHIEDERE A BONTEMPI A COSA SERVE STRIP SILENCE -->
 
-Questo pannello è stato aperto usando il mouse. Di questo pop-down la sintesi vocalizza “Transport MIDI editor location” ; “MIDI editor quantize real time properties”; “Add new memory location”; “playback engine”; “artist community” “Market place”  etc… Tag che non hanno senso se isolati dal contesto, ossia se la sintesi non elenca  quali possibilità di interazione esistono con questi controlli.
+Questo pannello è stato aperto usando il mouse. Di questo pop-up NVDA vocalizza “Transport MIDI editor location” ; “MIDI editor quantize real time properties”; “Add new memory location”; “playback engine”; “artist community” “Market place”  etc… Tag che non hanno senso se isolati dal contesto, ossia se la sintesi non elenca  quali possibilità di interazione esistono con questi controlli e di che tipologia sono.
 
 ![Screenshot Popup Strumenti Scomparsa](./images/windows-protools-19-popup-strumenti-scomparsa.png)
 
-L’aprire questo menù è cosa infattibile da tastiera, ancora una volta si deve ricorrere all’uso del mouse. Gli items di questo menù vengono correttamente annunciati, e permette di eseguire alcune funzioni sulle tracce ad esempio rinominare, salvare la traccia come preset, come si può vedere dallo screenshot. 
+L’aprire questo menù è cosa infattibile da tastiera, ancora una volta si deve ricorrere all’uso del mouse. Gli items di questo menù vengono correttamente annunciati. Esso permette di eseguire alcune funzioni sulle tracce, ad esempio rinominare, salvare la traccia come preset, come si può vedere dallo screenshot. 
 
 ![Screenshot Contestuale Pannello Traccia](./images/windows-protools-20-contestuale-pannello-traccia.png)
 
-Per avviare la registrazione è necessario premere la combinazione di tasti Control+RE, ma non si ha alcun feedback sonoro dell’avvenuta operazione. Il feedback fornito è esclusivamente visivo.
-Il mixer è raggiungibile dal menù “Window”, selezionando la voce “Mix”, ma una volta aperto è impossibile eseguire qualsiasi operazione: dal punto did vista della sintesi lo schermo appare come se fosse privo di eelementi. Se si tenta la strada di cliccare i controlli col mouse, i menù contestuali relativi vengono letti dalla sintesi, ma la cosa risulta al quanto frustrante e rende necessario l’ausilio di un controller esterno. Eco perché si è scelto di testare anche con device esterno E Corg
+Per avviare la registrazione è necessario premere la combinazione di tasti "Control+R, ma non si riceve  alcun feedback vocale o sonoro dell’avvenuta operazione. Il ritorno  fornito è esclusivamente visivo.
+Il mixer è raggiungibile dal menù “Window”, selezionando la voce “Mix”, ma una volta aperto è impossibile eseguire qualsiasi operazione: dal punto di vista della sintesi lo schermo appare come se fosse privo di eelementi. Se si tenta la strada di cliccare i controlli col mouse, i menù contestuali relativi vengono letti dalla sintesi, ma la cosa risulta al quanto frustrante e rende necessario l’ausilio di un controller esterno. Da qui è nata la decisione  di testare anche con il device esterno E Corg
 
 ![Screenshot Mixer](./images/windows-protools-21-mixer.png)
 
+Le funzionalità di selezione della timeline delle tracce, sia parziale che completa non è fattibile, pertanto risulta impossibile svolgere le operazioni di editing delle trace come tagliare, copiare, incollare, aggiungere effetti di vario genere e inserire i marker.
+sempre per la stessa impossibilità a portare il cursore all'interno della timeline, non si può spostare il cursore tra le timeline, ad esempio tra traccia 1 e traccia 3, quindi non si riesce a effettuare operazioni tra l'una e l'altra.
+
+####Risultati del test del mixer usando E Corg
 
 ### Pro Tools per Mac
 
@@ -432,7 +437,7 @@ Anche il menù nel quale sono contenuti gli items "Multichannel plugin", "Mono c
 ![Mac Pro Tools Multi channel Mono channel plug in](./images/mac-protools-mono-muti-channel-plug-in.jpg) 
 
 Gli elementi nella barra dei menù sono raggruppati, scorrendo con freccia destra e sinistra VoiceOver legge i gruppi, entrando con Shift+Maiusc+Freccia giù si entra nel singolo dove poi si scorre con i comandi da tastiera tipici della normale neavigazione; ciò risulta particolarmente comodo per un utente non vedenteperché consente di sapere già cosa conterrà quell’area di elementi senza doverli scorrere uno ad uno.
-Nella barra dei menù è possibile raggiungere il mixer (sopra esposto), che è però richiamabile anche dal menù “Window”; sempre dalla medesima sezione si raggiunge anche il pulsante per aggiungere il marker.
+Nella barra dei menù è possibile raggiungere il mixer (sopra esposto), che è però richiamabile anche dal menù “Window”; sempre dalla medesima sezione si raggiunge anche il pulsante per inserire il marker.
 
 #### Comandi editazione traccia
 
@@ -445,7 +450,7 @@ Maiusc+I import importare traccia apre una comune finestra lale cartelle del sis
 Export – menù file voce export, (varie possibilità di esportazione nel relativo sottomenù della voce export)
 La query di ricerca funziona annastanza, dà suggerimenti ma non su tutte le funzioni, cursore inserito automaticamente nel campo editazione, con feeedback sonoro per fare capire l’avvenuto inserimento.
 
-Nel gruppo “midi control claster” il button “metronome” è accessibile sia da mouse che da tastiera solo che da tastiera è solo possibile attivarlo e disattivarlo mentre col doppio clic del mouse è possibile aprire la finestra con le varie impostazioni ( se avviarlo solo in registrazione o il tipo di accentazione ec… la finestra è altamente accessibile...
+Nel gruppo “midi control claster” il button “metronome” è accessibile sia da mouse che da tastiera solo che da tastiera è solo possibile attivarlo e disattivarlo mentre col doppio clic del mouse è possibile aprire la finestra con le varie impostazioni (se avviarlo solo in registrazione o il tipo di accentazione ec… la finestra è altamente accessibile...
 
 I controlli sopra analizzati nel caso del mixer, record, mute, solo, track imput monitor, sono presenti anche nei controlli delle tracce , quelli posti su ogni singola traccia che si incontrano nella main windows.
 

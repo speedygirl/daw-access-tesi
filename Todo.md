@@ -41,6 +41,10 @@
 - [ ]inserire canale valter scarfia (iphone nella query di ricerca)
 - [x] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per raggiungere uno stesso risultato"
 - [ ] Sistemare altre sezioni
+	- [ ] In protools windows, trovare spiegazione comando "Strip Silence", riferimento: "CHIEDERE A BONTEMPI A
+- [ ] riferimento	COSA SERVE STRIP SILENCE"
+- [ ] riferimento: "Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione" il fatto che NVDA legga solo gli header delle finestre è dovuto al fatto che vi sono le APIs del sistema operativo? opopure qual è la motivazione?
+- [ ]riferimento: heading 3 "Risultati del test del miixer usando E Corg" fare prova pratica e scrivere risultati
     - [ ] Includere non includere, riferimento: "Impostazioni griglia (grid) FACOLTATIVO"
     - [ ] Completare con risposta, riferimento: "(inserisco qui il concetto di  playback engine? V pro tools ale)"
     - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIER PLAYBACK ENGINE"

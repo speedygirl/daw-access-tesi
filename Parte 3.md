@@ -325,7 +325,7 @@ Il menù “Window” contiene le seguenti funzioni:
 * Artist Chat Ctrl+Shift+=
 * System Usage
 
-![Screenshot Menu Window](./images/windows-protools-12-menu-window.png)
+windows![Screenshot Menu Window](./images/windows-protools-12-menu-window.png)
 
 Il seguente raggruppamento di controlli è stato testato usando il tracking del mouse. In questa sezione i controlli non vengono individuati; però i relativi menù contestuali vengono letti correttamente. 
 

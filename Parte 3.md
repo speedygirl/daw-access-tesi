@@ -76,9 +76,9 @@ il salvataggio può esser del singolo progetto con  Control+S; di tutti i proget
 
 I comandi Salva, Salva come o Salva tutti i progetti aprono una finestra standard di Windows perciò non si ritiene utile soffermarvisi eoo.
 2019
-Il comando Render si richiama con Control+Alt+R e consente di livellare tra loro tutte le singole tracce del mixer e di ottenere una buona qualità di compressione delle stesse.
+Il comando Render si richiama con Control+Alt+R e consente di  sommare tra loro le singole tracce selezionate ed esportare il tutto in un unico file.
+il concetto di render varia leggermente secondo la DAW che si sta impiegando. Questo appena esposto è quello relativo a Reaper.
 il processo di rendering è la parte definitiva di composit dell'IDE (Integrated Development Envirement).
- ```(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)```
 
 La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tuttel e altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
 Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche da di non vedenti.
@@ -125,9 +125,9 @@ Una feature non presente nella versione per Windows è quella che prevede il con
 
  Un simile compito è svolto da Cmd+Shift+J che sposta il cursore al beat o alla misura “Report edit cursor position Measures and Beats” e da Cmd+Shift+J, J “Report edit cursor position Time” indica dove è il cursore all’interno della traccia 
 dove si trova il cursore all’interno della traccia, sia quando questa è in esecuzione, sia quando non lo è.
-Affini ai comandi di navigazione, sono quelli di selezione della traccia o sue porzioni, di navigazione e selezione degli items. Cmd+Frecce destra/sinistra consente di  navigare tra gli items; Cmd+freccia sinistra/destra consente di spostarsi all’item precedente o successivo, è il corrispettivo del Control+Freccia destra/sinistra in Windows. I tasti “[]” consentono di cominciare e terminare una selezione della timeline,S consente di aggiungere un item. Shift+M consente di aggiungere un Marker con nome; Shift+ C di inserire un marker di tempo. Quest’ultimo, a differenza del Marker con nome, che non ha presentato alcuna difficoltà, ha comportato alcune difficoltà nella gestione del focus  all’interno della finestra perché talvolta il cursore VoiceOver si distaccava dal cursore editazione, medesima difficoltà incontrata nella gestione del pannello relativo alle impostazioni del metronomo, si è provato perciò a cambiare modalità di navigazione e a fonderne più d’una insieme.
+Affini ai comandi di navigazione, sono quelli di selezione della traccia o sue porzioni, di navigazione e selezione degli items. Cmd+Frecce destra/sinistra consente di  navigare tra gli items; Cmd+freccia sinistra/destra consente di spostarsi all’item precedente o successivo, è il corrispettivo del Control+Freccia destra/sinistra in Windows. I tasti “[]” consentono di cominciare e terminare una selezione della timeline, S consente di aggiungere un item. Shift+M consente di aggiungere un Marker con nome; Shift+C di inserire un marker di tempo. Quest’ultimo, a differenza del Marker con nome, che non ha presentato alcuna difficoltà, ha comportato alcune difficoltà nella gestione del focus  all’interno della finestra perché talvolta il cursore VoiceOver si distaccava dal cursore editazione, medesima difficoltà incontrata nella gestione del pannello relativo alle impostazioni del metronomo, si è provato perciò a cambiare modalità di navigazione e a fonderne più d’una insieme.
 È stata incontrata inizialmente grande difficoltà nel posizionare il focus all’interno della timeline e selezionare gli item (portando su di essi il focus), cosa che in Windows invece avviene automaticamente.
-Ciò che invece ha rappresentato un maggiore ostacolo in Windows, e invece è stato più intuitivo in Mac è stata la selezione non continua degli elementi “non continuous selection”, che si effettua mantenendo il focus sulle tracce poi, tenendo premuto shift, si sposta il focus sulle successive e si conferma con Spazio laddove si voglia selezionare.
+Ciò che invece ha rappresentato un maggiore ostacolo in Windows, e invece è stato più intuitiva in Mac, è stata la selezione non continua degli elementi. La “non continuous selection” in Windows si effettua mantenendo il focus sulla traccia poi, tenendo premuto il tasto Shift, si sposta il focus sulle successive tracce e si conferma con Spazio laddove si voglia selezionare. Ad esempio si pone il focus sulla traccia 1 premendo la combinazione Shift+Spazio, poi, mantenendo premuto il tasto Shift, ci si sposta usando le frecce finoalla traccia 3 e si preme nuovamente Shift+Spazio. LA medesima operazione va ripetuta per ogni traccia che si voglia selezionare.
 È possibile retrocedere dall’azione eseguita o ripristinarla, usando la combinazione Cmd+Z e Cmd+Shift+Z o usare il menù con il menù Edit da cui è anche possibile eseguire operazioni sugli items come taglia, incolla, seleziona, anche eseguibili con le shortcut Cmd+C, Cmd+X, Cmd+V.
 “Duplicate track” è situato nel menù “Tracks” ha una funzione ed un effetto di quanto si trova in Windows.
 Cmd+Shift+Backspace modifica il playrate (ossia  velocità di esecuzione, traducibile come BPM per meglio rendere l'idea del concetto che è assai macchinoso raggiungere con i comandi di navigazione messi a disposizione da VoiceOver in quanto è posto al centro della GUI.
@@ -397,7 +397,7 @@ Tramite la tastiera è possibile accedere a tutti i controlli, che verranno elen
 Il mixer è caratterizzato da un elevato livello di accessibilità: ogni controllo, ogni slider funziona ed è facilmente intercettabile; ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
 Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
   INSERIRE SCREENSHOT DEL MIXER
-Si elencano le componenti del mixer
+  Si elencano le componenti del mixer
 #### Audio Track
 
 ##### Send A/e

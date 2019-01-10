@@ -36,8 +36,10 @@
 
 - [ ] Sistemare testo sezione "Metodo di analisi" 
     - [x] Fatte deefinizioni in testo random, riferimento: "frequenza con cui i dati"
-    - [ ] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
-    - [ ] Completare render: aggiungere a definizione Alessio quella con risposta, riferimento: "(GIA’ INVIATA MAIL RICHIESTA A BONTEMPI)"
+	- [ ] correggere ripple on e ripple off nella frase sopra al testo qui citato. riferimento: "Alcune DAW prevedono che l'operazione di unione venga svolta manualmente"
+    - [x] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
+	- [ ] differenza tra markers e items riferimento: "La differenza tra i markers e gli items è che"
+    - [x] Completare render: aggiungere a definizione Alessio quella con risposta, riferimento: "(GIA’ RICEVUTA MAIL RISPOSTA DAA BONTEMPI e già inserita nel testo)"
 - [ ]inserire canale valter scarfia (iphone nella query di ricerca)
 - [x] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per raggiungere uno stesso risultato"
 - [ ] Sistemare altre sezioni
@@ -51,9 +53,9 @@
 	              per trovare la sezione usare il seguente testo: 
 	              in Pro Tools per Mac Riferimento: "Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale"
     - [ ] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a techno help" Gianluca Pollaro mappatore shortcut Reaper Windows; Garth Hartung mappatore shortcut Reaper Mac.
-    - [ ] Sistemare testo random, sezione "AUDIO TRAck- [ ]  fino a 16 righe dopo
+    - [x] Sistemare testo random, sezione "AUDIO TRAck- [x]  fino a 16 righe dopo
     - [x] la sezione "audio track" riguarda il mixer: vengono citati tutti gli elementi che lo compongono.
-    - [ ] inserire screenshot del mixer (che esplichi questi elementi)
+    - [x] inserire screenshot del mixer (che esplichi questi elementi)
     - [ ] Completare, riferimento: "come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE"
 	
     - [x] Modificare, riferimento: "PROCEDURA ASSOCIARE SCHEDA HARDWARE"    

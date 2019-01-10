@@ -55,14 +55,22 @@ La frequenza di campionamento il numero di volte al secondo in cui i dati, i cam
 
 dal navigare, tramite TAB i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
 
-Tutto questo è altamente accessibile, sono poche le DAW che permettono lo scrubbing, che permette  anche a un non vedente di raffinare ad alto livello il proprio progetto.  Simili comandi e s imili possibilirtà di navigazione sono valide anche per la selezione. Vi sono poi ulteriori comandi con i quali si può scelgiere se la selezione coinvolge sia timeline che items oppure solo questi ultimi.
+Tutto questo è altamente accessibile, sono poche le DAW che permettono di eseguire lo scrubbing, che consente  anche a un non vedente di raffinare ad alto livello il proprio progetto.
+Simili comandi e s imili possibilirtà di navigazione sono valide anche per la selezione. Vi sono poi ulteriori comandi con i quali si può scelgiere se la selezione coinvolge sia timeline che items oppure solo questi ultimi.
 Dopo la selezione è naturalmente possibile svolgere svariate operazioni come la rimozione, il tagliare, copiare del tratto di brano selezionato, o il duplicare l’intera traccia.
-Una volta selezionata una porzione è possibile riprodurla in loop portando il cursore (anche detto edit cursor o play cursor) all’inizio della stessa e cliccando play. 
-Quando una porzione viene rimossa, se non si dà uno specifico comando oppure se si è impostato il “ripple off”, viene lasciato del silenzio; per evitare ciò e unire quindi “i due lembi” si può attivare il “ripple off” e riferirlo alla singola traccia oppure a tutte le tracce del progetto, usando la combinazione Alt+Shift+P. Alcune DAW prevedono che questa operazione di unione venga fatta manualmente tramite mouse scorrendo sulla griglia.
+Una volta selezionata una porzione è possibile riprodurla in loop portando il cursore (anche detto edit cursor o play cursor) all’inizio della stessa e cliccando "Play". 
+Quando una porzione viene rimossa, se non si dà uno specifico comando oppure se si è impostato il “ripple off”, viene lasciato del silenzio. Per evitare ciò è unire quindi “i due lembi” si può attivare il “ripple off” e riferirlo alla singola traccia oppure a tutte le tracce del progetto, usando la combinazione di tasti Alt+Shift+P.
+Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia.
 
-Di vitale importanza per il non vedente è l’impiego dei marker) o marcatori), di cui in Reaper esistono vari tipi come ad esempio i [inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018]……………………….. MARKER DI TEMPO DI SELEZIONE, DI TEPMPO, che consente di segnare sulla traccia dei punti di interesse, navigabili con Control+Frecce, che consentono di spostare l’edit cursor con velocità da una sezione all’altra del brano. Per chi non vede sono utili anche perché, delimitando con un “marker di apertura” e un “marker di chiusura”, anche detti envelopes, una porzione, è possibile selezionarla e modificarne il tempo, il volume, la dinamica.
 
-Una funzione utile in questo senso è iln  poter creare marker con nome custom, usando il menu’ isnert o la combinazione Shift+M che apre una Windows in cui editare nome, valore, permettendo di scriverlo mediante tastiera e non tramite slider, che non è, a mio avviso una modalità molto pratica in qaunto sovente o il cursore si sposta di un punto percentuale alla volta (rendendo l’operazione molto dispendiosa in termini di tempo= oppure lo slider si sposta di una quantità predefinita dagli sviluppatori del programma) ad esempio 3% 5% 10% il che rende impossibile all’utente raffinare il suo inserimento=. Sovente sono presenti entrambi, ma non è il caso di Reaper.
+Di vitale importanza per il non vedente è l’impiego dei marker (o marcatori), di cui in Reaper esistono vari tipi come ad esempio i marker comuni, cui  associata la shortcut "M", marker prompt for name Shift+M, "Region from time selection" Shift+R, "Tempo/time signature marker". Sono esempi di varie tipologie di marker presenti in Reaper che consentono di selezionare regioni caratterizzate da un altro metro o una velocità diversa (marker di tempo), opppure di assegnare nomi indicativi a porzioni della traccia (marker cui è possibile dare un nome personalizzato).
+I marcatori consente di segnare sulla traccia dei punti di interesse, navigabili con Control+Frecce, che consentono di spostare l’edit cursor con velocità da una sezione all’altra del brano.
+Una funzione simile a quella dei marcatori, è svolta dagli "items", sempre richiamabili dal menù "Insert" o con la combinazione di tasti Shift+Insert+N, nello specifico sitratta dei "New MIDI items"..
+La differenza tra i markers e gli items è che ..........  
+Per chi non vede sono utili anche perché, delimitando con un “marker di apertura” e un “marker di chiusura”, anche detti envelopes, una porzione, è possibile selezionarla e modificarne il tempo, il volume, la dinamica.
+
+Una funzione utile in questo senso è il poter creare marker con nome personalizzato. Questo è possibile usando il menù "Insert" o, in alternativa, la combinazione di tasti Shift+M che apre una Windows in cui editare nome e valore, permettendo di scriverlo mediante tastiera. Ciò non obbliga l'utente a regolare il valore tramite lo slider. Quest'ultima modalità, a mio avviso, non è molto pratica in quanto sovente accade che il cursore si sposti di un punto percentuale alla volta (rendendo l’operazione molto dispendiosa in termini di tempo); oppure che lo slider si sposti di una quantità percentuale predefinita dagli sviluppatori del programma (ad esempio 3% 5% 10%), il che rende impossibile all’utente raffinare il suo inserimento. Frequentemente sono presenti entrambi, ma non è il caso di Reaper.
+![reaper insert men](:/4-windows-reaper-insert-menu.jpg)
 
 Un’altra funzionalità di base, importante per la registrazione, è l’impostazione del metronomo e la sua attivazione, cosa che ancora una volta è facile da eseguire, semrpe tramite tastiera o usando l’apposito menù in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat; impostare il beat patner; impostare il patner primario e secondario ecc operazioni con un elevato grado di accessibilità in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat patner, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annuncaito il valore di default e, dopo l’9intervento dell’utente, il nuovo valore immesso. 
 
@@ -148,8 +156,11 @@ Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per in
 è possibile anche importare dei file esterni, recuperandoli dal disco fisso, premendo la cmbinazione Cmd+I e sfogliando tra le cartelle o digitando il path nella query di ricerca.
 
 ### Pro Tools per Windows
-
+Il programma è totalmente accessibile in fase di downloaod e di installazione, ma non lo è affatto una volta aperto, infatti   frequentemente accade che Pro Tools si bloccchi in fase di apertura, se è contemporaneamente attivo NVDA.  
+Si è reso necessario testare il programma usando una scheda audio per separare l'l'output audio della sintesi vocale da quello delle tracce, altrimenti accadeva che il programma si appropriava dell'output audio della scheda del computer. Inoltre si è dovuto risolvere il rpblema che Pro Tools modificava il comportamento del focus, diventando di difficile gestione quindi si è dovuto leggermente modificare le impostazioni di NVDA.
+ 
 non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
+La finestra delle impostazioni della scehda audio è inaccessibile da tastiera ma lo è completamente col mouse.
 nVDA segnala solo la presenza di un campo editazione, mentre spostandosi con il tasto F6 non avvengono cambiamenti e tentando con  TAB la sintesi pronuncia “dashboard”.
 L’unico modo quindi per raggiungere il progetto desiderato è editarne il nome all'interno field.
 I controlli laterali “Open” e “Create” non vengono citati da NVDA e non è possibile spostarvi il focus mediante tastiera, così come avviene anche per i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
@@ -162,6 +173,9 @@ Anche questo pannello, come il precedente, è stato testato usando i comandi di 
 Tentando innumerevoli combinazioni di tasti si è arrivati a scoprire la shortcut Control+Shift+O che ha permesso di emulare la funzione del tasto “Open” altrimenti irraggiungibile.
 
 ![Screenshot Apertura progetto](./images/windows-protools-2-apertura-progetto.png)
+
+Il pannello “session note” è raggiungibile impiegando il mouse, ma NVDA legge soltanto l’intestazione del pannello e non i contenuti all’interno del body.
+![Screenshot pannello session note](./windows-protools-session-note22.jpeg)
 
 Essendo che sono basati sulle APIs del sistema operativo, tutti i menù della menù bar sono perfettamente fruibili.
 Il menù “File” contiene le seguenti opzioni:
@@ -350,6 +364,8 @@ In questo contesto l’unica finestra leggibile è quella d’errore, letta corr
 ![Screenshot Meter Change Error](./images/windows-protools-17-meter-change-error.png)
 
 Il pannello “Strip silence” è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
+Un altro esempio di questa tipologia di interazioneè la finesstra  "Asio control panel", di cui NVDA legge solo l'heading,. Già che si è analizzato questo pannello, si è testato anche il drop down menù  per l'impostazioone del bffer.
+![Asio control panel e impostazioni dimensioni buffer](./windows-pro-tools-asio-control-panel-2i2-25.jpeg)
 
 ![Screenshot Strip Silence](./images/windows-protools-18-strip-silence.png)
 
@@ -367,6 +383,10 @@ Per avviare la registrazione è necessario premere la combinazione di tasti "Con
 Il mixer è raggiungibile dal menù “Window”, selezionando la voce “Mix”, ma una volta aperto è impossibile eseguire qualsiasi operazione: dal punto di vista della sintesi lo schermo appare come se fosse privo di eelementi. Se si tenta la strada di cliccare i controlli col mouse, i menù contestuali relativi vengono letti dalla sintesi, ma la cosa risulta al quanto frustrante e rende necessario l’ausilio di un controller esterno. Da qui è nata la decisione  di testare anche con il device esterno E Corg
 
 ![Screenshot Mixer](./images/windows-protools-21-mixer.png)
+
+Il menù contestuale di selezione dell’output all’interno del mixer, così come quello relativo al bus, è stato raggiunto con l’impiego del mouse e, una volta all’interno del menù, scorrendo con le frecce, è stato letto correttamente dalla sintesi vocale. 
+![menù contestuale selezione output](./windows-protools-contest-menu-selezione-output23.jpeg)
+![menù contestuale del bus relativo al mixer](./windows-pro-tools-bus-contest-menu24.jpeg)
 
 Le funzionalità di selezione della timeline delle tracce, sia parziale che completa non è fattibile, pertanto risulta impossibile svolgere le operazioni di editing delle trace come tagliare, copiare, incollare, aggiungere effetti di vario genere e inserire i marker.
 sempre per la stessa impossibilità a portare il cursore all'interno della timeline, non si può spostare il cursore tra le timeline, ad esempio tra traccia 1 e traccia 3, quindi non si riesce a effettuare operazioni tra l'una e l'altra.
@@ -397,13 +417,13 @@ Tramite la tastiera è possibile accedere a tutti i controlli, che verranno elen
 Il mixer è caratterizzato da un elevato livello di accessibilità: ogni controllo, ogni slider funziona ed è facilmente intercettabile; ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
 Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
   INSERIRE SCREENSHOT DEL MIXER
-  Si elencano le componenti del mixer
-#### Audio Track
+Si elencano le componenti del mixer (riferiti in particolare alla Mode Dlay window di cui si riporta lo screenshot più innanzi).)
+Audio Track
 
-##### Send A/e
+Send A/e
   - Send bus
 
-##### I/O
+I/O
   - Input
   - Output
   - Auto

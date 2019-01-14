@@ -65,8 +65,26 @@ In questo testo c'è una <mark>parola</mark> evidenziata
 <!--- your comment goes here and here -->
 [//]: <> (This is also a comment.)
 
+## riepilogo
+comandi di selezione
+selezionare del testo: `parola`
+evidenziare del testo: </mark> 
+portare del testo in maiuscolo:  **parola**
+
+
+## Commenti invisibili nella modalità visualizzazione
+[//]: # (This may be the most platform independent comment)
+<!--- your comment goes here and here -->
+[//]: <> (This is also a comment.)
+
+link utili
+[link guida ai comandi](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[link come inserire le note](https://stackedit.io/)
+
+
+
 ## referenziare file
-per referenziare un file all'all'interno della cartella corrente è sufficente creare un link relativo al file 
+per referenziare un file all'interno della cartella corrente è sufficente creare un link relativo al file 
 [titolo read me](./README.md)
 nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
 

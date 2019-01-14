@@ -1,4 +1,5 @@
-## cose da sistemare o integrare in parte 1
+# cose da sistemare o integrare in parte 1
+## paragrafo 1.1 la produzione audio
 - [ ] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
 - [ ] dove si collocano queste operazioni? riferimento: " il rivversamento dell materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito."
 - [ ] frase che precede il riferimento: "per il motivo sopra esposto" spiegare quali sono le relazioni tra qualità del mix, emozione data dal mix etc...
@@ -6,11 +7,11 @@
 <!-- qualitativamente rispetto a quali parametri? -->
 - [ ] riferimento: "nelle esecuzioni dal vivvo invece"
 Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorare a frequenze diverse? In che senso si parla di definizione in frequenza del suono?
-- [ ] citare handbooks da cui si è trovato il termine "early music era". riferimento: "sul piano cronologico possono essere"
+- [ ] citare fonte da cui si è trovato il termine "early music era". riferimento: "sul piano cronologico possono essere"
 [ ] [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 <!-- inserire nota con apice [^n] accanto ai 3 termini "early label era, mature music era, indipendent era" e numero di pagina-->
 - [ ] riferimento: "nonostante tutto però i produttori"
-<!-- Citare fonte precisa perchè Mi puoi indicare di preciso la fonte? In alcuni casi è come scrivi, ma spesso i vari compiti sono divisi tra diverse figure. -->
+<!-- Citare fonte precisa perchè in alcuni casi è come scrivi, ma spesso i vari compiti sono divisi tra diverse figure. -->
 fonte: [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 - [ ]  riferimento: "In passato le apparecchiature potevano essere di tipo sia elettronico"
 <!-- meccanico? -->
@@ -24,6 +25,22 @@ qual è il ruolo del pc?
  <!-- equipe "in che senso?" -->
 - [ ] inserire nel capitolo più adatto 1 o 3? [ ] leggi articolo conversazioone wa ale 13/1 nei mess importanti e vedi bibliografia. il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
 
+## paragrafo 1.2 storia atecnologie legate alla produzione audio
+- [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
+- [ ] aggiungere quadrifonia riferimento: "Interessante notare la differenza rispetto all’attuale cultura commerciale"
+- [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
+- [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
+- [ ] la versione 2.0 del midi esiste? presentata nel 19 riferimento: "The complete SC MIDI del 1981 "
+- [ ] 
+
+## paragrafo 1.3 cos'è una daw 
+- [ ] paragrafo da scrivere 
+appunti file word "Daw bozza ver 1.doc"
+
+## paragrafo 1.4 il MIDI
+- [ ] importare dal doc word
+- [ ] trasformare evidenziazioni in tasks della to do list
+- [ ] salvare gli screenshot contenuti ndel deoc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 3"
 - [ ] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

@@ -90,7 +90,8 @@ nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
 
 ## Come utilizzare git da notepad++ (Terminale)
 1. Aprire terminale nella cartella corrente: Alt+F (Menu File), Apri Cartella File, Prompt Dei Comandi 
-2. Aggiungi tutti i file allo stages, digita: git add .
+2. Aggiungi tutti i file allo stages, digita: 
+git add .
 3. Commenta, dove <message> è il testo del messaggio: git commit -am "<messaggio>"
 4. Invia le modifiche al server, digita: git push
 
@@ -120,3 +121,14 @@ nb attenzione alle maiuscole all'interno del titolo del file da referenziare.
 6. Altrimenti eseguire
 7. Commentare cercando "COMMIT" nella ricerca comandi
 8. pushare digitando in query "git push"
+NB le operazioni di push conviene farle sul "nuovo documento" vuoto già creato e lasciato appositamentte senza testo.
+Se questa procedura non funziona, aspettare 10 secondi e riprovare, altrimenti chiudere e riavviare.
+
+## generare files docx da documenti .md
+1. aprire cartella "text edition"
+2. premere invio sul file denominato "generate.cmd" (da non confondere con la cartella "generate")
+verranno creati dei files word, che, a ogni esecuzione della procedura qui riportata, vengono sovrascritti.
+Si hanno così files dox sempre aggiornati alle ultime modifiche effettuate.
+Tali files contengono già la corretta formattazione del testo finale della tesi (font 13, interlinea 1.5 etc).
+
+

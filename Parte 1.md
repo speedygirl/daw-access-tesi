@@ -47,7 +47,7 @@ Ogni metodologia ha contribuito allo sviluppo e all'evoluzione dei mezzi di comu
 
 Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese Thomas Young (1773-1829) [^1] il cui lascito fu quello di ideare, pur senza realizzarlo, uno strumento che consentiva di tracciare le oscillazioni di pressione dell'onda sonora. La peculiarità di questo apparecchio doveva essere quella di fornire una rappresentazione grafica dei suoni, senza riprodurli acusticamente 1. La procedura che permetteva la fissazione del suono era realizzata tramite l'impiego di una membrana in grado di captare le vibrazioni. Queste ultime venivano tracciate su un supporto cartaceo mediante un pennino collegato alla membrana stessa.
 
-[^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www..treccani.it/Fenciclopedia/thomas-young)
+[^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
 
 <!--inserire screenshot grafofono-->
 

@@ -38,7 +38,16 @@ qual è il ruolo del pc?
 - [ ] <!inserire screenshot grafofono-->
 - [ ] riferimento: "fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni" <!-- inserire maggiori informazioni --> 
  [ ] riferimento: "il progetto per una macchina analoga denominata phonograph." <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
- - [ ] 
+ - [ ] riferimento: "A seconda della frequenza in hertz del suono" [^numero nota] mettere numero della nota secondo le precedenti, poi inserire definizione a pie 'di pagina.
+ - [ ] verificare se l'la profondità dei solchi nel fonografo è determinata dalla frequenza o dall'ampiezza d'onda.
+ - [ ] riferimento: "complesso da lui fondato" quando?
+- [ ] riferimento: "con la collaborazione del cugino Chichester" [capire se è un Bell]
+- [ ] Alexander Graham
+- [ ] riferimento: "Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros" >!-- approfondire chi sono -->
+- [ ] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
+- [ ]   
+
+ 
  
 
 - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.

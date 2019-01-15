@@ -1,4 +1,4 @@
-COMMIT=Aggiunta procedura automatizzata per fare commit
+COMMIT=Test
 git add .
 git commit --am %COMMIT%
 git push

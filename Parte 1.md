@@ -45,19 +45,26 @@ Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica.
 **Ogni progresso/innovazione ha certamente influito sulla sfera sia pubblica che privata dell’ascolto.
 Ogni metodologia ha contribuito allo sviluppo e all’evoluzione dei mezzi di comunicazione di massa (mass-media). In questa sezione si tratterà degli aspetti di evoluzione della tecnologia di riproduzione del suono cercando di tracciare un sintetico quadro storico della stessa.**
 
-Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese Thomas Young (1773-1829) il cui lascito fu quello di ideare, pur senza realizzarlo, uno strumento che consentiva di tracciare le oscillazioni di pressione dell’onda sonora. La peculiarità di questo apparecchio doveva essere quella di fornire una rappresentazione grafica dei suoni, senza riprodurli acusticamente 1. La procedura che permetteva la fissazione del suono era realizzata tramite l’impiego di una membrana in grado di captare le vibrazioni. Queste ultime venivano tracciate su un supporto cartaceo mediante un pennino collegato alla membrana stessa.
+Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese Thomas Young (1773-1829) [^1] il cui lascito fu quello di ideare, pur senza realizzarlo, uno strumento che consentiva di tracciare le oscillazioni di pressione dell’onda sonora. La peculiarità di questo apparecchio doveva essere quella di fornire una rappresentazione grafica dei suoni, senza riprodurli acusticamente 1. La procedura che permetteva la fissazione del suono era realizzata tramite l’impiego di una membrana in grado di captare le vibrazioni. Queste ultime venivano tracciate su un supporto cartaceo mediante un pennino collegato alla membrana stessa.
+
+[^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www..treccani.it/Fenciclopedia/thomas-young)
 
 <!--inserire screenshot grafofono-->
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che Edouard Leon Scott (1817-1879) mise a punto un apparecchio chiamato fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni. <!-- inserire maggiori informazioni --> Va ricordato inoltre che un altro francese, Charles Cros, nell’aprile 1877 presentò all’Accademia delle Scienze, attraverso una comunicazione scritta, il progetto per una macchina analoga denominata phonograph. <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
-Il primo dispositivo in grado di restituire il suono registrato  si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l’attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All’interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda della frequenza in hertz del suono [^numero nota] si producevano solchi più o meno profondi. La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
+Il primo dispositivo in grado di restituire il suono registrato  si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l’attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All’interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda della frequenza in hertz del suono [^luca-cerchiari] si producevano solchi più o meno profondi. La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
 A questo scopo era necessario far scorrere la puntina sui solchi appena incisi. In questo caso la tromba assumeva il ruolo di amplificatore. 
 <!-- inserire screenshot -->
 Luca Cerchiari afferma che:
-“Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nell’apparecchio di Leon Scott, e il cilindro è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb.
+
+> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nell’apparecchio di Leon Scott, e il cilindro è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
+
 Le macchine iniziano a «parlare», venendo da subito definite talking machines.
-La voce prende corpo; resiste nel tempo e non svanisce nell’attimo stesso in chi viene pronunciata."
-[Luca Cerchiari "Il disco" edizione ....](.testo)
+
+> "La voce prende corpo; resiste nel tempo e non svanisce nell’attimo stesso in chi viene pronunciata."
+
+[^luca-cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
+
 Edison contribuì anche al perfezionamento acustico del telefono di Alexander Graham Bell, mediante la sostituzione del microfono a induzione con quello a carbone. Queste ed altre numerose invenzioni  hanno luogo nel laboratorio di Menlo Park, nel New Jersey, un complesso da lui fondato nel ....  
 La nuova invenzione di Edison presentava però alcuni problemi. Il principale era la difficoltosa realizzazione di più esemplari del cilindro registrato. 
 I primi tentativi di ovviare a questo inconveniente furono, come osserva Cerchiari, di natura artigianale: uno di questi, per esempio, consisteva nel collocare una certa quantità di fonografi di fronte allo stesso esecutore. 
@@ -69,11 +76,13 @@ Va ricordato che Alexander Graham Bell aveva vinto un premio in denaro grazie al
 
 Un ulteriore salto di qualità avvenne con l’introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell’ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros. <!-- approfondire chi sono --> 
 
-Si concentrò in particolare sul problema della riproduzione da matrice. Il suo contributo principale, infatti, oltre all’introduzione di una nuova forma di supporto fu l’idea di separare la matrice dalle copie provvedendo così ad una produzione seriale che andava incontro alle attese e alle aspirazioni del nascente mercato fonografico. Il primo modello di disco fu presentato da Berliner nel 1887 ed era costruito con un nuovo materiale che si stava diffondendo, denominato Duranoid. L’anno successivo Berliner presentò inoltre un nuovo dispositivo a trazione manuale mediante manovella e dotato di una tromba il cui collegamento al diaframma era costituito da un’innovativa soluzione consistente nell’uso di un braccio meccanico realizzato dal tecnico tedesco Werner Suess. Questo importante progresso segna una pietra miliare per i successivi sviluppi aprendo la strada al giradischi. 
-<!-- inserire screenshot -->
+Si concentrò in particolare sul problema della riproduzione da matrice. Il suo contributo principale, infatti, oltre all’introduzione di una nuova forma di supporto fu l’idea di separare la matrice dalle copie provvedendo così ad una produzione seriale che andava incontro alle attese e alle aspirazioni del nascente mercato fonografico. Il primo modello di disco fu presentato da Berliner nel 1887 ed era costruito con un nuovo materiale che si stava diffondendo, denominato Duranoid. L’anno successivo Berliner presentò inoltre un nuovo dispositivo a trazione manuale mediante manovella e dotato di una tromba il cui collegamento al diaframma era costituito da un'innovativa soluzione consistente nell’uso di un braccio meccanico realizzato dal tecnico tedesco Werner Suess. Questo importante progresso segna una pietra miliare per i successivi sviluppi aprendo la strada al giradischi. 
+<!-- inserire foto -->
 
 Osserva Luca Cerchiari:
- “L’apparecchio di Berliner deve attendere ancora qualche anno, il tempo necessario all’individuazione di materiali chimici adatti. Nel 1893 l’inventore opta per la gommalacca (la celebre shellac).
+
+> "L’apparecchio di Berliner deve attendere ancora qualche anno, il tempo necessario all’individuazione di materiali chimici adatti. Nel 1893 l'inventore opta per la gommalacca (la celebre *shellac*)." 
+
 Il problema di realizzare un motore a molla concorrenziale a quelli elettrici introdotti da Bell e Tainter con il graphophone viene demandato ad Eldridge Johnson, un esperto ingegnere meccanico del New Jersey, che nel 1897 è incaricato di costruire sia il motore sia la tromba degli apparecchi di Berliner, prodotti dalla società che il tedesco-americano ha fondato con il nome di United States Gramophone Company. Johnson inizia anche a occuparsi del problema delle copie trattate dalla matrice, sperimentando soluzioni chimiche innovative. I primi dischi realizzati con la nuova tecnica hanno un diametro di 18 centimetri e una velocità di rotazione di oltre 70 giri al minuto; il diametro sale quindi a 25 e poi a 30 centimetri, mentre la durata di una facciata varia dai due ai quattro minuti. Johnson sperimenta in seguito anche la registrazione su entrambe le facciate di un disco, com’è provato da tre esemplari realizzati nella primavera-estate del 1900 e ritrovati a distanza di decenni; il criterio viene quindi adottato da tutti, in pochi anni”.
 Gli esiti del lavoro di Berliner vengono ulteriormente perfezionati fino a raggiungere, ad inizio del ’900, risultati di notevole importanza quali l’aumento del minutaggio dei dischi e la riduzione delle dimensioni. Questi fattori aumentano di gran lunga la popolarità del supporto ed è per rispondere alle esigenze sempre più pressanti dei consumatori che si perverrà, nel secondo dopoguerra, ad uno sviluppo esponenziale della tecnologia del disco.
 Nel secondo dopoguerra infatti quelle tecnologie che erano state utilizzate con successo in ambito bellico per registrare e trasmettere messaggi, trovano applicazione in campo civile come strumenti per la riproduzione e la commercializzazione di registrazione per lo più musicali e si risolve in modo pressoché definitivo il problema della durata dell’incisione, passando dai due minuti della traccia del disco a settantotto giri ai quattro minuti del trentatré.
@@ -128,10 +137,11 @@ Infine la post produzione concerne tutto quello che intercorre tra le registrazi
 <!-- dove si collocano queste operazioni? --> il rivversamento dell materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito.
 
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
-“Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale”.
-“Il risultato di tale operazione, composto dall’unione di tracce rielaborate, consiste nella presentazione “di emozioni, idee creative e performance”.
-[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
-L'autore espone le seguenti periodizzazioni e teorie. [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+> "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]
+
+> "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]
+
+L'autore espone le seguenti periodizzazioni e teorie. [^handbook]
 Esistono differenti categorizzazioni di produttori musicali: gli attivi, i passivi e gli ibridi.
 Naturalmente si tratta di definizioni convenzionali che servono a titolo orientativo messe continuamente in discussione dalla pratica.
 I produttori attivi sono coinvolti in tutte le decisioni sia creative sia finanziarie; se però eccedono troppo in questa direzione, rischiano di perdere
@@ -158,20 +168,20 @@ Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferis
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
 
 ### Sviluppo cronologico della figura del produttore
-Sul piano cronologico possono essere, per quanto riguarda la professione del produttore, operate tre distinzioni. Si parla infatti di: early label era, mature music era, indipendent era.
-[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+Sul piano cronologico possono essere, per quanto riguarda la professione del produttore, operate tre distinzioni. Si parla infatti di: early label era, mature music era, indipendent era [^handbook].
 
-<!-- early music era? <<>
-[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+[^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
+
+<!-- early music era? -->
 <!-- inserire nota con apice [^n] accanto ai 3 termini "early label era, mature music era, indipendent era" e numero di pagina-->
 
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
 Questo lasso temporale è così ampio a causa dell’insufficienza dei mezzi di registrazione.
 In principio coloro che utilizzavano i mezzi di registrazione avevano una fisionomia più assimilabile a quella dell’archivista che a quella del produttore: il loro scopo infatti era soltanto quello di catturare la musica attraverso un dispositivo che ne consentisse in un secondo momento la riproduzione.
  Progressivamente, nella prima fase, anche il produttore comincerà ad acquisire una sua rilevanza ma le figure che imponevano lo stile della musica erano principalmente quelle dei compositori e degli arrangiatori.
-I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi, per trovare un tipo di musica “unica”, viaggiavano spesso per fare audizioni. La loro considerazione assunse una connotazione  negativa in quanto a lungo  qualificati come ladri di copyright Accusati perché non riconoscevano e non  pagavano quanto dovuto per i diritti d’autore. 
+I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi, per trovare un tipo di musica "unica", viaggiavano spesso per fare audizioni. La loro considerazione assunse una connotazione  negativa in quanto a lungo  qualificati come ladri di copyright Accusati perché non riconoscevano e non  pagavano quanto dovuto per i diritti d’autore. 
 Additati come responsabili della stereotipizzazione dei generi musicali e come approfittatori nei confronti degli artisti.
-Nel secondo periodo, che corrisponde a un maggiore sviluppo dell’industria musicale, le etichette discografiche (record label) cominciarono ad assumere persone cui era affidato il compito di fare il talent scouting e di far da supporto ai talenti al processo di registrazione. <!-- scelto termine inglese per mantenere l'acronimo tecnico --> Noti come **“artist and repertoir band” (aer man),** erano musicalmente molto preparati, sovente erano compositori e arrangiatori incaricati di ogni aspetto: dalla firma del contratto al prodotto finale. Queste figure possono essere definite gli antenati degli odierni aer man che, a differenza di quanto accadeva in passato, sono soprattutto talent scout e product manager. In breve i produttori acquisirono un controllo più significativo sul loro operato perché, grazie al magnetic tape, divenne facile la realizzazione delle multi takes-
+Nel secondo periodo, che corrisponde a un maggiore sviluppo dell’industria musicale, le etichette discografiche (record label) cominciarono ad assumere persone cui era affidato il compito di fare il talent scouting e di far da supporto ai talenti al processo di registrazione. <!-- scelto termine inglese per mantenere l'acronimo tecnico --> Noti come **"artist and repertoir band" (aer man),** erano musicalmente molto preparati, sovente erano compositori e arrangiatori incaricati di ogni aspetto: dalla firma del contratto al prodotto finale. Queste figure possono essere definite gli antenati degli odierni aer man che, a differenza di quanto accadeva in passato, sono soprattutto talent scout e product manager. In breve i produttori acquisirono un controllo più significativo sul loro operato perché, grazie al magnetic tape, divenne facile la realizzazione delle multi takes-
 La possibilità di separare e sovrapporre gli strumenti aprì un nuovo orizzonte di prospettive. Fu così che il ruolo del produttore non fu più soltanto quello di un tecnico ma venne maggiormente caratterizzato in senso artistico.
 L’avvio del terzo periodo è segnato invece da una sorta di ribellione. Emblematica la decisione di Georg Martin, produttore dei Beatles,  di lasciare la EMI per lavorare autonomamente. Benché già negli anni ’50 fossero presenti alcuni produttori indipendenti, è innegabile che il gesto di Georg Martin ebbe ampia risonanza ed un forte impatto. Sulla scia  della sua decisione, molti altri produttori optarono per l’attività indipendente.
 Alla ricerca di un’autonomia dalle etichette discografiche non erano estranee motivazioni di ordine economico: se in un primo momento erano semplicemente salariati dalle etichette, più tardi i proventi  derivavano dagli introiti dall’artista stesso.
@@ -180,10 +190,10 @@ E’ per questa ragione che l‘assunzione del produttore divenne a carico dell�
 Il ruolo creativo del produttore acquisì una maggiore preponderanza.
 
 #### Contemporanea
-Nel corso del tempo, come si è visto, il ruolo del produttore ha subito notevolit modifiche, anche e soprattutto grazie alle nuove tecnologie. Nonostante tutto però i produttori ancora oggi devono svolgere una molteplicità di funzioni; il produttore infatti è contemporaneamente: un direttore creativo (ha la visione complessiva del lavoro e deve mantenere l’armonia del processo creativo); svolge una funzione di intermediario tra le pressioni esterne e gli artisti durante la fase di registrazione; è il responsabile del budget (si occupa dei contratti e amministra le finanze, stabilisce prezzi e ruoli di ogni componente); è un casting director e un project manager. [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+Nel corso del tempo, come si è visto, il ruolo del produttore ha subito notevolit modifiche, anche e soprattutto grazie alle nuove tecnologie. Nonostante tutto però i produttori ancora oggi devono svolgere una molteplicità di funzioni; il produttore infatti è contemporaneamente: un direttore creativo (ha la visione complessiva del lavoro e deve mantenere l’armonia del processo creativo); svolge una funzione di intermediario tra le pressioni esterne e gli artisti durante la fase di registrazione; è il responsabile del budget (si occupa dei contratti e amministra le finanze, stabilisce prezzi e ruoli di ogni componente); è un casting director e un project manager. [^handbook]
 
 <!-- Citare fonte precisa perchè in alcuni casi è come scrivi, ma spesso i vari compiti sono divisi tra diverse figure. -->
-[The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+[^handbook]
 
 Il processo di produzione si compone di una serie di fasi.
 La prima è la cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione.  Il produttore spesso entra già in questa fase, che include il progetto di scrittura e arrangiamento della canzone, senza avere un ruolo attivo ma piuttosto quello di supporto, consigliere e critico. Egli propone suggerimenti relativi alle modifiche che riguardano l’arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
@@ -195,8 +205,6 @@ In passato le apparecchiature  erano elettromeccaniche mentre oggi parte dei pro
 
 
 mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
-
-
 
 <!-- Un player audio non è una DAW. -->
 
@@ -212,13 +220,10 @@ Il produttore, nella più recente musica elettronica, è sempre di più l’unic
 <!-- equipe "in che senso?" -->
 
 Alcuni esempi di programmi di questo tipo sono
-Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakebalk, Nuendo, Reason, Sony ACID e Sony Vegas.
+Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
 Tali strumentazioni permettono anche una produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
-
-
 
 ## 1.3 Cos’è una DAW (digital audio worck station
 
-## Cos’è il  midi  
-
+## 1.4 Cos’è il  midi  
 

@@ -1,3 +1,11 @@
+# 8ntroduzione
+-à [ ] <!-- completare --> disabile visivo definizione da vocabolari
+
+# ringraziamenti
+Cocos, Steimberg che hanno dato licenze
+Jin Hyun Kim  docente Berklee che ha dato informazioni
+
+
 # cose da sistemare o integrare in parte 1
 ## paragrafo 1.1 la produzione audio
 - [ ] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
@@ -26,6 +34,13 @@ qual è il ruolo del pc?
 - [ ] inserire nel capitolo più adatto 1 o 3? [ ] leggi articolo conversazioone wa ale 13/1 nei mess importanti e vedi bibliografia. il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
+- [ ] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
+- [ ] <!inserire screenshot grafofono-->
+- [ ] riferimento: "fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni" <!-- inserire maggiori informazioni --> 
+ [ ] riferimento: "il progetto per una macchina analoga denominata phonograph." <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
+ - [ ] 
+ 
+
 - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
 - [ ] aggiungere quadrifonia riferimento: "Interessante notare la differenza rispetto all’attuale cultura commerciale"
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"

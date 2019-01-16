@@ -1,4 +1,4 @@
-COMMIT=Test
+SET COMMIT=modifica di gemma
 git add .
-git commit --am %COMMIT%
+git commit -a -m "%COMMIT%"
 git push

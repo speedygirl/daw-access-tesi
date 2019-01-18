@@ -5,7 +5,8 @@
 Cocos, Steimberg che hanno dato licenze
 Jin Hyun Kim  docente Berklee che ha dato informazioni
 
-
+- [] trovare dove inserire definizione di hertz (nota già pronta di seguito):
+[^hertz]: Consultato 18/1/2019 *http://www.treccani.it/vocabolario/hertz/*
 # cose da sistemare o integrare in parte 1
 ## paragrafo 1.1 la produzione audio
 - [ ] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
@@ -26,7 +27,7 @@ fonte: [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 - [ ] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW (che attualmente è in fase di scrittura). riferimento: "Il fulcro dello studio odierno è la DAW"
 <!-- Si spiega qui un termine già usato in precedenza, andrebbe chiarito prima di cosa si tratta. -->
 - [ ] riferimento: "la daw può essere in dap"
-qual è il ruolo del pc?
+qual è il ruolo del pc?	1
 <!-- Un player audio non è una DAW. -->
 - [ ] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
@@ -35,17 +36,21 @@ qual è il ruolo del pc?
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
 - [ ] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
-- [ ] <!inserire screenshot grafofono-->
+- [ ] <!inserire foto grafofono-->
 - [ ] riferimento: "fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni" <!-- inserire maggiori informazioni --> 
  [ ] riferimento: "il progetto per una macchina analoga denominata phonograph." <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
- - [ ] riferimento: "A seconda della frequenza in hertz del suono" [^numero nota] mettere numero della nota secondo le precedenti, poi inserire definizione a pie 'di pagina.
- - [ ] verificare se l'la profondità dei solchi nel fonografo è determinata dalla frequenza o dall'ampiezza d'onda.
- - [ ] riferimento: "complesso da lui fondato" quando?
-- [ ] riferimento: "con la collaborazione del cugino Chichester" [capire se è un Bell]
+ - [x] riferimento: "A seconda dell'ampiezzasuono" [^numero nota] mettere numero della nota secondo le precedenti, poi inserire definizione a pie 'di pagina.
+ - [x] verificare se la profondità dei solchi nel fonografo è determinata dalla frequenza o dall'ampiezza d'onda. è determinata dall'ampiezza d'onda.
+ - [x] riferimento: "complesso da lui fondato" quando?
+- [x] riferimento: "con la collaborazione del cugino Chichester" [capire se è un Bell] sì lo è
 - [ ] Alexander Graham
-- [ ] riferimento: "Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros" >!-- approfondire chi sono -->
+- [x] riferimento: "Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros" >!-- approfondire chi sono -->
+LINK PROVVISORIO riferito a Charles Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
+Scott trovato bisogna mettere fonte bibliografica
+
 - [ ] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
-- [ ]   
+- [ ] 
+  
 
  
  

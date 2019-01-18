@@ -27,18 +27,14 @@ Il primo capitolo affronta <!-- completare -->
 ## 1.1 Cos'è la produzione audio
 
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici.
-
 Essa comprende più fasi: preproduzione, produzione, post produzione.
-La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto.
+La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto si sceglie la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli strumenti da impiegare.
 Nella fase di produzione si effettua la registrazione dei materiali.
 Tutte le attività successive (editing e manipolazione dei materiali, mixaggio, 
 mastering) fanno parte della post produzione.
 
 ## 1.2 Breve storia delle tecnologie applicate all'audio
-
-<!-- verificare se è versione sistemata da papà -->
-
-Dalla fine del XIX secolo si assiste al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico.
+>Dalla fine del XIX secolo si assiste al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico.
 L'autore ..... individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni, cui segue quella magnetica su nastro o bobina (inizio secolo scorso) ed infine la digitale a fine secolo.
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica. 
 
@@ -52,12 +48,15 @@ Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese
 <!--inserire screenshot grafofono-->
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che Edouard Leon Scott (1817-1879) mise a punto un apparecchio chiamato fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni. <!-- inserire maggiori informazioni --> Va ricordato inoltre che un altro francese, Charles Cros, nell'aprile 1877 presentò all'Accademia delle Scienze, attraverso una comunicazione scritta, il progetto per una macchina analoga denominata phonograph. <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
-Il primo dispositivo in grado di restituire il suono registrato si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l'attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All'interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda della frequenza in hertz del suono [^luca-cerchiari] si producevano solchi più o meno profondi. La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
+Il primo dispositivo in grado di restituire il suono registrato si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l'attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All'interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda dell'ampiezza d'onda[^luca-cerchiari] si producevano solchi più o meno profondi. La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
+
+
+
 A questo scopo era necessario far scorrere la puntina sui solchi appena incisi. In questo caso la tromba assumeva il ruolo di amplificatore. 
-<!-- inserire screenshot -->
+<!-- inserire foto -->
 Luca Cerchiari afferma che:
 
-> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nell'apparecchio di Leon Scott, e il cilindro è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
+> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, brevettato nel 1857, da  Eduard-Leon Scott de Martinille (Parigi 1817-Parigi 1879), e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
 
 Le macchine iniziano a «parlare», venendo da subito definite talking machines.
 
@@ -65,17 +64,18 @@ Le macchine iniziano a «parlare», venendo da subito definite talking machines.
 
 [^luca-cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
 
-Edison contribuì anche al perfezionamento acustico del telefono di Alexander Graham Bell, mediante la sostituzione del microfono a induzione con quello a carbone. Queste ed altre numerose invenzioni hanno luogo nel laboratorio di Menlo Park, nel New Jersey, un complesso da lui fondato nel .... 
+Edison contribuì anche al perfezionamento acustico del telefono di Alexander Graham Bell, mediante la sostituzione del microfono a induzione con quello a carbone. Queste ed altre numerose invenzioni hanno luogo nel laboratorio di Menlo Park, nel New Jersey, un complesso da lui fondato nel 1876. 
 La nuova invenzione di Edison presentava però alcuni problemi. Il principale era la difficoltosa realizzazione di più esemplari del cilindro registrato. 
 I primi tentativi di ovviare a questo inconveniente furono, come osserva Cerchiari, di natura artigianale: uno di questi, per esempio, consisteva nel collocare una certa quantità di fonografi di fronte allo stesso esecutore. 
-<!-- inserire screenshot -->
+<!-- inserire foto -->
 
-Ad alcune di queste difficoltà cerca di porre rimedio Alexander Bell, con la collaborazione del cugino Chichester [capire se è un Bell] e dell'inglese Charles Sumner Tainter, attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
+Ad alcune di queste difficoltà cerca di porre rimedio Alexander Bell, con la collaborazione del cugino Chichester Alexander Bell (1848-1924).  e dell'inglese Charles Sumner Tainter, attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
 Va ricordato che Alexander Graham Bell aveva vinto un premio in denaro grazie all'invenzione del telefono da lui presentata all'Accademia delle Scienze di Francia. Il risultato principale del lavoro di Bell e dei suoi collaboratori per il perfezionamento del fonografo consistette nell'introduzione della cera come materiale su cui incidere le vibrazioni sonore, in luogo dello stagno. La nuova macchina creata da Bell nel 1885, chiamata grafofono, consente una durata più ampia della registrazione ma l'utilizzo della cera determina una perdita in termini di volume sonoro: ciò fece sì che ci si orientasse verso un uso di questo prodotto per le registrazioni vocali.
 <!-- foto rullo cerato -->
 
-Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros. <!-- approfondire chi sono --> 
-
+Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di 
+Eduard-Leon  Scott de Martinille (Parigi 1817-Parigi 1879), che nel 1857 brevettò il fonoaugografo e Charles Cros (1842-1888)a cui in Francia si suole attribuire l'invenzione del fonografo in quanto nel 1877 ha depositato all'Accademia delle scienze di Parigi il brevetto di uno strumento che  poteva tracciare le vibrazioni sonore sun disco di cristallo ma e di riprodurle acusticamente, ma siccome Cross non ha avuto i mezzi necessari per poter portareavanti la sua invenzione, in via definitiva è stata poi attribuita al famoso statunitense Edison.
+	LINK PROVVISORIO riferito a Charles  Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
 Si concentrò in particolare sul problema della riproduzione da matrice. Il suo contributo principale, infatti, oltre all'introduzione di una nuova forma di supporto fu l'idea di separare la matrice dalle copie provvedendo così ad una produzione seriale che andava incontro alle attese e alle aspirazioni del nascente mercato fonografico. Il primo modello di disco fu presentato da Berliner nel 1887 ed era costruito con un nuovo materiale che si stava diffondendo, denominato Duranoid. L'anno successivo Berliner presentò inoltre un nuovo dispositivo a trazione manuale mediante manovella e dotato di una tromba il cui collegamento al diaframma era costituito da un'innovativa soluzione consistente nell'uso di un braccio meccanico realizzato dal tecnico tedesco Werner Suess. Questo importante progresso segna una pietra miliare per i successivi sviluppi aprendo la strada al giradischi. 
 <!-- inserire foto -->
 
@@ -121,7 +121,7 @@ Servocontrollato = se il disco deve andare a massima velocità non togli corrren
 Pulse With Modulation (PWM)
 Servocontrollo = è ciò che controlla la velocità di un motore elettrico. Un esempio è il servosterzo nelle automobili.
 
-
+## Ruolo dei produttori
 Storicamente la produzione audio si è necessariamente sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
 
 
@@ -130,11 +130,9 @@ Durante la fase di editing si modificano porzioni delle tracce, correggendo even
 Il mixaggio, durante il quale si bilanciano le tracce, e la successiva fase di mastering in cui si raffina ulteriormente il materiale mixato.
 Il mastering non va confuso con il mastering relativo agli interi album, che comprende anche operazioni come il bilanciamento generale, tenendo conto delle relazioni tra le varie tracce, le pause che devono intercorrere tra la fine dell'una e l'inizio dell'altra etc.
 
-<!-- in quale punto della filiera si decide la frequenza di campionamento? --> "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
-
 Infine la post produzione concerne tutto quello che intercorre tra le registrazioni e il prodotto finito (comprende editing, sound design, mix, mastering…)
 
-<!-- dove si collocano queste operazioni? --> il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito.
+Operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito sono successivequindi esulano dalla definizione di produzione.
 
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 > "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]

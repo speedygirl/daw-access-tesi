@@ -56,7 +56,7 @@ Questo repository contiene il sorgente della mia tesi di laurea in musicologia, 
         4. Riflessione su come può essere reso accessibile software audio [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella terza sezione della tesi (180 pag)
         
 
-    - [Parte 3](./Parte%203.md) - Sofftware E Accessibilità (Analisi di accesibilità delle varie DAW)
+    - [Parte 3](./Parte%203.md) - Sofftware E Accessibilità (Analisi di accessibilità delle varie DAW)
         1. Metodo impiegato nell’analisi (20 pagine)
             1. Metodo impiegato nell'analisi
             2. Regola del 7

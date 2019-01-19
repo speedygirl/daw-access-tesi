@@ -11,19 +11,28 @@ La costituzione stessa tutela <!-- articolo 3 - completare -->
 
 Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni per materiali audiovisivi. <!-- completare -->
 
-La scelta di rivolgermi a questo argomento è nata da <!-- completare -->
+La scelta di affrontare questo argomento è nata da <!-- completare -->
 
-Ho ritenuto opportuno non limitare la trattazione al solo approccio teorico, introducendo anche l'analisi di alcune DAW selezionate, valutandone l'accessibilità in relazione a <!-- completare -->
+Si è ritenuto opportuno non limitare la trattazione al solo approccio teorico, introducendo anche l'analisi di alcune DAW selezionate, valutandone l'accessibilità in relazione a <!-- completare -->
 
 La scelta è caduta su <!-- completare --> in quanto <!-- completare -->
 
 La trattazione è suddivisa in tre macrosezioni <!-- completare -->
+Nel primo capitolo dapprima si definisce il concetto di produzione audio, per poi analizzare come cambia il lavoro del produttore dalla metà degli anni '50 a oggi.
+Si passano poi in rassegna le principali tecnologie utilizzate per la registrazione e la riproduzione sonora dalle origini fino all'attualità (dal fonografo alla Digital Audio Workstation). Si definisce infine il concetto di MIDI dandone una panoramica storica e le principali specifiche tecniche.
+Nella seconda parte la tesi affronta: il concetto di accessibilità e di usabilità, le legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo di siti web e applicazioni,  per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti.
+Si confrontano tre software di editing musicale (Cubase, Reaper e Pro Tools) valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente finale disabile.
+Le problematiche eventualmente riscontrate verranno segnalate alle software house: verrà chiesta la documentazione tecnica relativa, verranno intervistati i programmatori, si cercheranno gli errori di programmazione.
+Lo scopo del lavoro è invitare sviluppatori degli screen reader e software house a meglio integrare i loro prodotti dando prevalenza all’efficacia del lavoro verso il destinatario che, in alcunic asi, può essere una figura fondamentale nell'orientare le logiche di mercato volgendola a scapitodelle aziende le quali mirano a imporre le logiche aziendali.
+<!-- mail francesco levantini 13/10/2018 "presentazione tesi" -->
 
-Il primo capitolo affronta <!-- completare -->
+Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.
+	
+	
+	
+
 
 # 1 Produzione Audio e Tecnologie (strumenti hardware e software per la produzione audio)
-<!-- Rielaborazione linguistica papà --> 
-
 ## 1.1 Cos'è la produzione audio
 
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici.
@@ -31,7 +40,7 @@ Essa comprende più fasi: preproduzione, produzione, post produzione.
 La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto si sceglie la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli strumenti da impiegare.
 Nella fase di produzione si effettua la registrazione dei materiali.
 Tutte le attività successive (editing e manipolazione dei materiali, mixaggio, 
-mastering) fanno parte della post produzione.
+mastering) fanno parte della postproduzione.
 
 ## 1.2 Breve storia delle tecnologie applicate all'audio
 >Dalla fine del XIX secolo si assiste al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico.
@@ -45,18 +54,19 @@ Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese
 
 [^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
 
-<!--inserire screenshot grafofono-->
+<!--inserire foto  grafofono-->
 
-Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che Edouard Leon Scott (1817-1879) mise a punto un apparecchio chiamato fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni. <!-- inserire maggiori informazioni --> Va ricordato inoltre che un altro francese, Charles Cros, nell'aprile 1877 presentò all'Accademia delle Scienze, attraverso una comunicazione scritta, il progetto per una macchina analoga denominata phonograph. <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
-Il primo dispositivo in grado di restituire il suono registrato si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l'attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All'interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda dell'ampiezza d'onda[^luca-cerchiari] si producevano solchi più o meno profondi. La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
-
-
-
+Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto un apparecchio chiamato in francese Phonoautographe, da lui brevettato nel 1857, capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni. <!-- inserire maggiori informazioni --> Va ricordato inoltre che un altro francese, Charles Cros, nell'aprile 1877 presentò all'Accademia delle Scienze, attraverso una comunicazione scritta, il progetto per una macchina analoga denominata phonograph. <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
+Il primo dispositivo in grado di restituire il suono registrato si deve però allo statunitense Thomas Alva Edison (1847-1931). Egli brevettò nel 1878 il fonografo. Lo strumento era composto da una vite filettata scorrevole che, attraverso l'attacco di una manovella, permetteva a un rullo cilindrico di ruotare e di traslare lungo il proprio asse. Il rullo in ottone era inciso con un solco a spirale la cui superficie veniva ricoperta con una sottile lamina di stagno. Tramite una tromba venivano convogliate le onde sonore da incidere sulla superficie di stagno. All'interno della tromba era collocata una membrana che veniva messa in moto vibratorio dalla fonte sonora. Alla membrana era applicato un pennino in grado di incidere lo stagno. A seconda dell'ampiezza d'onda [^ampiezza d'onda enciclopedia Treccani]
+si producevano solchi più o meno profondi [^luca-cerchiari].
+[link enciclopedia Treccani ampiezza d'onda](http://www.treccani.it/enciclopedia/ampiezza/)
+ 
+La forma cilindrica era congegnale al mantenimento di una velocità di rotazione costante. Elemento innovativo decisivo era la possibilità che tutto il materiale registrato poteva poi venir riprodotto. 
 A questo scopo era necessario far scorrere la puntina sui solchi appena incisi. In questo caso la tromba assumeva il ruolo di amplificatore. 
 <!-- inserire foto -->
 Luca Cerchiari afferma che:
 
-> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, brevettato nel 1857, da  Eduard-Leon Scott de Martinille (Parigi 1817-Parigi 1879), e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
+> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo,  e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno (appunto il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
 
 Le macchine iniziano a «parlare», venendo da subito definite talking machines.
 
@@ -67,61 +77,76 @@ Le macchine iniziano a «parlare», venendo da subito definite talking machines.
 Edison contribuì anche al perfezionamento acustico del telefono di Alexander Graham Bell, mediante la sostituzione del microfono a induzione con quello a carbone. Queste ed altre numerose invenzioni hanno luogo nel laboratorio di Menlo Park, nel New Jersey, un complesso da lui fondato nel 1876. 
 La nuova invenzione di Edison presentava però alcuni problemi. Il principale era la difficoltosa realizzazione di più esemplari del cilindro registrato. 
 I primi tentativi di ovviare a questo inconveniente furono, come osserva Cerchiari, di natura artigianale: uno di questi, per esempio, consisteva nel collocare una certa quantità di fonografi di fronte allo stesso esecutore. 
-<!-- inserire foto -->
+<!-- inserire foto di più fonografi in circolo -->
 
-Ad alcune di queste difficoltà cerca di porre rimedio Alexander Bell, con la collaborazione del cugino Chichester Alexander Bell (1848-1924).  e dell'inglese Charles Sumner Tainter, attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
+Ad alcune di queste difficoltà cerca di porre rimedio Alexander Graham Bell, con la collaborazione del cugino Chichester Alexander Bell (1848-1924)  e dell'ingegnere americano Charles Sumner Tainter (1854-1940), attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
 Va ricordato che Alexander Graham Bell aveva vinto un premio in denaro grazie all'invenzione del telefono da lui presentata all'Accademia delle Scienze di Francia. Il risultato principale del lavoro di Bell e dei suoi collaboratori per il perfezionamento del fonografo consistette nell'introduzione della cera come materiale su cui incidere le vibrazioni sonore, in luogo dello stagno. La nuova macchina creata da Bell nel 1885, chiamata grafofono, consente una durata più ampia della registrazione ma l'utilizzo della cera determina una perdita in termini di volume sonoro: ciò fece sì che ci si orientasse verso un uso di questo prodotto per le registrazioni vocali.
 <!-- foto rullo cerato -->
 
-Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di 
-Eduard-Leon  Scott de Martinille (Parigi 1817-Parigi 1879), che nel 1857 brevettò il fonoaugografo e Charles Cros (1842-1888)a cui in Francia si suole attribuire l'invenzione del fonografo in quanto nel 1877 ha depositato all'Accademia delle scienze di Parigi il brevetto di uno strumento che  poteva tracciare le vibrazioni sonore sun disco di cristallo ma e di riprodurle acusticamente, ma siccome Cross non ha avuto i mezzi necessari per poter portareavanti la sua invenzione, in via definitiva è stata poi attribuita al famoso statunitense Edison.
+Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni del già citato 
+Eduard-Leon Scott de Martinille e Charles Cros (1842-1888)a cui in Francia si suole attribuire l'invenzione del fonografo in quanto nel 1877 ha depositato all'Accademia delle scienze di Parigi il brevetto di uno strumento che  poteva tracciare le vibrazioni sonore su un disco di cristallo e di riprodurle acusticamente, ma siccome Cross non ha avuto i mezzi necessari per poter portare avanti la sua invenzione, in via definitiva è stata poi attribuita al famoso statunitense Edison.
 	LINK PROVVISORIO riferito a Charles  Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
-Si concentrò in particolare sul problema della riproduzione da matrice. Il suo contributo principale, infatti, oltre all'introduzione di una nuova forma di supporto fu l'idea di separare la matrice dalle copie provvedendo così ad una produzione seriale che andava incontro alle attese e alle aspirazioni del nascente mercato fonografico. Il primo modello di disco fu presentato da Berliner nel 1887 ed era costruito con un nuovo materiale che si stava diffondendo, denominato Duranoid. L'anno successivo Berliner presentò inoltre un nuovo dispositivo a trazione manuale mediante manovella e dotato di una tromba il cui collegamento al diaframma era costituito da un'innovativa soluzione consistente nell'uso di un braccio meccanico realizzato dal tecnico tedesco Werner Suess. Questo importante progresso segna una pietra miliare per i successivi sviluppi aprendo la strada al giradischi. 
-<!-- inserire foto -->
+
+Berliner si concentrò in particolare sul problema della riproduzione da matrice. Il suo contributo principale, infatti, oltre all'introduzione di una nuova forma di supporto fu l'idea di separare la matrice dalle copie provvedendo così ad una produzione seriale che andava incontro alle attese e alle aspirazioni del nascente mercato fonografico. Il primo modello di disco fu presentato da Berliner nel 1887 ed era costruito con un nuovo materiale che si stava diffondendo, denominato Duranoid. L'anno successivo Berliner presentò inoltre un nuovo dispositivo a trazione manuale mediante manovella e dotato di una tromba il cui collegamento al diaframma era costituito da un'innovativa soluzione consistente nell'uso di un braccio meccanico realizzato dal tecnico tedesco Werner Suess. Questo importante progresso segna una pietra miliare per i successivi sviluppi aprendo la strada al giradischi. 
+<!-- inserire foto matrice e dispositivo Berliner -->
 
 Osserva Luca Cerchiari:
 
 > "L'apparecchio di Berliner deve attendere ancora qualche anno, il tempo necessario all'individuazione di materiali chimici adatti. Nel 1893 l'inventore opta per la gommalacca (la celebre *shellac*)." 
 
-Il problema di realizzare un motore a molla concorrenziale a quelli elettrici introdotti da Bell e Tainter con il graphophone viene demandato ad Eldridge Johnson, un esperto ingegnere meccanico del New Jersey, che nel 1897 è incaricato di costruire sia il motore sia la tromba degli apparecchi di Berliner, prodotti dalla società che il tedesco-americano ha fondato con il nome di United States Gramophone Company. Johnson inizia anche a occuparsi del problema delle copie trattate dalla matrice, sperimentando soluzioni chimiche innovative. I primi dischi realizzati con la nuova tecnica hanno un diametro di 18 centimetri e una velocità di rotazione di oltre 70 giri al minuto; il diametro sale quindi a 25 e poi a 30 centimetri, mentre la durata di una facciata varia dai due ai quattro minuti. Johnson sperimenta in seguito anche la registrazione su entrambe le facciate di un disco, com'è provato da tre esemplari realizzati nella primavera-estate del 1900 e ritrovati a distanza di decenni; il criterio viene quindi adottato da tutti, in pochi anni".
+Il problema di realizzare un motore a molla concorrenziale a quelli elettrici introdotti da Bell e Tainter con il graphophone viene demandato ad Eldridge Reeves Johnson (1867-1945), un esperto ingegnere meccanico del New Jersey, che nel 1897 è incaricato di costruire sia il motore sia la tromba degli apparecchi di Berliner, prodotti dalla società che il tedesco-americano ha fondato con il nome di United States Gramophone Company. Johnson inizia anche a occuparsi del problema delle copie trattate dalla matrice, sperimentando soluzioni chimiche innovative. I primi dischi realizzati con la nuova tecnica hanno un diametro di 18 centimetri e una velocità di rotazione di oltre 70 giri al minuto; il diametro sale quindi a 25 e poi a 30 centimetri, mentre la durata di una facciata varia dai due ai quattro minuti. Johnson sperimenta in seguito anche la registrazione su entrambe le facciate di un disco, com'è provato da tre esemplari realizzati nella primavera-estate del 1900 e ritrovati a distanza di decenni; il criterio viene quindi adottato da tutti, in pochi anni".
 Gli esiti del lavoro di Berliner vengono ulteriormente perfezionati fino a raggiungere, ad inizio del '900, risultati di notevole importanza quali l'aumento del minutaggio dei dischi e la riduzione delle dimensioni. Questi fattori aumentano di gran lunga la popolarità del supporto ed è per rispondere alle esigenze sempre più pressanti dei consumatori che si perverrà, nel secondo dopoguerra, ad uno sviluppo esponenziale della tecnologia del disco.
 Nel secondo dopoguerra infatti quelle tecnologie che erano state utilizzate con successo in ambito bellico per registrare e trasmettere messaggi, trovano applicazione in campo civile come strumenti per la riproduzione e la commercializzazione di registrazione per lo più musicali e si risolve in modo pressoché definitivo il problema della durata dell'incisione, passando dai due minuti della traccia del disco a settantotto giri ai quattro minuti del trentatré.
 Un‘ulteriore innovazione si ha nel campo dei materiali impiegati per la realizzazione dei supporti. Mentre il settantotto giri infatti era in gommalacca, materiale particolarmente fragile e sensibile alle variazioni termiche, il trentatré giri si avvarrà del PVC (cloruro di polivinile); ossia una resina termoplastica da cui il supporto prende il nome. Da notare che nel linguaggio comune si indica spesso impropriamente con il termine “vinile" il disco a trentatré giri, quando in realtà anche gli altri supporti coevi, quarantacinque e sedici, impiegano il medesimo materiale. Il disco in vinile, come il predecessore a settantotto giri, consiste in una piastra di forma circolare in cui è inciso da entrambi i lati un solco spiraliforme dall'esterno verso l'interno, la cui larghezza e profondità sono variabili. Questo nuovo supporto risulta maggiormente idoneo all'immagazzinamento di musica colta <!-- inserire fonte --> poiché, grazie alla leggerezza del materiale e al diverso spessore dei solchi, era possibile avere a disposizione una più elevata quantità di tempo. Ciò era possibile proprio perché il materiale consentiva di ridurre la velocità di rotazione permettendo l'incisione di tracce più estese.
 Lo strumento impiegato per la riproduzione del vinile era il giradischi, che ebbe subito un largo successo commerciale determinato dal fatto che consentiva l'utilizzo dei diversi tipi di formato, per le diverse tipologie di dischi (settantotto, trentatré, quarantacinque). 
-<!-- inserire screenshot giradischi -->
+<!-- inserire foto giradischi -->
 
-Tra gli anni ‘50 e ‘60 del Novecento, negli USA, furono prodotti anche supporti di formato particolare (LLP; 16 pollici; 16,6 giri al minuto) specifici per l'uso radiofonico. Il loro impiego consentiva una durata maggiore a scapito della qualità del suono. Si riporta di seguito una tabella che riassume le caratteristiche dei vari supporti di incisione su disco (diametro, velocità di rotazione, giri al minuto, denominazione e durata delle facciate in minuti):
-QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI?
-Diametro in Pollici	Velocità di rotazione in Cm	Girei al minuto	Denominazione comune	Durata per facciata in minuti
+Tra gli anni ‘50 e ‘60 del Novecento, negli USA, furono prodotti anche supporti di formato particolare (LLP; 16 pollici; 16,6 giri al minuto) specifici per l'uso radiofonico. Il loro impiego consentiva una durata maggiore a scapito della qualità del suono.
+<!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
+
+Si riporta di seguito una tabella che riassume le caratteristiche dei vari supporti di incisione su disco (diametro in pollici, velocità di rotazione in giri al minuto, denominazione e durata delle facciate in minuti):
+
 12	30.0	33	Long Playing; LP; 33 giri	30
 12	30.0	45/33 (1/3 apice)	Maxi Single, Mix, EP; 12	15
 10	25.0	45/33 /"	10 ; “EP 10	15
 10	25.0	78	78 giri; Single-playing SP	3
 7	17.5	45/33 (1/3 apice)	EP 7	5/7
 7	17.5	45	Singolo; 45 giri; 7	3
-CITARE FONTE DELLA TABELLA
+<!-- CITARE FONTE DELLA TABELLA -->
+
 I dischi, a 78 giri e i primi microsolco erano monofonici; fin dalla terza decade del XIX secolo studiarono il modo di incidere contemporaneamente due segnali su un'unica traccia. Questa possibilità divenne alla portata del grande pubblico solo tre decenni più tardi.
 Fino ad allora l'unico movimento della puntina ad essere sfruttato era quello orizzontale. In seguito si aggiunse anche quello verticale.
 Per ottenere una riproduzione stereofonica riuscirono a incidere in un unico solco i due canali necessari, utilizzando per il segnale di somma, destro + sinistro, i movimenti orizzontali dello stilo e per il segnale di differenza, destro – sinistro, i movimenti verticali. Interessante notare la differenza rispetto all'attuale cultura commerciale, il fatto che il nuovo supporto fosse compatibile con i precedenti dispositivi di riproduzione monofonici.) AGGIUNGERE QUADRIFONIA
-Prima di passare alla disamina del Compact Disk appare opportuno accennare alle tecnologie del nastro magnetico e della registrazione elettrica. Il primo nastro magnetico fu ideato da Valdemar Poulsen nel 1898. In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
+Prima di passare alla disamina del Compact Disk (CD) appare opportuno accennare alle tecnologie del nastro magnetico e della registrazione elettrica. Il primo nastro magnetico fu ideato dall'ingegnere danese Valdemar Poulsen (1869-1942) nel 1898, l'inventore del registratore a filo. 
+<!-- crecare fonte bibliografica e creare nota -->
+<!-- inserire foto registratore a filo -->
+
+In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
 Si può dire che più o meno nel medesimo periodo ci fu da parte dell'azienda statunitense Ampex un tentativo di implementazione del sistema di incisione su nastri. Tuttavia i costi particolarmente proibitivi e le grosse dimensioni dei macchinari rendevano tale sistema poco adatto a una commercializzazione di massa.
 Per sopperire a questo problema la ditta olandese Philips propose nel 1963 l'audio cassetta (in inglese compact cassette). La semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnava però ad una perdita di qualità sonora, nonostante ciò, a partire dalla metà degli anni '80 del Novecento l'audio cassetta si impose come il supporto più utilizzato nel mondo.
 INTEGRA COMPACT CASSETTE.
 A cavallo tra gli anni '80 e '90 si è voluto tentare di commercializzare dispositivi con un formato basato sul sistema digitale finalizzati alla sostituzione dell'audio cassetta. Le più note proposte avanzate in questo contesto sono il Digital Audio Tape (DAT) e Digital Compact Cassette (DCC). Queste tecnologie non ebbero però un seguito rilevante e dispositivi di questo tipo sono oggi impiegati solo all'interno degli studi di registrazione; mentre in passato il DAT anche a scopi professionali in ambito radiofonico, cinematografico, e televisivo senza riuscire a raggiungere una diffusione di massa.
 Il DAT, introdotto dalla Sony nel 1987, poteva avere una durata compresa tra i 15 e i 240 minuti, dipendente dall'estensione del nastro. Esso consisteva in un nastro magnetico da 1/8 protetto da un involucro (MATERIALE).
-(INFO TECNICHE FUNZIONAMENTO).
+<!-- INFO TECNICHE FUNZIONAMENTO. -->
+
 La frequenza di campionamento di tale dispositivo era pari a 96, 48, 44.1, oppure 32 KHz a 16 bit; il suono non era soggetto a una compressione audio, infatti il segnale di input era mantenuto integro nella sua totalità. 
 Il DCC era basato su una tecnologia sostanzialmente analoga a quella del DAT. Esso tuttavia offriva una precisione inferiore al DAT ma comunque pari o superiore a quella offerta dalle audiocassette.
 Nel 1979 fu brevettata una nuova tecnologia di registrazione e riproduzione del suono destinata ad avere un enorme successo commerciale : il Compact Disk (CD) A parte le ridotte dimensioni (12 cm contro i 30 cm dell'LP), rispetto al tradizionale disco microsolco esso ha la caratteristica di essere riprodotto attraverso una lettura ottica mediante laser che non prevede più il contatto fisico con il disco. La lettura ottica è un elemento ripreso da un prodotto di scarsissimo successo, il video disco, mentre la codifica, chiamata PCM, e consistente in una stringa in codice binario era già conosciuta negli anni '50 in campo militare. 
 Fu la Philips a sviluppare la mediazione tra codifica digitale e tecnologia ottica. Il CD utilizza un principio ottico che non si basa sul sistema di perforazione, come nei precedenti supporti, ma sul contrasto di fase. In questo modo il laser subisce una modulazione da parte delle interferenze che vengono prodotte mediante irregolarità presenti sula superficie del disco: esso infatti presenta avvallamenti che hanno lunghezza pari a un quarto rispetto all'onda del raggio incidente. La luce che viene riflessa dall'avvallamento copre una distanza che è in opposizione di fase rispetto alla luce che viene riflessa dalla superficie piana: si crea in questo modo un'interferenza che determina un calo dell'energia del laser interpretata dal lettore cd come informazione binaria.
 La sue superficie viene incisa da un raggio all'eliocadmio la cui lunghezza d'onda è di circa 400 (MIgreca+m)
 La matrice è dunque ricoperta con un sottile strato d'argento che, indurito, costituisce poi lo stampo per la serializzazione.
-Il grande successo commerciale di questo supporto si deve anche all'accordo intercorso tra Philps, Sony e Matzushita. Le quali hanno contribuito implementando uno specifico aspetto La Philips ha dato il suo contributo nella parte elettronica definendo un protocollo per la correzione che consentiva la lettura del CD anche se danneggiato e realizzando un convertitore che aumentava la risoluzione digitale da 14 a 16 bit; mentre Matzushita ha introdotto un microlaser commerciale servo-controllato con una vita media di circa 50000 ore. (DEFINIZIONE DI SERVO-CONTROLLATO).
-Servocontrollato = se il disco deve andare a massima velocità non togli corrrente, se vuoi dimezzare la velocità dimezzi la quantità di corrente diminuisci la frequenza degli impulsi eletrici
-Pulse With Modulation (PWM)
-Servocontrollo = è ciò che controlla la velocità di un motore elettrico. Un esempio è il servosterzo nelle automobili.
+<!-- Citare Garzantina -->
+<!-- inserire foto schema Garzantina -->
 
-## Ruolo dei produttori
+Il grande successo commerciale di questo supporto si deve anche all'accordo intercorso tra Philps, Sony e Matzushita. Le quali hanno contribuito implementando uno specifico aspetto La Philips ha dato il suo contributo nella parte elettronica definendo un protocollo per la correzione che consentiva la lettura del CD anche se danneggiato e realizzando un convertitore che aumentava la risoluzione digitale da 14 a 16 bit; mentre Matzushita ha introdotto un microlaser commerciale servo-controllato con una vita media di circa 50000 ore. 
+<!--DEFINIZIONE DI SERVO-CONTROLLATO -->
+
+
+<!-- Servocontrollato = se il disco deve andare a massima velocità non togli corrrente, se vuoi dimezzare la velocità dimezzi la quantità di corrente diminuisci la frequenza degli impulsi eletrici
+Pulse With Modulation (PWM)
+Servocontrollo = è ciò che controlla la velocità di un motore elettrico. Un esempio è il servosterzo nelle automobili. -->
+
+## 1.3 Ruolo dei produttori
 Storicamente la produzione audio si è necessariamente sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
 
 
@@ -197,9 +222,9 @@ Il processo di produzione si compone di una serie di fasi.
 La prima è la cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione. Il produttore spesso entra già in questa fase, che include il progetto di scrittura e arrangiamento della canzone, senza avere un ruolo attivo ma piuttosto quello di supporto, consigliere e critico. Egli propone suggerimenti relativi alle modifiche che riguardano l'arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
 La fase successiva è rappresentata dal traking che consiste nella registrazione del suono nella DAW o su nastro. Responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista, svolgendo una funzione di consulente musicale.
 Vi è poi la fase, denominata post produzione, che coincide in genere con il mixaggio; essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
-La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste apparecchiature sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
+La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
 I brani realizzati dal produttore possono essere creati interamente all'interno dello studio.
-In passato le apparecchiature erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da apparecchiature analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. 
+In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da strumentazioni analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. 
 
 
 mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
@@ -221,7 +246,7 @@ Alcuni esempi di programmi di questo tipo sono
 Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
 Tali strumentazioni permettono anche una produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
 
-## 1.3 Cos'è una DAW (digital audio worck station
+## 1.4 Cos'è una DAW (digital audio worck station
 
-## 1.4 Cos'è il midi 
+## 1.5 Cos'è il midi 
 

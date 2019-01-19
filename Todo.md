@@ -9,27 +9,27 @@ Jin Hyun Kim  docente Berklee che ha dato informazioni
 [^hertz]: Consultato 18/1/2019 *http://www.treccani.it/vocabolario/hertz/*
 # cose da sistemare o integrare in parte 1
 ## paragrafo 1.1 la produzione audio
-- [ ] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
-- [ ] dove si collocano queste operazioni? riferimento: " il rivversamento dell materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito."
-- [ ] frase che precede il riferimento: "per il motivo sopra esposto" spiegare quali sono le relazioni tra qualità del mix, emozione data dal mix etc...
--  [ ] riferimento: "Per contro un prodotto qualitativamente notevole può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente."
+- [x] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
+- [x] dove si collocano queste operazioni? riferimento: " il rivversamento dell materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito."
+- [x] frase che precede il riferimento: "per il motivo sopra esposto" spiegare quali sono le relazioni tra qualità del mix, emozione data dal mix etc...
+-  [x] riferimento: "Per contro un prodotto qualitativamente notevole può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente."
 <!-- qualitativamente rispetto a quali parametri? -->
 - [ ] riferimento: "nelle esecuzioni dal vivvo invece"
 Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorare a frequenze diverse? In che senso si parla di definizione in frequenza del suono?
-- [ ] citare fonte da cui si è trovato il termine "early music era". riferimento: "sul piano cronologico possono essere"
-[ ] [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
+- [x] citare fonte da cui si è trovato il termine "early music era". riferimento: "sul piano cronologico possono essere"
+[x] [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 <!-- inserire nota con apice [^n] accanto ai 3 termini "early label era, mature music era, indipendent era" e numero di pagina-->
-- [ ] riferimento: "nonostante tutto però i produttori"
+- [x] riferimento: "nonostante tutto però i produttori"
 <!-- Citare fonte precisa perchè in alcuni casi è come scrivi, ma spesso i vari compiti sono divisi tra diverse figure. -->
 fonte: [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
-- [ ]  riferimento: "In passato le apparecchiature potevano essere di tipo sia elettronico"
-<!-- meccanico? -->
+- [x]  riferimento: "In passato le strumentazioni  potevano essereelettromeccaniche"
+già corretto: all'interno del testo: le strumentaziooni  erano elettromeccaniche.
 - [ ] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW (che attualmente è in fase di scrittura). riferimento: "Il fulcro dello studio odierno è la DAW"
 <!-- Si spiega qui un termine già usato in precedenza, andrebbe chiarito prima di cosa si tratta. -->
 - [ ] riferimento: "la daw può essere in dap"
 qual è il ruolo del pc?	1
 <!-- Un player audio non è una DAW. -->
-- [ ] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
+- [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
  <!-- equipe "in che senso?" -->
 - [ ] inserire nel capitolo più adatto 1 o 3? [ ] leggi articolo conversazioone wa ale 13/1 nei mess importanti e vedi bibliografia. il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
@@ -43,23 +43,21 @@ qual è il ruolo del pc?	1
  - [x] verificare se la profondità dei solchi nel fonografo è determinata dalla frequenza o dall'ampiezza d'onda. è determinata dall'ampiezza d'onda.
  - [x] riferimento: "complesso da lui fondato" quando?
 - [x] riferimento: "con la collaborazione del cugino Chichester" [capire se è un Bell] sì lo è
-- [ ] Alexander Graham
+- [x] Alexander Graham
 - [x] riferimento: "Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros" >!-- approfondire chi sono -->
 LINK PROVVISORIO riferito a Charles Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
 Scott trovato bisogna mettere fonte bibliografica
 
 - [ ] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
-- [ ] 
-  
-
- 
- 
-
-- [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
+- [ ] <!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
+  - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
 - [ ] aggiungere quadrifonia riferimento: "Interessante notare la differenza rispetto all’attuale cultura commerciale"
+- [ ] inserire fonte bibliografica e creare nota. riferimento: "ingegnere danese Valdemar Poulsen"
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
-- [ ] la versione 2.0 del midi esiste? presentata nel 19 riferimento: "The complete SC MIDI del 1981 "
+- [ ] riferimento:  presentata nel 19 riferimento: "The complete SC MIDI del 1981" la versione 2.0 del midi esiste?
+la versione 2.0 del MIDI non esiste. il midi è alla versione 1.0. il 2.0 riguarda il GM General Midi che permette di fare la mappatura degli strumenti.
+
 - [ ] 
 
 ## paragrafo 1.3 cos'è una daw 
@@ -69,7 +67,7 @@ appunti file word "Daw bozza ver 1.doc"
 ## paragrafo 1.4 il MIDI
 - [ ] importare dal doc word
 - [ ] trasformare evidenziazioni in tasks della to do list
-- [ ] salvare gli screenshot contenuti ndel deoc e importarli in markdown 
+- [ ] salvare le foto contenute ndel deoc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 3"
 - [ ] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

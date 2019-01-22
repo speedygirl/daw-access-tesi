@@ -10,8 +10,8 @@ echo "Generating todo"  >> output.txt 2>&1
 pandoc -s ".\todo.md" --reference-doc=reference.docx -o ".\generated\todo.docx" >> output.txt 2>&1
 echo "Generating README"  >> output.txt 2>&1
 pandoc -s ".\README.md" --reference-doc=reference.docx  -o ".\generated\README.docx" >> output.txt 2>&1
-echo "Generating Ale"  >> output.txt 2>&1
-pandoc -s ".\Ale.md" --reference-doc=reference.docx -o ".\generated\Ale.docx" >> output.txt 2>&1
+echo "Generating Parte 3 integrazioni"  >> output.txt 2>&1
+pandoc -s ".\Parte 3 integrazioni.md" --reference-doc=reference.docx -o ".\generated\Parte 3 integrazioni.docx" >> output.txt 2>&1
 echo "Generating help"  >> output.txt 2>&1
 pandoc -s ".\help.md" --reference-doc=reference.docx -o ".\generated\help.docx" >> output.txt 2>&1
 

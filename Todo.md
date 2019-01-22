@@ -53,8 +53,12 @@ Scott trovato bisogna mettere fonte bibliografica
   - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
 - [ ] aggiungere quadrifonia riferimento: "Interessante notare la differenza rispetto all’attuale cultura commerciale"
 - [ ] inserire fonte bibliografica e creare nota. riferimento: "ingegnere danese Valdemar Poulsen"
+- [ ] <!-- inserire foto registratore a filo -->
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
+- [ ] riferimento: "costituisce poi lo stamop per la serializzazione"
+<!-- Citare Garzantina -->
+<!-- inserire foto schema Garzantina -->
 - [ ] riferimento:  presentata nel 19 riferimento: "The complete SC MIDI del 1981" la versione 2.0 del midi esiste?
 la versione 2.0 del MIDI non esiste. il midi è alla versione 1.0. il 2.0 riguarda il GM General Midi che permette di fare la mappatura degli strumenti.
 

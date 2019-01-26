@@ -11,25 +11,24 @@ La costituzione stessa tutela <!-- articolo 3 - completare -->
 
 Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni per materiali audiovisivi. <!-- completare -->
 
-La scelta di affrontare questo argomento è nata da <!-- completare -->
+La scelta di affrontare questo argomento è nata dall'iniziale frustrazione nell'impossibilità di sostenere l'esame di certificazione Steimberg causa l'alto livello di inaccessibilità del suo programma Cubase. è sorta quindi la volontà di indagare quali fossero i otivi alla base di questa problematica e parallelamente di studiare cosa ci fosse nel panorama circostante, come hanno risolto altri non vedenti la questione. Da qui è nata l'idea di provare diversi programmi.
+Dopo di che, al fine di avere una più ampia panoramica, si è deciso di non limitarsi a un solo sistema operativo, ma di usare i due più diffusi e più facilmente fruibili, Windows e Mac, essendo essi molto ben equipaggiati di assistive technologies.
+Questo è stato anche un buon pretesto per approfondire le conoscenze del sistema operativo Mac che, a differenza di Windows, non era stato approfonditamente indagato.
 
 Si è ritenuto opportuno non limitare la trattazione al solo approccio teorico, introducendo anche l'analisi di alcune DAW selezionate, valutandone l'accessibilità in relazione a <!-- completare -->
 
-La scelta è caduta su <!-- completare --> in quanto <!-- completare -->
+La scelta è caduta su Reaper della Cockos, Pro-Tools della Avid, Cubase della Steimbergin, quanto si tratta delle DAW più celebri e diffuse e si è scelto quindi di operare tra loro una comparazione valutandone il maggior o minor grado di accessibilità. Si è infine scelto di aagevolare la lettrura stilando per ogni programma una tabella 8h c78 s8 elencano le funzioni e la maggior o minor facilità d'accesso attraverso una gradazione numerica da 5 a 1 in cui 5 è perfettamente accessibiel e 1 è completamente inaccessibile.
 
-La trattazione è suddivisa in tre macrosezioni <!-- completare -->
-Nel primo capitolo dapprima si definisce il concetto di produzione audio, per poi analizzare come cambia il lavoro del produttore dalla metà degli anni '50 a oggi.
+La trattazione è suddivisa in tre macrosezioni.
+Nella prima parte si definisce il concetto di produzione audio, per poi analizzare come cambia il lavoro del produttore dalla metà degli anni '50 a oggi.
 Si passano poi in rassegna le principali tecnologie utilizzate per la registrazione e la riproduzione sonora dalle origini fino all'attualità (dal fonografo alla Digital Audio Workstation). Si definisce infine il concetto di MIDI dandone una panoramica storica e le principali specifiche tecniche.
-Nella seconda parte la tesi affronta: il concetto di accessibilità e di usabilità, le legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo di siti web e applicazioni,  per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti.
-Si confrontano tre software di editing musicale (Cubase, Reaper e Pro Tools) valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente finale disabile.
+Nella seconda parte la tesi affronta: il concetto di accessibilità e di usabilità, le legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo di siti web e applicazioni, per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti.
+Infine, nella terza parte, si confrontano tre software di editing musicale (Cubase, Reaper e Pro Tools) valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente finale disabile per poi passare a una disamina teorica dei problemi che causano l'inacessibilità, una panoramica storica dell'evoluzione delle tecnologie .
 Le problematiche eventualmente riscontrate verranno segnalate alle software house: verrà chiesta la documentazione tecnica relativa, verranno intervistati i programmatori, si cercheranno gli errori di programmazione.
-Lo scopo del lavoro è invitare sviluppatori degli screen reader e software house a meglio integrare i loro prodotti dando prevalenza all’efficacia del lavoro verso il destinatario che, in alcunic asi, può essere una figura fondamentale nell'orientare le logiche di mercato volgendola a scapitodelle aziende le quali mirano a imporre le logiche aziendali.
+Lo scopo del lavoro è invitare sviluppatori degli screen reader e case produttrici a meglio integrare i loro prodotti dando prevalenza all’efficacia del lavoro verso il destinatario che, in alcunic asi, può essere una figura fondamentale nell'orientare le logiche di mercato volgendola a scapitodelle aziende le quali mirano a imporre le logiche aziendali.
 <!-- mail francesco levantini 13/10/2018 "presentazione tesi" -->
 
 Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.
-	
-	
-	
 
 
 # 1 Produzione Audio e Tecnologie (strumenti hardware e software per la produzione audio)
@@ -226,15 +225,12 @@ La produzione di un brano implica l'impiego di una serie di attrezzature per l'a
 I brani realizzati dal produttore possono essere creati interamente all'interno dello studio.
 In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da strumentazioni analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. 
 
-
-mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
-
 <!-- Un player audio non è una DAW. -->
 
 Inizialmente in sequencer erano solamente MIDI e gestivano i materiali MIDI.
 Poi, quando si è passati all'audio si è iniziato a suonare gli audio sequencer. infine si è passato a usare DAW come sinonimi di sequencer, essi sono sequencer avanzati che gestiscono sia audio che MIDI e i termini spesso vengono usati come intercambiabili senza distinzione.
 
- Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in diversi formati: VSST, Direct X, RTAS, TDM.
+Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in diversi formati: VSST, Direct X, RTAS, TDM.
 Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, di cui si tratterà di seguito nella sezione 1.4, e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un'elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
 <!-- rivedere flessibilità e versatilità -->
 
@@ -247,6 +243,42 @@ Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studi
 Tali strumentazioni permettono anche una produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
 
 ## 1.4 Cos'è una DAW (digital audio worck station
+<!-- inserire definizione di daw e relativa fonte -->
+
+Il segnale audio, per essere  processato, deve prima essere captato e "passare"  varie strumentazioni.  
+La sorgente sonora, ad esempio un violoncello o un cantate, emette un suono, il quale eserccita una variazione di pressione dell'aria circostante. Tale variazione di pressione è caraatterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
+Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione. Il microfono però non è in grado di generare un segnale elettrico sufficentemente potente da poter essere direttamente trasmesso all'amplificatore: se si saltasse il preamplificatore risulterebbe un suono debole e distorto. E' perciò necessario un preamplificatore che funga da intermediario tra il microfono e l'amplificatore. 
+Il segnale viene infatti amplificato dal preamplificatore per poi essere trasmesso  all'amplificatore, detto anche finale di potenza. Raggiunta ora il sufficiente livello di potenza elettrica può mettere in vibrazione gli altparlanti, anche detti diffusori.
+Può essere interno o esterno al mixer, il preamplificatore non è mai assente.
+Il ruolo dei diffusori è riprodurre le variazioni di tensione, è così che si produce una perturbazione meccanica del mezzod i conduzione, l'aria, ritornando così al "suono originario". Suono originario nel senso che si torna a una perturbazione, a un oscillazione di particelle e non più a variazioni di tensione elettrica.
+Il percorso all'interno di un home studio è differente.
+il segnale sonoro captato dal microfono, passa poi attraverso l'audio/midii interface che, grazie a dei convertitori A/D-D/A lo converte da anlogico a digitale e lo invia al computer che lo processa.
+Dal pc passa poi nuovamente attraverso l'audio/midi interface che lo converte da digitale a analogico e lo invia agli altoparlanti.
+
+La scheda audio ha diversi tipi connettori e quindi di interfacciamenti, analogici e digitali,
+con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione.
+I sistemi digitali ricevono invece i segnali da apparecchiature CJ H, apparecchiature come ad esempio il DAT, l'A-DAT, i lettori CD; i processori di segnale (come ad esempio amp simulator, sintetizzatori o expander). Il compito di queste apparecchiature è gestire il segnale digitale.
+Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali, sono disponibili vari  driver per permettere la compatibilità della scheda audio con diversi software.
+<!-- esempi -->
+
+
+SCHEDA AUDIO
+Driver disponibili e loro compatibilità
+compatibilità con diversi software
+Frequenza di campionamento
+Quantizzazione
+
+MULTITRACCIA
+La registrazione multitraccia è caratterizata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due.
+In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce in cui su ciascuna viene indirizzato un canalee in ingresso dalla scheda audio. 
+Si può anche registrare dapprima la batteria, poi in seguito, mettendo in playback la batteria, sovraincidere, ad esempio la chitarra e gli altri strumenti in differita.
+Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
+
+Invece la registrazione tradizionale, oggi  abbandonata, prevedeva la registrazione in tempo reale, che prevedeva semplicemente la registrazione su due canali, destro e sinistro, mediante l'uso di  due microfoni.
+
+mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
+
 
 ## 1.5 Cos'è il midi 
+VEDI FILE WORD
 

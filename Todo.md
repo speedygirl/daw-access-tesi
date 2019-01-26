@@ -2,10 +2,10 @@
 -à [ ] <!-- completare --> disabile visivo definizione da vocabolari
 
 # ringraziamenti
-Cocos, Steimberg che hanno dato licenze
+Cockos, Steimberg che hanno dato licenze
 Jin Hyun Kim  docente Berklee che ha dato informazioni
 
-- [] trovare dove inserire definizione di hertz (nota già pronta di seguito):
+- [ ] trovare dove inserire definizione di hertz (nota già pronta di seguito):
 [^hertz]: Consultato 18/1/2019 *http://www.treccani.it/vocabolario/hertz/*
 # cose da sistemare o integrare in parte 1
 ## paragrafo 1.1 la produzione audio

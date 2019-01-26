@@ -5,9 +5,12 @@
 
 #### 2. Descrivere problemi di usabilità dal punto di vista dell’utente
 ##### 2.1. Come renderli accessibili
+COMPLETARE
 ##### 2.2. SDK per l'accessibilità
+COMPLETARE
 
 #### 3. Ipotesi su problemi e errori nella programmazione a livello software
+COMPLETARE
 ##### 3.1. Limiti delle applicazioni multipiattaforma
 
 Prima di addentrarci nei limiti delle applicazioni multipiattaforma dobbiamo prima comprendere il significato attributo dall'industria informatica al termine *"Piattaforma"*, con piattaforma intendiamo l'insieme della configurazione di un personal computer che include, sia il tipo di architettura hardware del microprocessore, che l'insieme dell'hardware dell'intera macchina, sia il sistema operativo su cui le applicazioni vengono eseguite [^piattaforma].

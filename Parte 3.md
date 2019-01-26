@@ -632,6 +632,42 @@ Ignora etichette ridondanti potrebbe servire a
 1. evitare di dire pulsante (in tag c’è pulsante che fa tal azione” )
 2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
 
+principali funzionalità dal punto di vista dei vedenti da appunti grotta 
+CUBASE PASSI PRINCIPALI
+CONFIGURAZIONE CUBASE DRIVER SCHEDA AUDIO
+                 configurazione progetto sccelta frequenza campionamento; risoluzione in bit
+                              1 menù progetto
+                               2 impostazioni progetto
+
+IMPOSTAZIONI REGOLAZIONE TRACCE
+              IMPOSTAZIONI quale ingresso
+                quale uscita 
+entrambi gestiti dal pannello vst, che associa il canale virtuale al bus fisico onterfaccia il programma  con scheda audio esterna
+
+Gemma Pedrini, [04.01.19 15:59]
+oltre a ingresi e uscite sideve impostare il volume (su cui poerò non ho indicazionii)
+
+Gemma Pedrini, [04.01.19 16:00]
+REGOLAZIONE atttributi della traccia (chesi trovano nell'inspector e sono associati alla traccia selezionata) 
+        solo
+         mte
+       panning
+
+
+AGGIUNGI TIPOLOGIA DIVERSA DI TRACCIA  in cartella o in gruppo: trace come MIDI; jinstrument, audio
+              1 entrare in modalità mixer
+              2 clic per aprire menù conntestuale
+
+
+COMANDI FONDAMENTALI:
+CONTROL+S - SALVA
+SPAZIO - PLAY/STOP
+
+
+tratti da appunti esame cubase per tesi
+per approfondimenti appunti grotta e dispense prof
+
+
 DA APUNTI DAVIDE GROTTA FONICO
 PANNELLO VST: 
 - GESTISCE INGRESSI E USCITE 

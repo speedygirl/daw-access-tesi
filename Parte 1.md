@@ -71,18 +71,20 @@ Le macchine iniziano a «parlare», venendo da subito definite talking machines.
 
 > "La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in chi viene pronunciata."
 
-[^luca-cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
+[^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
 
 Edison contribuì anche al perfezionamento acustico del telefono di Alexander Graham Bell, mediante la sostituzione del microfono a induzione con quello a carbone. Queste ed altre numerose invenzioni hanno luogo nel laboratorio di Menlo Park, nel New Jersey, un complesso da lui fondato nel 1876. 
 La nuova invenzione di Edison presentava però alcuni problemi. Il principale era la difficoltosa realizzazione di più esemplari del cilindro registrato. 
 I primi tentativi di ovviare a questo inconveniente furono, come osserva Cerchiari, di natura artigianale: uno di questi, per esempio, consisteva nel collocare una certa quantità di fonografi di fronte allo stesso esecutore. 
 <!-- inserire foto di più fonografi in circolo -->
 
-Ad alcune di queste difficoltà cerca di porre rimedio Alexander Graham Bell, con la collaborazione del cugino Chichester Alexander Bell (1848-1924)  e dell'ingegnere americano Charles Sumner Tainter (1854-1940), attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
+
+
+Ad alcune di queste difficoltà cerca di porre rimedio Alexander Graham Bell (1847-1922) con la collaborazione del cugino Chichester Alexander Bell (1848-1924)  e dell'ingegnere americano Charles Sumner Tainter (1854-1940), attraverso la fondazione del laboratorio Volta di Washington avvenuta nel 1880. 
 Va ricordato che Alexander Graham Bell aveva vinto un premio in denaro grazie all'invenzione del telefono da lui presentata all'Accademia delle Scienze di Francia. Il risultato principale del lavoro di Bell e dei suoi collaboratori per il perfezionamento del fonografo consistette nell'introduzione della cera come materiale su cui incidere le vibrazioni sonore, in luogo dello stagno. La nuova macchina creata da Bell nel 1885, chiamata grafofono, consente una durata più ampia della registrazione ma l'utilizzo della cera determina una perdita in termini di volume sonoro: ciò fece sì che ci si orientasse verso un uso di questo prodotto per le registrazioni vocali.
 <!-- foto rullo cerato -->
 
-Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner, tedesco naturalizzato statunitense (1851-1929), del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni del già citato 
+Un ulteriore salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense,  del supporto di registrazione di forma discoidale già pensato e sperimentato da Edison nell'ambito della progettazione del telegrafo. Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni del già citato 
 Eduard-Leon Scott de Martinille e Charles Cros (1842-1888)a cui in Francia si suole attribuire l'invenzione del fonografo in quanto nel 1877 ha depositato all'Accademia delle scienze di Parigi il brevetto di uno strumento che  poteva tracciare le vibrazioni sonore su un disco di cristallo e di riprodurle acusticamente, ma siccome Cross non ha avuto i mezzi necessari per poter portare avanti la sua invenzione, in via definitiva è stata poi attribuita al famoso statunitense Edison.
 	LINK PROVVISORIO riferito a Charles  Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
 

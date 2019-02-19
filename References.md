@@ -7,3 +7,4 @@
 - [Easy ABC](https://www.nilsliberg.se/ksp/easyabc/)
 - [Accessible music notation](https://accessiblemusicnotation.wordpress.com/2013/08/21/abc-for-blind-musicians/)
 - [Qt not accessible](https://accessiblemusicnotation.wordpress.com/2014/08/27/musescore-2-0-beta-1-released-with-accessible-score-reading-support/)
+- [storia compact disk](http://www.ilcorrieremusicale.it/2011/11/19/la-nascita-del-cd-quei-74-33-che-hanno-fatto-la-storia/)

@@ -51,9 +51,14 @@ Scott trovato bisogna mettere fonte bibliografica
 - [ ] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
 - [ ] <!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
   - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
-- [ ] aggiungere quadrifonia riferimento: "Interessante notare la differenza rispetto all’attuale cultura commerciale"
+- [x] aggiungere quadrifonia : "Interessante notare la differenza rispetto all’attuale cultura commerciale"
+il riferimento non va messo se si riespone il conccetto con parole proprie.
 - [ ] inserire fonte bibliografica e creare nota. riferimento: "ingegnere danese Valdemar Poulsen"
 - [ ] <!-- inserire foto registratore a filo -->
+tratta da questo link: http://farm5.static.flickr.com/4010/4309065626_12de332286.jpg
+nome file: nome file: registratore-a-filo-01
+directory: onedrive<tesi<textedition<images
+
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
 - [ ] riferimento: "costituisce poi lo stamop per la serializzazione"

@@ -61,9 +61,9 @@ directory: onedrive<tesi<textedition<images
 
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
-- [ ] riferimento: "costituisce poi lo stamop per la serializzazione"
+- [x] riferimento: "costituisce poi lo stampo per la serializzazione"
 <!-- Citare Garzantina -->
-<!-- inserire foto schema Garzantina -->
+- [x] <!-- inserire foto schema Garzantina -->
 - [ ] riferimento:  presentata nel 19 riferimento: "The complete SC MIDI del 1981" la versione 2.0 del midi esiste?
 la versione 2.0 del MIDI non esiste. il midi è alla versione 1.0. il 2.0 riguarda il GM General Midi che permette di fare la mappatura degli strumenti.
 

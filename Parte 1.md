@@ -138,9 +138,8 @@ Nel 1979 fu brevettata una nuova tecnologia di registrazione e riproduzione del 
 Fu la Philips a sviluppare la mediazione tra codifica digitale e tecnologia ottica. Il CD utilizza un principio ottico che non si basa sul sistema di perforazione, come nei precedenti supporti, ma sul contrasto di fase. In questo modo il laser subisce una modulazione da parte delle interferenze che vengono prodotte mediante irregolarità presenti sula superficie del disco: esso infatti presenta avvallamenti che hanno lunghezza pari a un quarto rispetto all'onda del raggio incidente. La luce che viene riflessa dall'avvallamento copre una distanza che è in opposizione di fase rispetto alla luce che viene riflessa dalla superficie piana: si crea in questo modo un'interferenza che determina un calo dell'energia del laser interpretata dal lettore cd come informazione binaria.
 La sua superficie viene incisa da un raggio all'eliocadmio la cui lunghezza d'onda è di circa 400 (MIgreca+m)
 La matrice è dunque ricoperta con un sottile strato d'argento che, indurito, costituisce poi lo stampo per la serializzazione.
-<!-- Citare Garzantina -->
-<!-- inserire foto schema Garzantina -->
-
+[Le Garzantine 2012]()
+![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)
 Il grande successo commerciale di questo supporto si deve anche all'accordo intercorso tra Philps, Sony e Matzushita. Esse hanno contribuito implementando uno specifico aspetto La Philips ha dato il suo contributo nella parte elettronica definendo un protocollo per la correzione che consentiva la lettura del CD anche se danneggiato e realizzando un convertitore che aumentava la risoluzione digitale da 14 a 16 bit; mentre Matzushita ha introdotto un microlaser commerciale servo-controllato con una vita media di circa 50000 ore. 
 <!--DEFINIZIONE DI SERVO-CONTROLLATO -->
 

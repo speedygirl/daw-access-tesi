@@ -230,12 +230,20 @@ In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei proce
 
 <!-- Un player audio non è una DAW. -->
 
+Inizialmente, negli anni '60, coi primi sequencer analogici si poteva, variando i segnali di tensione elettrica, eseguire una sequenza di controllo ciclica. In pratica, con la differenza di tensione elettrica, si generavano note e controllare parametri del sintetizatore, quindi gli effetti.
+Nel decennio successivo sono implementati i sequencer  analogici che sfruttano il digitale per la memoria per archiviare  gli eventi e dotati di uscite analogiche. I sequencer di questi anni erano programmabili usando una tastiera alfanumerica. Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del ipanoforte che facilitava l'esecuzione ai performer.
+Con l'avvento del MIDI e del computer aumentano le possibilità armoniche e espressive perchè coi sequencer si poteva così pilotare fino a 16 **"tracce"** polifoniche.
+Da qui inizia l'impiego del computer come sequencer, grazie a programmi ad hoc e alle interfacce e al protocollo MIDI che lo rendevano compatibile con esterni. 
+A metà degli anni '90 ha così origine Cubase VST, il programma che per eccellenza svolge anche la funzione di sequencer. Due novità da esso introdotte sono il protocollo VST [^1] e la tecnologia ASIO [^2]. 
+[^1] Virtual Standard Technology è un protocollo implementato dalla Steimberg per i plug in che aassegna ai MIDI strumenti virtuali e effetti.
+[^2] driver con latenza minore rispetto ai driver della scheda audio esterna.
 Inizialmente in sequencer erano solamente MIDI e gestivano i materiali MIDI.
 Poi, quando si è passati all'audio si è iniziato a suonare gli audio sequencer. infine si è passato a usare DAW come sinonimi di sequencer, essi sono sequencer avanzati che gestiscono sia audio che MIDI e i termini spesso vengono usati come intercambiabili senza distinzione.
-
-Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in diversi formati: VSST, Direct X, RTAS, TDM.
+La funzione del sequencer è generare e controllare sequenze di segnali di controllo tramite le quali si pilota uno strumento elettronico, potenziometri e pulsanti dei sitetizzatori; il sequencer può essere sia hardware che software.
+Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in in diversi formati: VSST, Direct X, RTAS, TDM.
 Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, di cui si tratterà di seguito nella sezione 1.4, e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un'elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
 <!-- rivedere flessibilità e versatilità -->
+
 
 Il produttore, nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale. Si può pertanto assimilare il ruolo del produttore a quello di un musicista; questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio; le DAW (Digital Audio Workstation) che permettono una realizzazione “domestica" (home recording studio) attraverso l'utilizzo di computer fissi o portatili. Questi programmi, che svolgono funzioni che fino a poco tempo fa erano appannaggio di equipes, consentono al singolo di produrre le tracce musicali in modo autonomo essendo essi molto più facili e intuitivi, non richiedono particolari abilità e conoscenze tecniche per essere usati.
 

@@ -32,7 +32,10 @@ qual è il ruolo del pc?	1
 - [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
  <!-- equipe "in che senso?" -->
-- [ ] inserire nel capitolo più adatto 1 o 3? [ ] leggi articolo conversazioone wa ale 13/1 nei mess importanti e vedi bibliografia. il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
+- [x] letto e riassunto articolo wa 13/1 
+- [ ] inserire riassunto dell'articolo del 13/1 (riguardante la storia dei sequencer da '50 a è90) nel capitolo più adatto 1 o 3?
+[ ] articolo conversazioone wa ale 13/1 nei mess importanti vedi bibliografia. 
+il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
 - [ ] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
@@ -76,7 +79,7 @@ appunti file word "Daw bozza ver 1.doc"
 ## paragrafo 1.4 il MIDI
 - [ ] importare dal doc word
 - [ ] trasformare evidenziazioni in tasks della to do list
-- [ ] salvare le foto contenute ndel deoc e importarli in markdown 
+- [ ] salvare le foto contenute nel deoc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 3"
 - [ ] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

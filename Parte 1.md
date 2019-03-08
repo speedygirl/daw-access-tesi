@@ -189,7 +189,7 @@ Nelle esecuzioni dal vivo non è possibile un rimaneggiamento del materiale a ca
 <!-- Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorare a frequenze diverse?
 In che senso si parla di definizione in frequenza del suono? -->
 
-Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza).
+Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza, gli armonici).
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
 
 ### Sviluppo cronologico della figura del produttore

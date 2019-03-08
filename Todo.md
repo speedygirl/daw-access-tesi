@@ -32,7 +32,7 @@ qual è il ruolo del pc?	1
 - [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
  <!-- equipe "in che senso?" -->
-- [x] letto e riassunto articolo wa 13/1 
+- [x] letto e riassunto articolo conversazioone wa ale 13/1 nei mess importanti 
 - [ ] inserire riassunto dell'articolo del 13/1 (riguardante la storia dei sequencer da '50 a è90) nel capitolo più adatto 1 o 3?
 [ ] articolo conversazioone wa ale 13/1 nei mess importanti vedi bibliografia. 
 il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 

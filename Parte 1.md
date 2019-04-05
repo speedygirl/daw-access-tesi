@@ -151,34 +151,41 @@ Per la lettura dei microsolchi viene realizzato dalla Philco Corporation un nuov
   <!-- inserire foto giradischi -->
 
 
-<!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
 
-Si riporta di seguito una tabella che riassume le caratteristiche dei vari supporti di incisione su disco (diametro in pollici, velocità di rotazione in giri al minuto, denominazione e durata delle facciate in minuti):
 
-12	30.0	33	Long Playing; LP; 33 giri	30
-12	30.0	45/33 (1/3 apice)	Maxi Single, Mix, EP; 12	15
-10	25.0	45/33 /"	10 ; “EP 10	15
-10	25.0	78	78 giri; Single-playing SP	3
-7	17.5	45/33 (1/3 apice)	EP 7	5/7
-7	17.5	45	Singolo; 45 giri; 7	3
-<!-- CITARE FONTE DELLA TABELLA -->
 
-I dischi, a 78 giri e i primi microsolco erano monofonici; fin dalla terza decade del XIX secolo studiarono il modo di incidere contemporaneamente due segnali su un'unica traccia. Questa possibilità divenne alla portata del grande pubblico solo tre decenni più tardi.
-Fino ad allora l'unico movimento della puntina ad essere sfruttato era quello orizzontale. In seguito si aggiunse anche quello verticale.
-Per ottenere una riproduzione stereofonica riuscirono a incidere in un unico solco i due canali necessari, utilizzando per il segnale di somma, destro + sinistro, i movimenti orizzontali dello stilo e per il segnale di differenza, destro – sinistro, i movimenti verticali. Interessante notare la differenza rispetto all'attuale cultura commerciale, il fatto che il nuovo supporto fosse compatibile con i precedenti dispositivi di riproduzione monofonici. 
-La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, data però la difficoltà di attuazione ebbe scarsa diffusione al pubblico di massa. La quadrifonia presuppone infatti che il suono venga riprodotto in quattro diversi diffusori posti due davanti e due dietro chi ascolta, seguendo precise regole. 
-Prima di passare alla disamina del Compact Disk (CD) appare opportuno accennare alle tecnologie del nastro magnetico e della registrazione elettrica. Il primo nastro magnetico fu ideato dall'ingegnere danese Valdemar Poulsen (1869-1942) nel 1898, l'inventore del registratore a filo. 
+
 <!-- cercare fonte bibliografica e creare nota -->
 <!-- inserire foto registratore a filo -->
 nome file: registratore-a-filo-01
 
 
+I primi tentativi di una registrazione su dispositivi magnetici furono fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Nel 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
+> ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete  al quale venivano inviati impulsi elettrici provenienti da un mi9crofono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia.
+[Tigani p 173](Tigani p 173)
 
+L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti  sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastrii, permise una registrazione senza limiti di tempo, p persino sesssanta minuti.
 
-In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
-Si può dire che più o meno nel medesimo periodo ci fu da parte dell'azienda statunitense Ampex un tentativo di implementazione del sistema di incisione su nastri. Tuttavia i costi particolarmente proibitivi e le grosse dimensioni dei macchinari rendevano tale sistema poco adatto a una commercializzazione di massa.
-Per sopperire a questo problema la ditta olandese Philips propose nel 1963 l'audio cassetta (in inglese compact cassette). La semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnava però ad una perdita di qualità sonora, nonostante ciò, a partire dalla metà degli anni '80 del Novecento l'audio cassetta si impose come il supporto più utilizzato nel mondo.
+In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
+< La vera svolta avviene però solo agli inizi degli anni '40 quando,, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazsione instabile entra in oscillazione registrando una frequenza elevatissima che si sovrappone al segnale. La frequenza non è udibile ma produce un tale incremento di auqlità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partono nuovi pprogetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi.
+[Tipagni p 175](Tigani p 174)
+
+Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il mondeo per la qualità, l'assenza di fruscio, la mancanza di interruzioni, ma la nuova tecnologia potè diffondersi  solo al termine della guerra e si diffonderà rapidamente, grazie agli evidenti vantaggi, prima nel mondo della radio e poi negli studi di registrazione. Il nuovo sistema dava risposte in frequenza dai  20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato; permetteva di effettuare registrazioni ovunque, diversamente dai dischi legati ai luoghi di produzione. Ma la vera novità fu nella possibiltià di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi la possibilità di fare dei montaggi di pezzi  di registrazione fatte anche in tempi diversi9.
+A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate. 
+
+ 
+La ditta olandese Philips propose nel 1963 l'audio cassetta (in inglese compact cassette). La semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnava però ad una perdita di qualità sonora, nonostante ciò, a partire dalla metà degli anni '80 del Novecento l'audio cassetta si impose come il supporto più utilizzato nel mondo.
 INTEGRA COMPACT CASSETTE.
+
+I dischi, a 78 giri e i primi microsolco erano monofonici; la profondità tridimensionale del suono poteva essere resa solo con la riproduzione simultanea da parte di due sorgenti corrispondenti alla percezione di ogni orecchio, occorreva quindi incidere contemporaneamente due segnali distinti sullo stesso solco.  Diversi tentativi erano stati fatti fin dal 1928, ma senza risultati significativi. Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, bastava una doppia testina di scrittura e di lettura che operava in parallelo sul nastro. Nel 1956 la RCA Victor produsse una serie di titoli stereofonici preregistrati e un riproduttore a nastro con amplificatore stereo e coppia di altoparlanti. La qualità era straordinaria, ma il mercato l nastro *Open Reel*, rimase di nicchia per appassionati dell'Alta Fedeltà, per gli alti costi  e la difficoltà di utilizzo.  
+Solo nel 1957 gli studi c della Decca e della Westrex riuscirono a incidere entrambi i segnali bsullo stesso solco impiegando la modulazione laterale in un lato e  verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli .
+Le due societàsi accordarono e, per evitare una guerra commerciale, venne scelto il sistema Westrex,. Anche il disco stereofonico non ottenne un immediato successo 
+
+
+Fino ad allora l'unico movimento della puntina ad essere sfruttato era quello orizzontale. In seguito si aggiunse anche quello verticale.
+Per ottenere una riproduzione stereofonica riuscirono a incidere in un unico solco i due canali necessari, utilizzando per il segnale di somma, destro + sinistro, i movimenti orizzontali dello stilo e per il segnale di differenza, destro – sinistro, i movimenti verticali. Interessante notare la differenza rispetto all'attuale cultura commerciale, il fatto che il nuovo supporto fosse compatibile con i precedenti dispositivi di riproduzione monofonici. 
+La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, data però la difficoltà di attuazione ebbe scarsa diffusione al pubblico di massa. La quadrifonia presuppone infatti che il suono venga riprodotto in quattro diversi diffusori posti due davanti e due dietro chi ascolta, seguendo precise regole. 
+
 A cavallo tra gli anni '80 e '90 si è voluto tentare di commercializzare dispositivi con un formato basato sul sistema digitale finalizzati alla sostituzione dell'audio cassetta. Le più note proposte avanzate in questo contesto sono il Digital Audio Tape (DAT) e Digital Compact Cassette (DCC). Queste tecnologie non ebbero però un seguito rilevante e dispositivi di questo tipo sono oggi impiegati solo all'interno degli studi di registrazione; mentre in passato il DAT anche a scopi professionali in ambito radiofonico, cinematografico, e televisivo senza riuscire a raggiungere una diffusione di massa.
 Il DAT, introdotto dalla Sony nel 1987, poteva avere una durata compresa tra i 15 e i 240 minuti, dipendente dall'estensione del nastro. Esso consisteva in un nastro magnetico da 1/8 protetto da un involucro (MATERIALE).
 <!-- INFO TECNICHE FUNZIONAMENTO. -->

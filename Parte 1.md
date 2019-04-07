@@ -180,11 +180,24 @@ INTEGRA COMPACT CASSETTE.
 I dischi, a 78 giri e i primi microsolco erano monofonici; la profondità tridimensionale del suono poteva essere resa solo con la riproduzione simultanea da parte di due sorgenti corrispondenti alla percezione di ogni orecchio, occorreva quindi incidere contemporaneamente due segnali distinti sullo stesso solco.  Diversi tentativi erano stati fatti fin dal 1928, ma senza risultati significativi. Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, bastava una doppia testina di scrittura e di lettura che operava in parallelo sul nastro. Nel 1956 la RCA Victor produsse una serie di titoli stereofonici preregistrati e un riproduttore a nastro con amplificatore stereo e coppia di altoparlanti. La qualità era straordinaria, ma il mercato l nastro *Open Reel*, rimase di nicchia per appassionati dell'Alta Fedeltà, per gli alti costi  e la difficoltà di utilizzo.  
 Solo nel 1957 gli studi c della Decca e della Westrex riuscirono a incidere entrambi i segnali bsullo stesso solco impiegando la modulazione laterale in un lato e  verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli .
 Le due societàsi accordarono e, per evitare una guerra commerciale, venne scelto il sistema Westrex,. Anche il disco stereofonico non ottenne un immediato successo 
-
++E' impossibile riprodurre eventi sonori identici all'originale, anche con la tecnologia odierna, per una serie di problematiche: l'acustica degli ambienti gli ambienti in cui il suono viene prodotto, non sempre di qualità acustica adatta dal momento che ogni tipo di musica necessita di uno specifico ambiente.Spesso gli ambienti dedicati alla musica sono privi dei minimi requisiti. Un altro problema è la posizione dell'ascoltatore rispetto alla fonte sonora.
+La riproduzione ad alta fedeltà, se curata in tutti i suoi aspetti, presa di suono posizione della presa, giusta dose di riverbero, componenti adeguati di elevata qualità, ambienti adatti, consente di riprodurre una riproduzione eccellente in qualsiasi contesto, sottraendo il monopolio dell'arte alla musica dal vivo.
+Condizione che gli strumenti siano adeguati, non solo quelli degli studi di registrazione dei centri di produzione, ma anche quelli dell'utente per la riproduzione.
+Gli anni '70  hanno raggiunto dei risultati altissimi nella storia della fonografia.
+Negli anni '60 si diffondde l'impianto modulare, in cui i componenti: giradischi, amplificatore, casse acustiche, vengono prodoti da aziende indipendenti specializzate.
+Ai tre elementi principali a volte si aggiunge una piastra di registrazione, un sintonizzatoreaudio che, grazie alla *modulazione di frequenza* può riprodurre frequenze fino a 14000 Hz.
+Il giradischi è uno strumento composto da numerosi dispositivi: piatto rotante, braccio di lettura, pikup e fonorilevatore o pick-up, che trasforma le vibrazioni dello stilo in variazioni elettriche, intervenendo con le caratteristiche del suono riprodotto.
+L'amplificatore, mfondamentale, incrementa il livello del segnale senza produrre alterazioni; 
+I primi e più famosi amplificatori furono: McIntosh uscito nel 1948 e Marantz nel 1950. All'inizio erano a valvole che vennero poi sostituite da transistor.
+Un moderno amplificatore è composto da una sezione preamplificatrice che prevede: selezione degli ingressi, regolazione del volume, del tono e il *loudness*, per compensare l'attenuazione di alcune frequenze nella riproduzione a basso volume,e da un finale di potenza nel quale il segnale viene amplificato.
+Le casse acustiche  possono variare la qualità del suono riprodotto in funzione della loro posizione e dell'ambiente in cui vengono collocate:a volte viene utilizzato uno strumento detto *equalizzatore* che migliora la qualità bilanciando le frequenze. All'inizio i modelli erno molto grandi , ma poi sono stati progressivamente ridotti.
+d
 
 Fino ad allora l'unico movimento della puntina ad essere sfruttato era quello orizzontale. In seguito si aggiunse anche quello verticale.
 Per ottenere una riproduzione stereofonica riuscirono a incidere in un unico solco i due canali necessari, utilizzando per il segnale di somma, destro + sinistro, i movimenti orizzontali dello stilo e per il segnale di differenza, destro – sinistro, i movimenti verticali. Interessante notare la differenza rispetto all'attuale cultura commerciale, il fatto che il nuovo supporto fosse compatibile con i precedenti dispositivi di riproduzione monofonici. 
-La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, data però la difficoltà di attuazione ebbe scarsa diffusione al pubblico di massa. La quadrifonia presuppone infatti che il suono venga riprodotto in quattro diversi diffusori posti due davanti e due dietro chi ascolta, seguendo precise regole. 
+La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, data però la difficoltà di attuazione ebbe scarsa diffusione al pubblico di massa. La quadrifonia presuppone infatti che il suono venga riprodotto in quattro diversi diffusori posti due davanti e due dietro chi ascolta, seguendo precise regole.
+
+
 
 A cavallo tra gli anni '80 e '90 si è voluto tentare di commercializzare dispositivi con un formato basato sul sistema digitale finalizzati alla sostituzione dell'audio cassetta. Le più note proposte avanzate in questo contesto sono il Digital Audio Tape (DAT) e Digital Compact Cassette (DCC). Queste tecnologie non ebbero però un seguito rilevante e dispositivi di questo tipo sono oggi impiegati solo all'interno degli studi di registrazione; mentre in passato il DAT anche a scopi professionali in ambito radiofonico, cinematografico, e televisivo senza riuscire a raggiungere una diffusione di massa.
 Il DAT, introdotto dalla Sony nel 1987, poteva avere una durata compresa tra i 15 e i 240 minuti, dipendente dall'estensione del nastro. Esso consisteva in un nastro magnetico da 1/8 protetto da un involucro (MATERIALE).
@@ -217,7 +230,7 @@ Il mastering non va confuso con il mastering relativo agli interi album, che com
 
 Infine la post produzione concerne tutto quello che intercorre tra le registrazioni e il prodotto finito (comprende editing, sound design, mix, mastering…)
 
-Operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito sono successivequindi esulano dalla definizione di produzione.
+Operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito sono successive quindi esulano dalla definizione di produzione.
 
 Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 > "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]

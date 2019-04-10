@@ -128,7 +128,7 @@ Gli ottoni erano dotati di buona direzionalità e discreta pressione sonora, cos
 
 > …  gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale.
 All'epoca la capacità [della macchina] di parlare o emettere suoni rappresentava già un miracolo...*
-[Tigani pp 57-68]()
+[^Tigani pp 57-68]: Tigani
 <--!numero nota? inserire citazione corretta del libro edizione ecc-->
 
  
@@ -162,13 +162,13 @@ nome file: registratore-a-filo-01
 
 I primi tentativi di una registrazione su dispositivi magnetici furono fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Nel 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete  al quale venivano inviati impulsi elettrici provenienti da un mi9crofono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia.
-[Tigani p 173](Tigani p 173)
+[^Tigani p 173](Tigani p 173)
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti  sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastrii, permise una registrazione senza limiti di tempo, p persino sesssanta minuti.
 
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
 < La vera svolta avviene però solo agli inizi degli anni '40 quando,, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazsione instabile entra in oscillazione registrando una frequenza elevatissima che si sovrappone al segnale. La frequenza non è udibile ma produce un tale incremento di auqlità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partono nuovi pprogetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi.
-[Tipagni p 175](Tigani p 174)
+[Tigani p 175]:(Tigani p 174): Tigani 
 
 Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il mondeo per la qualità, l'assenza di fruscio, la mancanza di interruzioni, ma la nuova tecnologia potè diffondersi  solo al termine della guerra e si diffonderà rapidamente, grazie agli evidenti vantaggi, prima nel mondo della radio e poi negli studi di registrazione. Il nuovo sistema dava risposte in frequenza dai  20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato; permetteva di effettuare registrazioni ovunque, diversamente dai dischi legati ai luoghi di produzione. Ma la vera novità fu nella possibiltià di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi la possibilità di fare dei montaggi di pezzi  di registrazione fatte anche in tempi diversi9.
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate. 
@@ -193,14 +193,14 @@ Un moderno amplificatore è composto da una sezione preamplificatrice che preved
 Le casse acustiche  possono variare la qualità del suono riprodotto in funzione della loro posizione e dell'ambiente in cui vengono collocate:a volte viene utilizzato uno strumento detto *equalizzatore* che migliora la qualità bilanciando le frequenze. All'inizio i modelli erno molto grandi , ma poi sono stati progressivamente ridotti.
 
 ##portabilità
-Fin dall'inizio della fotografia una delle caratteristiche che ne avva determ,inato il successo era astata la portgabilità. Da quando Johnson aveva inventato iol suo motore a molla erano stati progettati moltissimi apparecchicompltemaente autonomi, leggeri, alcuni addirittura di piccole dimensioni per poter essere facilmente trasportati.
-[grammofono portatile](.\images\grammofono-portatile-2.jpg)
+Fin dall'inizio della fotografia una delle caratteristiche che ne avva determ,inato il successo era astata la portgabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchicompltemaente autonomi, leggeri, alcuni addirittura di piccole dimensioni per poter essere facilmente trasportati.
+![grammofono portatile](.\images\grammofono-portatile-2.jpg)
 
-[pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg)
+![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg)
 
 Non  Non fu possibile costruire apparecchi portabili quando si cominciò a utilizzare amplificatori valvolari  che necessitavaNO DI ENERGIA ELETTRICA, MA L'AVVENTO DEI TRANSISTOR RISOLSE LA SITUAZIONE.
 iL NASTRO MAGNETICO CHE TANTO AVEVA CONTRIBUITO ALLì'EVOLUZIONE DELL'INDUSTRIA FONOGRAFICA, GRAZIE AI VANTAGGI CHE PORTAVA:  NON LIMITAVA LA DURATA, SEPARAVA CON FACILITà I CANALI STEREO, NON SI DETERIORAVA FACILMENTE, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, per la scarsa praticità nell'utilizzo. Questo "...*sancì il principio che il successo commerciale [...] avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.*" [^3]
-[Tigani](Tigani p 222)
+[^Tigani p 222]: : Tigani 
 
 Negli anni '60 venne prodotta dalla Philips la Compact Cassette, o m usicassetta, data subito in licenza ai produttori interessati, cosa che la rese vincente sul mercato.
 Nello stesso periodo la Ford Motor Company promuoveva la ricerca di un analogo supporto alla Motorola per dotare le vetture di fascia alta della possibilità di ascoltare musica.

@@ -61,7 +61,7 @@ il riferimento non va messo se si riespone il conccetto con parole proprie.
 tratta da questo link: http://farm5.static.flickr.com/4010/4309065626_12de332286.jpg
 nome file: nome file: registratore-a-filo-01
 directory: onedrive<tesi<textedition<images
-
+- [ ] cercare walkman arlate gialli e grigi
 - [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
 - [x] riferimento: "costituisce poi lo stampo per la serializzazione"

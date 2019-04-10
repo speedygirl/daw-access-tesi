@@ -191,7 +191,24 @@ L'amplificatore, mfondamentale, incrementa il livello del segnale senza produrre
 I primi e più famosi amplificatori furono: McIntosh uscito nel 1948 e Marantz nel 1950. All'inizio erano a valvole che vennero poi sostituite da transistor.
 Un moderno amplificatore è composto da una sezione preamplificatrice che prevede: selezione degli ingressi, regolazione del volume, del tono e il *loudness*, per compensare l'attenuazione di alcune frequenze nella riproduzione a basso volume,e da un finale di potenza nel quale il segnale viene amplificato.
 Le casse acustiche  possono variare la qualità del suono riprodotto in funzione della loro posizione e dell'ambiente in cui vengono collocate:a volte viene utilizzato uno strumento detto *equalizzatore* che migliora la qualità bilanciando le frequenze. All'inizio i modelli erno molto grandi , ma poi sono stati progressivamente ridotti.
-d
+
+##portabilità
+Fin dall'inizio della fotografia una delle caratteristiche che ne avva determ,inato il successo era astata la portgabilità. Da quando Johnson aveva inventato iol suo motore a molla erano stati progettati moltissimi apparecchicompltemaente autonomi, leggeri, alcuni addirittura di piccole dimensioni per poter essere facilmente trasportati.
+[grammofono portatile](.\images\grammofono-portatile-2.jpg)
+
+[pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg)
+
+Non  Non fu possibile costruire apparecchi portabili quando si cominciò a utilizzare amplificatori valvolari  che necessitavaNO DI ENERGIA ELETTRICA, MA L'AVVENTO DEI TRANSISTOR RISOLSE LA SITUAZIONE.
+iL NASTRO MAGNETICO CHE TANTO AVEVA CONTRIBUITO ALLì'EVOLUZIONE DELL'INDUSTRIA FONOGRAFICA, GRAZIE AI VANTAGGI CHE PORTAVA:  NON LIMITAVA LA DURATA, SEPARAVA CON FACILITà I CANALI STEREO, NON SI DETERIORAVA FACILMENTE, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, per la scarsa praticità nell'utilizzo. Questo "...*sancì il principio che il successo commerciale [...] avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.*" [^3]
+[Tigani](Tigani p 222)
+
+Negli anni '60 venne prodotta dalla Philips la Compact Cassette, o m usicassetta, data subito in licenza ai produttori interessati, cosa che la rese vincente sul mercato.
+Nello stesso periodo la Ford Motor Company promuoveva la ricerca di un analogo supporto alla Motorola per dotare le vetture di fascia alta della possibilità di ascoltare musica.
+Anche sul versante del disco la portabilità raggiungeva le grandi masse con l'invenzione dedl *portable record player*, detto "mangiadischi", piccola valigia nella quale veniva introdotto, tramite una fessura, un disco a 45 giri con automatica riproduzione del suono e alimentazione a corrente o a batterie.
+La qualità era scarsa ma l'estrema comodità ne decretò il succeso, soprattutto tra le3 fasce giovanili che potevano portare musica ovunque, soprattutto all'aperto.
+<!-- foto iphone 10 aprile mangiadischi e 45 giri-->
+
+P
 
 Fino ad allora l'unico movimento della puntina ad essere sfruttato era quello orizzontale. In seguito si aggiunse anche quello verticale.
 Per ottenere una riproduzione stereofonica riuscirono a incidere in un unico solco i due canali necessari, utilizzando per il segnale di somma, destro + sinistro, i movimenti orizzontali dello stilo e per il segnale di differenza, destro – sinistro, i movimenti verticali. Interessante notare la differenza rispetto all'attuale cultura commerciale, il fatto che il nuovo supporto fosse compatibile con i precedenti dispositivi di riproduzione monofonici. 

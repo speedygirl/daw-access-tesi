@@ -227,10 +227,12 @@ I vantaggi di questo innovativo sistema erano tali da decretarne la rapida diffu
 Il primo CD era uscito nel 1982; nell'arco di un decennio riuscì a soppiantare il vinile, con una generale corsa alla riconversione delle discoteche nel nuovo formato.
   La qualità del vinile rimaneva superiore ma la massa degli acquirenti era maggiormente attrata dalla novità; il vinile rimase prerogativa degli appassionati, tornando a momenti come fenomeno di moda.
   La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che permetteva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione, difficoltà di riproduzione obbligarono a ricercare materiali di miglior durata, ma la vera crisi del disco fu causata dall'industria informatica che cominciò a produrre computer muniti di masterizzatori in grado di duplicare CD con estrema facilità e ottimi risultati.
-  D
-  
+    
 [Le Garzantine 2012](),
 ![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)
+
+DVD 
+
 <!--DEFINIZIONE DI SERVO-CONTROLLATO -->
 
 

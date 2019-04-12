@@ -224,7 +224,10 @@ Nel 1979 fu brevettata una nuova tecnologia di registrazione e riproduzione del 
 Il procedimento per lo stampaggio di un CD è simile a quello del disco fonografico: la superficie viene incisa da un raggio all'elio-cadmio e poi ricoperta con un sottile strato d'argento che, indurito, costituisce lo stampo per la serializzazione.
 Per la lettura il CD utilizza un principio ottico che si basa sul contrasto di fase: la luce del laser, incontrando le irregolarità presenti sulla superficie incisa del disco, subisce una modulazione diversa e in opposizione di fase rispetto a quella che viene prodotta dalla superficie piana: si crea in questo modo un'interferenza che determina un calo dell'energia del laser, interpretata dal lettore cd come informazione binaria. 
 I vantaggi di questo innovativo sistema erano tali da decretarne la rapida diffusione ovunque: economicità, praticità d'uso, ridotte dimensioni, durata e inalterabilità del supporto, in quanto il laser, non entrando in contatto col disco, non lo usurava, non produceva gracidii, non era alterato da polvere, graffi, impronte. 
-Il primo CD era uscito nel 1982; nell'arco di un decennio riuscì a soppiantare il vinile.
+Il primo CD era uscito nel 1982; nell'arco di un decennio riuscì a soppiantare il vinile, con una generale corsa alla riconversione delle discoteche nel nuovo formato.
+  La qualità del vinile rimaneva superiore ma la massa degli acquirenti era maggiormente attrata dalla novità; il vinile rimase prerogativa degli appassionati, tornando a momenti come fenomeno di moda.
+  La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che permetteva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione, difficoltà di riproduzione obbligarono a ricercare materiali di miglior durata, ma la vera crisi del disco fu causata dall'industria informatica che cominciò a produrre computer muniti di masterizzatori in grado di duplicare CD con estrema facilità e ottimi risultati.
+  D
   
 [Le Garzantine 2012](),
 ![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)

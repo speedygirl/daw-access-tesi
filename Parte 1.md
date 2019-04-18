@@ -231,11 +231,13 @@ DCC (Digital Compact Cassette) basato su una tecnologia sostanzialmente analoga 
 Queste tecnologie non ebbero un seguito rilevante e non riiuscirono a raggiungere una diffusione di massa.
   
 La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che permetteva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione, difficoltà di riproduzione, obbligarono a ricercare materiali meno alterabili, ma il CD continuò ad essere venduto per tutti gli anni'90. La sua vera crisi fu causata dall'industria informatica che cominciò a produrre computer muniti di masterizzatori in grado di duplicare CD con estrema facilità e ottimi risultati.
-    
+
+## internet 
+L'avvento di internet ha segnato la fine della fonografia. L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte. anche per i dati audio, consentì una qualità di suono 
 [Le Garzantine 2012](),
 ![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)
 
->>>>>>>x
+
 <!--DEFINIZIONE DI SERVO-CONTROLLATO -->
 
 

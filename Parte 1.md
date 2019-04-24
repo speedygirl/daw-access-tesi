@@ -251,19 +251,19 @@ L'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peral
 
 
 ## 1.3 Ruolo dei produttori
-Storicamente la produzione audio si è necessariamente sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
+Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
+Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
 
 
-La fase di registrazione può avvenire in presa diretta dal vivo in svariati contesti, oppure in studio dove si può scegliere se registrare in presa diretta o le singole tracce in successione. La seconda opzione permette di raggiungere una maggior qualità del prodotto e più ampie possibilità di ritocchi sul materiale audio.
-Durante la fase di editing si modificano porzioni delle tracce, correggendo eventuali errori d'esecuzione e si aggiungono gli effetti di ambiente come riverbero e delay per dare profondità spaziale, estendere il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento. 
-Il mixaggio, durante il quale si bilanciano le tracce, e la successiva fase di mastering in cui si raffina ulteriormente il materiale mixato.
-Il mastering non va confuso con il mastering relativo agli interi album, che comprende anche operazioni come il bilanciamento generale, tenendo conto delle relazioni tra le varie tracce, le pause che devono intercorrere tra la fine dell'una e l'inizio dell'altra etc.
+La fase di registrazione può avvenire in presa diretta dal vivo in svariati contesti, oppure in studio dove si può scegliere se registrare in presa diretta o singole tracce in successione. La seconda opzione permette di raggiungere una maggior qualità del prodotto e più ampie possibilità di ritocchi sul materiale audio.
+Durante la fase di editing si possono: modificare porzioni delle tracce, quindi correggere eventuali errori d'esecuzione; aggiungere gli effetti d'ambiente, come riverbero e delay per dare profondità spaziale; estendere il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento. 
+Segue il mixaggio, durante il quale si bilanciano le tracce, e il mastering, che raffina ulteriormente il materiale mixato.
+Quest'ultima fase non va confusa con l' omonimo mastering relativo agli interi album, che tiene conto delle relazioni tra i vari brani, e prevede operazioni come il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
 
-Infine la post produzione concerne tutto quello che intercorre tra le registrazioni e il prodotto finito (comprende editing, sound design, mix, mastering…)
+Infine la post produzione concerne tutto quello che intercorre tra le registrazioni e il prodotto finito e comprende editing, sound design, mix, mastering...del singolo brano
 
-Operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione e la vendita del prodotto finito sono successive quindi esulano dalla definizione di produzione.
 
-Se si parla di produzione audio non si può tralasciare il mixaggio, componente fondamentale del lavoro di un produttore musicale.
+Il mixaggio, componente fondamentale del lavoro di un produttore musicale.
 > "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]
 
 > "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]
@@ -295,19 +295,18 @@ Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferis
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
 
 ### Sviluppo cronologico della figura del produttore
-Sul piano cronologico possono essere, per quanto riguarda la professione del produttore, operate tre distinzioni. Si parla infatti di: early label era, mature music era, indipendent era [^handbook].
+Per quanto riguarda la professione del produttore, da un punto di vista cronologico, Bobby Owsinski[] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
 
 [^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
 
-<!-- early music era? -->
-<!-- inserire nota con apice [^n] accanto ai 3 termini "early label era, mature music era, indipendent era" e numero di pagina-->
-
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
-Questo lasso temporale è così ampio a causa dell'insufficienza dei mezzi di registrazione.
-In principio coloro che utilizzavano i mezzi di registrazione avevano una fisionomia più assimilabile a quella dell'archivista che a quella del produttore: il loro scopo infatti era soltanto quello di catturare la musica attraverso un dispositivo che ne consentisse in un secondo momento la riproduzione.
- Progressivamente, nella prima fase, anche il produttore comincerà ad acquisire una sua rilevanza ma le figure che imponevano lo stile della musica erano principalmente quelle dei compositori e degli arrangiatori.
-I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi, per trovare un tipo di musica "unica", viaggiavano spesso per fare audizioni. La loro considerazione assunse una connotazione negativa in quanto a lungo qualificati come ladri di copyright Accusati perché non riconoscevano e non pagavano quanto dovuto per i diritti d'autore. 
-Additati come responsabili della stereotipizzazione dei generi musicali e come approfittatori nei confronti degli artisti.
+Questo lasso temporale è così ampio a causa dell'insufficienza delle tcniche di registrazione.
+In principio coloro che si dedicavano alla registrazione avevano una fisionomia più assimilabile a quella dell'archivista che a quella del produttore: il loro scopo infatti era soltanto quello di catturare la musica attraverso un dispositivo che ne consentisse in un secondo momento la riproduzione.
+ Progressivamente il produttore comincerà ad acquisire una sua rilevanza, ma le figure che imponevano lo stile della musica erano principalmente quelle dei compositori e degli arrangiatori.
+I primi produttori erano contemporaneamente dei talent scout, 
+degli imprenditori e dei tecnici. Essi viaggiavano 
+facendo audizioni, alla ricerca di musica e artisti che 
+potessero piacere al pubblico. Accusati spesso di essere  ladri di copyright e non pagare quanto dovuto agli autori, meritarono una fama negativa all'intera categoria, additata come approfittatrice e responsabile della stereotipizzazione dei generi musicali.
 Nel secondo periodo, che corrisponde a un maggiore sviluppo dell'industria musicale, le etichette discografiche (record label) cominciarono ad assumere persone cui era affidato il compito di fare il talent scouting e di far da supporto ai talenti al processo di registrazione. <!-- scelto termine inglese per mantenere l'acronimo tecnico --> Noti come **"artist and repertoir band" (aer man),** erano musicalmente molto preparati, sovente erano compositori e arrangiatori incaricati di ogni aspetto: dalla firma del contratto al prodotto finale. Queste figure possono essere definite gli antenati degli odierni aer man che, a differenza di quanto accadeva in passato, sono soprattutto talent scout e product manager. In breve i produttori acquisirono un controllo più significativo sul loro operato perché, grazie al magnetic tape, divenne facile la realizzazione delle multi takes-
 La possibilità di separare e sovrapporre gli strumenti aprì un nuovo orizzonte di prospettive. Fu così che il ruolo del produttore non fu più soltanto quello di un tecnico ma venne maggiormente caratterizzato in senso artistico.
 L'avvio del terzo periodo è segnato invece da una sorta di ribellione. Emblematica la decisione di Georg Martin, produttore dei Beatles, di lasciare la EMI per lavorare autonomamente. Benché già negli anni '50 fossero presenti alcuni produttori indipendenti, è innegabile che il gesto di Georg Martin ebbe ampia risonanza ed un forte impatto. Sulla scia della sua decisione, molti altri produttori optarono per l'attività indipendente.

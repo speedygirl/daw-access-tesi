@@ -232,18 +232,23 @@ Queste tecnologie non ebbero un seguito rilevante e non riiuscirono a raggiunger
   
 La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che permetteva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione, difficoltà di riproduzione, obbligarono a ricercare materiali meno alterabili, ma il CD continuò ad essere venduto per tutti gli anni'90. La sua vera crisi fu causata dall'industria informatica che cominciò a produrre computer muniti di masterizzatori in grado di duplicare CD con estrema facilità e ottimi risultati.
 
-## internet 
-L'avvento di internet ha segnato la fine della fonografia. L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte. anche per i dati audio, consentì una qualità di suono 
-[Le Garzantine 2012](),
+ [Le Garzantine 2012](),
 ![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)
 
+## internet 
+L'avvento di internet ha segnato la fine della fonografia. L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte, consentendo una rapidissima diffusione della grafica in ambito digitale. Per i dati audio ci vollero tempi più lunghi in quanto nei formati compressi si perdeva la qualità del suono. Una soluzione fu trovata dall'equipe di Karlheinz Brandenburg che, studiando il protocollo MPEG, individuò un algoritmo di compressione  che consentiva un risultato di buona qualità. Questo nuovo formato si diffuse in maniera rapidissima con l'acronimo MP3 con due fondamentali e imprevedibili novità: la riproduzione del suono perde la sua fisicità; nascono problemi di violazione del copyright, in quanto diventava facilissimo condividere a livello planetario i file mp3 in maniera gratuita. Ne seguirono continui tentativi, da parte delle case discografiche detentrici dei diritti, per tutelare i propri interessi in pericolo, a livello normativo, legale, tecnologico e l'ideazione di siti di vendite autorizzate di file audio. Ma contemporaneamente, sull'altro versante, quello della condivisione gratuita tra gli utenti, si cercavano strumenti sempre più sofisticati, per rendere difficile l'individuazione dello scambio illegale.
+Questo scontro di interessi, nonostante interventi legislativi internazionali in difesa del mercato discografico, non si è mai ancora risolto.
+Col nuovo millennio l'ascolto dell'Mp3 divenne un fenomeno planetario, anche grazie all'invenzione di lettori di muscia digitale di dimensioni estremamente ridotte, ma di enorme capacità di archiviazione, che consentivano l'ascolto attraverso auricolari, ovunque: dapprima l'iPod, seguito da una grande varietà di lettori Mp3 e ancora da smartphone e tablet collegati direttamente alla rete.
+Oggi la musica occupa quasi tuti gli spazi dell'esistenza individuale, ma viene restituita da dispositivi che non riescono a raggiungere livelli di alta qualità:
+<In questo scenario, nessuna meraviglia che l'avventura dell'alta defuinizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava comeil più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti nelgi ultimi 50'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione. 
+<... L'avvento della musicassetta aveva dimostrato già 40'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del t raffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione[].
+Tigani pp 258-259 aggiungi nota citazione letterale
+ 
+L'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peraltro possono avvantaggiarsi della distribuzione via internet per trovare i prodotti a loro dedicati.
 
-<!--DEFINIZIONE DI SERVO-CONTROLLATO -->
+##    
 
 
-<!-- Servocontrollato = se il disco deve andare a massima velocità non togli corrrente, se vuoi dimezzare la velocità dimezzi la quantità di corrente diminuisci la frequenza degli impulsi eletrici
-Pulse With Modulation (PWM)
-Servocontrollo = è ciò che controlla la velocità di un motore elettrico. Un esempio è il servosterzo nelle automobili. -->
 
 ## 1.3 Ruolo dei produttori
 Storicamente la produzione audio si è necessariamente sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.

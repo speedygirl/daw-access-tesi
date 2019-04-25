@@ -280,6 +280,7 @@ Passivi sono invece coloro che delegano le decisioni pratiche contingenti ad alt
 I produttori ibridi si trovano in una posizione intermedia: dialogano con l'artista principale, ma spesso non si occupano dei musicisti addizionali "additional musicians"; creano le tracce ma non partecipano alla scelta delle tracce e dei musicisti, limitandosi alla realizzazione del confezionamento finale del prodotto.
 
 ### 1.3.2 Fasi della produzione audio
+La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
 Il processo di produzione si compone di una serie di fasi, generalmente divise in preproduzione,  produzione e postproduzione.
 La cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione,  prevede  il progetto di scrittura, scelta di strumenti e strumentisti, arrangiamento della canzone. Il produttore spesso entra già in questa fase, col ruolo di un consigliere critico che propone suggerimenti relativi all'arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
 La produzione comprende diversi passaggi:
@@ -288,23 +289,7 @@ La fase di registrazione può avvenire in presa diretta dal vivo oppure in studi
 - editing:in questa fase si possono modificare porzioni delle tracce, quindi correggere eventuali errori d'esecuzione; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; estendere il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento. 
 - mixaggio, durante il quale si bilanciano le tracce
 > "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]
-> "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]
-- mastering, che raffina ulteriormente il materiale mixato.
-Quest'ultima fase non va confusa con l'omonimo mastering fatto in postproduzione, che riguarda l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
-Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
-
-### 1.3.3 Strumenti della produzione audio
-
-Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
-
-
-
-La qualità del suono ha una ripercussione significativa sul piano commerciale ed è tenuto, a metà del '900 come oggi, in grande considerazione. L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione. 
-Questo aspetto può essere considerato uno dei fattori più rilevanti del minor successo della cassetta rispetto al Compact **Disk** (CD).
-Una tappa fondamentale è stata l'introduzione del magnetic tape, che in un breve lasso temporale diventa il metodo di registrazione prediletto perché consente di fare le registrazioni multitraccia (multi takes). Grazie al magnetic tape il materiale sonoro è più gestibile, è possibile rimaneggiare le tracce, sovrapporle e fare operazioni che prima erano impensabili.  
-Quando si realizza un buon mix, il successo commerciale del brano è particolarmente favorito perché esso sottolinea e aiuta a veicolare concetti ed emozioni espressi nella canzone, attraverso sperimentazione e la ricerca di nuovi effetti sonori si può allargare il panorama delle possibilità espressive.
-
-Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
+> "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]Quando si realizza un buon mix, il successo commerciale del brano è particolarmente favorito perché esso sottolinea e aiuta a veicolare concetti ed emozioni espressi nella canzone, attraverso sperimentazione e la ricerca di nuovi effetti sonori si può allargare il panorama delle possibilità espressive.Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
 In ogni caso l'ingegnere del suono "sound engineering" non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici e emotivi del prodotto finale e quindi per l'ascoltatore.
 A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente “ventaglio di emozioni".
 Le operazioni di mixaggio possono essere compiute solo su materiale registrato in studio, e che non sia registrato in presa diretta, perchè altrimenti la traccia del singolo strumento è contaminata dal suono degli altri. 
@@ -316,62 +301,61 @@ In che senso si parla di definizione in frequenza del suono? -->
 Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza, gli armonici).
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
 
+- mastering, che raffina ulteriormente il materiale mixato.
+Quest'ultima fase non va confusa con l'omonimo mastering fatto in postproduzione, che riguarda l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
+Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
+
+### 1.3.3 Strumenti della produzione audio
+
+Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
+
+La qualità del suono ha una ripercussione significativa sul piano commerciale ed è tenuto, a metà del '900 come oggi, in grande considerazione. L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione. 
+
+Una tappa fondamentale è stata l'introduzione del magnetic tape, che in un breve lasso temporale diventa il metodo di registrazione prediletto perché consente di fare le registrazioni multitraccia (multi takes). Grazie al magnetic tape il materiale sonoro è più gestibile, è possibile rimaneggiare le tracce, sovrapporle e fare operazioni che prima erano impensabili.  
 
 
 
-
-
-cale.
-
- essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
-La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
-I brani realizzati dal produttore possono essere creati interamente all'interno dello studio.
-In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da strumentazioni analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. 
-
-<!-- Un player audio non è una DAW. -->
-
-Inizialmente, negli anni '60, coi primi sequencer analogici si poteva, variando i segnali di tensione elettrica, eseguire una sequenza di controllo ciclica. In pratica, con la differenza di tensione elettrica, si generavano note e controllare parametri del sintetizatore, quindi gli effetti.
-Nel decennio successivo sono implementati i sequencer  analogici che sfruttano il digitale per la memoria per archiviare  gli eventi e dotati di uscite analogiche. I sequencer di questi anni erano programmabili usando una tastiera alfanumerica. Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del ipanoforte che facilitava l'esecuzione ai performer.
-Con l'avvento del MIDI e del computer aumentano le possibilità armoniche e espressive perchè coi sequencer si poteva così pilotare fino a 16 **"tracce"** polifoniche.
-Da qui inizia l'impiego del computer come sequencer, grazie a programmi ad hoc e alle interfacce e al protocollo MIDI che lo rendevano compatibile con esterni. 
+Inizialmente, negli anni '60, coi primi sequencer analogici si poteva, variando i segnali di tensione elettrica, eseguire una sequenza di controllo ciclica. In pratica, con la differenza di tensione elettrica, si potevano generare note e controllare parametri del sintetizzatore, quindi gli effetti.
+Nel decennio successivo sono implementati i sequencer  analogici che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche. I sequencer di questi anni erano programmabili usando una tastiera alfanumerica. Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
+Con l'avvento del MIDI e del computer aumentano le possibilità armoniche e espressive perchè coi sequencer si possono pilotare fino a 16 **"tracce"** polifoniche.
+Da qui inizia l'impiego del computer come sequencer, grazie a programmi ad hoc, alle interfacce e al protocollo MIDI che lo rende compatibile con controller esterni. 
 A metà degli anni '90 ha così origine Cubase VST, il programma che per eccellenza svolge anche la funzione di sequencer. Due novità da esso introdotte sono il protocollo VST [^1] e la tecnologia ASIO [^2]. 
 [^1] Virtual Standard Technology è un protocollo implementato dalla Steimberg per i plug in che aassegna ai MIDI strumenti virtuali e effetti.
 [^2] driver con latenza minore rispetto ai driver della scheda audio esterna.
-Inizialmente in sequencer erano solamente MIDI e gestivano i materiali MIDI.
-Poi, quando si è passati all'audio si è iniziato a suonare gli audio sequencer. infine si è passato a usare DAW come sinonimi di sequencer, essi sono sequencer avanzati che gestiscono sia audio che MIDI e i termini spesso vengono usati come intercambiabili senza distinzione.
-La funzione del sequencer è generare e controllare sequenze di segnali di controllo tramite le quali si pilota uno strumento elettronico, potenziometri e pulsanti dei sitetizzatori; il sequencer può essere sia hardware che software.
+Inizialmente in sequencer erano solamente MIDI e gestivano i materiali MIDI. Poi, quando si è passati all'audio si è iniziato a suonare gli audio sequencer. infine si è passato a usare DAW come sinonimi di sequencer, essi sono sequencer avanzati che gestiscono sia audio che MIDI e i termini spesso vengono usati come intercambiabili senza distinzione.
+La funzione del sequencer è generare e controllare sequenze di segnali di controllo tramite le quali si pilota uno strumento elettronico, potenziometri e pulsanti dei sintetizzatori; il sequencer può essere sia hardware che software.
 Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in in diversi formati: VSST, Direct X, RTAS, TDM.
-Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, di cui si tratterà di seguito nella sezione 1.4, e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un'elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
-<!-- rivedere flessibilità e versatilità -->
+Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, (di cui si tratterà di seguito nella sezione 1.4), e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un'elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
 
 
-Il produttore, nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale. Si può pertanto assimilare il ruolo del produttore a quello di un musicista; questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio; le DAW (Digital Audio Workstation) che permettono una realizzazione “domestica" (home recording studio) attraverso l'utilizzo di computer fissi o portatili. Questi programmi, che svolgono funzioni che fino a poco tempo fa erano appannaggio di equipes, consentono al singolo di produrre le tracce musicali in modo autonomo essendo essi molto più facili e intuitivi, non richiedono particolari abilità e conoscenze tecniche per essere usati.
 
-<!-- equipe "in che senso?" -->
+Il produttore, nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale. Si può pertanto assimilare il ruolo del produttore a quello di un musicista; questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio; le DAW (Digital Audio Workstation) che permettono una realizzazione “domestica" (home recording studio) attraverso l'utilizzo di computer fissi o portatili. Questi programmi, che svolgono funzioni fino a poco tempo fa appannaggio di équipes, non richiedono particolari abilità e conoscenze tecniche per essere usati, essendo molto facili e intuitivi, consentono quindi al singolo di produrre tracce musicali in modo autonomo.
+Alcuni esempi di programmi di questo tipo sono: Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
+Tali strumentazioni permettono anche la produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
 
-Alcuni esempi di programmi di questo tipo sono
-Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
-Tali strumentazioni permettono anche una produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
+## 1.4 Cos'è una DAW (Digital Audio Worck station)
 
-## 1.4 Cos'è una DAW (digital audio worck station
-<!-- inserire definizione di daw e relativa fonte -->
+La DAW (Digital Audio Workstation) è un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio. 
+La sorgente sonora, ad esempio un violoncello o un cantante, emette un suono, il quale esercita una variazione di pressione dell'aria circostante. Tale variazione di pressione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
+Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabora portandolo a un sufficiente livello di potenza elettrica per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori.
+Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
-Il segnale audio, per essere  processato, deve prima essere captato e "passare"  varie strumentazioni.  
-La sorgente sonora, ad esempio un violoncello o un cantate, emette un suono, il quale eserccita una variazione di pressione dell'aria circostante. Tale variazione di pressione è caraatterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
-Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione. Il microfono però non è in grado di generare un segnale elettrico sufficentemente potente da poter essere direttamente trasmesso all'amplificatore: se si saltasse il preamplificatore risulterebbe un suono debole e distorto. E' perciò necessario un preamplificatore che funga da intermediario tra il microfono e l'amplificatore. 
-Il segnale viene infatti amplificato dal preamplificatore per poi essere trasmesso  all'amplificatore, detto anche finale di potenza. Raggiunta ora il sufficiente livello di potenza elettrica può mettere in vibrazione gli altparlanti, anche detti diffusori.
-Può essere interno o esterno al mixer, il preamplificatore non è mai assente.
-Il ruolo dei diffusori è riprodurre le variazioni di tensione, è così che si produce una perturbazione meccanica del mezzod i conduzione, l'aria, ritornando così al "suono originario". Suono originario nel senso che si torna a una perturbazione, a un oscillazione di particelle e non più a variazioni di tensione elettrica.
 Il percorso all'interno di un home studio è differente.
-il segnale sonoro captato dal microfono, passa poi attraverso l'audio/midii interface che, grazie a dei convertitori A/D-D/A lo converte da anlogico a digitale e lo invia al computer che lo processa.
-Dal pc passa poi nuovamente attraverso l'audio/midi interface che lo converte da digitale a analogico e lo invia agli altoparlanti.
+Il segnale sonoro captato dal microfono, passa poi attraverso l'audio/midi interface che, grazie a dei convertitori A/D-D/A lo converte da analogico a digitale e lo invia al computer che lo processa.
+Dal pc passa poi nuovamente attraverso l'audio/midi interface che lo converte da digitale ad analogico e lo invia agli altoparlanti.
 
-La scheda audio ha diversi tipi connettori e quindi di interfacciamenti, analogici e digitali,
-con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione.
+La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, analogici e digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione.
 I sistemi digitali ricevono invece i segnali da apparecchiature CJ H, apparecchiature come ad esempio il DAT, l'A-DAT, i lettori CD; i processori di segnale (come ad esempio amp simulator, sintetizzatori o expander). Il compito di queste apparecchiature è gestire il segnale digitale.
 Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali, sono disponibili vari  driver per permettere la compatibilità della scheda audio con diversi software.
 <!-- esempi -->
 
+
+**§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
+
+I brani possono essere realizzati interamente all'interno dello studio.
+In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da strumentazioni analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. §§§
+
+<!-- Un player audio non è una DAW. -->
 
 SCHEDA AUDIO
 Driver disponibili e loro compatibilità
@@ -380,12 +364,12 @@ Frequenza di campionamento
 Quantizzazione
 
 MULTITRACCIA
-La registrazione multitraccia è caratterizata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due.
-In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce in cui su ciascuna viene indirizzato un canalee in ingresso dalla scheda audio. 
-Si può anche registrare dapprima la batteria, poi in seguito, mettendo in playback la batteria, sovraincidere, ad esempio la chitarra e gli altri strumenti in differita.
+La registrazione multitraccia è caratterizzata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due.
+In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio. 
+Si può anche registrare dapprima la batteria, poi in seguito, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
 Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
 
-Invece la registrazione tradizionale, oggi  abbandonata, prevedeva la registrazione in tempo reale, che prevedeva semplicemente la registrazione su due canali, destro e sinistro, mediante l'uso di  due microfoni.
+Invece la registrazione tradizionale, oggi  abbandonata, prevedeva la registrazione in tempo reale su due canali, destro e sinistro, mediante l'uso di  due microfoni.
 
 mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
 

@@ -345,9 +345,17 @@ Il percorso all'interno di un home studio è differente.
 
 
 Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'uhnità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'audio/midi interface, A/D converter, grazie a dei convertitori da audio a digitale, e viceversa, A/D-D/A, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Da qui è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in analogico. Infine approda alle cuffie o alle casse.
-Dal pc passa poi nuovamente attraverso l'audio/midi interface che lo converte da digitale ad analogico e lo invia agli altoparlanti.
+In alcuni modelli di scheda audio, come ad esmpio la Scarlett, sacheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno.
+Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati, possiamo trovare schede audio che si installano direttamente all'interno della macchina, oppure che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione a qualità professionale. 
+La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di I\O, quelle fondamentali sono gli ingressi e  le uscite. Generalmente troviamo almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
+A
 
-La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, analogici e digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione.
+In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. 
+
+<!-- appunto:
+esempi porte  scheda: RCA/Jack, Cannon, USB B.
+jack stereo: canali L R e mass; jack mono: canale e mass. è un cavo di segnale L e R, mass è la massa. che abbia i due si può ri riconoscerlo dalle 2 linee a rilievo presenti sul jack -->
+
 I sistemi digitali ricevono invece i segnali da apparecchiature CJ H, apparecchiature come ad esempio il DAT, l'A-DAT, i lettori CD; i processori di segnale (come ad esempio amp simulator, sintetizzatori o expander). Il compito di queste apparecchiature è gestire il segnale digitale.
 Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali, sono disponibili vari  driver per permettere la compatibilità della scheda audio con diversi software.
 <!-- esempi -->

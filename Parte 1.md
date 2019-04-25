@@ -147,10 +147,10 @@ Nel secondo dopoguerra le tecnologie che erano state utilizzate con successo in 
 Nel 1948 esce il rivoluzionario LP(Long Playng), disco di 30 cm di diametro, microsolco a 33 1/3 giri al minuto, che permette la riproduzione di 23 minuti di musica per facciata. Il nuovo procedimento, ideato da Peter Goldmark nei laboratori della Columbia, era basato sul riscaldamento elettrico dello stilo di incisione, che riduceva la larghezza del solco a soli 64 micrometri, pur mantenendo un'ottima qualità. Cambia anche il materiale utilizzato per il supporto, per il quale viene scelto il PVC (cloruro di polivinile), ossia una resina termoplastica, molto più resistente e leggero della gommalacca, materiale particolarmente fragile e sensibile alle variazioni termiche.  Il PVC, anche grazie alla leggerezza e al diverso spessore dei solchi, consentiva di ridurre la velocità di rotazione permettendo l'incisione di tracce più estese. Immediaatamente nel '49 esce il prodotto della RCA in aperta concorrenza con la Columbia: un piccolo disco di 18 cm, con una capacità di registrazione di quattro minuti,velocità di 45 giri a minuto e un foro centrale di larga misura che ne ostacolava la compatibilità con l'altro sistema. Dopo un iniziale peeriodo di forte concorrenza in grado di paralizzare il mercato, le industrie discografiche cominciarono a utilizzare entrambi i supporti: il 33 giri, più idoneo alla registrazione di pezzi di lunga durata, per la musica colta; il 45 giri per la canzone leggera, folk e pop.  Destinato a soccombere invece il 78 giri.
 Per la lettura dei microsolchi viene realizzato dalla Philco Corporation un nuovo lettore, chiamato giradischi, che ebbe subito un largo successo commerciale determinato anche dal fatto che consentiva l'utilizzo di dischi di  diverso formato: settantotto, trentatré, quarantacinque giri.
   Questi fattori aumentano di gran lunga la popolarità del supporto ed è per rispondere alle esigenze sempre più pressanti dei consumatori che si perverrà, nel secondo dopoguerra, ad uno sviluppo esponenziale della produzione del disco.
-
-  <!-- inserire foto giradischi -->
-
-
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg
 
 
 

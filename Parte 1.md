@@ -341,7 +341,10 @@ Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni
 Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
 Il percorso all'interno di un home studio è differente.
-Il segnale sonoro captato dal microfono, passa poi attraverso l'audio/midi interface che, grazie a dei convertitori A/D-D/A lo converte da analogico a digitale e lo invia al computer che lo processa.
+
+
+
+Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'uhnità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'audio/midi interface, A/D converter, grazie a dei convertitori da audio a digitale, e viceversa, A/D-D/A, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Da qui è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in analogico. Infine approda alle cuffie o alle casse.
 Dal pc passa poi nuovamente attraverso l'audio/midi interface che lo converte da digitale ad analogico e lo invia agli altoparlanti.
 
 La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, analogici e digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione.

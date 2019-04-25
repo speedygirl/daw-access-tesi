@@ -148,9 +148,9 @@ Nel 1948 esce il rivoluzionario LP(Long Playng), disco di 30 cm di diametro, mic
 Per la lettura dei microsolchi viene realizzato dalla Philco Corporation un nuovo lettore, chiamato giradischi, che ebbe subito un largo successo commerciale determinato anche dal fatto che consentiva l'utilizzo di dischi di  diverso formato: settantotto, trentatré, quarantacinque giri.
   Questi fattori aumentano di gran lunga la popolarità del supporto ed è per rispondere alle esigenze sempre più pressanti dei consumatori che si perverrà, nel secondo dopoguerra, ad uno sviluppo esponenziale della produzione del disco.
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg)
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg)
+![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg)
 
 
 

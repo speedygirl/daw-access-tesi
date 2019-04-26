@@ -285,10 +285,12 @@ Le operazioni di mixaggio possono essere compiute solo su materiale registrato i
 Nelle esecuzioni dal vivo non è possibile un rimaneggiamento del materiale a causa delle condizioni ambientali che impongono l'uso di attrezzature più economiche rispetto a quelle presenti in studio, indi meno fedeli, che causano una bassa definizione in frequenza del suono. 
 Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza, gli armonici).
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
-
 - mastering, che raffina ulteriormente il materiale mixato.
 Quest'ultima fase non va confusa con l'omonimo mastering fatto in postproduzione, che riguarda l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
-???????????
+
+Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
+
+
 
 ### 1.3.3 Strumenti della produzione audio
 

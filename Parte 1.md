@@ -270,42 +270,33 @@ Il produttore, nella più recente musica elettronica, è sempre di più l'unico 
 
 
 ### 1.3.2 Fasi della produzione audio
-Essa comprende più fasi: preproduzione, produzione, post produzione.
-La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto si sceglie la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli strumenti da impiegare.
-Nella fase di produzione si effettua la registrazione dei materiali.
-Tutte le attività successive (editing e manipolazione dei materiali, mixaggio, 
-mastering) fanno parte della postproduzione.
-Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
 
-La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
+
+La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi, l'arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
 Il processo di produzione si compone di una serie di fasi, generalmente divise in preproduzione,  produzione e postproduzione.
-La cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione,  prevede  il progetto di scrittura, scelta di strumenti e strumentisti, arrangiamento della canzone. Il produttore spesso entra già in questa fase, col ruolo di un consigliere critico che propone suggerimenti relativi all'arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
+La cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione,  prevede  il progetto di scrittura, scelta di strumenti e strumentisti, la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli arrangiamenti. Il produttore spesso entra già in questa fase, col ruolo di un consigliere critico che propone suggerimenti relativi all'arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
 La produzione comprende diversi passaggi:
 - traking: consiste nella registrazione del suono nella DAW o su nastro. Responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista come consulente musicale.
 La fase di registrazione può avvenire in presa diretta dal vivo oppure in studio, dove è possibile la scelta fra diretta o registrazione in successione delle singole tracce. La seconda opzione permette di raggiungere una maggior qualità del prodotto e più ampie possibilità di ritocchi sul materiale audio.
 - editing:in questa fase si possono modificare porzioni delle tracce, quindi correggere eventuali errori d'esecuzione; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; estendere il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento. 
-- mixaggio, durante il quale si bilanciano le tracce
-> "Si definisce mixaggio il processo in cui il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale". [^handbook]
-> "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]Quando si realizza un buon mix, il successo commerciale del brano è particolarmente favorito perché esso sottolinea e aiuta a veicolare concetti ed emozioni espressi nella canzone, attraverso sperimentazione e la ricerca di nuovi effetti sonori si può allargare il panorama delle possibilità espressive.Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
-In ogni caso l'ingegnere del suono "sound engineering" non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici e emotivi del prodotto finale e quindi per l'ascoltatore.
-A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente “ventaglio di emozioni".
-Le operazioni di mixaggio possono essere compiute solo su materiale registrato in studio, e che non sia registrato in presa diretta, perchè altrimenti la traccia del singolo strumento è contaminata dal suono degli altri. 
+- mixaggio, durante il quale il materiale multitraccia è bilanciato, trattato e combinato in un formato multicanale. L'ingegnere del suono(sound engineering) non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici e emotivi del prodotto finale e quindi per l'ascoltatore. Quando si realizza un buon mix, il successo commerciale del brano è particolarmente favorito perché esso sottolinea e aiuta a veicolare concetti ed emozioni espressi nella canzone, attraverso la sperimentazione e la ricerca di nuovi effetti sonori si può allargare il panorama delle possibilità espressive.Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti, può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
+> "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente “ventaglio di emozioni".
+Le operazioni di mixaggio possono essere compiute solo su materiale registrato in studio, e che non sia registrato in presa diretta, perchè la traccia del singolo strumento è contaminata dal suono degli altri. 
 Nelle esecuzioni dal vivo non è possibile un rimaneggiamento del materiale a causa delle condizioni ambientali che impongono l'uso di attrezzature più economiche rispetto a quelle presenti in studio, indi meno fedeli, che causano una bassa definizione in frequenza del suono. 
-
-<!-- Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorare a frequenze diverse?
-In che senso si parla di definizione in frequenza del suono? -->
-
 Inoltre è impossibile rimaneggiare a causa dei rumori ambientali che interferiscono col suono degli strumenti diventando inscindibili da esso (rimuoverli del tutto è impossibile perché si danneggia anche il suono in quanto si tolgono porzioni di frequenza, gli armonici).
 Il compromesso è scegliere tra una registrazione in presa diretta la cui peculiarità è la naturalità del momento e una effettuata in studio, limata in ogni suo secondo.
 
 - mastering, che raffina ulteriormente il materiale mixato.
 Quest'ultima fase non va confusa con l'omonimo mastering fatto in postproduzione, che riguarda l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
-
+???????????
 
 ### 1.3.3 Strumenti della produzione audio
 
  L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione. 
-Una tappa fondamentale era stata l'introduzione del magnetic tape, che in breve tempo era diventato il metodo di registrazione prediletto in quanto rende possibili le registrazioni multitraccia (multi takes), quindi il rimaneggiamento e la sovrapposizione delle tracce operazioni prima impensabili.
+Una tappa fondamentale era stata l'introduzione del magnetic tape, che in breve tempo era diventato il metodo di registrazione prediletto in quanto rende possibili le registrazioni multitraccia (multi takes), quindi il rimaneggiamento e la sovrapposizione delle tracce operazioni prima impensabili. La registrazione multitraccia è caratterizzata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio. 
+Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
+Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
+Invece la registrazione tradizionale, oggi  abbandonata, prevedeva la registrazione in tempo reale su due canali, destro e sinistro, mediante l'uso di  due microfoni.
 Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la cui funzione è generare e controllare sequenze di segnali tramite le quali si pilotano potenziometri e pulsanti dei sintetizzatori. In pratica, variando i segnali di tensione elettrica, si poteva eseguire una sequenza di controllo ciclica, generare note, controllare parametri ed effetti del sintetizzatore. 
 Nel decennio successivo sono implementati i sequencer  che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica. Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
 In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive. 
@@ -340,18 +331,16 @@ Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e po
 In alcuni modelli di scheda audio, come ad esmpio la Scarlett, sacheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno.
 
 ## scheda audio
-Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre, oppure asestanti ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione a qualità professionale. 
-La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Imput/output (I\O), quelle fondamentali sono gli ingressi e  le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
-
-
-In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. 
+Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre, oppure a sestanti ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione a qualità professionale. 
+La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e  le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
+In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali, sono disponibili vari  driver per permettere la compatibilità della scheda audio con diversi software.
 
 <!-- appunto:
 esempi porte  scheda: RCA/Jack, Cannon, USB B.
 jack stereo: canali L R e mass; jack mono: canale e mass. è un cavo di segnale L e R, mass è la massa. che abbia i due si può ri riconoscerlo dalle 2 linee a rilievo presenti sul jack -->
 
 I sistemi digitali ricevono invece i segnali da apparecchiature CJ H, apparecchiature come ad esempio il DAT, l'A-DAT, i lettori CD; i processori di segnale (come ad esempio amp simulator, sintetizzatori o expander). Il compito di queste apparecchiature è gestire il segnale digitale.
-Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali, sono disponibili vari  driver per permettere la compatibilità della scheda audio con diversi software.
+
 <!-- esempi -->
 
 
@@ -368,13 +357,7 @@ compatibilità con diversi software
 Frequenza di campionamento
 Quantizzazione
 
-MULTITRACCIA
-La registrazione multitraccia è caratterizzata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due.
-In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio. 
-Si può anche registrare dapprima la batteria, poi in seguito, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
-Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
 
-Invece la registrazione tradizionale, oggi  abbandonata, prevedeva la registrazione in tempo reale su due canali, destro e sinistro, mediante l'uso di  due microfoni.
 
 mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
 

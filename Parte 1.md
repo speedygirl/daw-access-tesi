@@ -313,9 +313,12 @@ A fine anni '90 ha origine Cubase VST, il programma che per eccellenza svolge an
 [^1] Virtual Standard Technology è un protocollo implementato dalla Steimberg per i plug in che assegna ai MIDI strumenti virtuali e effetti.
 [^2] ASIO è un driver con latenza minore rispetto a quelli della scheda audio esterna.
 Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
-Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in in diversi formati: VSST, Direct X, RTAS, TDM.
+Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei componenti aggiuntivi (plug in) in diversi formati: VSST, Direct X, RTAS, TDM.
 
-Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW (Digital Audio Workstation), un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. 
+Gli strumenti virtuali vengono suonati e controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW (Digital Audio Workstation), fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consentono sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. 
+
+registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio.
+<!-- tentativo di interpolare questa frase con quella sopra, verificare l'italiano. -->
 
 Tali strumentazioni permettono la produzione di registrazioni ad un costo decisamente inferiore. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
@@ -330,17 +333,16 @@ La sorgente sonora, ad esempio un violoncello o un cantante, emette un suono, il
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabora portandolo a un sufficiente livello di potenza elettrica per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori.
 Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
-Il percorso all'interno di un home studio è differente.
+Il percorso all'interno di uno studio di registrazione.
 
-ASD
 
-Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'uhnità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'audio/midi interface, A/D converter, grazie a dei convertitori da audio a digitale, e viceversa, A/D-D/A, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Da qui è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in analogico. Infine approda alle cuffie o alle casse.
+Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, grazie a dei convertitori da audio a digitale, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale imput, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
 In alcuni modelli di scheda audio, come ad esmpio la Scarlett, sacheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno.
 
 ## scheda audio
-Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati, possiamo trovare schede audio che si installano direttamente all'interno della macchina, oppure che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione a qualità professionale. 
-La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di I\O, quelle fondamentali sono gli ingressi e  le uscite. Generalmente troviamo almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
-A
+Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre, oppure asestanti ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione a qualità professionale. 
+La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Imput/output (I\O), quelle fondamentali sono gli ingressi e  le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
+
 
 In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. 
 
@@ -356,7 +358,7 @@ Per interfacciare la scheda audio al computer vi sono sistemi analogici e digita
 **§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
 
 I brani possono essere realizzati interamente all'interno dello studio.
- Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. §§§
+ 
 
 <!-- Un player audio non è una DAW. -->
 

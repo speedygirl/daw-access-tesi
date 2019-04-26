@@ -309,32 +309,30 @@ Una tappa fondamentale era stata l'introduzione del magnetic tape, che in breve 
 Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la cui funzione è generare e controllare sequenze di segnali tramite le quali si pilotano potenziometri e pulsanti dei sintetizzatori. In pratica, variando i segnali di tensione elettrica, si poteva eseguire una sequenza di controllo ciclica, generare note, controllare parametri ed effetti del sintetizzatore. 
 Nel decennio successivo sono implementati i sequencer  che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica. Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
 In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive. 
-
 A fine anni '90 ha origine Cubase VST, il programma che per eccellenza svolge anche la funzione di sequencer. Due novità da esso introdotte sono il protocollo VST [^1] e la tecnologia ASIO [^2]. 
 [^1] Virtual Standard Technology è un protocollo implementato dalla Steimberg per i plug in che assegna ai MIDI strumenti virtuali e effetti.
 [^2] ASIO è un driver con latenza minore rispetto a quelli della scheda audio esterna.
-
-Inizialmente i sequencer erano solamente MIDI e gestivano tali materiali.  infine si è passato a usare DAW come sinonimi di sequencer, essi sono sequencer avanzati che gestiscono sia audio che MIDI e i termini spesso vengono usati come intercambiabili senza distinzione.
+Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
 Spesso il sequencer contiene dei sintetizzatori e degli effetti che possono essere aggiunti tramite dei plug in in diversi formati: VSST, Direct X, RTAS, TDM.
 
-Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi alla DAW mediante protocollo MIDI, (di cui si tratterà di seguito nella sezione 1.4), e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti elementi come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è infatti possibile trovare un'elevata qualità audio che si accompagna ad un imponente flessibilità e versatilità.
+Gli strumenti vengono suonati e controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW (Digital Audio Workstation), un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consentono sia la scrittura di partiture sia la registrazione delle modifiche di molteplici parametri. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. 
+
+Tali strumentazioni permettono la produzione di registrazioni ad un costo decisamente inferiore. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
 
 il sequencer può essere sia hardware che software.
 
-Alcuni esempi di programmi di questo tipo sono: Cubase, Pro Tools, Sonar, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID e Sony Vegas.
-Tali strumentazioni permettono anche la produzione di registrazioni live ad un costo decisamente inferiore rispetto al passato.
 
-## 1.4 Cos'è una DAW (Digital Audio Worck station)
 
-La DAW (Digital Audio Workstation) è un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio. 
+
+
 La sorgente sonora, ad esempio un violoncello o un cantante, emette un suono, il quale esercita una variazione di pressione dell'aria circostante. Tale variazione di pressione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabora portandolo a un sufficiente livello di potenza elettrica per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori.
 Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
 Il percorso all'interno di un home studio è differente.
 
-
+ASD
 
 Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'uhnità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'audio/midi interface, A/D converter, grazie a dei convertitori da audio a digitale, e viceversa, A/D-D/A, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Da qui è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in analogico. Infine approda alle cuffie o alle casse.
 In alcuni modelli di scheda audio, come ad esmpio la Scarlett, sacheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno.
@@ -358,7 +356,7 @@ Per interfacciare la scheda audio al computer vi sono sistemi analogici e digita
 **§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
 
 I brani possono essere realizzati interamente all'interno dello studio.
-In passato le strumentazioni erano elettromeccaniche mentre oggi parte dei processi di acquisizione vengono gestiti da strumentazioni analogiche che vengono controllate a monte dal software. Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. §§§
+ Il fulcro dello studio odierno è la DAW e cioè uno strumento digitale usato dal produttore per svolgere sull'audio una serie di complesse operazioni. §§§
 
 <!-- Un player audio non è una DAW. -->
 

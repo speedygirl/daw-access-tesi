@@ -31,28 +31,29 @@ Lo scopo del lavoro è invitare sviluppatori degli screen reader e case produttr
 Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.
 
 
+
+
+
+
+
+
+
+
 # 1 Produzione Audio e Tecnologie (strumenti hardware e software per la produzione audio)
-## 1.1 Cos'è la produzione audio
 
-La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici.
-Essa comprende più fasi: preproduzione, produzione, post produzione.
-La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto si sceglie la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli strumenti da impiegare.
-Nella fase di produzione si effettua la registrazione dei materiali.
-Tutte le attività successive (editing e manipolazione dei materiali, mixaggio, 
-mastering) fanno parte della postproduzione.
-
-## 1.2 Breve storia delle tecnologie applicate all'audio
+## 1.1 Breve storia delle tecnologie applicate all'audio
+La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici. 
+Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
 >Dalla fine del XIX secolo si assiste al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico.
-L'autore ..... individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni, cui segue quella magnetica su nastro o bobina (inizio secolo scorso) ed infine la digitale a fine secolo.
+Roberto Diem Tigani, a cui si è fatto frequente ricorso in questa parte,[] individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XVIII sec.; quella magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo.
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica. 
+?**Ogni progresso/innovazione ha certamente influito sulla sfera sia pubblica che privata dell'ascolto.
+Ogni metodologia ha contribuito allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa (mass-media).**?
 
-**Ogni progresso/innovazione ha certamente influito sulla sfera sia pubblica che privata dell'ascolto.
-Ogni metodologia ha contribuito allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa (mass-media). In questa sezione si tratterà degli aspetti di evoluzione della tecnologia di riproduzione del suono cercando di tracciare un sintetico quadro storico della stessa.**
-
-Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese Thomas Young (1773-1829) [^1] è un eclettico dall'ingegno multiforme, che si è occupato di svariate discipline, numerosi furono i suoi contributi nel campo delle scienze e della fisica moderna. In particolare si dedicò agl studi sul suono arrivando a elaborare teorieche sono valide ancora oggi: 
+Antesignani della riproduzione del suono sono gli esperimenti del fisico inglese Thomas Young (1773-1829) [^1]. Spirito eclettico dall'ingegno multiforme, si occupò di svariate discipline e numerosi sono stati i suoi contributi nel campo delle scienze e della fisica moderna. In particolare si dedicò agli studi sul suono arrivando a elaborare teorie valide ancora oggi: 
 	- il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria.
 	- Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro.
-Oltre a lcontributo teorico, Young progettò un didspositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovvata la seguente descrizione:
+Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovvata la seguente descrizione:
 ".. . applicando - scrive Yozlng - una piccola penna intrisa d'inchiostro ad
 una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola
 a contatto con un foglio di carta che venga a sua volta fatto scorrere
@@ -211,9 +212,6 @@ La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattut
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tenativi dirilancio attraverso nuove idee, come la quadrifonia. La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, rendendo possibile un ascolto a 360 gradi. Nel tentativo di ricreare la sensazione di ambiente, oltre ai canali stereo che mandavano le informazioni principali, venivano ujtilizzati altri due canali che trasmettevano le informazioni captate da microfoni, messi in posizione posteriore, durante la registrazione: in questo modo l'ascoltatore era  completamente avvolto da una musica di altissima qualità. Il costo e la scomodità di questo sistema, che presupponeva ampi spazi per collocare quattro diffusori, due davanti e due dietro l'ascoltatore, non ne permisero la diffusione di massa e la quadrifonia rimase confinata alla nicchia degli *audiofili* appassionati oppure utilizzata in ambito cinematografico. Questo insuccesso, insieme al drastico calo delle vendite dei dischi, fu drammatico per le case discografiche che avevano puntato su questa novità con grandi investimenti.
 
 
-
-** Compact Disk
-
 A segnare la fine del disco in vinile fu la grande novità arrivata dal mondo informatico
  
 Nel 1979 era stata brevettata una nuova tecnologia di registrazione e riproduzione del suono destinata ad avere un enorme successo commerciale : il Compact Disk (CD), supporto in policarbonato del diametro di solo 12 cm, capace di contenere miliardi di informazioni digitali, riproducibili attraverso una lettura ottica laser. Era stata la Philips a sviluppare la mediazione tra tecnologia ottica, tecnica ripresa da un  prodotto che aveva avuto scarsissimo successo, il video disco, e codifica digitale, PCM (Pulse Code Modulation), consistente in una stringa in codice binario, utilizzata in campo militare.  
@@ -247,7 +245,7 @@ Questo scontro di interessi, nonostante interventi legislativi internazionali in
 Col nuovo millennio l'ascolto dell'Mp3 divenne un fenomeno planetario,  grazie all'invenzione di lettori di musica digitale di dimensioni estremamente ridotte, ma di enorme capacità di archiviazione, provviste di auricolari che consentivano l'ascolto ovunque. Il primo di questi dispositivi, l'iPod, fu presentato nel 2001, seguito da una grande varietà di lettori Mp3 e poi da smartphone e tablet collegati direttamente alla rete.
 
 Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita da dispositivi che non riescono a raggiungere livelli di alta qualità: l'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peraltro possono avvantaggiarsi della distribuzione via internet per trovare i prodotti a loro dedicati.
-<In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione. 
+<In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.
 >... *L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione* [].
 [^Tigani  pp 258-259](Tigani pp 258-259) 
 
@@ -255,8 +253,7 @@ Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita 
 
 
 
-## 1.3 La produzione audio 
-### 1.3.1 I produttori: evoluzione del ruolo nel tempo
+## 1.3.1 I produttori: evoluzione del ruolo nel tempo
 Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
 
 [^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
@@ -279,7 +276,11 @@ Passivi sono invece coloro che delegano le decisioni pratiche contingenti ad alt
 I produttori ibridi si trovano in una posizione intermedia: dialogano con l'artista principale, ma spesso non si occupano dei musicisti addizionali "additional musicians"; creano le tracce ma non partecipano alla scelta delle tracce e dei musicisti, limitandosi alla realizzazione del confezionamento finale del prodotto.
 
 ### 1.3.2 Fasi della produzione audio
-La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
+Essa comprende più fasi: preproduzione, produzione, post produzione.
+La preproduzione è la fase preparatoria, preliminare alla registrazione, durante la quale si gettano le basi del progetto si sceglie la frequenza di campionamento anche in base al supporto da usare, si scelgono le strutture dei brani, gli strumenti da impiegare.
+Nella fase di produzione si effettua la registrazione dei materiali.
+Tutte le attività successive (editing e manipolazione dei materiali, mixaggio, 
+mastering) fanno parte della postproduzione.La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi il loro arrangiamento e mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
 Il processo di produzione si compone di una serie di fasi, generalmente divise in preproduzione,  produzione e postproduzione.
 La cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione,  prevede  il progetto di scrittura, scelta di strumenti e strumentisti, arrangiamento della canzone. Il produttore spesso entra già in questa fase, col ruolo di un consigliere critico che propone suggerimenti relativi all'arrangiamento e la strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
 La produzione comprende diversi passaggi:
@@ -306,7 +307,7 @@ Le operazioni come il riversamento del materiale sul supporto, la stampa delle u
 
 ### 1.3.3 Strumenti della produzione audio
 
-Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
+
 
 La qualità del suono ha una ripercussione significativa sul piano commerciale ed è tenuto, a metà del '900 come oggi, in grande considerazione. L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione. 
 

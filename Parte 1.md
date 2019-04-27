@@ -374,5 +374,61 @@ mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW
 
 
 ## 1.5 Cos'è il midi 
-VEDI FILE WORD
+La nascita del protocollo MIDI si colloca all’inizio degli anni ’80 del ‘900 e si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0,, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali. []
+[^]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica, 
 
+Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case produttrici quali: la statunitense SCI e le giapponesi Yamaha e Kaway. []
+[^] ibidem
+
+La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei si basavano su algoritmi proprietari, erano quindi in grado solamente di far dialogare strumenti prodotti dalla medesima azienda. []
+[^] ibidem
+
+Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI ma ciò portava la conseguenza che i brani MIDI registrati in questo modo fossero essere in un secondo momento letti con una categoria di programma identico col quale erano stati generati.
+![pin connettore](.\images\midi\pin_connettore_1.PNG)
+
+< Dal punto di vista circuitale, l’interfaccia midi non è altro che un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, ovvero 31250 “bit per second
+[^]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica, 
+
+Data la sua natura asincrona, oltre al segnale di massa e di alimentazione da collegare alla scheda remota tramite una resistenza da 220 Ohm, c’è la linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi. []
+[^] ibidem
+
+L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema) [] . Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre:
+-	Pin 1 e 3 poco impiegati e lasciati a futuri sviluppi (VERIFICARE)
+-	Pin 2 per impedire interferenze è collegato a massa.
+-	Pin 4 collega il cavo di alimentazione a 5 Volt.
+-	Pin 5 collega il cavo predisposto alla trasmissione dei dati
+[^] ibidem
+
+I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo permette l’ingresso la ricezione dei dati veicolati dal sequencer collegato; la seconda svolge la funzione opposta; mentre l’ultima svolge il ruolo di mediazione tra MIDI IN e MIDI OUT. La MIDI THRU consente di collegare più slaves a un unico master. []
+[^] ibidem
+![](.\images\midi\pin_connettore_2.PNG)
+![](.\images\midi\connettore_3.PNG)
+
+[^] G. HAUS,   Corso di informatica applicata alla musica, pdf disponibile sul sito  http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf, URL consultato il 14/06/2018
+[^] G. HAUS,   Corso di informatica applicata alla musica, pdf disponibile sul sito  http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf, URL consultato il 14/06/2018
+<!-- fare sintassi citazione link in entrambe -->
+
+Va ricordato che non è possibile collegare tra loro porte del medesimo tipo: in altre parole non si possono connettere due porte IN o due porte OUT contigue.
+![](.\images\midi\tipi_messaggio_7.PNG)
+[^] G. HAUS,   Corso di informatica applicata alla musica, pdf disponibile sul sito  http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf, URL consultato il 14/06/2018
+  Ibidem
+-- fare sintassi citazione link in entrambe -->
+
+Il MIDI è caratterizzato da una trasmissione asincrona pertanto è necessario disporre dei due bit di start e stop cui se ne devono aggiungere altri 8 per la trasmissione.  Poiché è composto di 16 canali indipendenti, può inviare più suoni contemporaneamente.
+![](.\images\midi\byte_5.PNG
+[^] ibidem
+
+Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
+La funzione degli Status Byte è quella di consentire una trasmissione univoca, corretta, di comandi e senza possibilità di errore e perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
+I Data Byte forniscono i parametri per un corretto funzionamento degli Status Byte e possono assumere valori compresi tra 0 e 127.
+Al fine di semplificare e moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi. []
+[^] ibidem
+
+![](.\images\midi\codifica_6.PNG)
+[^] ibidem
+
+I file midi sono file di tipo testuale, che quindi occupano spazio ridotto, e hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange.
+I formati di SMF disponibili sono i seguenti: il formato 0 in cui “tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni degli eventi relativi a tutte le tracce del brano”; il formato 1 nel quale “le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica. La velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre”; il formato 2, il meno utilizzato, dove “le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica”. Va ricordato che i synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
+Nato per uniformare la risposta delle diverse apparecchiature agli stessi dati midi, il General Midi (GM) fa sì che strumenti provenienti da diverse case produttrici rispondano in maniera leggermente dissimile. Va ricordato che i suoni prodotti non sono identici, ma simili a causa della diversa tecnologia impiegata da ogni casa produttrice.
+![](.\images\midi\tipi_messaggio_7.PNG)
+[^] ibidem

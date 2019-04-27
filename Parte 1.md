@@ -370,7 +370,7 @@ Quantizzazione
 
 
 
-	mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
+mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
 
 
 ## 1.5 Cos'è il midi 
@@ -402,10 +402,10 @@ I Data Byte forniscono i parametri per un corretto funzionamento degli Status By
 
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti: 
-- il formato 0, in cui “tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni degli eventi relativi a tutte le tracce del brano”; 
-- il formato 1, nel quale “le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica. La velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre”; 
--il formato 2, il meno utilizzato, dove “le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica”. 
+- formato 0 - tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano; 
+- formato 1 - le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre; 
+- formato 2 - le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica. 
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
-Il General Midi (GM), uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
+Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 ![](.\images\midi\tipi_messaggio_7.PNG)
 

@@ -374,33 +374,21 @@ mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW
 
 
 ## 1.5 Cos'è il midi 
-La nascita del protocollo MIDI si colloca all’inizio degli anni ’80 del ‘900 e si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0,, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali. []
+La nascita del protocollo MIDI si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0,, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali. []
 [^]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica, 
 
-Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case produttrici quali: la statunitense SCI e le giapponesi Yamaha e Kaway. []
-[^] ibidem
-
-La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei si basavano su algoritmi proprietari, erano quindi in grado solamente di far dialogare strumenti prodotti dalla medesima azienda. []
-[^] ibidem
-
-Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI ma ciò portava la conseguenza che i brani MIDI registrati in questo modo fossero essere in un secondo momento letti con una categoria di programma identico col quale erano stati generati.
+Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case  quali: la statunitense SCI e le giapponesi Yamaha e Kaway. 
+La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici, mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei, si basavano su algoritmi proprietari, erano quindi in grado di far dialogare solo strumenti prodotti dalla medesima azienda. 
+Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò portava la conseguenza che i brani MIDI registrati in questo modo potessero essere in un secondo momento letti con un programma identico a quello col quale erano stati generati.
 ![pin connettore](.\images\midi\pin_connettore_1.PNG)
 
-< Dal punto di vista circuitale, l’interfaccia midi non è altro che un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, ovvero 31250 “bit per second
-[^]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica, 
-
-Data la sua natura asincrona, oltre al segnale di massa e di alimentazione da collegare alla scheda remota tramite una resistenza da 220 Ohm, c’è la linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi. []
+< Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, ovvero 31250 bit per second. Data la sua natura asincrona, oltre al segnale di massa e di alimentazione da collegare alla scheda remota tramite una resistenza da 220 Ohm, c’è la linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi. []
 [^] ibidem
 
-L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema) [] . Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre:
--	Pin 1 e 3 poco impiegati e lasciati a futuri sviluppi (VERIFICARE)
--	Pin 2 per impedire interferenze è collegato a massa.
--	Pin 4 collega il cavo di alimentazione a 5 Volt.
--	Pin 5 collega il cavo predisposto alla trasmissione dei dati
+L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema) [] . Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre.
 [^] ibidem
 
-I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo permette l’ingresso la ricezione dei dati veicolati dal sequencer collegato; la seconda svolge la funzione opposta; mentre l’ultima svolge il ruolo di mediazione tra MIDI IN e MIDI OUT. La MIDI THRU consente di collegare più slaves a un unico master. []
-[^] ibidem
+I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo trasmette i dati in ingresso; la seconda svolge la funzione opposta; mentre l’ultima,che svolge il ruolo di mediazione tra MIDI IN e MIDI OUT, consente di collegare più slaves a un unico master. 
 ![](.\images\midi\pin_connettore_2.PNG)
 ![](.\images\midi\connettore_3.PNG)
 

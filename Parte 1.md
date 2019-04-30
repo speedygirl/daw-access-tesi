@@ -58,9 +58,13 @@ A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già
 
 [^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
 
-<!--inserire foto  grafofono-->
+![grafofono](.\images\supporti_registrazione_riproduzione\grafofono.jpg)
+[^] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", da lui brevettato nel 1857, capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. Lo strumento consisteva in un tronco di cono rovesciato che nella parte più piccola terminava con una membrana di pergamena: una setola era collegata a questa membrana e si posava su un cilindro cosparso di nerofumo. La setola veniva sollecitata dalle vibrazioni della membrana e andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella. Risultava quindi la traccia che registrava le variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro dei diversi strumenti. 
+[fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
+[^] [immagine fonoautografo link consultato 30 aprile 2019](https://www.google.it/search?q=fonoautografo&ie=UTF-8&oe=UTF-8&hl=it-it&client=safari#imgrc=7pn0HHLNbjIHeM:)
+
 Un altro francese, Charles Cros, nell'aprile 1877 presentò all'Accademia delle Scienze il progetto per una macchina analoga, da lui denominata "phonographe", in cui il disegno della forma d'onda veniva inciso su un disco di vetro annerito con nerofumo, anzichè su un cilindro. L'incisione lasciava scoperta una traccia di vetro trasparente, che consentiva il passaggio della luce, quindi la possibilità di essere trattato come un negativo fotografico per impressionare una lastra metallica fotosensibile, Cross era anche un grande studioso di fotografia); Sarebbe bastata l'immersione in un bagno chimico per ottenere solchi corrispondenti alle oscillazioni delle onde sonore e quindi arrivare finalmente alla riproduzione del suono, ma Cross non ebbe mai la possibilità economica di realizzare e sviluppare la propria idea, cui rimase legato il suo nome proprio per averne depositato il progetto all'Accademia.
  
 	
@@ -147,11 +151,13 @@ Questi fattori aumentano di gran lunga la popolarità del supporto e per rispond
 
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
+![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg)
+[^] [immagine telegraphone link consultato 30 aprile 2019](https://www.google.it/search?q=telegraphone+poulsen&tbm=isch&ved=2ahUKEwjx4eS6zPfhAhXBw4UKHbmPAPUQ2-cCegQIABAC&oq=telegraphone+poulsen&gs_l=mobile-gws-wiz-img.3...23913.35705..36233...6.0..0.236.1554.5j5j2......0....1.........30i10.BTyZoQ4fxCU&ei=5yHIXLHSKMGHlwS5n4KoDw&client=safari#imgrc=o8LNt81DEtuw7M
+)
+
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete  al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia.
 [^Tigani p 173](Tigani p 173)
-<!-- inserire foto registratore a filo -->
-nome file: registratore-a-filo-01
-
+![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg)
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti  sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro, quindi venivano superati i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 

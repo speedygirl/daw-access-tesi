@@ -102,7 +102,7 @@ Altre migliorie furono:
 	- l'introduzione di un braccio meccanico, realizzato dal tedesco Werner Suess, che con ulteriori sviluppi aprirà la strada al giradischi;
 	- l'eliminazione del vetro: il disco di zinco veniva preparato con una miscela di cera e benzina, su cui avveniva l'incisione, poi direttamente immerso in un bagno di acido. Si otteneva così una riduzione dei passaggi e una migliore qualità della riproduzione.
 	![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg)
-
+<!-- inserire nota libro by bontempi in raccoglitore giallo-->
 
 Berliner si era applicato fin dall'inizio alla riproduzione della musica, scindendo l'aspetto della registrazione da quello della riproduzione: questo aveva determinato da subito il carattere del grammofono come lettore di un supporto preregistrato.
 Berliner si occupò anche del problema della riproduzione da matrice e capì che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino alla sostituzione col policloruro di vinile avvenuta negli anni '50.

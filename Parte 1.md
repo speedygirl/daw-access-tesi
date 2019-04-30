@@ -89,9 +89,11 @@ Alle difficoltà delle talking machines cerca di porre rimedio Alexander Graham 
 Alexander Graham Bell aveva vinto un premio in denaro, grazie all'invenzione del telefono da lui presentata all'Accademia delle Scienze di Francia, e decise di investirlo negli studi per il perfezionamento del fonografo. Il risultato principale del lavoro di Bell e dei suoi collaboratori consistette nell'introduzione della cera come materiale su cui incidere le vibrazioni sonore, in luogo dello stagno. La nuova macchina creata da Bell nel 1885, chiamata grafofono, consentiva una durata più ampia della registrazione ma l'utilizzo della cera determinava una perdita in termini di volume sonoro: ciò fece sì che ci si orientasse verso un uso di questo prodotto solo per le registrazioni vocali. 
 Edison reagì in maniere rabbiosa a queste innovazioni, facendo desistere il gruppo da ulteriori studi. 
 Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispositivi a cilindro.
-<!-- foto rullo cerato -->
 
 Il  salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale, idea ripresa da Charles Cros, che risulterà vincente e utilizzato ancora ai nostri giorni.
+![Berliner a lavoro[(.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg)
+[^] [immagine Berliner link consultato 30 aprile 2019](https://www.google.it/search?client=safari&channel=ipad_bm&tbm=isch&source=hp&ei=n0_IXNq2G42s6AS0rbbYDA&q=rullo+cera+grahm+bell&oq=rullo+cera+grahm+bell&gs_l=mobile-gws-wiz-img.3..30i10.1973.8421..8667...0.0..0.181.1797.17j4......0....1.......5..41j0j0i5i30j0i8i30j0i30j33i10.75mbzHSWxEc#imgrc=zRWXtrkJGoX4LM)
+
 Dopo essersi appassionato agli studi sul telefono, al quale aveva apportato importanti modifiche che avevano migliorato la qualità della trasmissione, Berliner si dedicò allo studio del progetto depositato da Cros all'Accademia delle scienze di Francia, producendo un apparecchio che chiamò "Gramophone". Come Cros egli utilizzava un disco di vetro ricoperto di nerofumo, con successiva fotoincisione su lastra di zinco. Le sue prime innovazioni furono l'incisione sulla faccia inferiore del disco, che evitava l'accumulo del materiale rimosso, e l'utilizzo di un piccolo motore a peso, che sfruttava la forza di gravità per la rotazione del disco e il movimento laterale del diaframma. Il primo modello fu presentato da Berliner nel 1887. Con il suo sistema, che lasciava più libero il movimento dello stilo, egli otteneva un solco di profondità fissa ma con modulazione laterale variabile, il che produceva un suono migliore, vicino a quello reale, come fino ad allora non si era sentito. Questo fu uno degli elementi che decretarono il successo del nuovo apparecchio, nonostante il rumore di fondo fosse più elevato di quello dei dispositivi a cilindro.
 > Abituato com'ero alla riproduzione metallica e innaturale dei vecchi fonografi a cilindro fui straordinariamente sorpreso dal bel timbro del disco piatto. []
 [^] [Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16](Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16)
@@ -99,7 +101,7 @@ Altre migliorie furono:
 	- l'utilizzo di una punta di iridio, che facilitava lo scorrimento dello stilo sulla superficie del solco;
 	- l'introduzione di un braccio meccanico, realizzato dal tedesco Werner Suess, che con ulteriori sviluppi aprirà la strada al giradischi;
 	- l'eliminazione del vetro: il disco di zinco veniva preparato con una miscela di cera e benzina, su cui avveniva l'incisione, poi direttamente immerso in un bagno di acido. Si otteneva così una riduzione dei passaggi e una migliore qualità della riproduzione.
-	![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner.jpg)
+	![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg)
 
 
 Berliner si era applicato fin dall'inizio alla riproduzione della musica, scindendo l'aspetto della registrazione da quello della riproduzione: questo aveva determinato da subito il carattere del grammofono come lettore di un supporto preregistrato.

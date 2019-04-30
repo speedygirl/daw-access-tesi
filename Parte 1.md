@@ -45,28 +45,30 @@ Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, di
 
 ### 1.1.1 REGISTRAZIONE MECCANICA
 Nel XIX secolo si assistette al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico.
-Antesignani ne furono gli esperimenti del fisico inglese Thomas Young (1773-1829) [^1], spirito eclettico dall'ingegno multiforme, che si occupò di svariate discipline lasciando numerosi contributi nel campo delle scienze e della fisica moderna. In particolare si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro.
+Antesignani ne furono gli esperimenti del fisico inglese Thomas Young (1773-1829) [], spirito eclettico dall'ingegno multiforme, che si occupò di svariate discipline lasciando numerosi contributi nel campo delle scienze e della fisica moderna. 
+[^]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
+In particolare si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro.
 Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione:
-".. . applicando - scrive Yozlng - una piccola penna intrisa d'inchiostro ad
+".. . applicando - scrive Young - una piccola penna intrisa d'inchiostro ad
 una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola
 a contatto con un foglio di carta che venga a sua volta fatto scorrere
 per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata
 che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^1]
-[Young](THOMAYSO UNGC, ourse of Lectzlres oiz Natura1 Philosophy aizd the Mechnizical Arts,
-Taylor and Walton, Loildon, 1845, lecture XXXI, pp. 288-289.)
+THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
 
 A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già enucleata, benchè ancora non se ne ipotizzi la possibilità, l'idea che porterà molti anni dopo alla riproduzione di un suono precedentemente registrato.  
 
-[^1]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
 
-![grafofono](.\images\supporti_registrazione_riproduzione\grafofono.jpg)
-[^] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)
 
-Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", da lui brevettato nel 1857, capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. Lo strumento consisteva in un tronco di cono rovesciato che nella parte più piccola terminava con una membrana di pergamena: una setola era collegata a questa membrana e si posava su un cilindro cosparso di nerofumo. La setola veniva sollecitata dalle vibrazioni della membrana e andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella. Risultava quindi la traccia che registrava le variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro dei diversi strumenti. 
+
+
+Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", da lui brevettato nel 1857, capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda.
 [fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
 [^] [immagine fonoautografo link consultato 30 aprile 2019](https://www.google.it/search?q=fonoautografo&ie=UTF-8&oe=UTF-8&hl=it-it&client=safari#imgrc=7pn0HHLNbjIHeM:)
 
-Un altro francese, Charles Cros, nell'aprile 1857 presentò all'Accademia delle Scienze il progetto per una macchina analoga, da lui denominata "phonographe", in cui il disegno della forma d'onda veniva inciso su un disco di vetro annerito con nerofumo, anzichè su un cilindro. L'incisione lasciava scoperta una traccia di vetro trasparente, che consentiva il passaggio della luce, quindi la possibilità di essere trattato come un negativo fotografico per impressionare una lastra metallica fotosensibile, (Cross era anche un grande studioso di fotografia). Sarebbe bastata l'immersione in un bagno chimico per ottenere solchi corrispondenti alle oscillazioni delle onde sonore e quindi arrivare finalmente alla riproduzione del suono, ma Cross non ebbe mai la possibilità economica di realizzare e sviluppare la propria idea, cui rimase legato il suo nome proprio per averne depositato il progetto all'Accademia.
+Lo strumento consisteva in un tronco di cono rovesciato che nella parte più piccola terminava con una membrana di pergamena: una setola era collegata a questa membrana e si posava su un cilindro cosparso di nerofumo. La setola veniva sollecitata dalle vibrazioni della membrana e andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella, sul quale risultava quindi la traccia che registrava le variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro dei diversi strumenti. 
+
+Nell'aprile 1877 un altro francese, Charles Cros, presentava all'Accademia delle Scienze il progetto per una macchina analoga, da lui denominata "phonographe", in cui il disegno della forma d'onda veniva inciso su un disco di vetro annerito con nerofumo, anzichè su un cilindro. L'incisione lasciava scoperta una traccia di vetro trasparente, che consentiva il passaggio della luce, quindi la possibilità di essere trattato come un negativo fotografico per impressionare una lastra metallica fotosensibile, (Cross era anche un grande studioso di fotografia). Sarebbe bastata l'immersione in un bagno chimico per ottenere solchi corrispondenti alle oscillazioni delle onde sonore e quindi arrivare finalmente alla riproduzione del suono, ma Cross non ebbe mai la possibilità economica sviluppare la propria idea e realizzare un vero prototipo. Probabilmente realizzò la sua macchina in casa con poveri materiali di recupero per poter eseguire i suoi esperimenti rimasti sconosciuti, quindi il suo nome rimane legato solo al progetto depositato all'Accademia.
  
 	
 Il primo dispositivo in grado di restituire il suono registrato si deve però allo statunitense Thomas Alva Edison (1847-1931). 
@@ -405,5 +407,8 @@ I formati di SMF disponibili sono i seguenti:
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 ![](.\images\midi\tipi_messaggio_7.PNG)
-
+-----------------------------------------------------------
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
+
+[^] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)
+![grafofono](.\images\supporti_registrazione_riproduzione\grafofono.jpg)

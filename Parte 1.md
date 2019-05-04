@@ -361,13 +361,19 @@ il sequencer può essere sia hardware che software.
 ### IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
 
 
-La sorgente sonora, ad esempio un violoncello o un cantante, emette un suono, il quale esercita una variazione di pressione dell'aria circostante. Tale variazione di pressione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
-Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabora portandolo a un sufficiente livello di potenza elettrica per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori.
-Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
-Il segnale sonoro captato dal microfono passa, dapprima al preamplificatore e poi nell'hardware FX l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzaatori (EQ) e i compressori, elaborano il segnale, ancora in analogico, anche se spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, grazie a dei convertitori da audio a digitale, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale imput, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plugin interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
-In alcuni modelli di scheda audio, come ad esmpio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno.
+La sorgente sonora emette un suono, il quale esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
+Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabori portandolo a un  livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
+Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
+In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
-## SCHEDA AUDIO
+
+### 1.3.4 SCHEDA AUDIO
+<!-- da completare>
+Driver disponibili e loro compatibilità
+I driver sono scaricabili dal sito della casa produttrice
+compatibilità con diversi software
+Frequenza di campionamento
+Quantizzazione
 
 Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale. 
 La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e  le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita. 
@@ -375,8 +381,13 @@ In generale la scheda audio ha diversi tipi di connettori e quindi di interfacci
 
 ## DAW, digital audio workstation
 
+**§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
 
+I brani possono essere realizzati interamente all'interno dello studio.
+ 
 
+<!-- Un player audio non è una DAW. -->
+mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
 
 <!-- appunto:
 esempi porte  scheda: RCA/Jack, Cannon, USB B.
@@ -387,26 +398,6 @@ I sistemi digitali ricevono invece i segnali da apparecchiature CJ H, apparecchi
 <!-- esempi -->
 
 
-**§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
-
-I brani possono essere realizzati interamente all'interno dello studio.
- 
-
-<!-- Un player audio non è una DAW. -->
-
-### 1.3.4 SCHEDA AUDIO
-<!-- da completare>
-Driver disponibili e loro compatibilità
-I driver sono
-I driver sono scaricabili dal sito della casa produttrice
-
-compatibilità con diversi software
-Frequenza di campionamento
-Quantizzazione
-
-
-
-mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW 
 
 
 ### 1.3.5 COS'È IL MIDI

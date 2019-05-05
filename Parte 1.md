@@ -40,7 +40,7 @@ Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si a
 ## 1.1 BREVE STORIA DELLE TECNOLOGIE APPLICATE ALL'AUDIO
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici. 
 Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
-Roberto Diem Tigani, a cui si è fatto frequente ricorso in questa parte,[] individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo.
+Roberto Diem Tigani[], a cui si è fatto frequente ricorso in questa parte, individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo.
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, di conseguenza ogni innovazione ha influito sulla sfera sia pubblica che privata dell'ascolto, contribuendo allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa.
 
 ### 1.1.1 LA REGISTRAZIONE MECCANICA
@@ -49,16 +49,16 @@ Antesignani ne furono gli esperimenti del fisico inglese Thomas Young (1773-1829
 [^]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
 In particolare si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro.
 Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione:
-".. . applicando - scrive Young - una piccola penna intrisa d'inchiostro ad
+".. . applicando - scrive Young[^] - una piccola penna intrisa d'inchiostro ad
 una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola
 a contatto con un foglio di carta che venga a sua volta fatto scorrere
 per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata
-che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^1]
+che rappresenterà perfettamente l'andamento della vibrazione sonora..."
 THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
 
 A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già enucleata, benchè ancora non se ne ipotizzi la possibilità, l'idea che porterà molti anni dopo alla riproduzione di un suono precedentemente registrato.  
 
-Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", da lui brevettato nel 1857, capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda.
+Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda.
 [fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
 [^] [immagine fonoautografo link consultato 30 aprile 2019](https://www.google.it/search?q=fonoautografo&ie=UTF-8&oe=UTF-8&hl=it-it&client=safari#imgrc=7pn0HHLNbjIHeM:)
 

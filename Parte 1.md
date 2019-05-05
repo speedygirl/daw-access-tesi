@@ -30,26 +30,7 @@ Lo scopo del lavoro è invitare sviluppatori degli screen reader e case produttr
 
 Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--------------- 
 
 # 1 PRODUZIONE AUDIO E TECNOLOGIE (STRUMENTI HARDWARE E SOFTWARE PER LA PRODUZIONE AUDIO)
 
@@ -74,7 +55,7 @@ THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, 
 
 A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già enucleata, benchè ancora non se ne ipotizzi la possibilità, l'idea che porterà molti anni dopo alla riproduzione di un suono precedentemente registrato.   
 
-Fu solo nel 1857, passati ormai quasi tre decenni dalla morte di Young, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. 
+Fu solo nel 1857, passati ormai quasi tre decenni dalla sua morte, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. 
   
 ![fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
 [^] [immagine fonoautografo link consultato 30 aprile 2019](https://www.google.it/search?q=fonoautografo&ie=UTF-8&oe=UTF-8&hl=it-it&client=safari#imgrc=7pn0HHLNbjIHeM:)
@@ -94,7 +75,7 @@ Risultati significativi furono ottenuti quando sostituì il nastro con un cilind
 ![fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png)
 
 Luca Cerchiari[] afferma:
-  > "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
+> "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
 	"La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene pronunciata."
 § mancano pp [^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
 
@@ -449,12 +430,12 @@ Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non
 ![](.\images\midi\tipi_messaggio_7.PNG)
 
 Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi. 
-![](.\images\midi\byte_5.PNG
+![](.\images\midi\byte_5.PNG)
 
 Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
 La funzione degli Status Byte è quella di consentire una trasmissione univoca e corretta di comandi, senza possibilità di errore, perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
 I Data Byte forniscono i parametri per un corretto funzionamento degli Status Byte e possono assumere valori compresi tra 0 e 127.
- ![](.\images\midi\codifica_6.PNG)
+![](.\images\midi\codifica_6.PNG)
 
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti: 
@@ -464,7 +445,8 @@ I formati di SMF disponibili sono i seguenti:
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 ![](.\images\midi\tipi_messaggio_7.PNG)
------------------------------------------------------------
+--------------- 
+
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
 
 [^] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)

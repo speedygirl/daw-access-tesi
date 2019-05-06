@@ -37,28 +37,24 @@ Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si a
 ## 1.1 BREVE STORIA DELLE TECNOLOGIE APPLICATE ALL'AUDIO
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici.  
 Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono. 
-Roberto Diem Tigani[], a cui si è fatto frequente ricorso in questa parte, individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo. 
+Roberto Diem Tigani[^Roberto-Diem-Tigani], a cui si è fatto frequente ricorso in questa parte, individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo. 
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, di conseguenza ogni innovazione ha influito sulla sfera sia pubblica che privata dell'ascolto, contribuendo allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa. 
+[^Roberto-Diem-Tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.
 
 ### 1.1.1 LA REGISTRAZIONE MECCANICA
 Nel XIX secolo si assistette al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico. 
-Antesignani ne furono gli esperimenti del fisico inglese Thomas Young (1773-1829) [], spirito eclettico dall'ingegno multiforme, che si occupò di svariate discipline lasciando numerosi contributi nel campo delle scienze e della fisica moderna.  
-[^]: [Enciclopedia Treccani Url consultato il 9/04/2018](https://www.treccani.it/Fenciclopedia/thomas-young)
+Antesignani ne furono gli esperimenti del fisico inglese Thomas Young[^young] (1773-1829), spirito eclettico dall'ingegno multiforme, che si occupò di svariate discipline lasciando numerosi contributi nel campo delle scienze e della fisica moderna.  
+[^young]: Enciclopedia Treccani al seguente url consultato il 9/04/2018 *https://www.treccani.it/Fenciclopedia/thomas-young*
 In particolare si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro. 
-Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione: 
-".. . applicando - scrive Young[^] - una piccola penna intrisa d'inchiostro ad
-una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola
-a contatto con un foglio di carta che venga a sua volta fatto scorrere
-per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata
-che rappresenterà perfettamente l'andamento della vibrazione sonora..." 
-THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
+Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione dello stesso Young: 
+"... applicando una piccola penna intrisa d'inchiostro ad una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola a contatto con un foglio di carta che venga a sua volta fatto scorrere per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^taylor-and-Walton]
+[^taylor-and-Walton]: THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
 
 A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già enucleata, benchè ancora non se ne ipotizzi la possibilità, l'idea che porterà molti anni dopo alla riproduzione di un suono precedentemente registrato.   
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla sua morte, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. 
   
 ![fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
-[^] [immagine fonoautografo link consultato 30 aprile 2019](https://www.google.it/search?q=fonoautografo&ie=UTF-8&oe=UTF-8&hl=it-it&client=safari#imgrc=7pn0HHLNbjIHeM:)
 
 Lo strumento consisteva in un tronco di cono rovesciato terminante, nella parte più piccola, con una membrana di pergamena alla quale era collegata una setola che, a sua volta, si posava su un cilindro cosparso di nerofumo. Un urto di onde sonore metteva in vibrazione la membrana, questa sollecitava la setola che andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella. Il risultato era quindi la traccia registrata sul rullo delle variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro di diversi strumenti. 
 
@@ -68,16 +64,18 @@ Nell'aprile 1877 un altro francese, Charles Cros, presentava all'Accademia delle
 Il primo dispositivo in grado di restituire il suono registrato si riconosce all'invenzione dello statunitense Thomas Alva Edison (1847-1931). 
 ![Fonografo e Edison](.\images\supporti_registrazione_riproduzione\fonografo_con_edison_1.jpg)  
 Mentre lavorava alla velocizzazione della trasmissione di messaggi in alfabeto Morse, si accorse che anche il tasto produceva dei suoni che variavano con la velocità di scorrimento del supporto inciso. Questo fenomeno gli suggerì la possibilità di registrare anche le modulazioni dirette di una forma d'onda generata da segnali acustici, approntò quindi un dispositivo, che chiamò phonograph, derivato direttamente dalla teoria di Young. All'interno di una tromba era collocata una membrana che veniva messa in moto vibratorio da una fonte sonora; una vite filettata, azionata da una manovella, permetteva a un nastro di carta paraffinata di scorrere,  mentre uno stilo, collegato alla membrana sollecitata, imprimeva l'andamento e le variazioni di profondità delle onde sonore sulla paraffina. 
-Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda [^] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore. 
-[link enciclopedia Treccani ampiezza d'onda](http://www.treccani.it/enciclopedia/ampiezza/)
+Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore. 
+[^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
  
 
 ![fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png)
 
-Luca Cerchiari[] afferma:
+Luca Cerchiari[^Luca-Cerchiari] afferma:
 > "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
 	"La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene pronunciata."
-§ mancano pp [^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
+[^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
+
+<--!mancano pp--> 
 
 Edison cominciò subito a costruire i primi esemplari e a dare pubbliche dimostrazioni delle sue macchine, definite Talking Machines, ma la nuova invenzione presentava alcuni problemi. Il principale era la difficoltà di duplicazione del cilindro registrato, inconveniente cui tentò di ovviare in diversi modi, per esempio collocando una certa quantità di fonografi di fronte allo stesso esecutore, ma sempre con risultati insoddisfacenti. Forse anche per questo motivo Edison non era molto interessato alla riproduzione musicale e proponeva per il suo fonografo un utilizzo personale, per registrazioni realizzate dallo stesso utente, per memoria familiare, come strumento didattico, perfino come orologio parlante. 
 
@@ -88,43 +86,44 @@ Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispos
 
 Il  salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale. 
 Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo, da essere utilizzata ancora ai nostri giorni. 
-![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg)
-[^] [immagine Berliner link consultato 30 aprile 2019](https://www.google.it/search?client=safari&channel=ipad_bm&tbm=isch&source=hp&ei=n0_IXNq2G42s6AS0rbbYDA&q=rullo+cera+grahm+bell&oq=rullo+cera+grahm+bell&gs_l=mobile-gws-wiz-img.3..30i10.1973.8421..8667...0.0..0.181.1797.17j4......0....1.......5..41j0j0i5i30j0i8i30j0i30j33i10.75mbzHSWxEc#imgrc=zRWXtrkJGoX4LM)
+![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg) [^immagine-Berliner]
+[^immagine-Berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/* 
 
 Dopo essersi appassionato agli studi sul telefono, al quale aveva apportato importanti modifiche migliorative della qualità di trasmissione, Berliner si dedicò allo studio del progetto depositato da Cros all'Accademia delle scienze di Francia, producendo un apparecchio che chiamò "Gramophone". 
 Come Cros egli utilizzava un disco di vetro ricoperto di nerofumo, con successiva fotoincisione su lastra di zinco. Le sue prime innovazioni furono l'incisione sulla faccia inferiore del disco, che evitava l'accumulo del materiale rimosso, e l'utilizzo di un piccolo motore a peso, che sfruttava la forza di gravità per la rotazione del disco e il movimento laterale del diaframma. 
 Il primo modello fu presentato da Berliner nel 1887. Con il suo sistema, che lasciava più libero il movimento dello stilo, egli otteneva un solco di profondità fissa ma con modulazione laterale variabile, il che produceva un suono migliore, vicino a quello reale, come fino ad allora non si era sentito. Questo fu uno degli elementi che decretarono il successo del nuovo apparecchio, nonostante il rumore di fondo fosse più elevato di quello dei dispositivi a cilindro. 
-> Abituato com'ero alla riproduzione metallica e innaturale dei vecchi fonografi a cilindro fui straordinariamente sorpreso dal bel timbro del disco piatto[^]. 
-[^] [Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16](Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16).  
+> Abituato com'ero alla riproduzione metallica e innaturale dei vecchi fonografi a cilindro fui straordinariamente sorpreso dal bel timbro del disco piatto[^Fred-Gaisberg]. 
+[^Fred-Gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.
 
 Altre fondamentali migliorie furono: 
 	- l'utilizzo di una punta di iridio, che facilitava lo scorrimento dello stilo sulla superficie del solco; 
 	- l'introduzione di un braccio meccanico, realizzato dal tedesco Werner Suess, che con ulteriori sviluppi aprirà la strada al giradischi; 
 	- l'eliminazione del vetro: il disco di zinco veniva preparato con una miscela di cera e benzina, su cui avveniva l'incisione, poi direttamente immerso in un bagno di acido. Si otteneva così una riduzione dei passaggi e una migliore qualità della riproduzione. 
-	![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg)
-	
-[^] [Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16](Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16).  
+
+![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg) ^Chris-Middleton
+[^Chris-Middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16.
 
 Berliner si era applicato fin dall'inizio alla riproduzione della musica, scindendo l'aspetto della registrazione da quello della riproduzione: questo aveva determinato da subito il carattere del grammofono come lettore di un supporto preregistrato. 
 Si occupò inoltre del problema della riproduzione da matrice, avendo capito che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino fino agli anni '50, quando fu sostituita dal policloruro di vinile.   
-	
+
 Nel 1893 fondò a Washington la United States Gramophone Company, con la collaborazione del produttore Gaisberg, cui era affidata la direzione artistica, sodalizio che introdusse una serie di attività assolutamente innovative per l'epoca, come la creazione di cataloghi editoriali, scelta e allestimento di un repertorio, ingaggio di artisti. La nuova compagnia si presentò sul mercato con la sua produzione di dischi e tre diversi tipi di grammofono, uno a manovella e due già dotati di motore elettrico. Il successo fu enorme. 
 Subito Berliner pensò a ulteriori migliorie e diede incarico a Eldridge Reeves Johnson (1867-1945), esperto ingegnere meccanico del New Jersey, di realizzare un prototipo di motore a molla che desse regolarità alla riproduzione, senza i costi di un motore elettrico. Il nuovo apparecchio, pronto nel 1896, verrà distribuito con grande lancio pubblicitario, segnando definitivamente il tramonto dei cilindri. 
 Johnson si  occupò anche del problema della produzione delle copie, sperimentando soluzioni chimiche innovative. Eliminò il pericoloso utilizzo dell'acido impiegando per l'incisione un disco di cera poi spolverato di grafite, materiale conduttore, e immerso in una soluzione a base di sale di rame. Tramite un processo elettrochimico le particelle di rame andavano prima a depositarsi nel solco registrato e poi formavano uno strato solido di rame che può essere staccato dalla cera e utilizzato per la duplicazione. In seguito il rame venne sostituito col nichel, ma questo sistema  era talmente  valido che rimase sostanzialmente invariato e tuttora i dischi in vinile vengono duplicati con matrici prodotte secondo il processo di Johnson. 
 I primi dischi realizzati con la nuova tecnica avevano un diametro di 18 centimetri, salita poi a 25, e una velocità di rotazione di oltre 70 giri al minuto, mentre la durata di una facciata variava dai due ai quattro minuti.
 Johnson sperimentò anche la registrazione su entrambe le facce di un disco, com'è provato da tre esemplari realizzati nella primavera-estate del 1900 e ritrovati a distanza di decenni. 
-![78 giri](.\images\supporti_registrazione_riproduzione\78_giri.jpg) 
-[^] [Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16](Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16).  
- 
+![78 giri](.\images\supporti_registrazione_riproduzione\78_giri.jpg) ^Chris-Middleton]
+[^Chris-Middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16
+
+  
 > Toscanini definisce il grammofono "insuperabile", Leoncavallo "prezioso", Giordano "meraviglioso", Cilea "gioiello artistico", Illica parla di "conquista  spirituale", Puccini di "momenti deliziosi". 
 Ascoltando oggi un documento sonoro di quel periodo, specie sulle macchine originali e senza il conforto di una sofisticata tecnologia di restauro, c'è da restare stupefatti di fronte a tanta abbondanza di lodi, così in contrasto con un risultato sonoro povero di dettagli, non sempre comprensibile e martoriato da rumori di fondo oggi inaccettabili. 
 
 > La risposta in frequenza riproducibile era limitata tra i 200 e i 2.000 hertz. Un range così ristretto consentiva a stento la riproduzione delle sole frequenze fondamentali, con esclusione degli armonici superiori ai 2.000 hertz e conseguente impossibilità’ di percepire il timbro di molti strumenti. Altro problema era la debole potenza della forma d'onda, insufficiente per modellare con dovizia di particolari un materiale semirigido (cera o fogli di stagno) attraverso una membrana meccanica. In buona sostanza, non era possibile catturare suoni troppo deboli o non prodotti nelle immediate vicinanze dei dispositivi di ricezione. Questo privilegiava alcuni strumenti a danno di altri meno adatti alla registrazione.
 Gli ottoni erano dotati di buona direzionalità e discreta pressione sonora, così pure clarinetti e flauti. L'insieme strumentale per eccellenza divenne dunque la banda militare, capace di offrire volumi e sonorità superiori a quelli di un'orchestra sinfonica. Vero disastro erano invece gli archi per la loro scarsa direzionalità e limitata pressione sonora. Non di rado s'interveniva con strumenti appositamente modificati per superare questi limiti… o con strumenti a fiato. C'era infine il problema della durata dei supporti, limitata in origine a soli due minuti, in seguito estesa a quattro, e comunque vero ostacolo per qualsiasi registrazione. Nel tentativo di risolvere alcuni di questi problemi veniva all'epoca ritenuta lecita l'assurda pratica della recreation: un rimaneggiamento della partitura basato su devastanti modifiche alla strumentazione originale, con tagli e adattamenti che avevano il solo scopo di risultare compatibili coi i limiti dei supporti. Eppure non solo il pubblico, ma anche gli interpreti (e a volte persino gli autori) consideravano del tutto normali queste manipolazioni… 
 
-> …  gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale[^]
+> …  gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale[^Roberto-Diem-Tigani]
 All'epoca il fatto stesso che una macchina avesse la capacità di trasmettere una musica rappresentava di per sè un miracolo!
-[^Tigani op.cit. pp 57-58]: Tigani
+[^Roberto-Diem-Tigani]: op.cit. pp 57-58
 
  
 ### 1.1.2 REGISTRAZIONE ELETTRICA E MAGNETICA

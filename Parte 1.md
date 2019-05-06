@@ -140,15 +140,15 @@ Nel 1907 Lee De Forest  brevettò il triodo. Egli aveva scoperto che inserendo u
 Il triodo apriva una strada verso l'amplificazione dei segnali, ma queste scoperte furono accolte con lentezza nonostante il loro grande potenziale: diodi, triodi, successivamente modificati e denominati tubi elettronici, sarebbero stati determinanti per tutte le innovazioni future, compresa l'informatica. 
 
 Nel 1919 Lionel Guest e Horace Merriman effettuarono i primi  esperimenti di incisione elettrica, utilizzando una valvola termoionica come amplificatore. La prima registrazione elettrica, poi incisa su disco e commercializzata, fu fatta durante una cerimonia in Westminster. Nella cattedrale erano stati collocati quattro microfoni collegati ad apparecchi situati in un furgone all'esterno dell'abbazia.  
-Questi esperimenti evidenziarono l'importanza del microfono e spinsero un gruppo di specialisti, tra cui Joseph Maxfield, ad approfondire la ricerca in questo settore realizzando i microfoni a condensatore[]. 
+Questi esperimenti evidenziarono l'importanza del microfono e spinsero un gruppo di specialisti, tra cui Joseph Maxfield, ad approfondire la ricerca in questo settore realizzando i microfoni a condensatore [^immagine-microfono-a-condensatore]. 
 ![microfono a condensatore 1](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg)
-[^] [immagine microfono a condensatore link consultato 30 aprile 2019](https://www.google.com/imgres?imgurl=https%3A%2F%2F4.bp.blogspot.com%2F-20khtez8S_A%2FT_VqFSo2vdI%2FAAAAAAAAAS4%2F7T8b7KJ5oGo%2Fs400%2F6.jpg&imgrefurl=http%3A%2F%2Fcollezioneradionelson.blogspot.com%2Fp%2Fmicrofonia-telefonia.html&tbnid=3gmx5UnaD-Io1M&vet=1&docid=SFc5HxkmodDIvM&w=400&h=392&hl=it-IT&source=sh%2Fx%2Fim)
+[^immagine-microfono-a-condensatore]: immagine microfono a condensatore tratto da Collezione Radio NElson Microfonia - Tecnologia link consultato 30 aprile 2019 *http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html?m=1*
 
 ![!microfono a condensatore 2](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_2.jpg)
-[^] [microfono a condensatore link consultato 30 aprile 2019](https://www.google.com/imgres?imgurl=https://4.bp.blogspot.com/-z1EfCJBsTVM/T_VqCzZXOFI/AAAAAAAAASo/qQ6xehR3wH0/s400/04.jpg&imgrefurl=http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html&tbnid=MLa1qJ7h6hrw5M&vet=1&docid=SFc5HxkmodDIvM&w=400&h=320&hl=it-IT&source=sh/x/im)
+[^immagine-microfono-a-condensatore]: immagine microfono a condensatore 
 
 ![microfono a condensatore 3](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_3.jpg)
-[^] [microfono a condensatore 3 link consultato 30 aprile 2019](https://www.google.com/imgres?imgurl=https://i.ebayimg.com/images/g/9F8AAOSwCK1cDUhr/s-l300.jpg&imgrefurl=https://www.ebay.it/itm/Microfono-anni-30-Little-Wonder-USA-/223317083247&tbnid=V0FmNabSF1CB9M&vet=1&docid=VVT7lQCFOY2WyM&w=225&h=300&hl=it-IT&source=sh/x/im)
+[^immagine-microfono-a-condensatore] [microfono a condensatore 3 link consultato 30 aprile 2019 Ebay
 
 Non tutti i problemi erano risolti ma le frequenze riproducibili si estesero tra i 200 Hz e i 9000 Hz. 
 Le prime registrazioni elettriche non furono accolte con entusiasmo per l'insufficiente qualità, finchè ci si rese conto che i risultati negativi potevano essere attribuiti alle apparecchiature utilizzate per l'ascolto. La tromba a forma di fiore, che era stata pensata per il debole segnale acustico, non era adatta alla riproduzione delle nuove frequenze e le pesanti testine di lettura a punta metallica rovinavano in breve i nuovi suoni delicati. Ma nemmeno l'introduzione di  amplificatori  e bracci di lettura elettromagnetici riuscirono a risolvere i problemi, mentre acquistarono molta rilevanza la funzione del microfono e il suo posizionamento, elementi che potevano notevolmente influire  sul risultato. 
@@ -168,9 +168,8 @@ Questi fattori aumentarono di gran lunga la popolarità del supporto ed è per r
 #### 1.1.2.2 LA REGISTRAZIONE MAGNETICA
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
-![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg)
-[^] [immagine telegraphone link consultato 30 aprile 2019](https://www.google.it/search?q=telegraphone+poulsen&tbm=isch&ved=2ahUKEwjx4eS6zPfhAhXBw4UKHbmPAPUQ2-cCegQIABAC&oq=telegraphone+poulsen&gs_l=mobile-gws-wiz-img.3...23913.35705..36233...6.0..0.236.1554.5j5j2......0....1.........30i10.BTyZoQ4fxCU&ei=5yHIXLHSKMGHlwS5n4KoDw&client=safari#imgrc=o8LNt81DEtuw7M
-)
+![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg) [^immagine-telegraphone]
+[^immagine-telegraphone]: immagine telegraphone link consultato 30 aprile 2019 *ssplprints.com*
 
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete  al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia.
 [^Tigani p 173](Tigani p 173)
@@ -178,8 +177,8 @@ I primi tentativi di una registrazione su dispositivi magnetici erano stati fatt
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti  sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro,  superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
-< La vera svolta avviene però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entra in oscillazione registrando una frequenza elevatissima che si sovrappone al segnale. La frequenza non è udibile ma produce un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi.
-[Tigani p 175]:(Tigani p 174): Tigani 
+< La vera svolta avviene però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entra in oscillazione registrando una frequenza elevatissima che si sovrappone al segnale. La frequenza non è udibile ma produce un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi. [^roberto-diem-tigani] 
+[^roberto-diem-tigani]: p 174
 
 Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il mondo per la qualità, l'assenza di fruscio, la mancanza di interruzioni. Il "mistero" si scoprì solo al termine della guerra e la nuova tecnologia, grazie agli evidenti vantaggi, si diffuse rapidamente prima nel mondo della radio e poi negli studi di registrazione. Questo sistema dava risposte in frequenza dai  20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato; permetteva di effettuare registrazioni ovunque, al contrario dei dischi he erano legati ai luoghi di produzione. Ma la vera novità fu nella possibilità di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi il montaggio di pezzi  di registrazione, fatti anche in tempi diversi.
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.

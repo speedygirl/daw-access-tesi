@@ -1,3 +1,4 @@
+
 # Titolo
 
 ## Lista
@@ -27,3 +28,10 @@ Vai a pagina nuova e puoi ricitare la nota spiegata alla pagina prima [^qualcosa
 \newpage
 
 Testo della nuova pagina
+qualcosa
+
+
+# test 
+
+Roberto Diem Tigani[^roberto-diem-tigani],
+[^roberto-diem-tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.

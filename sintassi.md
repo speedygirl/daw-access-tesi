@@ -32,5 +32,6 @@ qualcosa
 
 
 # test 
-testo Roberto Diem Tigani [^roberto-diem-tigani], testo.
+testo Roberto Diem Tigani [^roberto-diem-tigani], testo. 
+
 [^roberto-diem-tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.

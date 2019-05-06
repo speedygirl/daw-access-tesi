@@ -37,7 +37,7 @@ Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si a
 ## 1.1 BREVE STORIA DELLE TECNOLOGIE APPLICATE ALL'AUDIO
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici.  
 Storicamente la produzione audio si è di necessità  sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono. 
-Roberto Diem Tigani[^rRoberto-diem-tigani], a cui si è fatto frequente ricorso in questa parte, individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo. 
+Roberto Diem Tigani[^roberto-diem-tigani], a cui si è fatto frequente ricorso in questa parte, individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo. 
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, di conseguenza ogni innovazione ha influito sulla sfera sia pubblica che privata dell'ascolto, contribuendo allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa. 
 [^roberto-diem-tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.
 

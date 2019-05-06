@@ -206,7 +206,6 @@ Le casse acustiche  possono variare la qualità del suono riprodotto in funzione
 Ai tre elementi principali a volte si aggiunge una piastra di registrazione e un sintonizzatore audio.
 All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 
-
 ### 1.1.4 PORTABILITÀ
 
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
@@ -214,14 +213,13 @@ Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificato
 ![grammofono portatile](.\images\grammofono-portatile-2.jpg)
 ![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg)
 
-Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^3]
-[^Tigani p 222]: : Tigani 
+Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani]
 
 Negli anni '60 la Philips produceva la Compact Cassette, o audiocassetta, dandone subito la licenza ai produttori interessati, fatto questo che ne agevolerà la diffusione sul mercato.
 L'audiocassetta poteva avere anche una durata di 120 minuti e veniva letta da un comodo dispositivo di piccole dimensioni. La velocità del nastro era per convenzione di 4,75 cm/s, adatta alla registrazione del parlato, ma scarsa per quella musicale che risultava limitata a soli 6-7 kHz e disturbata dal rumore di fondo. Per migliorarne la qualità si studiarono dei nastri al biossido di cromo che estendevano la frequenza fino ai 12 kHz e venne adottato il sistema *Dolby B*, versione semplificata di quello molto costoso usato in ambiti professionali, per filtrare i suoni mediante i filtri passabanda e passabasso. 
 La diffusione della musicassetta fu massiccia grazie alla versatilità e al basso costo, benchè la semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnassero ad una perdita di qualità sonora. A partire dalla metà degli anni '80 del Novecento, l'audio cassetta si imporrà come il supporto più utilizzato nel mondo.
 Negli stessi anni '60 la Ford Motor Company commissionava alla Motorola la ricerca di un analogo supporto per dotare le vetture di fascia alta della possibilità di ascoltare musica, mentre sul versante del disco la portabilità raggiungeva le grandi masse con l'invenzione del *portable record player*,  piccola valigia  alimentata a corrente o a batterie, che in automatico riproduceva dischi a 45 giri da inserire in una fessura, da cui l'appellativo "mangiadischi".
-La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto.
+La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto. [^immagini-45-giri-mangiadischi]
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg)
@@ -231,6 +229,9 @@ Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Legge
 
 La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, rendendo possibile un ascolto a 360 gradi. Nel tentativo di ricreare la sensazione di ambiente, oltre ai canali stereo che mandavano le informazioni principali, venivano utilizzati altri due canali che trasmettevano le informazioni captate da microfoni, messi in posizione posteriore, durante la registrazione: in questo modo l'ascoltatore era  completamente avvolto da una musica di altissima qualità. Il costo e la scomodità di questo sistema, che presupponeva ampi spazi per collocare quattro diffusori, due davanti e due dietro l'ascoltatore, non ne permisero la diffusione di massa e la quadrifonia rimase confinata alla nicchia degli audiofili appassionati oppure utilizzata in ambito cinematografico. Questo insuccesso, insieme al drastico calo delle vendite dei dischi, fu drammatico per le case discografiche che avevano puntato su questa novità con grandi investimenti.
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
+
+[^roberto-diem-tigani]: Tigani p 222 
+[^immagini-45-giri-mangiadischi]: tratte da collezione privata
  
 ### 1.1.3 REGISTRAZIONE DIGITALE 
 
@@ -240,8 +241,8 @@ Nel 1979 era stata brevettata una nuova tecnologia di registrazione e riproduzio
 La possibilità di codificare una forma d'onda  sonora in codice binario era conosciuta da tempo:  il PCM  era stato brevettato nel 1938 dall'ingegnere Alex Reeves ed era stato utilizzato nella seconda guerra mondiale per trasmettere messaggi in codice. 
 Ma per la trasmissione di suoni di alta qualità era necessario che la frequenza di campionamento (scansione della forma d'onda nell'unità di tempo) si facesse  con valori molto elevati e questo avrebbe prodotto una mole di dati tale che nessun calcolatore dell'epoca sarebbe stato in grado di elaborare. 
 Altro ostacolo consisteva nel fatto che venivano generate grandi quantità di frequenze spurie che alteravano la qualità del risultato. A quest'ultimo problema si trovò una soluzione applicando il  teorema di Nyquist-Shannon,secondo il quale per evitare distorsioni o perdita di informazioni nella ricostruzione del segnale analogico, la frequenza di campionamento occorrente deve essere maggiore del doppio della frequenza massima. Si raddoppiarono perciò le frequenze ed essendo 20 kHz il limite udibile per l'orecchio umano, si scelse la frequenza di campionamento a 44.1 kHz (con risoluzione a 16 bit) che consentiva una riproducibilità intorno ai 18-20 kHz. La qualità ottenuta era accettabile, ma la mole dei dati da archiviare era impressionante. Si dovettero aspettare i nuovi sviluppi delle tecnologie digitali, in particolare il  potenziamento e la miniaturizzazione dei processori.
-[Le Garzantine 2012](),
-![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](compact-disc-schema-1.jpg)
+![schema rappresentante la lettura e la procedura di fabbricazione del Compact Disc](.\images\supporti_registrazione_riproduzione\compact-disc-schema-1.jpg)
+[^immagine-lettura-riproduzione-disco]
 
 Il procedimento per lo stampaggio di un CD è simile a quello del disco fonografico: la superficie viene incisa da un raggio all'elio-cadmio e poi ricoperta con un sottile strato d'argento che, indurito, costituisce lo stampo per la serializzazione.
 Per la lettura il CD utilizza un principio ottico che si basa sul contrasto di fase. La luce del laser, incontrando le irregolarità presenti sulla superficie incisa del disco, subisce una modulazione diversa e in opposizione di fase rispetto a quella che viene prodotta dalla superficie piana: si crea in questo modo un'interferenza che determina un calo dell'energia del laser, interpretata dal lettore cd come informazione binaria. Il laser, non entrando in contatto col disco, non lo usurava, non produceva gracidii, non era alterato da polvere, graffi, impronte. 
@@ -250,6 +251,8 @@ Il primo CD era uscito nel 1982 e nell'arco di un decennio riuscì a soppiantare
 La qualità del vinile rimaneva superiore ma la massa degli acquirenti era maggior mente attratta dalla novità; il vinile rimase prerogativa degli appassionati, tornando a momenti come fenomeno di moda.
 La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che restituiva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione obbligarono a ricercare materiali meno alterabili. Ma il CD continuò ad essere venduto per tutti gli anni '90 e un deciso calo delle vendite si registrò solo quando l'industria informatica cominciò a produrre computer muniti di masterizzatori, che duplicavano i CD con estrema facilità e ottimi risultati.
 
+[^immagine-lettura-riproduzione-disco]: tratta da: Le Garzantine 2012
+
 #### 1.1.3.2 DAT, DCC, DVD, SACD
 Anche l'industria del nastro fece uso delle innovazioni digitali ma senza successo. A cavallo tra gli anni ' 80 e '90 si era tentato di commercializzare dispositivi in apparenza simili alle musicassette ma di dimensioni molto più piccole e con registrazione digitale anzichè analogica. 
 Le più note proposte avanzate in questo contesto furono: 
@@ -257,14 +260,20 @@ DAT (Digital Audio Tape) introdotto dalla Sony; aveva una durata compresa tra i 
 DCC (Digital Compact Cassette) basato su una tecnologia sostanzialmente analoga a quella del DAT, offriva una precisione inferiore ma comunque pari o superiore a quella delle audiocassette analogiche.
 Queste tecnologie non ebbero un seguito rilevante e non riuscirono a raggiungere una diffusione di massa.
 ![DCC](.\images\supporti_registrazione_riproduzione\DCC.png)
+[^immagine-DCC]
+
 ![DAT 1](.\images\supporti_registrazione_riproduzione\dat 3 ADAT_DTRS_and.png)
-![DCC 2](.\images\supporti_registrazione_riproduzione\DAT_2.jpg)
+![DAT 2](.\images\supporti_registrazione_riproduzione\DAT_2.jpg)
+[^immagine DAT]
 
 Analoga sorte subirono due nuovi media, proposti nella seconda metà del decennio: DVD e SACD. Di aspetto identico a un normale CD, avevano una capacità di immagazzinamento di gran lunga superiore, grazie alla quale era finalmente possibile una riproduzione ad alta definizione.
 Il DVD (Digital Versatile Disc) nuovo formato, fu presentato dalla Sony Corporation nel 1997 e utilizzato principalmente dall'industria cinematografica, potendo contenere, oltre all'intero film, anche un audio multicanale. 
 Alla fine dello stesso anno il gruppo Matsushita presentava la versione audio del DVD, con risoluzione a 96kHz, profondità a 24 bit, riproduzione ottima e grande varietà dinamica, ma non leggibile tramite normali lettori CD. 
 Poco dopo la ricerca di audio ad alta risoluzione da parte di Sony e Philips  produsse il SACD (Super Audio CD), completamente nuovo nel processo di registrazione a flusso digitale diretto(DSD), che dava un risultato molto più dettagliato e vicino al reale, e non richiedeva un convertitore digitale/analogico per essere riprodotto. Il SACD poteva essere letto sia da un qualsiasi lettore CD in bassa risoluzione, oppure in alta definizione da chi possedeva il lettore adatto.
 La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entrambi furono soppiantati dal dilagare del formato Mp3 cui si accennerà in seguito. Il DVD audio scomparve, anche a causa della necessità di acquistare il lettore specifico per l'ascolto; il SACD, confinato nell'ambito degli amatori dell'alta definizione, divide con il vinile le registrazioni storiche di alta qualità, ripubblicate per questo mercato di nicchia.  
+
+[^immagine-DCC]: link consultato 30 aprile 2019 *itòwikipedia.org*
+[^immagine DAT]: link consultato 30 aprile 2019 tratto da 
 
 #### 1.1.3.3 INTERNET
 
@@ -276,11 +285,9 @@ Questo scontro di interessi, nonostante interventi legislativi internazionali in
 
 Col nuovo millennio l'ascolto in Mp3 divenne un fenomeno giovanile planetario, grazie all'invenzione di lettori provvisti di auricolari, con notevole capacità di archiviazione ma dimensioni estremamente ridotte, che consentivano l'ascolto ovunque. Il primo di questi dispositivi, l'iPod, fu presentato nel 2001 seguito da una grande varietà di lettori Mp3. La successiva evoluzione furono gli smartphone e i tablet collegati direttamente alla rete, tramite i quali la musica può essere non solo ascoltata, ma anche scaricata e riascoltata in assenza di collegamento a internet.
 Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita da dispositivi che non riescono a raggiungere livelli di alta qualità: l'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peraltro possono avvantaggiarsi della distribuzione via internet per trovare i prodotti a loro dedicati.
-<In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.... > L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. []
-[^Tigani  pp 258-259] 
-
-  
-
+<In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.... > L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. [^roberto-diem-tigani] 
+[^roberto-diem-tigani]: pp 258-259 
+ 
 ## 1.2 I PRODUTTORI: EVOLUZIONE DEL RUOLO NEL TEMPO
 
 Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].

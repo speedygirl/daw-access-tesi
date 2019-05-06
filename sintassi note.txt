@@ -1,0 +1,8 @@
+API[^api] 
+[^api]: API è un acronimo che sta per *"Application Programming Interface"* traducibile in italiano con *"Interfaccia per
+
+[^widget]: Nel sistema iOS i *widget* sono delle *"micro applicazioni"* fruibili dal blocca schermo, come spiegato a questo link: *https://support.apple.com/it-it/HT207122*
+
+
+Roberto Diem Tigani[^roberto-diem-tigani],
+[^roberto-diem-tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.

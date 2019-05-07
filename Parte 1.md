@@ -344,8 +344,6 @@ Quest'ultima fase non va confusa con l'omonimo mastering fatto in postproduzione
 
 Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
 
-
-
 ### 1.3.2 STRUMENTI DELLA PRODUZIONE AUDIO
 
 L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione. 
@@ -426,21 +424,26 @@ La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità
 Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò portava la conseguenza che i brani MIDI registrati in questo modo potessero essere in un secondo momento letti con un programma identico a quello col quale erano stati generati.
 ![pin connettore](.\images\midi\pin_connettore_1.PNG)
 
-< Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
+> Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
 L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema). Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre.
 I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo trasmette i dati in ingresso; la seconda svolge la funzione opposta; mentre l’ultima,che svolge il ruolo di mediazione tra MIDI IN e MIDI OUT, consente di collegare più slaves a un unico master. 
 Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non si possono connettere due porte IN o due porte OUT contigue.
-![](.\images\midi\pin_connettore_2.PNG)
-![](.\images\midi\connettore_3.PNG)
-![](.\images\midi\tipi_messaggio_7.PNG)
+![immagine pin connettore](.\images\midi\pin_connettore_1.PNG)
+[^Massimiliano-Salfi]
+
+![immagine pin connettore](.\images\midi\pin_connettore_2.PNG)
+[^G-Haus]
+
+![immagine midi connettore](.\images\midi\connettore_3.PNG)
+[^G-Haus]
 
 Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi. 
-![](.\images\midi\byte_5.PNG)
+![immagine midi byte](.\images\midi\byte_5.PNG)
 
 Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
 La funzione degli Status Byte è quella di consentire una trasmissione univoca e corretta di comandi, senza possibilità di errore, perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
 I Data Byte forniscono i parametri per un corretto funzionamento degli Status Byte e possono assumere valori compresi tra 0 e 127.
-![](.\images\midi\codifica_6.PNG)
+![immagine midi codifica](.\images\midi\codifica_6.PNG)
 
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti: 
@@ -449,10 +452,14 @@ I formati di SMF disponibili sono i seguenti:
 - formato 2 - le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica. 
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
-![](.\images\midi\tipi_messaggio_7.PNG)
---------------- 
+![immagine midi tipi di messaggio](.\images\midi\tipi_messaggio_7.PNG)
+---------------- 
 
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
 
-[^] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)
+[^Massimiliano-Salfi]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
+[^G-Haus]
+G. HAUS,   Corso di informatica applicata alla musica, pdf URL consultato il 14/06/2018 disponibile sul sito  *http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf* 
+
+[^immagine-grafofono] [immagine grafofono link consultato 30 aprile 2019](https://images.app.goo.gl/xNwNvbFYT6VRM5Ay7)
 ![grafofono](.\images\supporti_registrazione_riproduzione\grafofono.jpg)

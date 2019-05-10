@@ -232,12 +232,20 @@ La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattut
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg) 
 
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tentativi di rilancio attraverso nuove idee, come la quadrifonia.
+![immagine lettore audio cassette1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) 
+[immagini-lettore-audio-cassette]
+
+![immagine lettore audio cassette2](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg) 
+[immagini-lettore-audio-cassette]
+
 
 La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, rendendo possibile un ascolto a 360 gradi. Nel tentativo di ricreare la sensazione di ambiente, oltre ai canali stereo che mandavano le informazioni principali, venivano utilizzati altri due canali che trasmettevano le informazioni captate da microfoni, messi in posizione posteriore, durante la registrazione: in questo modo l'ascoltatore era  completamente avvolto da una musica di altissima qualità. Il costo e la scomodità di questo sistema, che presupponeva ampi spazi per collocare quattro diffusori, due davanti e due dietro l'ascoltatore, non ne permisero la diffusione di massa e la quadrifonia rimase confinata alla nicchia degli audiofili appassionati oppure utilizzata in ambito cinematografico. Questo insuccesso, insieme al drastico calo delle vendite dei dischi, fu drammatico per le case discografiche che avevano puntato su questa novità con grandi investimenti.
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
 
 [^roberto-diem-tigani]: Tigani p 222 
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
+
+[immagini-lettore-audio-cassette]: tratto da collezione privata
  
 ### 1.1.3 REGISTRAZIONE DIGITALE 
 

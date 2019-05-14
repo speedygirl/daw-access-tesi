@@ -187,30 +187,31 @@ Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il 
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
 
 
-### 1.1.3 STEREOFONIA E ALTA FEDELTÀ
-
-<--! separare stereofonia da alta fedeltà in un paragrafo diverso -->
-
-<--! due sorgenti sonore - inserire la fonte da cui è tratto perchè è "strano" -->
-
-I dischi a 78 giri e i primi microsolco erano monofonici; la profondità tridimensionale del suono poteva essere resa solo con la riproduzione simultanea da parte di due sorgenti corrispondenti alla percezione di ogni orecchio, occorreva quindi incidere contemporaneamente due segnali distinti sullo stesso solco. Diversi tentativi erano stati fatti fin dal 1928, ma senza risultati significativi. 
-Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, bastava una doppia testina di scrittura e di lettura che operava in parallelo sul nastro. Nel 1956 la RCA Victor produsse una serie di titoli stereofonici preregistrati e un riproduttore a nastro con amplificatore stereo e coppia di altoparlanti. La qualità era straordinaria, ma il mercato del nastro rimase di nicchia, per appassionati dell'Alta Fedeltà, causa gli alti costi e la difficoltà di utilizzo.  
-Solo nel 1957 gli studi della Decca e della Westrex riuscirono a incidere su un disco entrambi i segnali sullo stesso solco impiegando la modulazione laterale in un lato e  verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli.
-Le due società si accordarono per evitare una guerra commerciale e venne scelto il sistema Westrex. Anche il disco stereofonico non ottenne un successo immediato. 
-![puntina 1](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg)
-![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg)
-
-Se è impossibile riprodurre eventi sonori identici all'originale, è difficile anche ottenere risultati che gli si avvicinino, per una serie di problematiche.
+### 1.1.3 ALTA FEDELTÀ
+La corsa alla ricerca di una riproduzione quanto più simile all'esecuzione dal vivo inizia nel dopoguerra. 
+Se è impossibile riprodurre eventi sonori identici all'originale, è difficile anche ottenere risultati che gli si avvicinino, per una serie di problemi.
 Il primo è l'acustica degli ambienti in cui il suono viene prodotto, dato che ogni tipo di musica necessiterebbe di uno specifico ambiente mentre spesso questi, non essendo stati progettati allo scopo, sono privi degli indispensabili requisiti.
-Un altro problema è la posizione dell'ascoltatore rispetto alla fonte sonora.
-La riproduzione ad alta fedeltà, se curata in tutti i suoi aspetti, (posizione e cura della presa di suono, giusta dose di riverbero, componenti di elevata qualità, ambienti adatti), può consentire una riproduzione eccellente in qualsiasi contesto, senza far rimpiangere la musica dal vivo. Naturalmente condizione imprescindibile è che non solo gli strumenti degli studi di registrazione e produzione siano di elevata qualità, ma anche quelli utilizzati dall'utente per la riproduzione.
-Negli anni '60 cominciò a diffondersi l'impianto modulare, i cui componenti, giradischi, amplificatore, casse acustiche, venivano prodotti da aziende indipendenti specializzate. Negli anni '70 si raggiunsero dei risultati altissimi.
+Una registrazione curata in tutti i suoi aspetti, posizione e cura della presa di suono, giusta dose di riverbero, componenti di elevata qualità, ambienti adatti, può consentire una riproduzione eccellente in qualsiasi contesto, senza far rimpiangere la musica dal vivo. Naturalmente condizione imprescindibile è che non solo gli strumenti degli studi di registrazione e produzione siano di elevata qualità, ma anche quelli utilizzati dall'utente per la riproduzione. Le aziende americane cominciarono allora a dedicarsi all'amplificazione del suono e alla sua diffusione con amplificatori e casse sempre più potenti, in grado di restituire negli ambienti domestici dei suoni "puliti". Negli anni '60 cominciò a diffondersi l'impianto modulare, i cui componenti, giradischi,amplificatore, casse acustiche, venivano prodotti da aziende indipendenti specializzate.Negli anni '70 si raggiunsero dei risultati altissimi.
+![schema-hifi](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg) [^Le Garzantine 2012] 
+[^Le Garzantine 2012]
+
 Il giradischi è uno strumento composto da numerosi dispositivi: piatto rotante, braccio di lettura, fonorilevatore o pick-up, che trasforma le vibrazioni dello stilo in variazioni elettriche.
 L'amplificatore incrementa il livello del segnale senza produrre alterazioni. I primi e più famosi amplificatori furono: McIntosh uscito nel 1948 e Marantz nel 1950. All'inizio erano a valvole che vennero poi sostituite da transistor.
 Un moderno amplificatore è composto da una sezione preamplificatrice che prevede: selezione degli ingressi, regolazione del volume e del tono, *loudness*, per compensare l'attenuazione di alcune frequenze nella riproduzione a basso volume, e da un finale di potenza nel quale il segnale viene amplificato.
 Le casse acustiche  possono variare la qualità del suono riprodotto in funzione della loro posizione e dell'ambiente in cui vengono collocate. E' possibile utilizzare uno strumento detto *equalizzatore* che migliora la qualità bilanciando le frequenze.
 Ai tre elementi principali a volte si aggiunge una piastra di registrazione e un sintonizzatore audio.
 All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
+
+### 1.1.4 STEREOFONIA 
+
+I dischi a 78 giri e i primi microsolco erano monofonici; la profondità tridimensionale del suono poteva essere resa solo con la riproduzione simultanea di due registrazioni del medesimo evento sonoro, effettuate da due diversi punti di ripresa microfonica, corrispondenti alla percezione di ogni orecchio. Occorreva quindi incidere contemporaneamente due segnali distinti sullo stesso solco, operazione più volte tentata fin dal 1928, ma senza risultati significativi. 
+Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, bastava una doppia testina di scrittura e di lettura che operava in parallelo sul nastro. Nel 1956 la RCA Victor produsse una serie di titoli stereofonici preregistrati e un riproduttore a nastro con amplificatore stereo e coppia di altoparlanti. La qualità era straordinaria, ma il mercato del nastro rimase di nicchia, per appassionati dell'Alta Fedeltà, causa gli alti costi e la difficoltà di utilizzo.  
+Solo nel 1957 gli studi della Decca e della Westrex riuscirono a incidere su un disco entrambi i segnali sullo stesso solco impiegando la modulazione laterale in un lato e  verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli.
+Le due società si accordarono per evitare una guerra commerciale e venne scelto il sistema Westrex. Anche il disco stereofonico non ottenne un successo immediato. 
+![puntina 1](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg)
+![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg)
+
+
 <<--! inserire scansione disco quadrifonico nonno Bontempi -->
 
 ### 1.1.4 PORTABILITÀ

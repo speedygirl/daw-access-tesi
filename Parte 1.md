@@ -64,7 +64,8 @@ Nell'aprile 1877 un altro francese, Charles Cros, presentava all'Accademia delle
 Il primo dispositivo in grado di restituire il suono registrato si riconosce all'invenzione dello statunitense Thomas Alva Edison (1847-1931). 
 ![Fonografo e Edison](.\images\supporti_registrazione_riproduzione\fonografo_con_edison_1.jpg)  
 Mentre lavorava alla velocizzazione della trasmissione di messaggi in alfabeto Morse, si accorse che anche il tasto produceva dei suoni che variavano con la velocità di scorrimento del supporto inciso. Questo fenomeno gli suggerì la possibilità di registrare anche le modulazioni dirette di una forma d'onda generata da segnali acustici, approntò quindi un dispositivo, che chiamò phonograph, derivato direttamente dalla teoria di Young. All'interno di una tromba era collocata una membrana che veniva messa in moto vibratorio da una fonte sonora; una vite filettata, azionata da una manovella, permetteva a un nastro di carta paraffinata di scorrere,  mentre uno stilo, collegato alla membrana sollecitata, imprimeva l'andamento e le variazioni di profondità delle onde sonore sulla paraffina. 
-Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore. 
+Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore.
+La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene emessa. 
 [^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
  
 
@@ -72,10 +73,8 @@ Risultati significativi furono ottenuti quando sostituì il nastro con un cilind
 
 Luca Cerchiari[^Luca-Cerchiari] afferma:
 > "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
-	"La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene pronunciata."
-[^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap. 2, Luca Cerchiari – Milano, Sansoni. C2001
+[^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
 
-<--!mancano pp--> 
 
 Edison cominciò subito a costruire i primi esemplari e a dare pubbliche dimostrazioni delle sue macchine, definite Talking Machines, ma la nuova invenzione presentava alcuni problemi. Il principale era la difficoltà di duplicazione del cilindro registrato, inconveniente cui tentò di ovviare in diversi modi, per esempio collocando una certa quantità di fonografi di fronte allo stesso esecutore, ma sempre con risultati insoddisfacenti. Forse anche per questo motivo Edison non era molto interessato alla riproduzione musicale e proponeva per il suo fonografo un utilizzo personale, per registrazioni realizzate dallo stesso utente, per memoria familiare, come strumento didattico, perfino come orologio parlante. 
 
@@ -107,6 +106,9 @@ Berliner si era applicato fin dall'inizio alla riproduzione della musica, scinde
 Si occupò inoltre del problema della riproduzione da matrice, avendo capito che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino agli anni '50, quando fu sostituita dal policloruro di vinile.   
 
 Nel 1893 fondò a Washington la United States Gramophone Company, con la collaborazione del produttore Gaisberg, cui era affidata la direzione artistica, sodalizio che introdusse una serie di attività assolutamente innovative per l'epoca, come la creazione di cataloghi editoriali, scelta e allestimento di un repertorio, ingaggio di artisti. La nuova compagnia si presentò sul mercato con la sua produzione di dischi e tre diversi tipi di grammofono, uno a manovella e due già dotati di motore elettrico. Il successo fu enorme. 
+> Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile. [^] 
+[^luca-cerchiari]: p. 17
+
 Subito Berliner pensò a ulteriori migliorie e diede incarico a Eldridge Reeves Johnson (1867-1945), esperto ingegnere meccanico del New Jersey, di realizzare un prototipo di motore a molla che desse regolarità alla riproduzione, senza i costi di un motore elettrico. Il nuovo apparecchio, pronto nel 1896, verrà distribuito con grande lancio pubblicitario, segnando definitivamente il tramonto dei cilindri. 
 Johnson si  occupò anche del problema della produzione delle copie, sperimentando soluzioni chimiche innovative. Eliminò il pericoloso utilizzo dell'acido impiegando per l'incisione un disco di cera poi spolverato di grafite, materiale conduttore, e immerso in una soluzione a base di sale di rame. Tramite un processo elettrochimico le particelle di rame andavano prima a depositarsi nel solco registrato e poi formavano uno strato solido di rame che può essere staccato dalla cera e utilizzato per la duplicazione. In seguito il rame venne sostituito col nichel, ma questo sistema  era talmente  valido che rimase sostanzialmente invariato e tuttora i dischi in vinile vengono duplicati con matrici prodotte secondo il processo di Johnson. 
 I primi dischi realizzati con la nuova tecnica avevano un diametro di 18 centimetri, salita poi a 25, e una velocità di rotazione di oltre 70 giri al minuto, mentre la durata di una facciata variava dai due ai quattro minuti.
@@ -232,10 +234,10 @@ La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattut
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg) 
 
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tentativi di rilancio attraverso nuove idee, come la quadrifonia.
-![immagine lettore audio cassette1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) 
+![immagine lettore audio cassette 1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) 
 [immagini-lettore-audio-cassette]
 
-![immagine lettore audio cassette2](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg) 
+![immagine lettore audio cassette 2](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg) 
 [immagini-lettore-audio-cassette]
 
 
@@ -399,7 +401,7 @@ percorso all'interno dello studio di registrazione lavorando con il digitale. (c
 elettrico = analogico
 <--! citare libro bontempi "produzione musicale con Cubase 10" Pierluigi Bontempi indipendently published 2019 pp 19-20-->
 
-La sorgente sonora emetIn contesto dal vivo le un suono, il quale esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
+La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabori portandolo a un  livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto  viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...

@@ -5,8 +5,9 @@
 Cockos, Steimberg che hanno dato licenze
 Jin Hyun Kim  docente Berklee che ha dato informazioni
 
-- [ ] trovare dove inserire definizione di hertz (nota già pronta di seguito):
+	- [x] trovare dove inserire definizione di hertz (nota già pronta di seguito):
 [^hertz]: Consultato 18/1/2019 *http://www.treccani.it/vocabolario/hertz/*
+concetto già inserito senza necessità di nota
 # cose da sistemare o integrare in parte 1
 ## paragrafo 1.1 la produzione audio
 - [x] chiedere a bontempi in quale parte della filiera si decide frequenza campionamento? riferimento: "decidendo la frequenza di campionamento in base al supporto che si prevede di utilizzare."
@@ -14,7 +15,7 @@ Jin Hyun Kim  docente Berklee che ha dato informazioni
 - [x] frase che precede il riferimento: "per il motivo sopra esposto" spiegare quali sono le relazioni tra qualità del mix, emozione data dal mix etc...
 -  [x] riferimento: "Per contro un prodotto qualitativamente notevole può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente."
 <!-- qualitativamente rispetto a quali parametri? -->
-- [ ] riferimento: "nelle esecuzioni dal vivvo invece"
+- [x] riferimento: "nelle esecuzioni dal vivvo invece"
 Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorare a frequenze diverse? In che senso si parla di definizione in frequenza del suono?
 - [x] citare fonte da cui si è trovato il termine "early music era". riferimento: "sul piano cronologico possono essere"
 [x] [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
@@ -24,11 +25,8 @@ Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorar
 fonte: [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 - [x]  riferimento: "In passato le strumentazioni  potevano essereelettromeccaniche"
 già corretto: all'interno del testo: le strumentaziooni  erano elettromeccaniche.
-- [ ] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW (che attualmente è in fase di scrittura). riferimento: "Il fulcro dello studio odierno è la DAW"
-<!-- Si spiega qui un termine già usato in precedenza, andrebbe chiarito prima di cosa si tratta. -->
-- [ ] riferimento: "la daw può essere in dap"
-qual è il ruolo del pc?	1
-<!-- Un player audio non è una DAW. -->
+- [ ] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW. riferimento: 
+- [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
 - [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
  <!-- equipe "in che senso?" -->
@@ -38,48 +36,48 @@ qual è il ruolo del pc?	1
 il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
-- [ ] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
-- [ ] <!inserire foto grafofono-->
-- [ ] riferimento: "fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni" <!-- inserire maggiori informazioni --> 
- [ ] riferimento: "il progetto per una macchina analoga denominata phonograph." <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
+- [x] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
+- [x] <!inserire foto grafofono-->
+- [x] riferimento: "fonoautografo capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni" <!-- inserire maggiori informazioni --> 
+ [x] riferimento: "il progetto per una macchina analoga denominata phonograph." <!-- verificare il nome è fonografo fonoautografo? o il nome dato dall'inventore è phonograph? -->
  - [x] riferimento: "A seconda dell'ampiezzasuono" [^numero nota] mettere numero della nota secondo le precedenti, poi inserire definizione a pie 'di pagina.
  - [x] verificare se la profondità dei solchi nel fonografo è determinata dalla frequenza o dall'ampiezza d'onda. è determinata dall'ampiezza d'onda.
  - [x] riferimento: "complesso da lui fondato" quando?
 - [x] riferimento: "con la collaborazione del cugino Chichester" [capire se è un Bell] sì lo è
 - [x] Alexander Graham
 - [x] riferimento: "Berliner aveva iniziato ad interessarsi alle indagini sulla fonografia studiando le acquisizioni di Scott e Cros" >!-- approfondire chi sono -->
-LINK PROVVISORIO riferito a Charles Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
+usato libro tigani, non serve più il LINK PROVVISORIO riferito a Charles Cross https://library.weschool.com/lezione/strumenti-meccanici-e-fonografo-di-edison-20217.html
 Scott trovato bisogna mettere fonte bibliografica
 
-- [ ] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
-- [ ] <!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
-  - [ ] commentare tabella sui vinili (solo se c'è commento) procedere con [ ] creazione tabella formato markdown [ ] citare fonte della tabella.
-- [x] aggiungere quadrifonia : "Interessante notare la differenza rispetto all’attuale cultura commerciale"
+- [x] riferimento: "Questo nuovo supporto risulta maggiormente idoneo all’immagazzinamento di musica colta" <!-- inserire fonte --> 
+- [x] <!-- QUALI CASE DISCOGRAFICHE SVOLGONO RICERCHE PER FARE GIRADISCHI COMPATIBILI CON TUTTI I FORMATI? -->
+- [x] aggiungere quadrifonia "Interessante notare la differenza rispetto all’attuale cultura commerciale"
 il riferimento non va messo se si riespone il conccetto con parole proprie.
-- [ ] inserire fonte bibliografica e creare nota. riferimento: "ingegnere danese Valdemar Poulsen"
-- [ ] <!-- inserire foto registratore a filo -->
+- [x] inserire fonte bibliografica e creare nota. riferimento: "ingegnere danese Valdemar Poulsen"
+- [x] <!-- inserire foto registratore a filo -->
 tratta da questo link: http://farm5.static.flickr.com/4010/4309065626_12de332286.jpg
 nome file: nome file: registratore-a-filo-01
 directory: onedrive<tesi<textedition<images
 - [ ] cercare walkman arlate gialli e grigi
-- [ ] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
-- [ ] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
+- [ ] inserire foto valvole radio nonno da sd card reflex
+- [ ] inserire foto disco quadrifonico nonno bontempi
+- [ ] formati loosy e loosness 
+- [x] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
+- [x] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
 - [x] riferimento: "costituisce poi lo stampo per la serializzazione"
 <!-- Citare Garzantina -->
 - [x] <!-- inserire foto schema Garzantina -->
-- [ ] riferimento:  presentata nel 19 riferimento: "The complete SC MIDI del 1981" la versione 2.0 del midi esiste?
+- [x] riferimento:  presentata nel 19 riferimento: "The complete SC MIDI del 1981" la versione 2.0 del midi esiste?
 la versione 2.0 del MIDI non esiste. il midi è alla versione 1.0. il 2.0 riguarda il GM General Midi che permette di fare la mappatura degli strumenti.
 
-- [ ] 
 
 ## paragrafo 1.3 cos'è una daw 
-- [ ] paragrafo da scrivere 
+- [x] paragrafo da scrivere 
 appunti file word "Daw bozza ver 1.doc"
 
 ## paragrafo 1.4 il MIDI
-- [ ] importare dal doc word
-- [ ] trasformare evidenziazioni in tasks della to do list
-- [ ] salvare le foto contenute nel deoc e importarli in markdown 
+- [x] importare dal doc word
+- [x] salvare le foto contenute nel deoc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 3"
 - [ ] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

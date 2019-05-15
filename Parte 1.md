@@ -188,11 +188,11 @@ I primi tentativi di una registrazione su dispositivi magnetici erano stati fatt
 
 Tigani p 173
 
-![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) 
-[^immagine-registratore-a-filo-metallico]
-
-![registratore a filo-valigetta](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) 
-[^immagine-registratore-a-filo-metallico]
+| ![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) 
+[^immagine-registratore-a-filo-metallico] | ![registratore a filo-valigetta](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) 
+[^immagine-registratore-a-filo-metallico] | 
+| - | - | 
+| Registratore a filo metallico | registratore a filo metallico in valigetta |
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro,  superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
@@ -217,12 +217,12 @@ Le due società si accordarono per evitare una guerra commerciale e venne scelto
 ![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg)
 [^immagine-puntina]
 
-![^vinile ingrandito mille volte](.\images\supporti_registrazione_riproduzione\vinile-ingrandito-3.jpg)	 
+![^vinile ingrandito mille volte](.\images\supporti_registrazione_riproduzione\vinile-ingrandito-3.jpg) 
 [^vinile-ingrandito]
+[^vinile-ingrandito]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
 
 [^immagine-puntina]: link consultato 30 aprile 2019
 [^immagine-puntina]: link consultato 30 aprile 2019
-[^vinile-ingrandito]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
 
 ### 1.1.3 ALTA FEDELTÀ
 

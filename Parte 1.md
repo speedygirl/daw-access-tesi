@@ -44,7 +44,7 @@ Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, di
 ### 1.1.1 LA REGISTRAZIONE MECCANICA
 Nel XIX secolo si assistette al fiorire di varie tecniche di registrazione e riproduzione del suono, in parallelo alle contemporanee evoluzioni in campo fotografico e cinematografico. 
 Antesignani ne furono gli esperimenti del fisico inglese Thomas Young[^young] (1773-1829), spirito eclettico dall'ingegno multiforme, che si occupò di svariate discipline lasciando numerosi contributi nel campo delle scienze e della fisica moderna.  
-[^young]: Enciclopedia Treccani al seguente url consultato il 9/04/2018 *https://www.treccani.it/Fenciclopedia/thomas-young*
+
 In particolare si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro. 
 Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione dello stesso Young: 
 "... applicando una piccola penna intrisa d'inchiostro ad una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola a contatto con un foglio di carta che venga a sua volta fatto scorrere per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^taylor-and-Walton]
@@ -54,7 +54,8 @@ A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla sua morte, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda. 
   
-![fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg)
+![fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg) 
+[^immagine-fonoaugorafo]
 
 Lo strumento consisteva in un tronco di cono rovesciato terminante, nella parte più piccola, con una membrana di pergamena alla quale era collegata una setola che, a sua volta, si posava su un cilindro cosparso di nerofumo. Un urto di onde sonore metteva in vibrazione la membrana, questa sollecitava la setola che andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella. Il risultato era quindi la traccia registrata sul rullo delle variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro di diversi strumenti. 
 
@@ -66,10 +67,9 @@ Il primo dispositivo in grado di restituire il suono registrato si riconosce all
 Mentre lavorava alla velocizzazione della trasmissione di messaggi in alfabeto Morse, si accorse che anche il tasto produceva dei suoni che variavano con la velocità di scorrimento del supporto inciso. Questo fenomeno gli suggerì la possibilità di registrare anche le modulazioni dirette di una forma d'onda generata da segnali acustici, approntò quindi un dispositivo, che chiamò phonograph, derivato direttamente dalla teoria di Young. All'interno di una tromba era collocata una membrana che veniva messa in moto vibratorio da una fonte sonora; una vite filettata, azionata da una manovella, permetteva a un nastro di carta paraffinata di scorrere,  mentre uno stilo, collegato alla membrana sollecitata, imprimeva l'andamento e le variazioni di profondità delle onde sonore sulla paraffina. 
 Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore.
 La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene emessa. 
-[^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
- 
 
-![fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png)
+![fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png) 
+[^immagine-fonoautografo]
 
 Luca Cerchiari[^Luca-Cerchiari] afferma:
 > "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
@@ -85,8 +85,8 @@ Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispos
 
 Il  salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale. 
 Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo, da essere utilizzata ancora ai nostri giorni. 
-![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg) [^immagine-Berliner]
-[^immagine-Berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/* 
+![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg) 
+[^immagine-Berliner]
 
 Dopo essersi appassionato agli studi sul telefono, al quale aveva apportato importanti modifiche migliorative della qualità di trasmissione, Berliner si dedicò allo studio del progetto depositato da Cros all'Accademia delle scienze di Francia, producendo un apparecchio che chiamò "Gramophone". 
 Come Cros egli utilizzava un disco di vetro ricoperto di nerofumo, con successiva fotoincisione su lastra di zinco. Le sue prime innovazioni furono l'incisione sulla faccia inferiore del disco, che evitava l'accumulo del materiale rimosso, e l'utilizzo di un piccolo motore a peso, che sfruttava la forza di gravità per la rotazione del disco e il movimento laterale del diaframma. 
@@ -106,7 +106,7 @@ Berliner si era applicato fin dall'inizio alla riproduzione della musica, scinde
 Si occupò inoltre del problema della riproduzione da matrice, avendo capito che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino agli anni '50, quando fu sostituita dal policloruro di vinile.   
 
 Nel 1893 fondò a Washington la United States Gramophone Company, con la collaborazione del produttore Gaisberg, cui era affidata la direzione artistica, sodalizio che introdusse una serie di attività assolutamente innovative per l'epoca, come la creazione di cataloghi editoriali, scelta e allestimento di un repertorio, ingaggio di artisti. La nuova compagnia si presentò sul mercato con la sua produzione di dischi e tre diversi tipi di grammofono, uno a manovella e due già dotati di motore elettrico. Il successo fu enorme. 
-> Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile. [^] 
+> Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile. 
 [^luca-cerchiari]: p. 17
 
 Subito Berliner pensò a ulteriori migliorie e diede incarico a Eldridge Reeves Johnson (1867-1945), esperto ingegnere meccanico del New Jersey, di realizzare un prototipo di motore a molla che desse regolarità alla riproduzione, senza i costi di un motore elettrico. Il nuovo apparecchio, pronto nel 1896, verrà distribuito con grande lancio pubblicitario, segnando definitivamente il tramonto dei cilindri. 
@@ -126,8 +126,14 @@ Gli ottoni erano dotati di buona direzionalità e discreta pressione sonora, cos
 > …  gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale[^Roberto-Diem-Tigani]
 All'epoca il fatto stesso che una macchina avesse la capacità di trasmettere una musica rappresentava di per sè un miracolo!
 [^Roberto-Diem-Tigani]: op.cit. pp 57-58
+[^taylor-and-Walton]: THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
+[^young]: Enciclopedia Treccani al seguente url consultato il 9/04/2018 *https://www.treccani.it/Fenciclopedia/thomas-young*
+[^immagine-fonoaugorafo]: tratto da classicasenzafrontiere.wordpress dove è disponibile anache il video del fonoautografo in funzione.
+[^Luca-Cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
+[^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
+[^immagine-Berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/* 
+[^Chris-Middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16
 
- 
 ### 1.1.2 REGISTRAZIONE ELETTRICA E MAGNETICA
 #### 1.1.2.1 REGISTRAZIONE ELETTRICA
 
@@ -144,14 +150,15 @@ Il triodo apriva una strada verso l'amplificazione dei segnali, ma queste scoper
 <--! nei metodi precedenti chiaro che il suono mette in moto una membrana, nella registrazione elettrica come funziona? spiegare! mettere rimando al concetto di microfono nel parag percorso del suono -->
 Nel 1919 Lionel Guest e Horace Merriman effettuarono i primi esperimenti di incisione elettrica, utilizzando una valvola termoionica come amplificatore. La prima registrazione elettrica, poi incisa su disco e commercializzata, fu fatta durante una cerimonia in Westminster. Nella cattedrale erano stati collocati quattro microfoni collegati ad apparecchi situati in un furgone all'esterno dell'abbazia.  
 Questi esperimenti evidenziarono l'importanza del microfono e spinsero un gruppo di specialisti, tra cui Joseph Maxfield, ad approfondire la ricerca in questo settore realizzando i microfoni a condensatore [^immagine-microfono-a-condensatore]. 
-![microfono a condensatore 1](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg)
-[^immagine-microfono-a-condensatore]: immagine microfono a condensatore tratto da Collezione Radio NElson Microfonia - Tecnologia link consultato 30 aprile 2019 *http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html?m=1*
+![microfono a condensatore 1](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg) 
+[^immagine-microfono-a-condensatore]
+
 
 ![!microfono a condensatore 2](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_2.jpg)
-[^immagine-microfono-a-condensatore]: immagine microfono a condensatore 
+[^immagine-microfono-a-condensatore]
 
 ![microfono a condensatore 3](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_3.jpg)
-[^immagine-microfono-a-condensatore] [microfono a condensatore 3 link consultato 30 aprile 2019 Ebay
+[^immagine-microfono-a-condensatore]
 
 Non tutti i problemi erano risolti ma le frequenze riproducibili si estesero tra i 200 Hz e i 9000 Hz. 
 Le prime registrazioni elettriche non furono accolte con entusiasmo per l'insufficiente qualità, finchè ci si rese conto che i risultati negativi potevano essere attribuiti alle apparecchiature utilizzate per l'ascolto. La tromba a forma di fiore, che era stata pensata per il debole segnale acustico, non era adatta alla riproduzione delle nuove frequenze e le pesanti testine di lettura a punta metallica rovinavano in breve i nuovi suoni delicati. Ma nemmeno l'introduzione di  amplificatori  e bracci di lettura elettromagnetici riuscirono a risolvere i problemi, mentre acquistarono molta rilevanza la funzione del microfono e il suo posizionamento, elementi che potevano notevolmente influire  sul risultato. 
@@ -167,16 +174,22 @@ Immediatamente nel '49 esce il prodotto della RCA in aperta concorrenza con la C
 Per la lettura dei microsolchi venne realizzato dalla Philco Corporation un nuovo lettore, chiamato giradischi, che ebbe subito un largo successo commerciale determinato anche dal fatto che consentiva l'utilizzo di dischi di  diverso formato: 78, 33, 45 giri.
 Questi fattori aumentarono di gran lunga la popolarità del supporto ed è per rispondere alle esigenze sempre più pressanti dei consumatori, che si perverrà ad uno sviluppo esponenziale della produzione del disco.
 
+[^immagine-microfono-a-condensatore]: immagine microfono a condensatore tratto da Collezione Radio Nelson Microfonia - Tecnologia link consultato 30 aprile 2019 *http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html?m=1*
+[^immagine-microfono-a-condensatore]: microfono a condensatore 3 link consultato 30 aprile 2019 Ebay
 
 #### 1.1.2.2 LA REGISTRAZIONE MAGNETICA
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
-![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg) [^immagine-telegraphone]
-[^immagine-telegraphone]: immagine telegraphone link consultato 30 aprile 2019 *ssplprints.com*
+![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg) [^immagine-telegraphone] 
+[^immagine-telegraphone]
 
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia.
-[^Tigani p 173](Tigani p 173)
-![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg)
+[^roberto-diemg-igani]
+
+Tigani p 173
+
+![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) 
+[^immagine-registratore-a-filo-metallico]
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro,  superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
@@ -186,14 +199,27 @@ In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovat
 Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il mondo per la qualità, l'assenza di fruscio, la mancanza di interruzioni. Il "mistero" si scoprì solo al termine della guerra e la nuova tecnologia, grazie agli evidenti vantaggi, si diffuse rapidamente prima nel mondo della radio e poi negli studi di registrazione. Questo sistema dava risposte in frequenza dai  20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato; permetteva di effettuare registrazioni ovunque, al contrario dei dischi che erano legati ai luoghi di produzione. Ma la vera novità fu nella possibilità di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi il montaggio di pezzi di registrazione, fatti anche in tempi diversi.
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
 
+[^immagine-telegraphone]: immagine telegraphone link consultato 30 aprile 2019 *ssplprints.com*
+[^immagine-registratore-a-filo-metallico]: immagine registratore a filo link consultato 30 aprile 2019 Webster Chicago
+
 ### 1.1.4 STEREOFONIA 
 
 I dischi a 78 giri e i primi microsolco erano monofonici; la profondità tridimensionale del suono poteva essere resa solo con la riproduzione simultanea di due registrazioni del medesimo evento sonoro, effettuate da due diversi punti di ripresa microfonica, corrispondenti alla percezione di ogni orecchio. Occorreva quindi incidere contemporaneamente due segnali distinti sullo stesso solco, operazione più volte tentata fin dal 1928, ma senza risultati significativi. 
 Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, bastava una doppia testina di scrittura e di lettura che operava in parallelo sul nastro. Nel 1956 la RCA Victor produsse una serie di titoli stereofonici preregistrati e un riproduttore a nastro con amplificatore stereo e coppia di altoparlanti. La qualità era straordinaria, ma il mercato del nastro rimase di nicchia, per appassionati dell'Alta Fedeltà, causa gli alti costi e la difficoltà di utilizzo.  
 Solo nel 1957 gli studi della Decca e della Westrex riuscirono a incidere su un disco entrambi i segnali sullo stesso solco impiegando la modulazione laterale in un lato e  verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli.
 Le due società si accordarono per evitare una guerra commerciale e venne scelto il sistema Westrex. Anche il disco stereofonico non ottenne un successo immediato. 
-![puntina 1](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg)
+![puntina 1](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg) 
+[^immagine-puntina]
+
 ![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg)
+[^immagine-puntina]
+
+[^vinile-con-puntina-ingranditi-mille-volte](.\images\supporti_registrazione_riproduzione\vinile-con-puntina-ingranditi-1000-volte.png) 
+![^vinile-con-puntina-ingranditi-mille-volte]
+
+[^immagine-puntina]: link consultato 30 aprile 2019
+[^immagine-puntina]: link consultato 30 aprile 2019
+[^vinile-con-puntina-ingranditi-mille-volte]: link consultato 30 aprile 2019 *okdischi.it*
 
 ### 1.1.3 ALTA FEDELTÀ
 
@@ -201,8 +227,11 @@ Anche la corsa alla ricerca di una riproduzione quanto più simile all'esecuzion
 Se è impossibile riprodurre eventi sonori identici all'originale, è difficile anche ottenere risultati che gli si avvicinino, per una serie di problemi.
 Il primo è l'acustica degli ambienti in cui il suono viene prodotto, dato che ogni tipo di musica necessiterebbe di uno specifico ambiente mentre spesso questi, non essendo stati progettati allo scopo, sono privi degli indispensabili requisiti.
 Una registrazione curata in tutti i suoi aspetti, posizione e cura della presa di suono, giusta dose di riverbero, componenti di elevata qualità, ambienti adatti, può consentire una riproduzione eccellente in qualsiasi contesto, senza far rimpiangere la musica dal vivo. Naturalmente condizione imprescindibile è che non solo gli strumenti degli studi di registrazione e produzione siano di elevata qualità, ma anche quelli utilizzati dall'utente per la riproduzione. Le aziende americane cominciarono allora a dedicarsi all'amplificazione del suono e alla sua diffusione con amplificatori e casse sempre più potenti, in grado di restituire negli ambienti domestici dei suoni "puliti". Negli anni '60 cominciò a diffondersi l'impianto modulare, i cui componenti, giradischi,amplificatore, casse acustiche, venivano prodotti da aziende indipendenti specializzate.Negli anni '70 si raggiunsero dei risultati altissimi.
-![schema-hifi](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg) [^immagine-schema-hifi] 
-[^immagine-schema-hifi]: tratto da Le Garzantine 2012 p. 17
+![schema-hifi](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg) 
+[^immagine-schema-hifi] 
+[^immagine-schema-hifi]
+
+<--! immagine da Le Garzantine p 12 già nota infondo -->
 
 Il giradischi è uno strumento composto da numerosi dispositivi: piatto rotante, braccio di lettura, fonorilevatore o pick-up, che trasforma le vibrazioni dello stilo in variazioni elettriche.
 L'amplificatore incrementa il livello del segnale senza produrre alterazioni. I primi e più famosi amplificatori furono: McIntosh uscito nel 1948 e Marantz nel 1950. All'inizio erano a valvole che vennero poi sostituite da transistor.
@@ -221,16 +250,19 @@ All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 
 
 
-
+[^immagine-schema-hifi]: tratto da Le Garzantine 2012 p. 17
 
 ### 1.1.4 PORTABILITÀ
 
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari,  che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.
-![grammofono portatile](.\images\grammofono-portatile-2.jpg)
-[^]
-![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg)
-[^]
+![grammofono portatile](.\images\grammofono-portatile-2.jpg) 
+[^immagine-grammofono]
+![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg) 
+[^immagine-grammofono]
+
+<--! riprendere da inserire link da cui tratte le foto -->
+
 Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani]
 
 Negli anni '60 la Philips produceva la Compact Cassette, o audiocassetta, dandone subito la licenza ai produttori interessati, fatto questo che ne agevolerà la diffusione sul mercato.

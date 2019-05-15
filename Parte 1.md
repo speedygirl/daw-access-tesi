@@ -217,12 +217,12 @@ Le due società si accordarono per evitare una guerra commerciale e venne scelto
 ![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg)
 [^immagine-puntina]
 
-![^vinile con puntina ingranditi mille volte](.\images\supporti_registrazione_riproduzione\vinile-puntina-ingranditi-3.jpg)	 
-[^vinile-puntina-ingranditi]
+![^vinile ingrandito mille volte](.\images\supporti_registrazione_riproduzione\vinile-ingrandito-3.jpg)	 
+[^vinile-ingrandito]
 
 [^immagine-puntina]: link consultato 30 aprile 2019
 [^immagine-puntina]: link consultato 30 aprile 2019
-[^vinile-puntina-ingranditi]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
+[^vinile-ingrandito]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
 
 ### 1.1.3 ALTA FEDELTÀ
 

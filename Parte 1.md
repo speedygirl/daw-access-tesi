@@ -191,6 +191,9 @@ Tigani p 173
 ![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) 
 [^immagine-registratore-a-filo-metallico]
 
+![registratore a filo-valigetta](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) 
+[^immagine-registratore-a-filo-metallico]
+
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro,  superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare. 
 > La vera svolta avvenne però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entrò in oscillazione registrando una frequenza elevatissima che si sovrappose al segnale. La frequenza non era udibile ma produsse un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partirono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi. [^roberto-diem-tigani] 

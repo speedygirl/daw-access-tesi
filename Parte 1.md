@@ -229,7 +229,6 @@ Il primo è l'acustica degli ambienti in cui il suono viene prodotto, dato che o
 Una registrazione curata in tutti i suoi aspetti, posizione e cura della presa di suono, giusta dose di riverbero, componenti di elevata qualità, ambienti adatti, può consentire una riproduzione eccellente in qualsiasi contesto, senza far rimpiangere la musica dal vivo. Naturalmente condizione imprescindibile è che non solo gli strumenti degli studi di registrazione e produzione siano di elevata qualità, ma anche quelli utilizzati dall'utente per la riproduzione. Le aziende americane cominciarono allora a dedicarsi all'amplificazione del suono e alla sua diffusione con amplificatori e casse sempre più potenti, in grado di restituire negli ambienti domestici dei suoni "puliti". Negli anni '60 cominciò a diffondersi l'impianto modulare, i cui componenti, giradischi,amplificatore, casse acustiche, venivano prodotti da aziende indipendenti specializzate.Negli anni '70 si raggiunsero dei risultati altissimi.
 ![schema-hifi](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg) 
 [^immagine-schema-hifi] 
-[^immagine-schema-hifi]
 
 <--! immagine da Le Garzantine p 12 già nota infondo -->
 
@@ -257,9 +256,10 @@ All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari,  che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.
 ![grammofono portatile](.\images\grammofono-portatile-2.jpg) 
-
-![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg) 
 [^immagini-grammofono-portatile]
+
+![pubblicità grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-pubblicita-1.jpg) 
+[^immagini-grammofono-portatile-pubblicita]
 
 <--! riprendere da inserire link da cui tratte le foto -->
 
@@ -269,11 +269,12 @@ Negli anni '60 la Philips produceva la Compact Cassette, o audiocassetta, dandon
 L'audiocassetta poteva avere anche una durata di 120 minuti e veniva letta da un comodo dispositivo di piccole dimensioni. La velocità del nastro era per convenzione di 4,75 cm/s, adatta alla registrazione del parlato, ma scarsa per quella musicale che risultava limitata a soli 6-7 kHz e disturbata dal rumore di fondo. Per migliorarne la qualità si studiarono dei nastri al biossido di cromo che estendevano la frequenza fino ai 12 kHz e venne adottato il sistema *Dolby B*, versione semplificata di quello molto costoso usato in ambiti professionali, per filtrare i suoni mediante i filtri passabanda e passabasso. 
 La diffusione della musicassetta fu massiccia grazie alla versatilità e al basso costo, benchè la semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnassero ad una perdita di qualità sonora. A partire dalla metà degli anni '80 del Novecento, l'audio cassetta si imporrà come il supporto più utilizzato nel mondo.
 Negli stessi anni '60 la Ford Motor Company commissionava alla Motorola la ricerca di un analogo supporto per dotare le vetture di fascia alta della possibilità di ascoltare musica, mentre sul versante del disco la portabilità raggiungeva le grandi masse con l'invenzione del *portable record player*,  piccola valigia  alimentata a corrente o a batterie, che in automatico riproduceva dischi a 45 giri da inserire in una fessura, da cui l'appellativo "mangiadischi".
-La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto. [^immagini-45-giri-mangiadischi]
+La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto. 
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg) 
+[^immagini-45-giri-mangiadischi] 
 
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tentativi di rilancio attraverso nuove idee, come la quadrifonia.
 ![immagine lettore audio cassette 1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) 
@@ -287,7 +288,11 @@ La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliar
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
 <<--! inserire scansione disco quadrifonico nonno Bontempi -->
 
+<--! inserire link da dove tratto grammofono portatile -->
 [^immagini-grammofono-portatile]: 
+[^immagini-grammofono-portatile-pubblicita]: link consultato 30 aprile 2019 *ebay.it*
+
+
 [^roberto-diem-tigani]: Tigani p 222 
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
 
@@ -334,7 +339,7 @@ Poco dopo la ricerca di audio ad alta risoluzione da parte di Sony e Philips  pr
 La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entrambi furono soppiantati dal dilagare del formato Mp3 cui si accennerà in seguito. Il DVD audio scomparve, anche a causa della necessità di acquistare il lettore specifico per l'ascolto; il SACD, confinato nell'ambito degli amatori dell'alta definizione, divide con il vinile le registrazioni storiche di alta qualità, ripubblicate per questo mercato di nicchia.  
 
 [^immagine-DCC]: link consultato 30 aprile 2019 *itòwikipedia.org*
-[^immagine DAT]: link consultato 30 aprile 2019 tratto da 
+[^immagine DAT]: link consultato 30 aprile 2019 tratto da collezione privata
 
 #### 1.1.3.3 INTERNET
 
@@ -354,8 +359,6 @@ Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita 
 <--! frase da ponte tra tecnologie e produzione -->
 
 Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
-
-[^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
 
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
 Questo lasso temporale è così ampio a causa dell'insufficienza delle tecniche di registrazione dell'epoca.
@@ -380,6 +383,7 @@ Con la diffusione della produzione di musica su computer il ruolo del produttore
 Questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio, le DAW (Digital Audio Workstation), che svolgono le funzioni prima espletate da strumentazioni analogiche. Le DAW potenzialmente permettono realizzazioni anche in ambito “domestico" (home recording studio), attraverso l'utilizzo di computer fissi o portatili. Questi programmi consentono  al singolo di produrre tracce musicali in modo autonomo, operazione che fino a poco tempo fa era appannaggio di équipes, .
 I brani possono essere realizzati interamente in autonomia con l'uso del computer *in the box*.
 
+[^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
 
 ## 1.3 LA PRODUZIONE AUDIO 
 
@@ -411,8 +415,10 @@ Nel decennio successivo sono implementati i sequencer  che sfruttano una memoria
 Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
 In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive. 
 A fine anni '80 viene rilasciato Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^1] e la tecnologia ASIO [^2]. 
+
 [^1] Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
 [^2] ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
+
 Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID.
 Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU.
 

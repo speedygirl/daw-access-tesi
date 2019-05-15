@@ -264,8 +264,6 @@ Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificato
 ![pubblicità grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-pubblicita-1.jpg) 
 [^immagini-grammofono-portatile-pubblicita]
 
-<--! riprendere da inserire link da cui tratte le foto -->
-
 Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani]
 
 Negli anni '60 la Philips produceva la Compact Cassette, o audiocassetta, dandone subito la licenza ai produttori interessati, fatto questo che ne agevolerà la diffusione sul mercato.
@@ -291,12 +289,11 @@ La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliar
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
 <<--! inserire scansione disco quadrifonico nonno Bontempi -->
 
-<--! inserire link da dove tratto grammofono portatile -->
-[^immagini-grammofono-portatile]: 
+[^immagini-grammofono-portatile]: tratto da collezione privata
 [^immagini-grammofono-portatile-pubblicita]: link consultato 30 aprile 2019 *ebay.it*
 
 
-[^roberto-diem-tigani]: Tigani p 222 
+[^roberto-diem-tigani]: p 222 
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
 
 [immagini-lettore-audio-cassette]: tratto da collezione privata

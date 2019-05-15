@@ -414,10 +414,7 @@ Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la c
 Nel decennio successivo sono implementati i sequencer  che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica. 
 Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
 In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive. 
-A fine anni '80 viene rilasciato Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^1] e la tecnologia ASIO [^2]. 
-
-[^1] Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
-[^2] ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
+A fine anni '80 viene rilasciato Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^Virtual-Standard-Technology] e la tecnologia ASIO [^asio]. 
 
 Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID.
 Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU.
@@ -425,10 +422,12 @@ Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali 
 Il sequencer nasce inizialmente come come generatore di segnali di controllo per strumenti elettronici. Per estensione il termine viene usato oggi in senso più ampio per identificare strumenti hardware o software in grado di registrare e richiamare materiali MIDI e audio.
 
 DA SISTEMARE (CONCETTI CORRETTI)
-Gli strumenti virtuali possono essere controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità. <!--Rivedere sintassi della frase-->
+Gli strumenti virtuali possono essere controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
+[^Virtual-Standard-Technology] Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
+[^asio] ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
  
-°° registrazione multitraccia (in sospeso; da collocare)
+	°° registrazione multitraccia (in sospeso; da collocare)
 La registrazione multitraccia è caratterizzata dalla ripresa  con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio. 
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
 Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
@@ -444,7 +443,7 @@ percorso all'interno dello studio di registrazione lavorando con il digitale. (c
 - convertitore D/A
 - diffusore (il cavo parte da scheda audio verso diffusori e portando il segnale elettrico analogico.
 elettrico = analogico
-<--! citare libro bontempi "produzione musicale con Cubase 10" Pierluigi Bontempi indipendently published 2019 pp 19-20-->
+<--! citare libro bontempi "produzione musicale con Cubase 10" Pierluigi Bontempi indipendently published 2019 pp 19-20 -->
 
 La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio. 
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo  rielabori portandolo a un  livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
@@ -480,7 +479,8 @@ In generale la scheda audio ha diversi tipi di connettori e quindi di interfacci
 
 ## DAW, digital audio workstation
 
-**§§§** essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
+<--! in sosspeso -->
+essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
 
 
  

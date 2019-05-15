@@ -34,6 +34,7 @@ già corretto: all'interno del testo: le strumentaziooni  erano elettromeccanich
 - [ ] inserire riassunto dell'articolo del 13/1 (riguardante la storia dei sequencer da '50 a è90) nel capitolo più adatto 1 o 3?
 [ ] articolo conversazioone wa ale 13/1 nei mess importanti vedi bibliografia. 
 il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
+- [ ] transistor
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
 - [x] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.

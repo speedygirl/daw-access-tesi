@@ -257,9 +257,9 @@ All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari,  che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.
 ![grammofono portatile](.\images\grammofono-portatile-2.jpg) 
-[^immagine-grammofono]
+
 ![pubblicità grammofono portatile](.\images\grammofono-portatile-1.jpg) 
-[^immagine-grammofono]
+[^immagini-grammofono-portatile]
 
 <--! riprendere da inserire link da cui tratte le foto -->
 
@@ -287,6 +287,7 @@ La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliar
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
 <<--! inserire scansione disco quadrifonico nonno Bontempi -->
 
+[^immagini-grammofono-portatile]: 
 [^roberto-diem-tigani]: Tigani p 222 
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
 

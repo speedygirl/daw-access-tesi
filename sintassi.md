@@ -1,7 +1,7 @@
 ![^vinile con puntina ingranditi mille volte](.\images\supporti_registrazione_riproduzione\vinile-puntina-ingranditi-3.jpg)	 
 [^vinile-puntina-ingranditi]
 
-]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
+[^vinile-puntina-ingranditi]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
 
 
 

@@ -395,7 +395,7 @@ Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su o
 ### IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
 percorso all'interno dello studio di registrazione lavorando con il digitale. (con nastro magnetico è differente ma non approfondire)
 
-- suon
+- suono
 - microfono
 - preamplificazione
 - conversione A/D (o macchinario a sè opppure integrati in scheda audio)
@@ -489,9 +489,10 @@ I Data Byte forniscono i parametri per un corretto funzionamento degli Status By
 
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione ".mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti:
-- formato 0 - tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano;
-- formato 1 - le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre;
-- formato 2 - le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica.
+
+- *formato 0*: tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano;
+- *formato 1*: le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre;
+- *formato 2*: le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica.
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 
@@ -501,4 +502,4 @@ Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecch
 
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
 
-![Fonografo](.\images\supporti_registrazione_riproduzione\grafofono.jpg)]
+![Fonografo](.\images\supporti_registrazione_riproduzione\grafofono.jpg)

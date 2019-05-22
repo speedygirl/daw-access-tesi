@@ -29,11 +29,10 @@
 [^immagine-discman]: tratto da collezione privata
 [^massimiliano-salfi]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
 [^g-haus]: G. HAUS, Corso di informatica applicata alla musica, pdf URL consultato il 14/06/2018 disponibile sul sito  *http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf*
-[^virtual-standard-technology] Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
-[^asio] ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
+[^virtual-standard-technology]: Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
+[^asio]: ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
 [^immagine-dcc]: link consultato 30 aprile 2019 *itòwikipedia.org*
 [^immagine-dat]: link consultato 30 aprile 2019 tratto da collezione privata
-[^chris-middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16.
 [^roberto-diemg-igani-p173]: Tigani p 173
 [^immagine-grafofono]: Immagine fonografo link consultato 30 aprile 2019 ebay.com
 

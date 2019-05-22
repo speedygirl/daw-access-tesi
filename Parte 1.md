@@ -59,6 +59,7 @@ Lo strumento consisteva in un tronco di cono rovesciato terminante, nella parte 
 Nell'aprile 1877 un altro francese, Charles Cros, presentava all'Accademia delle Scienze il progetto per una macchina analoga, da lui denominata "phonographe", in cui il disegno della forma d'onda veniva inciso su un disco di vetro annerito con nerofumo, anzichè su un cilindro. L'incisione lasciava scoperta una traccia di vetro trasparente, che consentiva il passaggio della luce, quindi la possibilità di essere trattato come un negativo fotografico per impressionare una lastra metallica fotosensibile, (Cross era anche un grande studioso di fotografia). Sarebbe bastata l'immersione in un bagno chimico per ottenere solchi corrispondenti alle oscillazioni delle onde sonore e quindi arrivare finalmente alla riproduzione del suono, ma Cross non ebbe mai la possibilità economica sviluppare la propria idea e realizzare un vero prototipo. Probabilmente realizzò la sua macchina in casa con poveri materiali di recupero per poter eseguire i suoi esperimenti rimasti sconosciuti, quindi il suo nome rimane legato solo al progetto depositato all'Accademia.
 
 Il primo dispositivo in grado di restituire il suono registrato si riconosce all'invenzione dello statunitense Thomas Alva Edison (1847-1931).
+
 ![Fonografo e Edison](.\images\supporti_registrazione_riproduzione\fonografo_con_edison_1.jpg
 Mentre lavorava alla velocizzazione della trasmissione di messaggi in alfabeto Morse, si accorse che anche il tasto produceva dei suoni che variavano con la velocità di scorrimento del supporto inciso. Questo fenomeno gli suggerì la possibilità di registrare anche le modulazioni dirette di una forma d'onda generata da segnali acustici, approntò quindi un dispositivo, che chiamò phonograph, derivato direttamente dalla teoria di Young. All'interno di una tromba era collocata una membrana che veniva messa in moto vibratorio da una fonte sonora; una vite filettata, azionata da una manovella, permetteva a un nastro di carta paraffinata di scorrere,  mentre uno stilo, collegato alla membrana sollecitata, imprimeva l'andamento e le variazioni di profondità delle onde sonore sulla paraffina.
 Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore.
@@ -78,7 +79,8 @@ Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispos
 
 Il  salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale.
 Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo, da essere utilizzata ancora ai nostri giorni.
-![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg)
+
+![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg) [immagine-berliner]
 
 Dopo essersi appassionato agli studi sul telefono, al quale aveva apportato importanti modifiche migliorative della qualità di trasmissione, Berliner si dedicò allo studio del progetto depositato da Cros all'Accademia delle scienze di Francia, producendo un apparecchio che chiamò "Gramophone".
 Come Cros egli utilizzava un disco di vetro ricoperto di nerofumo, con successiva fotoincisione su lastra di zinco. Le sue prime innovazioni furono l'incisione sulla faccia inferiore del disco, che evitava l'accumulo del materiale rimosso, e l'utilizzo di un piccolo motore a peso, che sfruttava la forza di gravità per la rotazione del disco e il movimento laterale del diaframma.
@@ -113,7 +115,7 @@ Ascoltando oggi un documento sonoro di quel periodo, specie sulle macchine origi
 > La risposta in frequenza riproducibile era limitata tra i 200 e i 2.000 hertz. Un range così ristretto consentiva a stento la riproduzione delle sole frequenze fondamentali, con esclusione degli armonici superiori ai 2.000 hertz e conseguente impossibilità di percepire il timbro di molti strumenti. Altro problema era la debole potenza della forma d'onda, insufficiente per modellare con dovizia di particolari un materiale semirigido (cera o fogli di stagno) attraverso una membrana meccanica. In buona sostanza, non era possibile catturare suoni troppo deboli o non prodotti nelle immediate vicinanze dei dispositivi di ricezione. Questo privilegiava alcuni strumenti a danno di altri meno adatti alla registrazione. 
 Gli ottoni erano dotati di buona direzionalità e discreta pressione sonora, così pure clarinetti e flauti. L'insieme strumentale per eccellenza divenne dunque la banda militare, capace di offrire volumi e sonorità superiori a quelli di un'orchestra sinfonica. Vero disastro erano invece gli archi per la loro scarsa direzionalità e limitata pressione sonora. Non di rado s'interveniva con strumenti appositamente modificati per superare questi limiti… o con strumenti a fiato. C'era infine il problema della durata dei supporti, limitata in origine a soli due minuti, in seguito estesa a quattro, e comunque vero ostacolo per qualsiasi registrazione. Nel tentativo di risolvere alcuni di questi problemi veniva all'epoca ritenuta lecita l'assurda pratica della recreation: un rimaneggiamento della partitura basato su devastanti modifiche alla strumentazione originale, con tagli e adattamenti che avevano il solo scopo di risultare compatibili coi i limiti dei supporti. Eppure non solo il pubblico, ma anche gli interpreti (e a volte persino gli autori) consideravano del tutto normali queste manipolazioni…
 
-> … gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale [^roberto-diem-tigani]
+> … gli illustri giudizi sono del tutto coerenti con la maggior parte dei commenti espressi dal pubblico e riportati dalla stampa dell'epoca… nei quali la riproduzione viene definita qualitativamente impeccabile e, in alcuni casi, persino migliore dell'originale [^roberto-diem-tigani-p258]
 
 All'epoca il fatto stesso che una macchina avesse la capacità di trasmettere una musica rappresentava di per sè un miracolo!
 
@@ -133,10 +135,9 @@ Il triodo apriva una strada verso l'amplificazione dei segnali, ma queste scoper
 <!-- nei metodi precedenti chiaro che il suono mette in moto una membrana, nella registrazione elettrica come funziona? spiegare! mettere rimando al concetto di microfono nel parag percorso del suono -->
 Nel 1919 Lionel Guest e Horace Merriman effettuarono i primi esperimenti di incisione elettrica, utilizzando una valvola termoionica come amplificatore. La prima registrazione elettrica, poi incisa su disco e commercializzata, fu fatta durante una cerimonia in Westminster. Nella cattedrale erano stati collocati quattro microfoni collegati ad apparecchi situati in un furgone all'esterno dell'abbazia. 
 Questi esperimenti evidenziarono l'importanza del microfono e spinsero un gruppo di specialisti, tra cui Joseph Maxfield, ad approfondire la ricerca in questo settore realizzando i microfoni a condensatore.
+
 ![Microfono a condensatore 1](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg) [^immagine-microfono-a-condensatore-1]
-
 ![!microfono a condensatore 2](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_2.jpg) [^immagine-microfono-a-condensatore-2]
-
 ![microfono a condensatore 3](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_3.jpg) [^immagine-microfono-a-condensatore-3]
 
 Non tutti i problemi erano risolti ma le frequenze riproducibili si estesero tra i 200 Hz e i 9000 Hz.
@@ -156,6 +157,7 @@ Questi fattori aumentarono di gran lunga la popolarità del supporto ed è per r
 #### 1.1.2.2 LA REGISTRAZIONE MAGNETICA
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
+
 ![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg) [^immagine-telegraphone] [^immagine-telegraphone]
 
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia. [^roberto-diemg-igani-p173]
@@ -167,7 +169,7 @@ I primi tentativi di una registrazione su dispositivi magnetici erano stati fatt
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro,  superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare.
 
-> La vera svolta avvenne però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entrò in oscillazione registrando una frequenza elevatissima che si sovrappose al segnale. La frequenza non era udibile ma produsse un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partirono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi. [^roberto-diem-tigani]
+> La vera svolta avvenne però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entrò in oscillazione registrando una frequenza elevatissima che si sovrappose al segnale. La frequenza non era udibile ma produsse un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partirono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi. [^roberto-diem-tigani-p174]
 
 Durante il secondo conflitto le trasmissioni radiofoniche tedesche stupivano il mondo per la qualità, l'assenza di fruscio, la mancanza di interruzioni. Il "mistero" si scoprì solo al termine della guerra e la nuova tecnologia, grazie agli evidenti vantaggi, si diffuse rapidamente prima nel mondo della radio e poi negli studi di registrazione. Questo sistema dava risposte in frequenza dai  20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato; permetteva di effettuare registrazioni ovunque, al contrario dei dischi che erano legati ai luoghi di produzione. Ma la vera novità fu nella possibilità di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi il montaggio di pezzi di registrazione, fatti anche in tempi diversi.
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
@@ -212,22 +214,23 @@ All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari,  che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.
-![grammofono portatile](.\images\grammofono-portatile-2.jpg) [^immagini-grammofono-portatile]
-
+![grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-2.jpg) [^immagini-grammofono-portatile]
 ![pubblicità grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-pubblicita-1.jpg) [^immagini-grammofono-portatile-pubblicita]
 
-Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani]
+Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani-p57-58]
 
 Negli anni '60 la Philips produceva la Compact Cassette, o audiocassetta, dandone subito la licenza ai produttori interessati, fatto questo che ne agevolerà la diffusione sul mercato.
 L'audiocassetta poteva avere anche una durata di 120 minuti e veniva letta da un comodo dispositivo di piccole dimensioni. La velocità del nastro era per convenzione di 4,75 cm/s, adatta alla registrazione del parlato, ma scarsa per quella musicale che risultava limitata a soli 6-7 kHz e disturbata dal rumore di fondo. Per migliorarne la qualità si studiarono dei nastri al biossido di cromo che estendevano la frequenza fino ai 12 kHz e venne adottato il sistema *Dolby B*, versione semplificata di quello molto costoso usato in ambiti professionali, per filtrare i suoni mediante i filtri passabanda e passabasso.
 La diffusione della musicassetta fu massiccia grazie alla versatilità e al basso costo, benchè la semplificazione del funzionamento dei dispositivi e la riduzione delle dimensioni si accompagnassero ad una perdita di qualità sonora. A partire dalla metà degli anni '80 del Novecento, l'audio cassetta si imporrà come il supporto più utilizzato nel mondo.
 Negli stessi anni '60 la Ford Motor Company commissionava alla Motorola la ricerca di un analogo supporto per dotare le vetture di fascia alta della possibilità di ascoltare musica, mentre sul versante del disco la portabilità raggiungeva le grandi masse con l'invenzione del *portable record player*,  piccola valigia  alimentata a corrente o a batterie, che in automatico riproduceva dischi a 45 giri da inserire in una fessura, da cui l'appellativo "mangiadischi".
 La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto.
+
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg)
 ![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg) [^immagini-45-giri-mangiadischi]
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tentativi di rilancio attraverso nuove idee, come la quadrifonia.
+
 ![immagine lettore audio cassette 1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) [^immagini-lettore-audio-cassette]
 ![immagine lettore audio cassette 2](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg) [^immagini-lettore-audio-cassette]
 ![discman](.\images\supporti_registrazione_riproduzione\discman.JPG) [^immagine-discman]
@@ -245,6 +248,7 @@ La possibilità di codificare una forma d'onda  sonora in codice binario era con
 Ma per la trasmissione di suoni di alta qualità era necessario che la frequenza di campionamento (numero di scansioni della forma d'onda nell'unità di tempo) si facesse  con valori molto elevati e questo avrebbe prodotto una mole di dati che nessun calcolatore dell'epoca sarebbe stato in grado di elaborare.
 
 Altro ostacolo consisteva nel fatto che venivano generate grandi quantità di frequenze spurie che alteravano la qualità del risultato. A quest'ultimo problema si trovò una soluzione applicando il  teorema di Nyquist-Shannon,secondo il quale per evitare distorsioni o perdita di informazioni nella ricostruzione del segnale analogico, la frequenza di campionamento occorrente deve essere maggiore del doppio della frequenza massima campionata. Si raddoppiarono perciò le frequenze ed essendo 20 kHz il limite udibile per l'orecchio umano, si scelse la frequenza di campionamento a 44.1 kHz (con risoluzione a 16 bit) che consentiva una riproducibilità intorno ai 18-20 kHz. La qualità ottenuta era accettabile, ma la mole dei dati da archiviare era impressionante. Si dovettero aspettare i nuovi sviluppi delle tecnologie digitali, in particolare il  potenziamento e la miniaturizzazione dei processori.
+
 ![schema lettura riproduzione CD ](.\images\supporti_registrazione_riproduzione\compact-disc-schema-1.jpg) [^immagine-lettura-riproduzione-disco]
 
 Il procedimento per lo stampaggio di un CD è simile a quello del disco fonografico: la superficie viene incisa da un raggio all'elio-cadmio e poi ricoperta con un sottile strato d'argento che, indurito, costituisce lo stampo per la serializzazione.
@@ -262,6 +266,7 @@ Le più note proposte avanzate in questo contesto furono:
 DAT (Digital Audio Tape) introdotto dalla Sony; aveva una durata compresa tra i 15 e i 240 minuti ed era utilizzato anche per scopi professionali in ambito radiofonico, cinematografico, televisivo.
 DCC (Digital Compact Cassette) basato su una tecnologia sostanzialmente analoga a quella del DAT, offriva una precisione inferiore ma comunque pari o superiore a quella delle audiocassette analogiche.
 Queste tecnologie non ebbero un seguito rilevante e non riuscirono a raggiungere una diffusione di massa.
+
 ![DCC](.\images\supporti_registrazione_riproduzione\DCC.png) [^immagine-dcc]
 ![DAT 1](.\images\supporti_registrazione_riproduzione\dat 3 ADAT_DTRS_and.png)
 ![DAT 2](.\images\supporti_registrazione_riproduzione\DAT_2.jpg) [^immagine-dat]
@@ -430,6 +435,7 @@ La nascita del protocollo MIDI si deve all’opera degli ingegneri elettronici D
 Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case  quali: la statunitense SCI e le giapponesi Yamaha e Kaway.
 La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici, mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei, si basavano su algoritmi proprietari, erano quindi in grado di far dialogare solo strumenti prodotti dalla medesima azienda.
 Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò portava la conseguenza che i brani MIDI registrati in questo modo potessero essere in un secondo momento letti con un programma identico a quello col quale erano stati generati.
+
 ![pin connettore](.\images\midi\pin_connettore_1.PNG)
 
 > Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
@@ -442,11 +448,13 @@ Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non
 ![immagine midi connettore](.\images\midi\connettore_3.PNG) [^g-haus]
 
 Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi.
+
 ![immagine midi byte](.\images\midi\byte_5.PNG)
 
 Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
 La funzione degli Status Byte è quella di consentire una trasmissione univoca e corretta di comandi, senza possibilità di errore, perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
 I Data Byte forniscono i parametri per un corretto funzionamento degli Status Byte e possono assumere valori compresi tra 0 e 127.
+
 ![immagine midi codifica](.\images\midi\codifica_6.PNG)
 
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
@@ -456,8 +464,10 @@ I formati di SMF disponibili sono i seguenti:
 - formato 2 - le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica.
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature  provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
+
 ![immagine midi tipi di messaggio](.\images\midi\tipi_messaggio_7.PNG)
-----------------
+
+\newpage
 
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
 

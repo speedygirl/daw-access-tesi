@@ -9,12 +9,12 @@
 [^luca-cerchiari-p17]: p. 17
 [^chris-middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16
 [^roberto-diem-tigani-p258]: pp 258-259
-[^roberto-diem-tigani]: op.cit. pp 57-58
-[^immagine-Berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/*
+[^roberto-diem-tigani-p57-58]: op.cit. pp 57-58
+[^immagine-berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/*
 [^immagine-microfono-a-condensatore-1]: immagine microfono a condensatore tratto da Collezione Radio Nelson Microfonia - Tecnologia link consultato 30 aprile 2019 *http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html?m=1*
 [^immagine-microfono-a-condensatore-2]: Radio Nelson
 [^immagine-microfono-a-condensatore-3]: microfono a condensatore 3 link consultato 30 aprile 2019 Ebay
-[^roberto-diem-tigani]: p 174
+[^roberto-diem-tigani-p174]: p 174
 [^immagine-telegraphone]: immagine telegraphone link consultato 30 aprile 2019 *ssplprints.com*
 [^immagine-registratore-a-filo-metallico]: Immagini registratore a filo link consultato 30 aprile 2019 Webster Chicago
 [^vinile-ingrandito]: link consultato 30 aprile 2019 okdishi.it *okdischi.it*
@@ -23,7 +23,7 @@
 [^immagine-schema-hifi]: tratto da Le Garzantine 2012 p. 17
 [^immagini-grammofono-portatile]: tratto da collezione privata
 [^immagini-grammofono-portatile-pubblicita]: link consultato 30 aprile 2019 *ebay.it*
-[^roberto-diem-tigani]: p 222
+[^roberto-diem-tigani-p222]: p 222
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
 [^immagini-lettore-audio-cassette]: tratto da collezione privata
 [^immagine-discman]: tratto da collezione privata

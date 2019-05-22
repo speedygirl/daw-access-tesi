@@ -12,7 +12,9 @@ La costituzione stessa tutela <!-- articolo 3 - completare -->
 Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni per materiali audiovisivi. <!-- completare -->
 
 La scelta di affrontare questo argomento è nata dall'iniziale frustrazione nell'impossibilità di sostenere l'esame di certificazione Steimberg causa l'alto livello di inaccessibilità del suo programma Cubase. è sorta quindi la volontà di indagare quali fossero i otivi alla base di questa problematica e parallelamente di studiare cosa ci fosse nel panorama circostante, come hanno risolto altri non vedenti la questione. Da qui è nata l'idea di provare diversi programmi.
+
 Dopo di che, al fine di avere una più ampia panoramica, si è deciso di non limitarsi a un solo sistema operativo, ma di usare i due più diffusi e più facilmente fruibili, Windows e Mac, essendo essi molto ben equipaggiati di assistive technologies.
+
 Questo è stato anche un buon pretesto per approfondire le conoscenze del sistema operativo Mac che, a differenza di Windows, non era stato approfonditamente indagato.
 
 Si è ritenuto opportuno non limitare la trattazione al solo approccio teorico, introducendo anche l'analisi di alcune DAW selezionate, valutandone l'accessibilità in relazione a <!-- completare -->
@@ -30,7 +32,7 @@ Lo scopo del lavoro è invitare sviluppatori degli screen reader e case produttr
 
 Dato che questa tesi presuppone anche uno scambio diretto con i dipendenti, si auspica anche di sollecitare a una riflessione e a un miglioramento di tali prodotti.
 
-----------------
+\newpage
 
 # 1 PRODUZIONE AUDIO E TECNOLOGIE (STRUMENTI HARDWARE E SOFTWARE PER LA PRODUZIONE AUDIO)
 
@@ -52,7 +54,7 @@ A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già
 
 Fu solo nel 1857, passati ormai quasi tre decenni dalla sua morte, che un tipografo appassionato di scienze e inventore, Edouard-Leon Scott de Martinille (Parigi 1817 - Parigi 1879) mise a punto e brevettò un apparecchio ispirato ai principi teorici di Young, il "Phonoautograph", capace di dare pratica dimostrazione meccanica dei principi riguardanti la natura ondulatoria dei suoni e disegnare l'andamento della forma d'onda.
 
-![fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg) [^immagine-fonoautografo-1]
+![Fonoautografo](.\images\supporti_registrazione_riproduzione\fonoautografo.jpg){ width=600px }
 
 Lo strumento consisteva in un tronco di cono rovesciato terminante, nella parte più piccola, con una membrana di pergamena alla quale era collegata una setola che, a sua volta, si posava su un cilindro cosparso di nerofumo. Un urto di onde sonore metteva in vibrazione la membrana, questa sollecitava la setola che andava a incidere il nerofumo sul cilindro che intanto ruotava, azionato da una manovella. Il risultato era quindi la traccia registrata sul rullo delle variazioni dell'onda sonora. Si trattava ancora di una rappresentazione grafica ed era impossibile attraverso un procedimento inverso ricreare il suono originale, ma consentì di misurare la frequenza e l'ampiezza dell'onda sonora. Scott effettuò anche registrazioni grafiche che permettevano di osservare le caratteristiche della forma d'onda rispetto al timbro di diversi strumenti.
 
@@ -60,14 +62,16 @@ Nell'aprile 1877 un altro francese, Charles Cros, presentava all'Accademia delle
 
 Il primo dispositivo in grado di restituire il suono registrato si riconosce all'invenzione dello statunitense Thomas Alva Edison (1847-1931).
 
-![Fonografo e Edison](.\images\supporti_registrazione_riproduzione\fonografo_con_edison_1.jpg)
+![Fonografo e Edison](.\images\supporti_registrazione_riproduzione\fonografo_con_edison_1.jpg){ width=300px }
+
 Mentre lavorava alla velocizzazione della trasmissione di messaggi in alfabeto Morse, si accorse che anche il tasto produceva dei suoni che variavano con la velocità di scorrimento del supporto inciso. Questo fenomeno gli suggerì la possibilità di registrare anche le modulazioni dirette di una forma d'onda generata da segnali acustici, approntò quindi un dispositivo, che chiamò phonograph, derivato direttamente dalla teoria di Young. All'interno di una tromba era collocata una membrana che veniva messa in moto vibratorio da una fonte sonora; una vite filettata, azionata da una manovella, permetteva a un nastro di carta paraffinata di scorrere, mentre uno stilo, collegato alla membrana sollecitata, imprimeva l'andamento e le variazioni di profondità delle onde sonore sulla paraffina.
 Risultati significativi furono ottenuti quando sostituì il nastro con un cilindro, forma congeniale al mantenimento di una velocità di rotazione costante, coperto da un foglio di stagno e inciso da un solco a spirale. Secondo l'ampiezza d'onda[^ampiezza-onda] si producevano solchi più o meno profondi, che rimanevano stabilmente incisi nello stagno, consentendo l'innovazione decisiva: facendo scorrere una puntina nei solchi, il suono veniva riprodotto e in questo caso la tromba assumeva il ruolo di amplificatore.
 La voce prende corpo; resiste nel tempo e non svanisce nell'attimo stesso in cui viene emessa.
 
-![Immagine Fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png)
+![Immagine Fonografo](.\images\supporti_registrazione_riproduzione\fonografo_2.png){ width=600px }
 
 Luca Cerchiari[^luca-cerchiari-p12-13] afferma:
+
 > "Il brevetto di Thomas Alva Edison, in data 24 dicembre 1877, segna due innovazioni. Lo stilo, la punta di lettura, è verticale, non più laterale come nel fonoautografo, e il cilindro nell'apparecchio di Edison è ricoperto da un foglio di stagno, (il tin foil). E poi, finalmente, la nuova macchina genera realmente un suono: addirittura quello della voce dello stesso Edison, intento a recitare una filastrocca infantile, Mary Had a Little Lamb."
 
 Edison cominciò subito a costruire i primi esemplari e a dare pubbliche dimostrazioni delle sue macchine, definite Talking Machines, ma la nuova invenzione presentava alcuni problemi. Il principale era la difficoltà di duplicazione del cilindro registrato, inconveniente cui tentò di ovviare in diversi modi, per esempio collocando una certa quantità di fonografi di fronte allo stesso esecutore, ma sempre con risultati insoddisfacenti. Forse anche per questo motivo Edison non era molto interessato alla riproduzione musicale e proponeva per il suo fonografo un utilizzo personale, per registrazioni realizzate dallo stesso utente, per memoria familiare, come strumento didattico, perfino come orologio parlante.
@@ -80,11 +84,12 @@ Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispos
 Il salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale.
 Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo, da essere utilizzata ancora ai nostri giorni.
 
-![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg) [^immagine-berliner]
+![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg){ width=300px }
 
 Dopo essersi appassionato agli studi sul telefono, al quale aveva apportato importanti modifiche migliorative della qualità di trasmissione, Berliner si dedicò allo studio del progetto depositato da Cros all'Accademia delle scienze di Francia, producendo un apparecchio che chiamò "Gramophone".
 Come Cros egli utilizzava un disco di vetro ricoperto di nerofumo, con successiva fotoincisione su lastra di zinco. Le sue prime innovazioni furono l'incisione sulla faccia inferiore del disco, che evitava l'accumulo del materiale rimosso, e l'utilizzo di un piccolo motore a peso, che sfruttava la forza di gravità per la rotazione del disco e il movimento laterale del diaframma.
 Il primo modello fu presentato da Berliner nel 1887. Con il suo sistema, che lasciava più libero il movimento dello stilo, egli otteneva un solco di profondità fissa ma con modulazione laterale variabile, il che produceva un suono migliore, vicino a quello reale, come fino ad allora non si era sentito. Questo fu uno degli elementi che decretarono il successo del nuovo apparecchio, nonostante il rumore di fondo fosse più elevato di quello dei dispositivi a cilindro.
+
 > Abituato com'ero alla riproduzione metallica e innaturale dei vecchi fonografi a cilindro fui straordinariamente sorpreso dal bel timbro del disco piatto[^fred-gaisberg].
 
 Altre fondamentali migliorie furono:
@@ -92,12 +97,13 @@ Altre fondamentali migliorie furono:
  - l'introduzione di un braccio meccanico, realizzato dal tedesco Werner Suess, che con ulteriori sviluppi aprirà la strada al giradischi;
  - l'eliminazione del vetro: il disco di zinco veniva preparato con una miscela di cera e benzina, su cui avveniva l'incisione, poi direttamente immerso in un bagno di acido. Si otteneva così una riduzione dei passaggi e una migliore qualità della riproduzione.
 
-![Grammofono](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg) [^chris-middleton]
+![Grammofono, tratto da Chris Middleton](.\images\supporti_registrazione_riproduzione\grammofono_berliner_2.jpg){ width=300px }
 
 Berliner si era applicato fin dall'inizio alla riproduzione della musica, scindendo l'aspetto della registrazione da quello della riproduzione: questo aveva determinato da subito il carattere del grammofono come lettore di un supporto preregistrato.
 Si occupò inoltre del problema della riproduzione da matrice, avendo capito che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino agli anni '50, quando fu sostituita dal policloruro di vinile.
 
 Nel 1893 fondò a Washington la United States Gramophone Company, con la collaborazione del produttore Gaisberg, cui era affidata la direzione artistica, sodalizio che introdusse una serie di attività assolutamente innovative per l'epoca, come la creazione di cataloghi editoriali, scelta e allestimento di un repertorio, ingaggio di artisti. La nuova compagnia si presentò sul mercato con la sua produzione di dischi e tre diversi tipi di grammofono, uno a manovella e due già dotati di motore elettrico. Il successo fu enorme.
+
 > Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile [^luca-cerchiari-p17]
 
 Subito Berliner pensò a ulteriori migliorie e diede incarico a Eldridge Reeves Johnson (1867-1945), esperto ingegnere meccanico del New Jersey, di realizzare un prototipo di motore a molla che desse regolarità alla riproduzione, senza i costi di un motore elettrico. Il nuovo apparecchio, pronto nel 1896, verrà distribuito con grande lancio pubblicitario, segnando definitivamente il tramonto dei cilindri.
@@ -105,7 +111,7 @@ Johnson si occupò anche del problema della produzione delle copie, sperimentand
 I primi dischi realizzati con la nuova tecnica avevano un diametro di 18 centimetri, salita poi a 25, e una velocità di rotazione di oltre 70 giri al minuto, mentre la durata di una facciata variava dai due ai quattro minuti.
 Johnson sperimentò anche la registrazione su entrambe le facce di un disco, com'è provato da tre esemplari realizzati nella primavera-estate del 1900 e ritrovati a distanza di decenni.
 
-![78 giri](.\images\supporti_registrazione_riproduzione\78_giri.jpg) [^chris-middleton]
+![Supporto 78 giri](.\images\supporti_registrazione_riproduzione\78_giri.jpg){ width=400px }
 
 > Toscanini definisce il grammofono "insuperabile", Leoncavallo "prezioso", Giordano "meraviglioso", Cilea "gioiello artistico", Illica parla di "conquista spirituale", Puccini di "momenti deliziosi".
 
@@ -135,9 +141,9 @@ Il triodo apriva una strada verso l'amplificazione dei segnali, ma queste scoper
 Nel 1919 Lionel Guest e Horace Merriman effettuarono i primi esperimenti di incisione elettrica, utilizzando una valvola termoionica come amplificatore. La prima registrazione elettrica, poi incisa su disco e commercializzata, fu fatta durante una cerimonia in Westminster. Nella cattedrale erano stati collocati quattro microfoni collegati ad apparecchi situati in un furgone all'esterno dell'abbazia. 
 Questi esperimenti evidenziarono l'importanza del microfono e spinsero un gruppo di specialisti, tra cui Joseph Maxfield, ad approfondire la ricerca in questo settore realizzando i microfoni a condensatore.
 
-![Microfono a condensatore 1](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg) [^immagine-microfono-a-condensatore-1]
-![!microfono a condensatore 2](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_2.jpg) [^immagine-microfono-a-condensatore-2]
-![microfono a condensatore 3](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_3.jpg) [^immagine-microfono-a-condensatore-3]
+| ![](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_1.jpg){ height=200px } | ![](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_2.jpg){ height=200px } | ![](.\images\supporti_registrazione_riproduzione\microfono_a_condensatore_3.jpg){ height=200px } |
+| - | - | - |
+|  | Microfoni a condenzatore |   |
 
 Non tutti i problemi erano risolti ma le frequenze riproducibili si estesero tra i 200 Hz e i 9000 Hz.
 Le prime registrazioni elettriche non furono accolte con entusiasmo per l'insufficiente qualità, finchè ci si rese conto che i risultati negativi potevano essere attribuiti alle apparecchiature utilizzate per l'ascolto. La tromba a forma di fiore, che era stata pensata per il debole segnale acustico, non era adatta alla riproduzione delle nuove frequenze e le pesanti testine di lettura a punta metallica rovinavano in breve i nuovi suoni delicati. Ma nemmeno l'introduzione di amplificatori e bracci di lettura elettromagnetici riuscirono a risolvere i problemi, mentre acquistarono molta rilevanza la funzione del microfono e il suo posizionamento, elementi che potevano notevolmente influire sul risultato.
@@ -157,13 +163,13 @@ Questi fattori aumentarono di gran lunga la popolarità del supporto ed è per r
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
 
-![telegraphone](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg) [^immagine-telegraphone]
+![Telegraphone (**ssplprints.com**)](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg)
 
 > ...l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia. [^roberto-diemg-igani-p173]
 
-| ![registratore a filo](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) | ![registratore a filo-valigetta](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) |
+| ![](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) | ![](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) |
 | - | - |
-| Registratore a filo metallico | Registratore a filo metallico in valigetta [^immagine-registratore-a-filo-metallico] |
+| Registratore a filo metallico | Registratore a filo metallico in valigetta |
 
 L'utilizzo della valvola amplificatrice di De Forest permise di superare i consueti limiti sugli impulsi sonori convertiti in segnali elettrici e la sperimentazione di diversi fili e nastri, permise una registrazione la cui durata dipendeva solo dalla lunghezza del nastro, superando i consueti limiti di tempo.
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare.
@@ -180,9 +186,10 @@ Con l'utilizzo del nastro magnetico tutte le difficoltà vennero superate, basta
 Solo nel 1957 gli studi della Decca e della Westrex riuscirono a incidere su un disco entrambi i segnali sullo stesso solco impiegando la modulazione laterale in un lato e verticale nell'altro: un unico stilo poteva riconoscere i due segnali e riconvertirli.
 Le due società si accordarono per evitare una guerra commerciale e venne scelto il sistema Westrex. Anche il disco stereofonico non ottenne un successo immediato.
 
-![puntina 1](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg)
-![puntina 2](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg) [^immagine-puntina]
-![vinile ingrandito mille volte](.\images\supporti_registrazione_riproduzione\vinile-ingrandito-3.jpg) [^vinile-ingrandito]
+| ![](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_1.jpg){ width=200px } | ![](.\images\supporti_registrazione_riproduzione\vinile_con_puntina_2.jpg){ width=200px } | ![](.\images\supporti_registrazione_riproduzione\vinile-ingrandito-3.jpg){ width=200px } |
+| - | - | - | 
+|   | Puntina Giradischi | Dettaglio Vinile | 
+
 
 ### 1.1.3 ALTA FEDELTÀ
 
@@ -191,13 +198,14 @@ Se è impossibile riprodurre eventi sonori identici all'originale, è difficile 
 Il primo è l'acustica degli ambienti in cui il suono viene prodotto, dato che ogni tipo di musica necessiterebbe di uno specifico ambiente mentre spesso questi, non essendo stati progettati allo scopo, sono privi degli indispensabili requisiti.
 Una registrazione curata in tutti i suoi aspetti, posizione e cura della presa di suono, giusta dose di riverbero, componenti di elevata qualità, ambienti adatti, può consentire una riproduzione eccellente in qualsiasi contesto, senza far rimpiangere la musica dal vivo. Naturalmente condizione imprescindibile è che non solo gli strumenti degli studi di registrazione e produzione siano di elevata qualità, ma anche quelli utilizzati dall'utente per la riproduzione. Le aziende americane cominciarono allora a dedicarsi all'amplificazione del suono e alla sua diffusione con amplificatori e casse sempre più potenti, in grado di restituire negli ambienti domestici dei suoni "puliti". Negli anni '60 cominciò a diffondersi l'impianto modulare, i cui componenti, giradischi,amplificatore, casse acustiche, venivano prodotti da aziende indipendenti specializzate.Negli anni '70 si raggiunsero dei risultati altissimi.
 
-![schema-hifi](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg) [^immagine-schema-hifi]
+![Schema Impianto Hi-Fi (**Le Garzantine**)](.\images\supporti_registrazione_riproduzione\schema-impianto-hifi.jpg)
 
 <!-- immagine da Le Garzantine p 12 già nota infondo -->
 
 Il giradischi è uno strumento composto da numerosi dispositivi: piatto rotante, braccio di lettura, fonorilevatore o pick-up, che trasforma le vibrazioni dello stilo in variazioni elettriche.
 L'amplificatore incrementa il livello del segnale senza produrre alterazioni. I primi e più famosi amplificatori furono: McIntosh uscito nel 1948 e Marantz nel 1950. All'inizio erano a valvole che vennero poi sostituite da transistor.
 Un moderno amplificatore è composto da una sezione preamplificatrice che prevede: selezione degli ingressi, regolazione del volume e del tono, *loudness*, per compensare l'attenuazione di alcune frequenze nella riproduzione a basso volume, e da un finale di potenza nel quale il segnale viene amplificato.
+
 > Una volta immagazzinato sotto forma di segnale meccanico, magnetico, digitale, o che provenga via etere come messaggio radio, un suono per poter essere riprodotto e restituito all'ascolto deve essere trattato per mezzo di una catena di apparecchi che provvedano a leggere il messsaggio contenuto nel supporto, ad amplificare il segnale elettrico di bassa intensità e a diffonderlo nell'ambiente in modo da renderlo udibile nelle migliori condizioni di fedeltà. Cuore del sistema è l'amplificatore, che ha il compito di aumentare la potenza dei deboli segnali che gli giungono in ingresso dalla testina del giradischi, dal lettore del CD, dal registratore o dal sintonizzatore e di mandarli in uscita ai diffusori acustici o casse che provvederanno alla trasformazione finale della corrente elettrica in suono. [^le-garzantine]
 
 Le casse acustiche possono variare la qualità del suono riprodotto in funzione della loro posizione e dell'ambiente in cui vengono collocate. E' possibile utilizzare uno strumento detto *equalizzatore* che migliora la qualità bilanciando le frequenze.
@@ -214,8 +222,10 @@ All'inizio i modelli erano molto grandi e sono stati progressivamente ridotti.
 
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari, che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.
-![grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-2.jpg) [^immagini-grammofono-portatile]
-![pubblicità grammofono portatile](.\images\supporti_registrazione_riproduzione\grammofono-portatile-pubblicita-1.jpg) [^immagini-grammofono-portatile-pubblicita]
+
+| ![](.\images\supporti_registrazione_riproduzione\grammofono-portatile-2.jpg){ width=350px } | ![](.\images\supporti_registrazione_riproduzione\grammofono-portatile-pubblicita-1.jpg){ width=350px } |
+| - | - |
+| Grammofono Portatile | Pubblicità Grammofono Portatile |
 
 Il nastro magnetico, che tanto aveva contribuito all'evoluzione dell'industria fonografica, non ebbe larga diffusione nel mercato come ci si sarebbe aspettati, nonostante gli indubbi vantaggi che apportava: aveva una durata variabile secondo necessità, separava con facilità i canali stereo, non si deteriorava facilmente ma era poco pratico nell'utilizzo. Questo fatto: ...*sancì il principio che il successo commerciale ... avrebbe arriso solo a chi avesse trovato il modo di renderlo maggiormente compatibile con le abitudini dell'umana indolenza.* [^roberto-diem-tigani-p222]
 
@@ -225,15 +235,15 @@ La diffusione della musicassetta fu massiccia grazie alla versatilità e al bass
 Negli stessi anni '60 la Ford Motor Company commissionava alla Motorola la ricerca di un analogo supporto per dotare le vetture di fascia alta della possibilità di ascoltare musica, mentre sul versante del disco la portabilità raggiungeva le grandi masse con l'invenzione del *portable record player*, piccola valigia alimentata a corrente o a batterie, che in automatico riproduceva dischi a 45 giri da inserire in una fessura, da cui l'appellativo "mangiadischi".
 La qualità era scarsa ma l'estrema comodità ne decretò il successo, soprattutto tra le fasce giovanili che potevano portare la musica ovunque, anche all'aperto.
 
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg)
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri.jpg)
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg)
-![giradischi](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg) [^immagini-45-giri-mangiadischi]
+| ![](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi.jpg){ width=125px } | ![](.\images\supporti_registrazione_riproduzione\45_giri.jpg){ width=125px } | ![](.\images\supporti_registrazione_riproduzione\45_giri_mangiadischi_valigetta.jpg){ width=125px } | ![](.\images\supporti_registrazione_riproduzione\45_giri_valigetta.jpg){ width=125px } | 
+| - | - | - | - |
+| Vari Giradischi |  |  |  | 
+
 Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Leggero e piccolo, consentiva di ascoltare in cuffia musica di ottima qualità, in qualsiasi situazione, inaugurando l'ascolto privato anche in luoghi pubblici. Il walkman ottenne un tale successo da causare una riduzione nella vendita di dischi, nonostante tentativi di rilancio attraverso nuove idee, come la quadrifonia.
 
-![immagine lettore audio cassette 1](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg) [^immagini-lettore-audio-cassette]
-![immagine lettore audio cassette 2](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg) [^immagini-lettore-audio-cassette]
-![discman](.\images\supporti_registrazione_riproduzione\discman.JPG) [^immagine-discman]
+| ![](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_1.jpg){ width=250px } | ![](.\images\supporti_registrazione_riproduzione\lettore_audiocassette_2.jpg){ width=250px } | ![](.\images\supporti_registrazione_riproduzione\discman.JPG){ width=250px } | 
+| - | - | - |
+| Lettori di cassette |  | Lettore CD Discman|
 
 La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, rendendo possibile un ascolto a 360 gradi. Nel tentativo di ricreare la sensazione di ambiente, oltre ai canali stereo che mandavano le informazioni principali, venivano utilizzati altri due canali che trasmettevano le informazioni captate da microfoni, messi in posizione posteriore, durante la registrazione: in questo modo l'ascoltatore era completamente avvolto da una musica di altissima qualità. Il costo e la scomodità di questo sistema, che presupponeva ampi spazi per collocare quattro diffusori, due davanti e due dietro l'ascoltatore, non ne permisero la diffusione di massa e la quadrifonia rimase confinata alla nicchia degli audiofili appassionati oppure utilizzata in ambito cinematografico. Questo insuccesso, insieme al drastico calo delle vendite dei dischi, fu drammatico per le case discografiche che avevano puntato su questa novità con grandi investimenti.
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
@@ -249,7 +259,7 @@ Ma per la trasmissione di suoni di alta qualità era necessario che la frequenza
 
 Altro ostacolo consisteva nel fatto che venivano generate grandi quantità di frequenze spurie che alteravano la qualità del risultato. A quest'ultimo problema si trovò una soluzione applicando il teorema di Nyquist-Shannon,secondo il quale per evitare distorsioni o perdita di informazioni nella ricostruzione del segnale analogico, la frequenza di campionamento occorrente deve essere maggiore del doppio della frequenza massima campionata. Si raddoppiarono perciò le frequenze ed essendo 20 kHz il limite udibile per l'orecchio umano, si scelse la frequenza di campionamento a 44.1 kHz (con risoluzione a 16 bit) che consentiva una riproducibilità intorno ai 18-20 kHz. La qualità ottenuta era accettabile, ma la mole dei dati da archiviare era impressionante. Si dovettero aspettare i nuovi sviluppi delle tecnologie digitali, in particolare il potenziamento e la miniaturizzazione dei processori.
 
-![schema lettura riproduzione CD ](.\images\supporti_registrazione_riproduzione\compact-disc-schema-1.jpg) [^immagine-lettura-riproduzione-disco]
+![Schema Riproduzione CD (**Le Garzantine**) ](.\images\supporti_registrazione_riproduzione\compact-disc-schema-1.jpg){ width=300px }
 
 Il procedimento per lo stampaggio di un CD è simile a quello del disco fonografico: la superficie viene incisa da un raggio all'elio-cadmio e poi ricoperta con un sottile strato d'argento che, indurito, costituisce lo stampo per la serializzazione.
 Per la lettura il CD utilizza un principio ottico che si basa sul contrasto di fase. La luce del laser, incontrando le irregolarità presenti sulla superficie incisa del disco, subisce una modulazione diversa e in opposizione di fase rispetto a quella che viene prodotta dalla superficie piana: si crea in questo modo un'interferenza che determina un calo dell'energia del laser, interpretata dal lettore cd come informazione binaria. Il laser, non entrando in contatto col disco, non lo usurava, non produceva gracidii, non era alterato da polvere, graffi, impronte.
@@ -258,8 +268,6 @@ Il primo CD era uscito nel 1982 e nell'arco di un decennio riuscì a soppiantare
 La qualità del vinile rimaneva superiore ma la massa degli acquirenti era maggior mente attratta dalla novità; il vinile rimase prerogativa degli appassionati, tornando a momenti come fenomeno di moda.
 La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che restituiva una riproduzione fedele ma "*fredda*". Anche i supporti, a distanza di anni, cominciarono a deludere: processi chimici di ossidazione obbligarono a ricercare materiali meno alterabili. Ma il CD continuò ad essere venduto per tutti gli anni '90 e un deciso calo delle vendite si registrò solo quando l'industria informatica cominciò a produrre computer muniti di masterizzatori, che duplicavano i CD con estrema facilità e ottimi risultati.
 
-[^immagine-lettura-riproduzione-disco]: tratta da: Le Garzantine 2012
-
 #### 1.1.3.2 DAT, DCC, DVD, SACD
 Anche l'industria del nastro fece uso delle innovazioni digitali ma senza successo. A cavallo tra gli anni '80 e '90 si era tentato di commercializzare dispositivi in apparenza simili alle musicassette ma di dimensioni molto più piccole e con registrazione digitale anzichè analogica.
 Le più note proposte avanzate in questo contesto furono:
@@ -267,9 +275,9 @@ DAT (Digital Audio Tape) introdotto dalla Sony; aveva una durata compresa tra i 
 DCC (Digital Compact Cassette) basato su una tecnologia sostanzialmente analoga a quella del DAT, offriva una precisione inferiore ma comunque pari o superiore a quella delle audiocassette analogiche.
 Queste tecnologie non ebbero un seguito rilevante e non riuscirono a raggiungere una diffusione di massa.
 
-![DCC](.\images\supporti_registrazione_riproduzione\DCC.png) [^immagine-dcc]
-![DAT 1](.\images\supporti_registrazione_riproduzione\dat 3 ADAT_DTRS_and.png)
-![DAT 2](.\images\supporti_registrazione_riproduzione\DAT_2.jpg) [^immagine-dat]
+| ![](.\images\supporti_registrazione_riproduzione\DCC.png){ width=250px } | ![](.\images\supporti_registrazione_riproduzione\dat 3 ADAT_DTRS_and.png){ width=250px } | ![](.\images\supporti_registrazione_riproduzione\DAT_2.jpg){ width=250px } |
+| - | - | - |
+| Dital Audio Cassette | Digital Audio Tape |  |
 
 Analoga sorte subirono due nuovi media, proposti nella seconda metà del decennio: DVD e SACD. Di aspetto identico a un normale CD, avevano una capacità di immagazzinamento di gran lunga superiore, grazie alla quale era finalmente possibile una riproduzione ad alta definizione.
 Il DVD (Digital Versatile Disc) nuovo formato, fu presentato dalla Sony Corporation nel 1997 e utilizzato principalmente dall'industria cinematografica, potendo contenere, oltre all'intero film, anche un audio multicanale.
@@ -288,7 +296,10 @@ Questo scontro di interessi, nonostante interventi legislativi internazionali in
 
 Col nuovo millennio l'ascolto in Mp3 divenne un fenomeno giovanile planetario, grazie all'invenzione di lettori provvisti di auricolari, con notevole capacità di archiviazione ma dimensioni estremamente ridotte, che consentivano l'ascolto ovunque. Il primo di questi dispositivi, l'iPod, fu presentato nel 2001 seguito da una grande varietà di lettori Mp3. La successiva evoluzione furono gli smartphone e i tablet collegati direttamente alla rete, tramite i quali la musica può essere non solo ascoltata, ma anche scaricata e riascoltata in assenza di collegamento a internet.
 Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita da dispositivi che non riescono a raggiungere livelli di alta qualità: l'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peraltro possono avvantaggiarsi della distribuzione via internet per trovare i prodotti a loro dedicati.
-> In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.... > L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. [^roberto-diem-tigani-p258-259]
+
+> In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.... 
+
+> L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. [^roberto-diem-tigani-p258-259]
 
 ## 1.2 I PRODUTTORI: EVOLUZIONE DEL RUOLO NEL TEMPO
 <!-- frase da ponte tra tecnologie e produzione -->
@@ -297,11 +308,16 @@ Per quanto riguarda la professione del produttore da un punto di vista cronologi
 
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
 Questo lasso temporale è così ampio a causa dell'insufficienza delle tecniche di registrazione dell'epoca.
+
 In principio coloro che si dedicavano alla registrazione avevano una fisionomia più assimilabile a quella dell'archivista che a quella del produttore: il loro scopo infatti era soltanto quello di catturare la musica, attraverso un dispositivo che ne consentisse in un secondo momento la riproduzione.
+
 Progressivamente il produttore comincerà ad acquisire una sua rilevanza, ma le figure che imponevano lo stile della musica erano principalmente quelle dei compositori e degli arrangiatori.
+
 I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi viaggiavano facendo audizioni, alla ricerca di musica e artisti che potessero piacere al pubblico. Accusati spesso di essere ladri di copyright e non pagare quanto dovuto agli autori, meritarono una fama negativa all'intera categoria, additata come approfittatrice e responsabile della stereotipizzazione dei generi musicali.
 
+
 Nel secondo periodo, che corrisponde a un maggiore sviluppo dell'industria musicale, le etichette discografiche (record label) cominciarono ad assumere persone cui era affidato il compito di ricercare gli artisti e di supportarli nel processo di registrazione. Noti come A&R(artist and repertoir) erano sovente compositori e arrangiatori musicalmente molto preparati, incaricati di ogni aspetto, dalla firma del contratto al prodotto finale. Queste figure possono essere definite gli antenati degli odierni aer man che, a differenza di quanto accadeva in passato, sono soprattutto talent scout e product manager.
+
 Grazie all'introduzione del magnetic tape, che consentiva la realizzazione delle sovraincisioni, i produttori acquisirono un controllo più significativo sul loro operato: la possibilità di separare e sovrapporre gli strumenti apriva nuovi orizzonti e il ruolo del produttore, da esclusivamente tecnico, venne maggiormente caratterizzato in senso artistico.
 
 L'avvio del terzo periodo è segnato da una sorta di ribellione, l'emblematica decisione di George Martin, produttore dei Beatles, di lasciare la EMI per lavorare autonomamente. Benché già negli anni '50 fossero presenti alcuni produttori indipendenti, è innegabile che il gesto di George Martin ebbe ampia risonanza ed un forte impatto: sulla scia della sua decisione, molti altri produttori optarono per l'attività indipendente.
@@ -315,7 +331,7 @@ Passivi sono invece coloro che delegano le decisioni pratiche contingenti ad alt
 I produttori ibridi si trovano in una posizione intermedia: dialogano con l'artista principale, ma spesso non si occupano dei musicisti addizionali "additional musicians"; creano le tracce ma non partecipano alla scelta delle tracce e dei musicisti, limitandosi alla realizzazione del confezionamento finale del prodotto.
 La produzione di un brano implica l'impiego di una serie di attrezzature per l'acquisizione dei suoni, il loro trattamento, la loro sintesi, l'arrangiamento e il mixaggio. Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
 Con la diffusione della produzione di musica su computer il ruolo del produttore si è ulteriormente evoluto. Il produttore, in particolare nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale, in alcuni casi anche di musicista.
-Questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio, le DAW (Digital Audio Workstation), che svolgono le funzioni prima espletate da strumentazioni analogiche. Le DAW potenzialmente permettono realizzazioni anche in ambito “domestico" (home recording studio), attraverso l'utilizzo di computer fissi o portatili. Questi programmi consentono al singolo di produrre tracce musicali in modo autonomo, operazione che fino a poco tempo fa era appannaggio di équipes, .
+Questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio, le DAW (Digital Audio Workstation), che svolgono le funzioni prima espletate da strumentazioni analogiche. Le DAW potenzialmente permettono realizzazioni anche in ambito "domestico" (home recording studio), attraverso l'utilizzo di computer fissi o portatili. Questi programmi consentono al singolo di produrre tracce musicali in modo autonomo, operazione che fino a poco tempo fa era appannaggio di équipes, .
 I brani possono essere realizzati interamente in autonomia con l'uso del computer *in the box*.
 
 [^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
@@ -327,15 +343,20 @@ Il processo di produzione si compone di una serie di fasi, generalmente divise i
 La cosiddetta preproduzione, ovvero la fase preliminare che precede la registrazione, prevede il progetto di scrittura, la scelta di strumenti e strumentisti, la frequenza di campionamento anche in base al supporto da usare, la scelta delle strutture dei brani e gli arrangiamenti. Il produttore, se svolge un lavoro in collaborazione con musicisti, spesso entra già in questa fase, col ruolo di un consigliere critico che propone suggerimenti relativi all'arrangiamento e alla strumentazione. La preproduzione può contemplare anche una prima registrazione delle tracce.
 
 La produzione comprende diversi passaggi:
-- traking: consiste nella registrazione del suono nella DAW o su nastro. Tendenzialmente responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista come consulente musicale.
+
+- *tracking*, consiste nella registrazione del suono nella DAW o su nastro. Tendenzialmente responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista come consulente musicale.
 La fase di registrazione può avvenire in presa diretta (tutte le tracce del brano vengono registrate contemporaneamente) dal vivo o secondo un approccio multitraccia nel quale diverse parti musicali vengono registrate in momenti separati per essere poi unite tra loro.
 La seconda opzione permette di raggiungere un maggior controllo del prodotto e più ampie possibilità di manipolazione dei materiali.
-- editing:in questa fase si possono: editare i materiali acquisiti a fine correttivo o creativo; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; gestire il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento e molto altro.
-- mixaggio, durante il quale il materiale multitraccia è bilanciato, trattato e combinato in un formato generalmente multicanale. L'ingegnere del suono(sound engineering) non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici ed emotivi del prodotto finale.
+- *editing*, in questa fase si possono: editare i materiali acquisiti a fine correttivo o creativo; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; gestire il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento e molto altro.
+- *mixaggio* durante il quale il materiale multitraccia è bilanciato, trattato e combinato in un formato generalmente multicanale. L'ingegnere del suono(sound engineering) non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici ed emotivi del prodotto finale.
+
 > "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]
+
 Realizzare un buon mix favorisce il successo commerciale di un brano, perché sottolinea e veicola concetti ed emozioni espressi nella canzone: infatti è attraverso la sperimentazione e la ricerca di nuovi effetti sonori che si può allargare il panorama delle possibilità espressive. Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti, può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
-A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente “ventaglio di emozioni".
-- mastering, che raffina ulteriormente il materiale mixato.
+A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente "ventaglio di emozioni".
+
+<!-- da collocare - mastering, che raffina ulteriormente il materiale mixato. --> 
+
 L'attività di masatering può riguardare il singolo brano o anche l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
 
 Le operazioni come il riversamento del materiale sul supporto, la stampa delle unità per la distribuzione, la vendita del prodotto finito sono successive, quindi esulano dalla definizione di produzione.
@@ -343,12 +364,18 @@ Le operazioni come il riversamento del materiale sul supporto, la stampa delle u
 ### 1.3.2 STRUMENTI DELLA PRODUZIONE AUDIO
 
 L'evolversi delle tecnologie di registrazione e riproduzione va incontro alle necessità dei produttori e degli artisti, alla costante ricerca di una sempre maggiore fedeltà di registrazione e di nuovi strumenti creativi.
+
 Una tappa fondamentale era stata l'introduzione del nastro magnetico, che in breve tempo era diventato il metodo di registrazione più utilizzato, in quanto rende possibili le registrazioni multitraccia, il rimaneggiamento e la sovrapposizione delle tracce, operazioni prima impensabili.
+
 Una modalità comune di registrazione tradizionale, oggi abbandonata, prevedeva la registrazione in tempo reale su due canali, destro e sinistro, mediante l'uso di due microfoni.
 Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la cui funzione è generare e controllare sequenze di segnali tramite le quali si pilotano potenziometri e pulsanti dei sintetizzatori. In pratica, variando i segnali di tensione elettrica, si poteva eseguire una sequenza di controllo ciclica, generare note, controllare parametri ed effetti del sintetizzatore.
+
 Nel decennio successivo sono implementati i sequencer che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica.
+
 Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer.
+
 In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive.
+
 A fine anni '80 viene rilasciato Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^virtual-standard-technology] e la tecnologia ASIO [^asio].
 
 Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID.
@@ -361,11 +388,13 @@ Gli strumenti virtuali possono essere controllati attraverso tastiere o controll
 
 <!-- registrazione multitraccia (in sospeso; da collocare) -->
 La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio.
+
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
 Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
 
 ### IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
 percorso all'interno dello studio di registrazione lavorando con il digitale. (con nastro magnetico è differente ma non approfondire)
+
 - suon
 - microfono
 - preamplificazione
@@ -374,11 +403,15 @@ percorso all'interno dello studio di registrazione lavorando con il digitale. (c
 - convertitore D/A
 - diffusore (il cavo parte da scheda audio verso diffusori e portando il segnale elettrico analogico.
 elettrico = analogico
+
 <!-- citare libro bontempi "produzione musicale con Cubase 10" Pierluigi Bontempi indipendently published 2019 pp 19-20 -->
 
 La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio.
+
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. E' perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo rielabori portandolo a un livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
+
 Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
+
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
 ### 1.3.4 SCHEDA AUDIO
@@ -403,6 +436,7 @@ Frequenza di campionamento
 Quantizzazione
 
 Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale.
+
 La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita.
 In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali; sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software.
 
@@ -410,8 +444,6 @@ In generale la scheda audio ha diversi tipi di connettori e quindi di interfacci
 
 <!-- in sosspeso -->
 essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
-
-
 
 <!-- Un player audio non è una DAW. -->
 mettere riferimento ipertestuale alla sezione 1.4 dedicata interamente alla DAW
@@ -427,24 +459,27 @@ M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musi
 G. HAUS, Corso di informatica applicata alla musica, pdf disponibile sul sito http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf, URL consultato il 14/06/2018
 
 La nascita del protocollo MIDI si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0,, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali.
+
 Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case quali: la statunitense SCI e le giapponesi Yamaha e Kaway.
 La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici, mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei, si basavano su algoritmi proprietari, erano quindi in grado di far dialogare solo strumenti prodotti dalla medesima azienda.
 Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò portava la conseguenza che i brani MIDI registrati in questo modo potessero essere in un secondo momento letti con un programma identico a quello col quale erano stati generati.
 
-![pin connettore](.\images\midi\pin_connettore_1.PNG)
+![Pin Connettore MIDI](.\images\midi\pin_connettore_1.PNG)
 
-> Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con “data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
+> Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con "data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
 L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema). Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre.
 I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo trasmette i dati in ingresso; la seconda svolge la funzione opposta; mentre l’ultima,che svolge il ruolo di mediazione tra MIDI IN e MIDI OUT, consente di collegare più slaves a un unico master.
 Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non si possono connettere due porte IN o due porte OUT contigue.
 
-![immagine pin connettore](.\images\midi\pin_connettore_1.PNG) [^massimiliano-salfi]
-![immagine pin connettore](.\images\midi\pin_connettore_2.PNG) [^g-haus]
-![immagine midi connettore](.\images\midi\connettore_3.PNG) [^g-haus]
+![Connettore MIDI](.\images\midi\pin_connettore_2.PNG)
+
+| ![](.\images\midi\pin_connettore_1.PNG){ width=300px } | ![](.\images\midi\connettore_3.PNG){ width=300px } |
+| - | - |
+| Dettaglio Connettore (**M. Salfi**) | Dettaglio Connettore (**G. HAUS**) |
 
 Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi.
 
-![immagine midi byte](.\images\midi\byte_5.PNG)
+![Pacchetto MIDI (Byte)](.\images\midi\byte_5.PNG)
 
 Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
 La funzione degli Status Byte è quella di consentire una trasmissione univoca e corretta di comandi, senza possibilità di errore, perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
@@ -452,7 +487,7 @@ I Data Byte forniscono i parametri per un corretto funzionamento degli Status By
 
 ![immagine midi codifica](.\images\midi\codifica_6.PNG)
 
-I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione “.mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
+I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione ".mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti:
 - formato 0 - tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano;
 - formato 1 - le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre;
@@ -460,10 +495,10 @@ I formati di SMF disponibili sono i seguenti:
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 
-![immagine midi tipi di messaggio](.\images\midi\tipi_messaggio_7.PNG)
+![Tipologie di messaggio MIDI](.\images\midi\tipi_messaggio_7.PNG)
 
 \newpage
 
 Gli sviluppi basati sul fenomeno della semiconduzione porteranno alla sostituzione delle valvole e ai primi transistor, in un progressivo evolversi della miniaturizzazione che è arrivata nei moderni circuiti a microprocessori che contengono miliardi di transistor ma che sono ancora riferibili ai principi essenziali dei primi tubi elettronici.
 
-![fonografo](.\images\supporti_registrazione_riproduzione\grafofono.jpg) [^immagine-grafofono]
+![Fonografo](.\images\supporti_registrazione_riproduzione\grafofono.jpg)]

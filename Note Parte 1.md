@@ -4,11 +4,11 @@
 [^taylor-and-walton]: THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
 [^immagine-fonoautografo-1]: tratto da classicasenzafrontiere.wordpress dove è disponibile anache il video del fonoautografo in funzione.
 [^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
-[^luca-cerchiari]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
+[^luca-cerchiari-p12-13]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
 [^fred-gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.
 [^luca-cerchiari-p17]: p. 17
 [^chris-middleton]: Chris Middleton, The complete guide to digital audio, 2003 Course Technology PTR, p.16
-[^roberto-diem-tigani-p258]: pp 258-259
+[^roberto-diem-tigani-p258-259]: pp 258-259
 [^roberto-diem-tigani-p57-58]: op.cit. pp 57-58
 [^immagine-berliner]: immagine Berliner link consultato 30 aprile 2019 url: *https://www.stradeejay.it/emil-berliner-dal-grammofono-ai-vinili/*
 [^immagine-microfono-a-condensatore-1]: immagine microfono a condensatore tratto da Collezione Radio Nelson Microfonia - Tecnologia link consultato 30 aprile 2019 *http://collezioneradionelson.blogspot.com/p/microfonia-telefonia.html?m=1*

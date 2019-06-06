@@ -288,6 +288,13 @@ La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entram
 #### 1.1.3.3 INTERNET
 
 <!-- riquadro a parte con concetto di formati loosy e loosness -->
+##formati lossy e lossless
+I principali sistemi di compressione che riesca a mantenere il più felemente possibile la qualità del suono sono il **lossless* e il **lossy**
+Lossless comprime le informaziooni legate al segnale audio senza togliere informazioni e si decomprime durante l'la riproduzione, riducendo non oltre la metà le dimensioni del file.Sono lossless: MLP, FLAC, MPAC.
+Lossy, al contrario,  può ridurre molto la dimensione perdendo di qualità.L'l?MP3 è in realtà il frmato MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
+In questo formato il segnale viene suddiviso in **frame** indipendenti composti  576 campion in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.
+L'MP3 viene generato dall'enconder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale: nei frame il segnale è rappresentato appunto dallo spettro dell'onda usando la FFT (Fast Furièr Transformation). Spettro che viene poi analizzato per la restituzione della soglia di udibilità sfruttando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità RSMR e di mascheramentoi
+
 L'avvento di internet ha segnato "la fine" della fonografia.
 L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte, consentendo una rapidissima diffusione della grafica in ambito digitale. Per i dati audio ci vollero tempi più lunghi, in quanto nei formati compressi si perdeva la qualità del suono. A metà degli anni '90 una soluzione fu trovata dall'equipe di Karlheinz Brandenburg che, studiando il protocollo MPEG, utilizzato in ambito cinematografico per la codifica e sincronizzazione dei contenuti audio-video in formati compressi, individuò un algoritmo di compressione che consentiva un risultato di buona qualità. Questo nuovo formato, noto con l'acronimo MP3, si diffuse in maniera rapidissima determinando due fondamentali e imprevedibili novità: la riproduzione del suono perdeva la sua fisicità; si potevano condividere i file mp3 con estrema facilità, in maniera gratuita e in totale violazione del copyright.
 
@@ -344,11 +351,11 @@ La cosiddetta preproduzione, ovvero la fase preliminare che precede la registraz
 
 La produzione comprende diversi passaggi:
 
-- *tracking*, consiste nella registrazione del suono nella DAW o su nastro. Tendenzialmente responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista come consulente musicale.
+- **tracking**, consiste nella registrazione del suono nella DAW o su nastro. Tendenzialmente responsabile del controllo di questa fase è l'ingegnere del suono, mentre il produttore lavora a stretto contatto con l'artista come consulente musicale.
 La fase di registrazione può avvenire in presa diretta (tutte le tracce del brano vengono registrate contemporaneamente) dal vivo o secondo un approccio multitraccia nel quale diverse parti musicali vengono registrate in momenti separati per essere poi unite tra loro.
 La seconda opzione permette di raggiungere un maggior controllo del prodotto e più ampie possibilità di manipolazione dei materiali.
-- *editing*, in questa fase si possono: editare i materiali acquisiti a fine correttivo o creativo; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; gestire il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento e molto altro.
-- *mixaggio* durante il quale il materiale multitraccia è bilanciato, trattato e combinato in un formato generalmente multicanale. L'ingegnere del suono(sound engineering) non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici ed emotivi del prodotto finale.
+- **editing**, in questa fase si possono: editare i materiali acquisiti a fine correttivo o creativo; aggiungere gli effetti d'ambiente, come riverbero e delay, per dare profondità spaziale; gestire il panorama stereofonico usando il panning, effetto che dà maggior chiarezza a ogni strumento e molto altro.
+- **mixaggio** durante il quale il materiale multitraccia è bilanciato, trattato e combinato in un formato generalmente multicanale. L'ingegnere del suono(sound engineering) non ha soltanto una funzione tecnica ma anche artistica, infatti le procedure utilizzate per il trattamento delle tracce hanno un'influenza molto rilevante sugli effetti drammatici ed emotivi del prodotto finale.
 
 > "Il risultato di tale operazione, composto dall'unione di tracce rielaborate, consiste nella presentazione di emozioni, idee creative e performance". [^handbook]
 
@@ -490,9 +497,9 @@ I Data Byte forniscono i parametri per un corretto funzionamento degli Status By
 I file midi sono file di tipo testuale, quindi occupano spazio ridotto; hanno estensione ".mid” e sono codificati mediante l’ASCII (American Standard Code for Information Interchange).
 I formati di SMF disponibili sono i seguenti:
 
-- *formato 0*: tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano;
-- *formato 1*: le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre;
-- *formato 2*: le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica.
+- **formato 0**: tutte le tracce di un brano vengono mixate in una singola traccia che contiene però tutte le informazioni relative a tutte le tracce del brano;
+- **formato 1**: le tracce vengono memorizzate in modo singolo e contengono gli stessi valori di tempo e metrica: la velocità del brano viene inserita nella prima traccia che fa da riferimento a tutte le altre;
+- **formato 2**: le tracce vengono gestite indipendentemente l’una dall’altra con valori anche diversi di tempo e di metrica.
 I synter a lettura diretta impiegano il formato 0; mentre i sequencer in grado di creare o modificare SMF impiegano il formato 1.
 Il General Midi (GM) uniforma agli stessi dati midi, la risposta delle apparecchiature provenienti da diverse case produttrici che, a causa delle diverse tecnologie impiegate, non possono produrre suoni identici.
 

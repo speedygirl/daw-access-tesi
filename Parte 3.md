@@ -566,16 +566,21 @@ Per eseguire i test si è provato a cambiare le impostazioni di VoiceOver, modif
 interagisci con tasto tab” e cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
 -	“interagisci con tasto tab” e eliminato l’opzione cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
 -	Eliminata l’opzione “interagisci con tasto tab” lasciando attiva “posizione iniziale cursore Voiceover sul “primo elemento della finestra” “sincronizza punto focale della tastiera a cursore VoiceOver” (significa che la tastiera segue il focus dettato dal cursore VoiceOver)
--	“interagisci con tasto tab” e eliminato l’opzione “posizione iniziale cursore VoiceOver” su “cursore sul primo elemento della finestra modalità navigazione impostata su “puntatore del mouse” “sposta cursore VoiceOver” che consente al mouse di spostare il cursore VoiceOver a ogni spostamento del puntatore (in parole più facili lo spostamento della freccia).
+-	“interagisci con tasto tab” e eliminato l’opzione “posizione iniziale cursore VoiceOver” su “cursore sul primo elemento della finestra modalità navigazione impostata su “puntatore del mouse” “sposta cursore VoiceOver” che consente al mouse di spostare il cursore VoiceOver a ogni spostamento del puntatore.
 
-si è proceduto analizzando, dapprima lo start menù, notando che la parte sinistra, che contiene i link di supporto all’uso del programma, i link al sito della softwarehouse, e i tre buttons presenti nella parte inferiore sinistra, è lievemente più accessibile dell’altra porzione perché, portando con un clic del mouse il focus nel body della finestra, si possono scorrere i link ma non ne vengono letti i nomi precisi bensì viene notificta soltanto la generica presenza di link. La parte destra è completamente inaccessibile.
-La finestra non intercetta le shortcut quindi i comandi impartiti dall’utente tramite comandi rapidi vengono ignorati. Per ovviare al problema si è tentato, con esito negativo, il mandare a icona la finestra ma il programma si blocca ugualmente.
-Sono state tentate altre due strade, ma entrambe fallite: dapprima
-Modificando alcuni parametri delle impostazioni di VoiceOver: “posizione del cursore VoiceOver sul primo elemento della finestra e abolito “interagisci con tasto tab”.
+si è proceduto analizzando, dapprima lo start menù, notando che la parte sinistra, che contiene i link di supporto all’uso del programma, i link al sito della softwarehouse, e i tre buttons presenti nella parte inferiore , è lievemente più accessibile della porzione destra. Questo perché, portando con un clic del mouse il focus nel body della finestra, si possono scorrere i link, di cui viene notificata la presenza, ma non ne vengono letti i "nomi" precisi.
+
+La parte destra è completamente inaccessibile.
+La finestra non intercetta le shortcut quindi i comandi impartiti dall’utente tramite comandi rapidi vengono ignorati. Per ovviare al problema si è tentato, con esito negativo, di mandare a icona la finestra, per poi ritentare, ma il programma si blocca ugualmente.
+Sono state provate altre due strategie, ma entrambe fallite. Modificando alcuni parametri delle impostazioni di VoiceOver: “posizione del cursore VoiceOver sul primo elemento della finestra e abolito “interagisci con tasto tab”.
 L’ultimo è stato l’impiego del comando Ccapslock+I, cioè la funzione cerca elementi specifica di VoiceOver.
-La sezione di destra si compone delle seguenti funzionalità, rappresentate tramite apposite icone: “recenti”; “mostra ultimi file aperti”; “recording”; “scoring” nel quale sono mostrati i vari tipi di progetto messi a disposizione dal programma, nella sezione in alto di questa regione si può selezionare i template personalizzati.
-“Producton”; “mastering”; e “altro” sono altri pulsanti della parte alta della finestra. I primi due sono template che è possibile creare; mentre “altro” sono tipi di template personalizzati creati dall’utente secondo le sue esigenze.
-I template personalizzati sono progetti che l’utente crea secondo le sue esigenze e che memorizza in modo da poterli riutilizzare successivamente senza dover reinserire gli stessi parametri ogni volta.
+La sezione di destra si compone delle seguenti funzionalità, rappresentate tramite apposite icone: “recenti”; “mostra ultimi file aperti”; “recording”; “scoring” nel quale sono mostrati i vari tipi di progetto messi a disposizione dal programma. 
+
+Nella sezione in alto, sempre della regione di destra, si trovano i pulsanti “Producton”; “mastering”; e “altro”. Con i primi due si può creare dei template; mentre “altro” sono tipi di template personalizzati creati dall’utente secondo le sue esigenze. I template personalizzati sono progetti che l’utente crea secondo le sue esigenze e che memorizza in modo da poterli riutilizzare successivamente senza dover reinserire gli stessi parametri ogni volta.
+Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
+Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
+Si procede quindi ad aprire la main windows del nuovo progetto presente nella barra dei menù in cima alla finestra, si seleziona il menù “progetto” e si seleziona la voce “impostazioni progetto.
+VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato.
 Una volta che si è selezionato il progetto si deve indicare al programma dove salvarlo. 
 Per fare ciò sono state messe a disposizione funzioni come “usa posizione di default” oppure “definisci posizione progetto” cui è possibile selezionare o deselezionare tramite apposito flag col click del mouse.
 In basso a sinistra vi sono, in ordine, i buttons “apri altro”; “annulla” e “crea vuoto”.
@@ -583,59 +588,39 @@ Il primo, “apri altro”, apre un file già presente sul disco fisso del compu
 L’icona “crea nuovo progetto”, come quelle ad essa affini (recording, scoring, production, mastering e altro), è raggiungibile con Tab, ma VoiceOver non pronuncia il nome dell’icona.
 Si è quindi provveduto a modificare le proprietà relative alla modalità di navigazione di VoiceOver impostando su “sposta cursore VoiceOver con cursore mouse” per appurare quali sono gli elementi effettivamente selezionabili con tale taso.
 Sempre per il medesimo scopo, l’aprire il nuovo progetto, si è tentata un’altra via, mediante i menù in alto.
-Il scegliere la strada dei menù ha portato a comprendere che quando si sposta il focus sulla barra superiore, il programma va off focus, cosa che porta a cambiare il menù, togliendo da sottto il cursore il menù d’interesse per l’utente.
-Si è quindi proceduto a aprire la finestra “Nuovo progetto”, dando invio sull’apposita icona. La GUI apertasi è risultata completamente inaccessibile in quanto la sintesi vocale non intercettava nulla (nessun pulsante, nessun controllo) quindi, dal suo punto di vista, era come se lo schermo fosse vuoto. Al contrario, l’unica sezione funzionante è quella dei menù presenti nella barra dei menù, e i sottomenù relativi a ognuno dei menù di grado superiore, perché esportano i metadati provenienti dal sistema operativo. Il cursore si spossta agevolmente negli items ma non suggerisce le shortcut e, qualunque altra finestra si tenti d’aprire, è completamente inutilizzabile.
-Tali menù, sottomenù, e quindi gli items in essi contenuti, sono scorribili usando le frecce o il tracking del mouse; VoiceOver pronuncia “entro menù”, poi ancora Vo vocalizza “progetto cubase cubase element trattino senza titolo”
+Il scegliere la strada dei menù ha portato a comprendere che quando si sposta il focus sulla barra superiore, il programma va off focus, cosa che porta a cambiare il menù, togliendo da sottto il cursore il menù d’interesse.
+Si è quindi proceduto a aprire la finestra “Nuovo progetto”, dando invio sull’apposita icona. La GUI apertasi è risultata completamente inaccessibile in quanto la sintesi vocale non intercettava nulla (nessun pulsante, nessun controllo), era come se lo schermo fosse vuoto. Al contrario, l’unica sezione funzionante è quella dei menù e sottomenù presenti nella barra dei menù, perché esportano i metadati provenienti dal sistema operativo. Il cursore si spossta agevolmente negli items ma non suggerisce le shortcut e, qualunque altra finestra si tenti d’aprire, è completamente inutilizzabile.
+I menù sono scorribili usando le frecce o il tracking del mouse; VoiceOver pronuncia “entro menù”,; “progetto cubase cubase element  senza titolo”
 Il menù all’inizio non consente di selezionare la scheda hardware da associare al programma.
 Per associare la scheda hardware bisogna entrare nella finestra progetto e aprire il menù “Studio”, selezionare la voce “Configurazione dello studio”, VST Audio System. Accanto alla voce “Driver ASIO” è situata la tendina di selezione dei driver (e quindi della scheda audio).
 Tale procedura è la medesima sia nel sistema operativo Windows che in Mac ed è peculiarità delle versioni successive alla 9,
-Cubase obbliga l’utente a impostare nei minimi dettagli i parametri relativi alla scheda, ai bus ‘uscita e entrata, cosa che in altri software di editing, come ad eesempio Reaper e Pro Tools analizzati in precedenza, vengono eseguite in automatico dal computer senza richiedere particolari abilità tecniche all’utente.
+Cubase obbliga l’utente a impostare nei minimi dettagli i parametri relativi alla scheda, ai bus ‘uscita e entrata, cosa che in altri software di editing, come ad eesempio Reaper e Pro Tools analizzati in precedenza, viene  eseguite in automatico dal computer.
 Usando il mouse si è provato a eseguire le seguenti azioni, dato che tutte le possibilità offerte dalla modifica dei vari parametri d’impostazione della sintesi sonoo risultati vani.
 Si è sfruttato il tracking del mouse per raggiungere gli strumenti VST, ma nonostante questo accorgimento VoiceOver non fornisce alcun feedback.
-Spostandosi su “attiva metronomo” VoiceOver vocalizza “Attiva metronomo” ma non fornisce informazioni aggiuntive, lo stesso per “Entro configurazione del metronomo” dove VoiceOver vocalizza configurazione metronomo  	PROBLEMA RISOLTO!!
+Spostandosi su “attiva metronomo” VoiceOver vocalizza “Attiva metronomo” ma non fornisce informazioni aggiuntive, lo stesso avviene per “Entro configurazione del metronomo” dove VoiceOver vocalizza configurazione metronomo.
 
-```
+
 Si è infine tentato di sfruttare la funzionalità “cerca nell’aiuto di Cubase” 
 ma a ogni lettera digitata nella query VoiceOver pronunciava “cerca nell’aiuto” ma non notificava alll’utente le lettere che sta immettendo.
 ```
 
 In tanti programmi, soprattutto se composti da centinaia di comandi, è messa a disposizione la funzione di ricerca rapida delle shortcut o delle funzionalità attraverso una query ossia una casella di ricerca in cui è possibile scrivere quello che si sta cercando, alleviando all’utente la fatica di scorrre lunghi elenchi; cosa per giunta pressochè impossibile a un non vedente (come già precedentemente accennato).
-Per avere un’ulteriore conferma dell’inaccessibiliità della GUI della finestra progetto si è quindi provveduto a scaricare il tool per valutare l’accessibilità: l’accessibility inspector, che ha  riconfermato  quanto appena affermato. Si può infatti vedere dallo screenshot che l’interfaccia non espone i metadati necessari per l’accessibilità, che non sono stati impiegati i tag o i testi alternativi, che gli eelementi non sono stati raggruppati in maniera tale da agevolare la navigazione (da tastiera), l’interazione tramite mouse supportata dalla sintesi e l’interfaccia non è “focousabile”.
-
-Commentare lo screenshot in cui si vede l’accostamento tra l’interfaccia di cubase e la treevew della GUI riportata dall’accessibility inspector (folder screenshot in Mac pc ale).
-
-con xcode
-selezioni un controllo;
-visualizza metadati relativi a zona precedentemente selezionata col mouse
-
-----------------------
-la parte destra della finestra apertura cubase non ha nessun metadato.
-
-analizzata finestra progetto: in cuase
+Per avere un’ulteriore conferma dell’inaccessibiliità della GUI della finestra progetto si è quindi provveduto a scaricare il tool per valutare l’accessibilità: l’accessibility inspector [^accessibility-inspector-xcode], che ha riconfermato quanto appena affermato. Si può infatti vedere dallo screenshot che l’interfaccia non espone i metadati necessari per l’accessibilità, che non sono stati impiegati i tag o i testi alternativi, che gli eelementi non sono stati raggruppati in maniera tale da agevolare la navigazione (da tastiera), l’interazione tramite mouse supportata dalla sintesi e Non è possibile posizionare il focus della sintesi vocale sui singoli elementi dell'interfaccia perchè non sono correttamente annidati.
+Usando Xcode si è analizzata finestra progetto di Cubase, ciò che l'analizzatore riporta è:
 elementi 0
 azioni 0
 
-```
-SPOSTARE NEL PUNTO CORRETTO NELLA ZONA DOVE SI PARLA DELLA FINESTRA PRINCIPALE DELLA SUA ZONA DI DESTRA. 
-Si apre la main windows del nuovo progetto presente nella barra dei menù in cima alla finestra, si seleziona il menù “progetto” e si seleziona la voce “impostazioni progetto. By ale.
-```
+<!-- inserire lo screenshot in cui si vede l’accostamento tra l’interfaccia di cubase e la treevew della GUI riportata dall’accessibility inspector (folder screenshot in Mac pc ale). -->
 
+[^accessibility-inspector-xcode]: Per usare Xcode si seleziona il controllo da analizzare: l'analizzatore visualizza i metadati relativi alla zona selezionata mediante  mouse.
+
+----------------------
 ```
-Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
-```
-
-VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato..
-
-Modalità cursore continuo è una modalità di scorrimento che tiene premuto Capsloc ma non cambia nulla a livello di elementi.
-
-Ignora etichette ridondanti potrebbe servire a
-1. evitare di dire pulsante (in tag c’è pulsante che fa tal azione” )
-2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
 
 principali funzionalità dal punto di vista dei vedenti da appunti grotta 
 CUBASE PASSI PRINCIPALI
 CONFIGURAZIONE CUBASE DRIVER SCHEDA AUDIO
-                 configurazione progetto sccelta frequenza campionamento; risoluzione in bit
+                 configurazione progetto scelta frequenza campionamento; risoluzione in bit
                               1 menù progetto
                                2 impostazioni progetto
 
@@ -692,6 +677,25 @@ Synter cos’è e sua utilità
 Conclusione
 Tutti ipotizzano il non vedente solo come cieco totale senza considerare le possibilità di accesso anche agli ipovedenti gravi. Un caso in cui ciò è molto evidente è quello delle guide all’uso e installazione dei software presenti in YouTube, di cui si è parlato precedentemente; ma naturalmente sono innnumerevoli le situazioni.
 
+
+
+----------------------------
+**E' DOPPIA?**
+SPOSTARE NEL PUNTO CORRETTO NELLA ZONA DOVE SI PARLA DELLA FINESTRA PRINCIPALE DELLA SUA ZONA DI DESTRA. 
+Si apre la main windows del nuovo progetto presente nella barra dei menù in cima alla finestra, si seleziona il menù “progetto” e si seleziona la voce “impostazioni progetto. By ale.
+```
+
+```
+Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
+```
+
+VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato..
+
+Modalità cursore continuo è una modalità di scorrimento che tiene premuto Capsloc ma non cambia nulla a livello di elementi.
+
+Ignora etichette ridondanti potrebbe servire a
+1. evitare di dire pulsante (in tag c’è pulsante che fa tal azione” )
+2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
 
 
 

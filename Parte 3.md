@@ -614,65 +614,30 @@ azioni 0
 
 [^accessibility-inspector-xcode]: Per usare Xcode si seleziona il controllo da analizzare: l'analizzatore visualizza i metadati relativi alla zona selezionata mediante  mouse.
 
-----------------------
-```
+----------------
 
-principali funzionalità dal punto di vista dei vedenti da appunti grotta 
-CUBASE PASSI PRINCIPALI
-CONFIGURAZIONE CUBASE DRIVER SCHEDA AUDIO
-                 configurazione progetto scelta frequenza campionamento; risoluzione in bit
-                              1 menù progetto
-                               2 impostazioni progetto
+principali funzionalità dal punto di vista dei vedenti da appunti grotta (già rielaborati qui sotto)
 
-IMPOSTAZIONI REGOLAZIONE TRACCE
-              IMPOSTAZIONI quale ingresso
-                quale uscita 
-entrambi gestiti dal pannello vst, che associa il canale virtuale al bus fisico onterfaccia il programma  con scheda audio esterna
-
-Gemma Pedrini, [04.01.19 15:59]
-oltre a ingresi e uscite sideve impostare il volume (su cui poerò non ho indicazionii)
-
-Gemma Pedrini, [04.01.19 16:00]
-REGOLAZIONE atttributi della traccia (chesi trovano nell'inspector e sono associati alla traccia selezionata) 
-        solo
-         mte
-       panning
+All'apertura di un nuovo progetto, solitamente, si operano scelte riguardanti la frequenza campionamento e la risoluzione in bit. E' possibile svolgere tali operazioni aprendo il "menù progetto" e selezionando l'opzione "impostazioni progetto".
 
 
-AGGIUNGI TIPOLOGIA DIVERSA DI TRACCIA  in cartella o in gruppo: trace come MIDI; jinstrument, audio
-              1 entrare in modalità mixer
-              2 clic per aprire menù conntestuale
+
+Per inserire una traccia audio, midi o instrument in un gruppo o in una cartella si deve entrare nella "modalità mixer", fare clic col tasto destro del mouse per aprire il menù conntestuale e selezionare il tipo di traccia d'interesse.
+A ogni traccia sono associati degli attributi, come solo, mute, panning, selezionabili dall'Inspector, che sono relativi alla traccia o alle tracce attive. 
 
 
-COMANDI FONDAMENTALI:
-CONTROL+S - SALVA
-SPAZIO - PLAY/STOP
 
-
-tratti da appunti esame cubase per tesi
-per approfondimenti appunti grotta e dispense prof
-
-
-DA APUNTI DAVIDE GROTTA FONICO
-PANNELLO VST: 
-- GESTISCE INGRESSI E USCITE 
-- ASSOCIA CANALE VIRTUALE AL BUS RELATIVO FISICO OSSIA INTERFACCIA IL PROGRAMMA CON SCHEDA AUDIO ESTERNA
-
-F4 - APRE E CHIUDE IL PANNELLO CONNESSIONI VST
+Il pannello VST (apribile col tasto F4) serve per gestire gli ingressi e le uscite associando il canale virtuale al relativo BUS fisico, permette cioè, attraverso i driver, di interfacciare il programma con la scheda audio esterna. 
 
 ![Windows CUBASE Connessioni VST Ingressi 1](./images/windows-cubase-connessioni-vst-ingressi-1.png)
 
 ![Windows CUBASE Connessioni VST Ingressi 2](./images/windows-cubase-connessioni-vst-ingressi-2.png)
 
+Per associare i BUS  ai canali in ingresso e uscita le relative tracce PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 canale 1) in ingresso e uscita, si fa lo stesso procedimento, dall'Inspector scegliere .......   associato alla traccia selezionata ```, dove si trovano attributi come panning, automazioni e muto.
+Scegliere **“ASSEGNAZIONE INGRESSO”**
+(è consigliabile scegliere l'uscita stereo).
 
-ASSEGNARE BUS E CANALI ALLE TRACCE IN INGRESSO E IN USCITA
-(NB: LA PROCEDURA E’ IDENTICA SIA PER L’INGRESSO CHE PER L’USCITA).
-ASSEGNAZIONE USCITA (CONSIGLIABILE STEREO)
-DALL’INSPECTOR SCEGLIERE ```…… ASSOCIATO ALLA TRACCIA SELEZIONATA```, DOVE SI TROVANO ATTRIBUTI COME PANNING AUTOMAZIONIE MUTO
-PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 CANAL 1)
-SCEGLIERE **“ASSEGNAZIONE INGRESSO”**
-
-Synter cos’è e sua utilità
+## Synter cos’è e sua utilità
 
 Conclusione
 Tutti ipotizzano il non vedente solo come cieco totale senza considerare le possibilità di accesso anche agli ipovedenti gravi. Un caso in cui ciò è molto evidente è quello delle guide all’uso e installazione dei software presenti in YouTube, di cui si è parlato precedentemente; ma naturalmente sono innnumerevoli le situazioni.

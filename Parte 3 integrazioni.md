@@ -24,11 +24,11 @@ Negli anni il mercato dei personal computer ha subito vari sconvolgimenti, riman
 [^power-pc]: Architettura di microprocessori commercializzata a partire dal 1991 da *Apple* in collaborazione con *IBM*, tratto dal libro di *Carlton Jim* intitolato *"the inside story of intrigue, egomania, and business blunders"* pubblicato a New York da *"Times Business/Random House"* nel 1997 capitolo *"The march to PowerPC"*.
 [^intel-x86]: È una famiglia di microprocessori commercializzata dalla *Intel* a partire dal 1978, tratto dal libro *"Intel Microprocessors: 8008 to 8086"* scritto dal progettista di chip *Stephen Paul Morse*, libro scaricato il 22 Gennaio 2019 a questo link: *http://stevemorse.org/8086history/8086history.doc*
 [^java]: Java è un famoso linguaggio di programmazione creato nel 1995 da *James Gosling* allora ingegnere alla *Sun Microsystems*
-[^sdk]: SDK è un acronimo che sta per *"Software Development Kit"* in italiano *"Kit di sviluppo Software"* fonte *"IT Glossary"* della azienda *Gartner* consultato il 22 Gennaio 2019 a questo link: *https://www.gartner.com/it-glossary/sdk-software-development-kit* 
-[^gui]: GUI è un acronimo che sta per *"Graphic User Interface"* in italiano *"Interfaccia Grafica"*
+[^sdk]: SDK è l'acronimo di *"Software Development Kit"* in italiano *"Kit di sviluppo Software"* fonte *"IT Glossary"* della azienda *Gartner* consultato il 22 Gennaio 2019 a questo link: *https://www.gartner.com/it-glossary/sdk-software-development-kit* 
+[^gui]: GUI è l'acronimo di *"Graphic User Interface"* in italiano *"Interfaccia Grafica"*
 [^qt]: Sito ufficiale delle Qt: *https://www.qt.io/*
 [^music-score]: Articolo consultato il 22 Gennaio 2019 al seguente link: *https://accessiblemusicnotation.wordpress.com/2014/08/27/musescore-2-0-beta-1-released-with-accessible-score-reading-support/*
-[^embedded]: Con Sistema Embedded si intendono tutti quei sistemi informatici ad alto livello di integrazione come spiegato da *Tech Target*, articolo consultato il 22 Gennaio 2019 a questo link: *https://internetofthingsagenda.techtarget.com/definition/embedded-system* 
+[^embedded]: Con Sistema Embedded ci si riferisce ai sistemi informatici ad alto livello di integrazione come spiegato da *Tech Target*, articolo consultato il 22 Gennaio 2019 a questo link: *https://internetofthingsagenda.techtarget.com/definition/embedded-system* 
 [^embedded-qt]: Qr library ha una versione dedicata a Linux Embedded, link della documentazione: *http://doc.qt.io/qt-5/embedded-linux.html*
 
 Il principale punto di debolezza dei framework multipiattaforma riguarda l'integrazione con le feature particolari di ogni sistema, con questo si può pensare sia all'integrazione con i componenti software del sistema operativo, sia con l'hardware specializzato del sistema; 

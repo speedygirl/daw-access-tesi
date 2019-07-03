@@ -4,9 +4,18 @@ In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell
 Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 Se in una prima fase il lavoro si proponeva il limitarsi esclusivamente a Windows, si è poi preferito testare i programmi su entrambe le piattaforme per fornire un quadro più completo della situazione e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso; nelle modalità di ricevere i feedback; nell’ubicazione dei pulsanti nella GUI o nei menù.
 
+Si è scelto di utilizzare una scala di valori da 1 a 4 per indicare con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 completamente inutilizzabile.
+Livelli di accessibilità
+0 comando totalmente irraggiungibile dai comandi da tastiera, inoltre la sintesi vocale non riconosce la presenza del controllo in caso di interazione col mouse (nessuna interazione)
+1 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto non facilmente discriminabile utilizzando la sintesi vocale, però la sintesi vocale non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
+2 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale non dà feedback ma è possibile verificare l'efficacia del comando
+3 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale dà feedback ed è possibile verificare l'efficacia del comando
+4 il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno del contesto grafico e rende i riferimenti riguardo l'intera situazione del contesto.
+
+
 ### Perché testare con NVDA
 Si è scelto di usare la sintesi vocale NVDA (NonVisual Desktop Access) perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
-è risultata molto efficace nella fase di testing dei programmi in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di click con entrambi i tasti, o di scrool con l’apposita rotella. 
+è risultata molto efficace nella fase di testing dei programmi in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di clicc con entrambi i tasti, o di scrool con l’apposita rotella. 
 Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle operazioni o si riavvia in automatico (ossia senza specifico intervento dell’utente)
 
 ### Installazione dei programmi
@@ -19,7 +28,7 @@ Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle 
 -->
 
 ### Plug in
-All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità, scaricabili ai seguenti link, che sono  in grado di risolvere la gran parte dei problemi, ma non la totalità.
+All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità  che sono  in grado di risolvere la gran parte dei problemi, ma non la totalità.
 
 [Download SWS Extension](http://www.sws-extension.org/)
 [Cockos Inc] (https://www.cockos.com/index.php)
@@ -42,8 +51,7 @@ sarebbe opportuno, oltre al pregevole, dettagliato commento vocale, aggiungere a
 Nella porzione di schermo dedicata alle procedure è importante non tralasciare l’evidenziare in tempo reale gli elementi e i controlli di volta in volta usati con riquadri dai bordi spessi e con colori contrastanti rispetto allo sfondo. 
 Un esempio virtuoso è il canale di Valter Scarfia [] che, nello spiegare funzionalità in merito all’Iphone, applica quanto appena affermato.
 
-In Reaper per Windows
-Sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
+In Reaper per Windows sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
 
 Dall’esplorazione della GUI si sono subito “trovati” i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
 sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.

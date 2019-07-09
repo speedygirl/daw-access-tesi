@@ -31,10 +31,10 @@ già corretto: all'interno del testo: le strumentaziooni  erano elettromeccanich
  di equipe"
  <!-- equipe "in che senso?" -->
 - [x] letto e riassunto articolo conversazioone wa ale 13/1 nei mess importanti 
-- [ ] inserire riassunto dell'articolo del 13/1 (riguardante la storia dei sequencer da '50 a è90) nel capitolo più adatto 1 o 3?
+- [x] inserire riassunto dell'articolo del 13/1 (riguardante la storia dei sequencer da '50 a è90) nel capitolo più adatto 1 o 3?
 [ ] articolo conversazioone wa ale 13/1 nei mess importanti vedi bibliografia. 
 il sequencer è il pezzo della timeline che permette di comporre il MIDI oppure le automazioni dei parametri. 
-- [ ] transistor
+- [x] transistor
 
 ## paragrafo 1.2 storia atecnologie legate alla produzione audio
 - [x] riferimento: "individua tre stadi fondamentali di sviluppo" inserire autore che ha delineato 3 fasi.
@@ -81,7 +81,7 @@ appunti file word "Daw bozza ver 1.doc"
 - [x] salvare le foto contenute nel deoc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 3"
-- [ ] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
+- [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
   
 - [ ] Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
 
@@ -149,6 +149,13 @@ appunti file word "Daw bozza ver 1.doc"
   
 - [ ] Rifare foto come screenshot
 
+###tabelle di appendice
+- [x] reaper windows
+- [x] reaper mac (controllare alcuni comandi e aggiungere 2 righe per inserire queli posti a fine della sezione)
+- [ ] protools windows
+- [ ] protools mac
+- [ ] cubase windows
+- [ ] cubase mac
 
 ## modifiche da fare su [Ale](./Ale.md)
 - [ ] paragrafo sul controller esterno inserire esempi per i primi 2 tipi d controller
@@ -160,3 +167,6 @@ appunti file word "Daw bozza ver 1.doc"
 ## Linee guida markdown
   - Le cose evidenziate in giallo sono marcate con il doppio asterisco \*\*
   - Le cose evidenziate in blue sono marcate con il triplo backtick \`\`\` 
+
+
+

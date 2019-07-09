@@ -293,15 +293,21 @@ I principali sistemi di compressione che riesca a mantenere il più felemente po
 Lossless comprime le informaziooni legate al segnale audio senza togliere informazioni e si decomprime durante l'la riproduzione, riducendo non oltre la metà le dimensioni del file.Sono lossless: MLP, FLAC, MPAC.
 Lossy, al contrario,  può ridurre molto la dimensione perdendo di qualità.L'l?MP3 è in realtà il frmato MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
 In questo formato il segnale viene suddiviso in **frame** indipendenti composti  576 campion in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.
-L'MP3 viene generato dall'enconder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale: nei frame il segnale è rappresentato appunto dallo spettro dell'onda usando la FFT (Fast Furièr Transformation). Spettro che viene poi analizzato per la restituzione della soglia di udibilità sfruttando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità RSMR e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevvi vengono cancellati per evitare ridondanze).i
-Lo spetttro ottenuto viene analizzaato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit conforme al grado di pedrcettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa e far risultare il rumore di quantizzazione al di sotto della soglia di udibilità così da nonn "inquinare " il segnale.
+L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato appunto dallo spettro dell'onda usando la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
+Lo spetttro ottenuto viene analizzaato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa e far risultare il rumore di quantizzazione al di sotto della soglia di udibilità così da nonn "inquinare " il segnale.
+Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (singol channel), dual channel, stereo, surround.
 
-bitrate
-- fisso - tutti i frame del file hanno un valore prestabilito. cosa che permette di definire aprioristicamente la dimensione del file.
-- variabile - ogni frame ha un bitrate proporzionato alle info che contiene. l'utente può scegliere quello massimo e minimo entro cui operare, però non può stabilire la dimensione del file a priori.
-- medio o average - è una variante del variabile: l'utente definisce il bitrate medio così da poter scegliere a priori la dimensione el file, l'encoder quindi adotta una codifica a itrate variabile senza eccedere i limiti.
+Il bitrate può essere fisso
+- fisso: tutti i frame del file hanno un valore prestabilito: scegliendo, tra quelli in tabell , il valore più adatto al tipo di lavoro che si intende fare, si può sapere apriori la dimensione del file.
+<>-- inserire tabella pag 13 avventure di un equalizzatore non lineare" -->
 
-bit reservoir - dà una maggiore qualità ma ha lo svantaggio di rendere interdipendenti i bit in quanto, ridistribuisce i bit da un frame all'altro secondo l'"importanza" del frame stesso: dove ne servono di meno, quelli in eccesso vengono impiegati.
+- variabile: ogni frame ha un bitrate proporzionato alle informazioni che contiene. l'utente può scegliere quello massimo e minimo entro cui operare, però non può stabilire la dimensione del file a priori.
+- medio o average, è una variante del precedente: l'utente definisce il bitrate medio così da poter scegliere a priori la dimensione del file, l'encoder quindi adotta una codifica a bitrate variabile senza eccedere i limiti.
+ free format: non supportato da alcuni deccoder, bitrate diverso da quelli in tabella, ma deve rimanere costante e non superare i 320 kbs. 
+
+La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame in quanto, ridistribuisce i bit che riesce a risparmiare da un frame, a un altro che ha maggiori necessità. Non deve essere utilizzato per MP3 destinati alo streaming.
+<!-- inserire schema p 17 "MPEG audio tutorial" Giancarlo Vercellesi-->
+
 alla fine del file mp3 vi sono i metadata come autore e titolo e sono detti tag riferiti allo standard id1, proprio perchè non tutti i decoder li riuscivano a riconoscere, sebbene ora c'è lo standard id3 e i decoder sono uniformati.
 
 mpeg 2 layer 3 advance audio coding aac - implemetnato nel file mpeg 4 o mp3, aac o ac3.

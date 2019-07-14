@@ -4,7 +4,7 @@ In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell
 Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 Se in una prima fase il lavoro si proponeva il limitarsi esclusivamente a Windows, si è poi preferito testare i programmi su entrambe le piattaforme per fornire un quadro più completo della situazione e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso; nelle modalità di ricevere i feedback; nell’ubicazione dei pulsanti nella GUI o nei menù.
 
-Si è scelto di utilizzare una scala di valori da 1 a 4 per indicare con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 completamente inutilizzabile.
+Si è scelto di utilizzare una scala di valori da 0 a 4 per indicare con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 completamente inutilizzabile.
 Livelli di accessibilità
 0 comando totalmente irraggiungibile dai comandi da tastiera, inoltre la sintesi vocale non riconosce la presenza del controllo in caso di interazione col mouse (nessuna interazione)
 1 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto non facilmente discriminabile utilizzando la sintesi vocale, però la sintesi vocale non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
@@ -169,7 +169,7 @@ Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per in
 
 ### Pro Tools per Windows
 Il programma è totalmente accessibile in fase di downloaod e di installazione, ma non lo è affatto una volta aperto, infatti   frequentemente accade che Pro Tools si bloccchi in fase di apertura, se è contemporaneamente attivo NVDA.  
-Si è reso necessario testare il programma usando una scheda audio per separare l'l'output audio della sintesi vocale da quello delle tracce, altrimenti accadeva che il programma si appropriava dell'output audio della scheda del computer. Inoltre si è dovuto risolvere il rpblema che Pro Tools modificava il comportamento del focus, diventando di difficile gestione quindi si è dovuto leggermente modificare le impostazioni di NVDA.
+Si è reso necessario testare il programma usando una scheda audio esterna per separare l'output audio della sintesi vocale da quello delle tracce, altrimenti accadeva che il programma si appropriava dell'output audio della scheda integrata del computer. Inoltre si è dovuto risolvere il problema che Pro Tools modificava il comportamento del focus, diventando di difficile gestione quindi si è dovuto leggermente modificare le impostazioni di NVDA.
  
 non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
 La finestra delle impostazioni della scehda audio è inaccessibile da tastiera ma lo è completamente col mouse.
@@ -180,7 +180,7 @@ L'unica modalità trovata per aprire il progeto è usando la shortcut "Control+S
 
 ![Screenshot Tipo progetto](./images/windows-protools-1-tipo-progetto.png)
 
-Raggiungendo il menù “File” e selezionando “Open project” si è aperto il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create” dwlla parte sinistra, mentre la parte sinistra in basso e i pulsanti “Create Session”, Cancel, “Open” posti nella parte destra in basso sono del tutto irraggiungibili., Tale finestra, come quella precedentemente analizzata, non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
+Raggiungendo il menù “File” e selezionando “Open project” si è aperto il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create” della parte sinistra in alto, mentre la parte sinistra in basso e i pulsanti “Create Session”, Cancel, “Open” posti nella parte destra in basso sono del tutto irraggiungibili., Tale finestra, come quella precedentemente analizzata, non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
 Anche questo pannello, come il precedente, è stato testato usando i comandi di navigazione propri di Windows: tasto TAB, Control+Tab, F&,
 Tentando innumerevoli combinazioni di tasti si è arrivati a scoprire la shortcut Control+Shift+O che ha permesso di emulare la funzione del tasto “Open” altrimenti irraggiungibile.
 
@@ -338,7 +338,7 @@ Nel menù “Options” si trovano gli items seguenti:
 Il menù “Window” contiene le seguenti funzioni:
 * Arrange
 * Hide All Floating Windows (Ctrl+Alt+Start+W)
-* Close Windo (Ctrl+W)
+* Close Window (Ctrl+W)
 * Mix (Ctrl+=)
 * Task Manager (Alt+')
 * Soundbase (Alt+Start+I)
@@ -369,19 +369,19 @@ Il menù contestuale relativo alla traccia consente di adoprare le seguenti funz
 
 ![Screenshot Menu Contestuale Traccia](./images/windows-protools-16-menu-contestuale-traccia.png)
 
-La funzionalità “Meter change” non è accessibile: i field sono focalizzabili ma non viene dato un feedback vocale dalla sintesi quando ci si sposta tra l’uno e l’altro col tasto TAB ed è anche impossibile raggiungere i pulsanti sottostanti. I pulsanti, a differenza dei field, non sono focalizzabili dalla sintesi impiegando la tastiera.
+La funzionalità “Meter change” non è accessibile: i field sono focalizzabili ma non viene dato un feedback vocale dalla sintesi quando ci si sposta tra l’uno e l’altro col tasto TAB ed è anche impossibile raggiungere i pulsanti sottostanti. I pulsanti, a differenza dei field, non sono focalizzabili dalla sintesi impiegando la tastiera ma solo usando il mouse.
 
 In questo contesto l’unica finestra leggibile è quella d’errore, letta correttamente, eccetto il fatto che non viene segnalata dalla sintesi la presenza del button  di conferma.
 
 ![Screenshot Meter Change Error](./images/windows-protools-17-meter-change-error.png)
 
 Il pannello “Strip silence” è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
-Un altro esempio di questa tipologia di interazioneè la finesstra  "Asio control panel", di cui NVDA legge solo l'heading,. Già che si è analizzato questo pannello, si è testato anche il drop down menù  per l'impostazioone del bffer.
+Un altro esempio di questa tipologia di interazioneè la finesstra  "Asio control panel", di cui NVDA legge solo l'heading,. Già che si è analizzato questo pannello, si è testato anche il drop down menù  per l'impostazioone del buffer.
 ![Asio control panel e impostazioni dimensioni buffer](./windows-pro-tools-asio-control-panel-2i2-25.jpeg)
 
 ![Screenshot Strip Silence](./images/windows-protools-18-strip-silence.png)
 
-<!-- CHIEDERE A BONTEMPI A COSA SERVE STRIP SILENCE -->
+<!-- IN ATTESA DI RISPOSTA DA BONTEMPI A COSA SERVE STRIP SILENCE (MAIL MANDATA 14 LUGLIO 19) -->
 
 Questo pannello è stato aperto usando il mouse. Di questo pop-up NVDA vocalizza “Transport MIDI editor location” ; “MIDI editor quantize real time properties”; “Add new memory location”; “playback engine”; “artist community” “Market place”  etc… Tag che non hanno senso se isolati dal contesto, ossia se la sintesi non elenca  quali possibilità di interazione esistono con questi controlli e di che tipologia sono.
 

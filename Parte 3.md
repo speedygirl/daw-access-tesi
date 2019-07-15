@@ -417,14 +417,15 @@ Per mezzo della scheda audio interna al computer è stata gestita la sintesi voc
 RIPARTIRE D QUI E INSERIER PLAYBACK ENGINE 
 I controlli "Play", "Stop" e "Rewind", attivabili col tasto Spazio, sono raggiungibili coi consueti comandi di navigazione tipici del sistema operativo Mac e sono situati o sui pannelli relativi alle singole tracce o nella barra superiore. Tale barra è molto funzionale perché gli elementi ivi contenuti sono raggruppati per funzionalità, quindi scorrendo con le frecce destra e sinistra si capisce come sono distribuiti i gruppi e con le rimanenti due si entra all’interno di ogni gruppo. Ciò rende più intuitiva la navigazione e Pro Tools è l’unico programma, tra i tre analizzati, ad avere questa caratteristica.
 Con la combinazione di tasti Capslock+Freccia destra/sinistra si sposta il focus tra le tracce, VoiceOver annuncia il nome della traccia ma non fornisce il riferimento spaziale di dove essa sia collocata, non dice ad esempio “1 di 5 tracce”, cosa che aiuterebbe a orientarsi nel caso di un numero elevato di elementi.
-Da come è ideata la struttura della GUI si può intuire che il programma è progettato per gestire un numero molto elevato di tracce, pertanto ci si  aspettavo vi fossero agevolazioni in questo senso anche sul versante accessibilità.
-```SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a casalino```    
+Da come è ideata la struttura della GUI si può intuire che il programma è progettato per gestire un numero molto elevato di tracce, pertanto ci si aspettava vi fossero agevolazioni in questo senso anche sul versante accessibilità.
+
+<!-- SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesa a casalino -->
 
 #### NAVIGAZIONE DELLE TRACCE
 Per inserire i marker è necessario portare il cursore sul tasto “marker” e premere il tasto “+” ………………
 In alternativa si può premere sul pulsante “Add new memory location”
 
-La gestione del Mixer, al contrario di altre DAW precedentemente trattate, è accessibile. E' stato possibile effettuare sia un’analisi sia impiegando la tastiera che il mouse ma, sorprendentemente , a differenza delle altre DAW analizzate, funziona  assai meglio da tastiera che col mouse. Ciò accade in quanto usando mouse si verificano spesso dei delay tra quando si  posiziona il cursore sul pulsante e il momento in cui la sintesi vocale reagisce.
+La gestione del Mixer, al contrario di altre DAW precedentemente trattate, è accessibile. E' stato possibile effettuare sia un’analisi sia impiegando la tastiera che il mouse ma, sorprendentemente, a differenza delle altre DAW analizzate, funziona  assai meglio da tastiera che col mouse. Ciò accade in quanto usando mouse si verificano spesso dei delay tra quando si  posiziona il cursore sul pulsante e il momento in cui la sintesi vocale reagisce.
 Tramite la tastiera è possibile accedere a tutti i controlli, che verranno elencati e mostrati nello screenshot più innanzi.
 Il mixer è caratterizzato da un elevato livello di accessibilità: ogni controllo, ogni slider funziona ed è facilmente intercettabile; ogni traccia è gestibile completamente dal mixer software, senza necessità di impiegare un ardware esterno.
 Il mixer permette di scegliere quali sezioni visualizzare a schermo, nel caso si abbia da gestire un gran numero di tracce.
@@ -447,7 +448,7 @@ Track record enable
 Solo
 mute
 
-La quantità di Db del volume si regola entrando co con la combinazione di tasti Shift+Capslock+Freccia giù, nello slider e poi si regola il volume fader usando le frecce: frecce destra per alzare e sinistra per abbassare.
+La quantità di Db del volume si regola entrando con la combinazione di tasti Shift+Capslock+Freccia giù, nello slider e poi si regola il volume fader usando le frecce: frecce destra per alzare e sinistra per abbassare.
 
 Level meter
 
@@ -462,7 +463,7 @@ Finestra "Plugin time adjuster"
 
 La funzione "Parameter" è regolabile dallo slider  VoiceOVer dice di quanto i decibel aumentano e fornisce  sempre suggerimenti su come iniziare o intterrompere l’interazione con il cursore o con il pulsante.
 
-I 4 slider: i 2 grigi e i due verdi non sono accessibili da tastiera: il focus non vi si ferma, venegono ignorati. Si è tentato quindi di raggiungere i 4 slider usando il mouse, ma ancora una volta senza successo alcuno.
+I 4 slider: i 2 grigi e i due verdi non sono accessibili da tastiera: il focus non vi si ferma, vengono ignorati. Si è tentato quindi di raggiungere i 4 slider usando il mouse, ma ancora una volta senza successo alcuno.
 In generale tutta la finestra al mouse è poco reattiva, il focus si sposta con un certo delay
 
 Anche il menù nel quale sono contenuti gli items "Multichannel plugin", "Mono channel plugin" finestra dei Menù relativo alla traccia VoiceOver annuncia “contenuto vuoto, ti trovi in un menù item”. 
@@ -473,12 +474,12 @@ Nella barra dei menù è possibile raggiungere il mixer (sopra esposto), che è 
 
 #### Comandi editazione traccia
 
-Copia taglia incolla accessibili da menù e da shortcut con cmd+c, Cmd+X, Cmd+v 
-Mute solo ecc.. raggiungibili dal mixer , da controlli su traccia e da menù edit; insieme a undo e redo; select all cmd+a e duplicate cmd+d; repeato option+r
-Il menù contestuale “meter change” è accessibile sia se sei ìììi fa clic sulla timeline della traccia, sia se si fa clic sul pannello sovrastante le tracce. 
+Copia taglia incolla accessibili da menù e da shortcut con cmd+C, Cmd+X, Cmd+V 
+Mute solo ecc.. raggiungibili dal mixer , da controlli su traccia e da menù edit; insieme a undo e redo; select all cmd+a e duplicate cmd+d; repeat option+r
+Il menù contestuale “meter change” è accessibile sia se si fa clic sulla timeline della traccia, sia se si fa clic sul pannello sovrastante le tracce. 
 
 Repeat Alt+R (editazione nella finestra del numero di ripetizioni)
-Maiusc+I import importare traccia apre una comune finestra lale cartelle del sistema.
+Maiusc+I import importare traccia apre una comune finestra alle cartelle del sistema.
 Export – menù file voce export, (varie possibilità di esportazione nel relativo sottomenù della voce export)
 La query di ricerca funziona annastanza, dà suggerimenti ma non su tutte le funzioni, cursore inserito automaticamente nel campo editazione, con feeedback sonoro per fare capire l’avvenuto inserimento.
 

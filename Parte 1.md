@@ -308,10 +308,14 @@ Il bitrate può essere fisso
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame in quanto, ridistribuisce i bit che riesce a risparmiare da un frame, a un altro che ha maggiori necessità. Non deve essere utilizzato per MP3 destinati alo streaming.
 <!-- inserire schema p 17 "MPEG audio tutorial" Giancarlo Vercellesi-->
 
-alla fine del file mp3 vi sono i metadata come autore e titolo e sono detti tag riferiti allo standard id1, proprio perchè non tutti i decoder li riuscivano a riconoscere, sebbene ora c'è lo standard id3 e i decoder sono uniformati.
+I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamete.
+AAC (Advanced Audio Coding) deriva dall'MPEG-2 Layer 3 di cui migliora la qualità correggendone i difetti. Questo standard è attualmente molto diffuso e supportato dai più comuni lettori MP3.
+Giorgio Presti in "Le avventure di un quantizzatore non lineare" pp. 16-17 fa alcune considerazioni, derivate dalla sua esperienza, consigliando la via per evitare alcuni errori comuni. Elenco alcuni di questi utili consigli.
+Non è possibile migliorare la qualità di un file audio MP3 convertendolo in WAV, in quanto non è in nessun modo possibile recuperare i dati persi dalla compressione.
+E' bene mantenere sempre la frequenza di campionamento utilizzata dai media su cui si scrivono i dati, cioè CD a 44.1 khz, DVD video 48 khz: infatti sia l'eventuale innalzamento della frequenza di campionamento che l'abbasamento, introducono artificiosità senza migliorare la qualità del prodotto finale. 
+Meglio lavorare a 24 bit anzichè 32 in quanto appesantirebbe eccessivamente la CPU senza apportare miglioramenti percepibili.
+<!-- leggere da p 17 e riassumere -->
 
-mpeg 2 layer 3 advance audio coding aac - implemetnato nel file mpeg 4 o mp3, aac o ac3.
-l'aac è superiore a mp3 perchè serve a correggerne i difetti dell'mp3.
 
 
 L'avvento di internet ha segnato "la fine" della fonografia.

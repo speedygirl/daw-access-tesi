@@ -152,8 +152,8 @@ appunti file word "Daw bozza ver 1.doc"
 ###tabelle di appendice
 - [x] reaper windows
 - [x] reaper mac (controllare alcuni comandi e aggiungere 2 righe per inserire queli posti a fine della sezione)
-- [ ] protools windows
-- [ ] protools mac
+- [x] protools windows
+- [x] protools mac
 - [ ] cubase windows
 - [ ] cubase mac
 

@@ -481,18 +481,18 @@ Il menù contestuale “meter change” è accessibile sia se si fa clic sulla t
 Repeat Alt+R (editazione nella finestra del numero di ripetizioni)
 Maiusc+I import importare traccia apre una comune finestra alle cartelle del sistema.
 Export – menù file voce export, (varie possibilità di esportazione nel relativo sottomenù della voce export)
-La query di ricerca funziona annastanza, dà suggerimenti ma non su tutte le funzioni, cursore inserito automaticamente nel campo editazione, con feeedback sonoro per fare capire l’avvenuto inserimento.
+La query di ricerca funziona abbastanza, dà suggerimenti ma non su tutte le funzioni, cursore inserito automaticamente nel campo editazione, con feeedback sonoro per fare capire l’avvenuto inserimento.
 
-Nel gruppo “midi control claster” il button “metronome” è accessibile sia da mouse che da tastiera solo che da tastiera è solo possibile attivarlo e disattivarlo mentre col doppio clic del mouse è possibile aprire la finestra con le varie impostazioni (se avviarlo solo in registrazione o il tipo di accentazione ec… la finestra è altamente accessibile...
+Nel gruppo “midi control claster” il button “metronome” è accessibile sia da mouse che da tastiera solo che da tastiera è solo possibile attivarlo e disattivarlo mentre col doppio clic del mouse è possibile aprire la finestra con le varie impostazioni (se avviarlo solo in registrazione o il tipo di accentazione ecc… la finestra è altamente accessibile...
 
-I controlli sopra analizzati nel caso del mixer, record, mute, solo, track imput monitor, sono presenti anche nei controlli delle tracce , quelli posti su ogni singola traccia che si incontrano nella main windows.
+I controlli sopra analizzati nel caso del mixer, record, mute, solo, track imput monitor, sono presenti anche nei controlli delle tracce, quelli posti su ogni singola traccia che si incontrano nella main windows.
 
 Cmd+shift+N creare nuova traccia
 Cmd+shift+spazio o F12 creare nuova traccia
 
 Cancella traccia Menù track; oppure delete
 
-Il pan o panning è la distribuzione del segnale sonoro tra canale destro e sinistro. Il maggiore o minore spostamento del segnale sonoro nel panorama stereofonico è solitamente indicato da valori percentuali e a livello grafico è rappresentato o da una figura circolare o da uno slider. L’indice di pan si raggiunge dal mixer ed è regolabile, sull’apposito potenziometro , avviando l’interazione con shift+capslock+freccia giù o su e regolandolo con le frecce destra e sinistra.
+Il pan o panning è la distribuzione del segnale sonoro tra canale destro e sinistro. Il maggiore o minore spostamento del segnale sonoro nel panorama stereofonico è solitamente indicato da valori percentuali e a livello grafico è rappresentato o da una figura circolare o da uno slider. L’indice di pan si raggiunge dal mixer ed è regolabile, sull’apposito potenziometro, avviando l’interazione con shift+capslock+freccia giù o su e regolandolo con le frecce destra e sinistra.
 
 Si noti che potenziometro è un termine più adatto in un contesto analogico, in ambito virtuale è un semplice controllo, che però è riscontrabile nelle interfacce atte a emulare la realtà, scopo delle DAW.
 

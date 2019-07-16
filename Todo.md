@@ -156,7 +156,8 @@ appunti file word "Daw bozza ver 1.doc"
 - [x] protools mac
 - [ ] cubase windows
 - [ ] cubase mac
-
+ mandata tabella a bontempi per integrare i comandinon presenti nella tabella del suo libro.
+ 
 ## modifiche da fare su [Ale](./Ale.md)
 - [ ] paragrafo sul controller esterno inserire esempi per i primi 2 tipi d controller
 - [ ]   

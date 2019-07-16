@@ -285,7 +285,6 @@ Alla fine dello stesso anno il gruppo Matsushita presentava la versione audio de
 Poco dopo la ricerca di audio ad alta risoluzione da parte di Sony e Philips produsse il SACD (Super Audio CD), completamente nuovo nel processo di registrazione a flusso digitale diretto (DSD), che dava un risultato molto più dettagliato e vicino al reale, e non costringeva l'utente a possedere un convertitore digitale/analogico ad esso dedicato per essere riprodotto. Il SACD poteva essere letto sia da un qualsiasi lettore CD in bassa risoluzione, oppure in alta definizione da chi possedeva il lettore adatto.
 La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entrambi furono soppiantati dal dilagare del formato Mp3 cui si accennerà in seguito. Il DVD audio scomparve, anche a causa della necessità di acquistare il lettore specifico per l'ascolto; il SACD, confinato nell'ambito degli amatori dell'alta definizione, divide con il vinile le registrazioni storiche di alta qualità, ripubblicate per questo mercato di nicchia.
 
-#### 1.1.3.3 INTERNET
 
 <!-- riquadro a parte con concetto di formati loosy e loosness -->
 ##formati lossy e lossless
@@ -314,10 +313,13 @@ Giorgio Presti in "Le avventure di un quantizzatore non lineare" pp. 16-17 fa al
 Non è possibile migliorare la qualità di un file audio MP3 convertendolo in WAV, in quanto non è in nessun modo possibile recuperare i dati persi dalla compressione.
 E' bene mantenere sempre la frequenza di campionamento utilizzata dai media su cui si scrivono i dati, cioè CD a 44.1 khz, DVD video 48 khz: infatti sia l'eventuale innalzamento della frequenza di campionamento che l'abbasamento, introducono artificiosità senza migliorare la qualità del prodotto finale. 
 Meglio lavorare a 24 bit anzichè 32 in quanto appesantirebbe eccessivamente la CPU senza apportare miglioramenti percepibili.
-<!-- leggere da p 17 e riassumere -->
+E' inevitabile che il campionamento di un segnale porti aun degrado dell'informazione, tuttavia , dice Presti, i danni più significativi non sono riferibili al compionamento in sè, ma alla scarsa qualità dei convertitori (DAC e ADC) in commercio. Il consiglio è quindi quello di acquistare sempre dispositivi con buon range dinamico, un buon rapporto segnale/rumore (s/n ratio) e un basso livello di distorsione (THD). Il range dinamico aumenta di circa 6dB per ogni bit, dunque una scheda a 16 bit dovrà avere un range dinamico intorno a 96dB e via di seguito moltiplicando per 6.  
+Dato che ogni convertitore, secondo gli algoritmi utilizzati per convertire il segnale, imprime un'impronta caratteristica, è bene provarli e ascoltarli prima per scegliere il colore del suono che si preferisce. Questo è il otivo per cui spesso si trovano negli studi professionali dei convertitori separati dalle schede audio.
+L'udito umano percepisce tra i 20 e i 20000 Hz, le frequeze più basse sono però percepite col tatto mentre non è dimostrato scientificamente che non ci sia alcuna percezione delle frequenze superiori. Su CD audio non è possibile registrare ultrasuoni, cosa possibile invece per i DVD audio; pochissimi dispositivi possono riprodurre frequenze al di sotto dei 15 Hz, non a causa dei convertitori ma della componentistica interna dei diffusori e dell'ambiente d'ascolto. E' importante quindi valutare le frequenze di riproducibilità di un impianto, anche sulla bbase di queste considerazioni.   
+Relativamente alla dinamica il CD, sviluppato proprio per sopperire alla scarsa gamma dinamica del vinile, pagando però con una perdita di fedeltà, viene spesso inciso comprimendo in fase di mastering per aumentare la dimensione e la percezione di qualità, a scapito della stessa dinamica.
+Uno strumento non è mai neutro ma è un mezzo che influenza l'opera, per questo motivo un supporto non sarà migliore degli altri in assoluto ma scelto perchè più rispondente alle esigenze.
 
-
-
+#### 1.1.3.3 INTERNET
 L'avvento di internet ha segnato "la fine" della fonografia.
 L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte, consentendo una rapidissima diffusione della grafica in ambito digitale. Per i dati audio ci vollero tempi più lunghi, in quanto nei formati compressi si perdeva la qualità del suono. A metà degli anni '90 una soluzione fu trovata dall'equipe di Karlheinz Brandenburg che, studiando il protocollo MPEG, utilizzato in ambito cinematografico per la codifica e sincronizzazione dei contenuti audio-video in formati compressi, individuò un algoritmo di compressione che consentiva un risultato di buona qualità. Questo nuovo formato, noto con l'acronimo MP3, si diffuse in maniera rapidissima determinando due fondamentali e imprevedibili novità: la riproduzione del suono perdeva la sua fisicità; si potevano condividere i file mp3 con estrema facilità, in maniera gratuita e in totale violazione del copyright.
 

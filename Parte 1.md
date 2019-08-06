@@ -305,7 +305,9 @@ Il bitrate può essere fisso
  free format: non supportato da alcuni deccoder, bitrate diverso da quelli in tabella, ma deve rimanere costante e non superare i 320 kbs. 
 
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame in quanto, ridistribuisce i bit che riesce a risparmiare da un frame, a un altro che ha maggiori necessità. Non deve essere utilizzato per MP3 destinati alo streaming.
-<!-- inserire schema p 17 "MPEG audio tutorial" Giancarlo Vercellesi-->
+![(.\images\generic\mpeg-audio-tutorial-vercellesi-p-17.jpg)
+
+"MPEG audio tutorial" p. 17 Giancarlo Vercellesi
 
 I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamete.
 AAC (Advanced Audio Coding) deriva dall'MPEG-2 Layer 3 di cui migliora la qualità correggendone i difetti. Questo standard è attualmente molto diffuso e supportato dai più comuni lettori MP3.

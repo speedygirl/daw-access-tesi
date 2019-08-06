@@ -42,3 +42,6 @@
 [^immagine-dat]: link consultato 30 aprile 2019 tratto da collezione privata
 [^massimiliano-salfi]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
 [^immagine-grafofono]: Immagine fonografo link consultato 30 aprile 2019 ebay.com
+
+Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005
+[^schema-bitrate-p17]: p 17

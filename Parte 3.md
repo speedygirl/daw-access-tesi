@@ -359,7 +359,7 @@ Il seguente raggruppamento di controlli è stato testato usando il tracking del 
 
 Il seguente raggruppamento di controlli è stato testato usando il tracking del mouse. In questa sezione i controlli non vengono individuati; però i relativi menù contestuali vengono letti correttamente. 
 
-![Screenshot Normal Loop QuickPunch](./images/windows-protools-14-normal-loop-quickpunch.png)
+![Screenshot Normal Loop QuickPunch](.\images\protools-windows-images\windows-protools-14-normal-loop-quickpunch.png)
 
 Usando il tasto TAB si è raggiunta la sezione per rinominare le tracce. È sufficiente entrare nel campo editazione e digitare il testo, per confermare premere Invio. Non è quindi richiesta, come in altre DAW, la pressione del tasto F2.
 
@@ -367,7 +367,7 @@ Usando il tasto TAB si è raggiunta la sezione per rinominare le tracce. È suff
 
 Il menù contestuale relativo alla traccia consente di adoprare le seguenti funzioni, come si vede nello screenshot, ma si è deciso di soffermarsi sulla funzione “Meter change”. Essa è raggiungibile selezionando la voce “Insert” e successivamente, dal suo sottomenù, “Meter change”.
 
-![Screenshot Menu Contestuale Traccia](./images/windows-protools-16-menu-contestuale-traccia.png)
+![Screenshot Menu Contestuale Traccia](.\images\protools-windows-images\windows-protools-16-menu-contestuale-traccia.png)
 
 La funzionalità “Meter change” non è accessibile: i field sono focalizzabili ma non viene dato un feedback vocale dalla sintesi quando ci si sposta tra l’uno e l’altro col tasto TAB ed è anche impossibile raggiungere i pulsanti sottostanti. I pulsanti, a differenza dei field, non sono focalizzabili dalla sintesi impiegando la tastiera ma solo usando il mouse.
 

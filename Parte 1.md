@@ -247,7 +247,9 @@ Nel 1979 la Sony introdusse nel mercato il *walkman*, per le musicassette. Legge
 
 La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliare il panorama stereofonico, rendendo possibile un ascolto a 360 gradi. Nel tentativo di ricreare la sensazione di ambiente, oltre ai canali stereo che mandavano le informazioni principali, venivano utilizzati altri due canali che trasmettevano le informazioni captate da microfoni, messi in posizione posteriore, durante la registrazione: in questo modo l'ascoltatore era completamente avvolto da una musica di altissima qualità. Il costo e la scomodità di questo sistema, che presupponeva ampi spazi per collocare quattro diffusori, due davanti e due dietro l'ascoltatore, non ne permisero la diffusione di massa e la quadrifonia rimase confinata alla nicchia degli audiofili appassionati oppure utilizzata in ambito cinematografico. Questo insuccesso, insieme al drastico calo delle vendite dei dischi, fu drammatico per le case discografiche che avevano puntato su questa novità con grandi investimenti.
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
-<!-- inserire scansione disco quadrifonico nonno Bontempi -->
+![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-1.jpg)
+![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-2.jpg)
+
 
 ### 1.1.3 REGISTRAZIONE DIGITALE
 
@@ -298,7 +300,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 
 Il bitrate può essere fisso
 - fisso: tutti i frame del file hanno un valore prestabilito: scegliendo, tra quelli in tabell , il valore più adatto al tipo di lavoro che si intende fare, si può sapere apriori la dimensione del file.
-![](.\images\generic\presti-avventure-equalizzatore-p-13d
+![](.\images\generic\presti-avventure-equalizzatore-p-13)
 
 [^presti-schema-valori-bitrate-p13]: p 13
 

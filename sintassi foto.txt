@@ -1,1 +1,1 @@
-![(.\images\generic\.jpg)
+![](.\images\generic\.jpg)

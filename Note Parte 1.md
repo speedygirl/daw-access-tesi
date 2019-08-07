@@ -44,7 +44,7 @@
 [^immagine-grafofono]: Immagine fonografo link consultato 30 aprile 2019 ebay.com
 
 Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008
-[*presti-schema-valori-bitrate-p13]: p 13
+[^presti-schema-valori-bitrate-p13]: p 13
 
 Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005
 [^schema-bitrate-p17]: p 17

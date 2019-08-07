@@ -178,16 +178,16 @@ L’unico modo quindi per raggiungere il progetto desiderato è editarne il nome
 I controlli laterali “Open” e “Create” non vengono citati da NVDA e non è possibile spostarvi il focus mediante tastiera, così come avviene anche per i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
 L'unica modalità trovata per aprire il progeto è usando la shortcut "Control+Shift+O".
 
-![Screenshot Tipo progetto](./images/windows-protools-1-tipo-progetto.png)
+![Screenshot Tipo progetto](.\images\protools-windows-images\windows-protools-1-tipo-progetto.png)
 
 Raggiungendo il menù “File” e selezionando “Open project” si è aperto il seguente pannello in cui gli elementi sono focalizzabili con le frecce solo nella parte destra coi controlli “Open” e “Create” della parte sinistra in alto, mentre la parte sinistra in basso e i pulsanti “Create Session”, Cancel, “Open” posti nella parte destra in basso sono del tutto irraggiungibili., Tale finestra, come quella precedentemente analizzata, non è utilizzabile autonomamente in quanto non viene pronunciato nulla dalla sintesi.
 Anche questo pannello, come il precedente, è stato testato usando i comandi di navigazione propri di Windows: tasto TAB, Control+Tab, F&,
 Tentando innumerevoli combinazioni di tasti si è arrivati a scoprire la shortcut Control+Shift+O che ha permesso di emulare la funzione del tasto “Open” altrimenti irraggiungibile.
 
-![Screenshot Apertura progetto](./images/windows-protools-2-apertura-progetto.png)
+![Screenshot Apertura progetto](.\images/protools-windows-images\windows-protools-2-apertura-progetto.png)
 
 Il pannello “session note” è raggiungibile impiegando il mouse, ma NVDA legge soltanto l’intestazione del pannello e non i contenuti all’interno del body.
-![Screenshot pannello session note](./windows-protools-session-note22.jpeg)
+![Screenshot pannello session note](.\images\protools-windows-images\windows-protools-session-note22.jpeg)
 
 Essendo che sono basati sulle APIs del sistema operativo, tutti i menù della menù bar sono perfettamente fruibili.
 Il menù “File” contiene le seguenti opzioni:
@@ -202,7 +202,7 @@ Il menù “File” contiene le seguenti opzioni:
 * Export
 * Exit (Ctrl+Q)
 
-![Screenshot Menu File](./images/windows-protools-3-menu-file.png)
+![Screenshot Menu File](.\images\protools-windows-images\windows-protools-3-menu-file.png)
 
 Il menù “Edit” contiene le seguenti funzionalità:
 * Undo (Ctrl+Z)
@@ -223,7 +223,7 @@ Il menù “Edit” contiene le seguenti funzionalità:
 * Consolidate (Alt+Shift+3)
 * Strip Silence (Ctrl+U)
 
-![Screenshot Menu Edit](./images/windows-protools-4-menu-edit.png)
+![Screenshot Menu Edit](.\images\protools-windows-images\windows-protools-4-menu-edit.png)
 
 Il menù “View” contiene i seguenti items:
 * Mix Window Views
@@ -239,7 +239,7 @@ Il menù “View” contiene i seguenti items:
 * Edit WIndow Views
 * MIDI Edior (Start+=)
 
-![Screenshot Menu View](./images/windows-protools-5-menu-view.png)
+![Screenshot Menu View](.\images\protools-windows-images\windows-protools-5-menu-view.png)
 
 Il menù “Tracks” contiene le seguenti funzionalità:
 
@@ -254,7 +254,7 @@ Il menù “Tracks” contiene le seguenti funzionalità:
 * Clear All Clip Indicators (Alt+C)
 * Create Click Track
 
-![Screenshot Menu Track](./images/windows-protools-6-menu-track.png)
+![Screenshot Menu Track](.\images\protools-windows-images\windows-protools-6-menu-track.png)
 
 Il menù “Clip” contiene i seguenti items:
 * Send to Back (Alt+Shift+B)
@@ -271,7 +271,7 @@ Il menù “Clip” contiene i seguenti items:
 * Remove Warp
 * Remove Pitch Shift
 
-![Screenshot Menu Clip](./images/windows-protools-7-menu-clip.png)
+![Screenshot Menu Clip](.\images\protools-windows-images\windows-protools-7-menu-clip.png)
 
 Nel Menù “Event” si trovano le seguenti opzioni:
 
@@ -290,7 +290,7 @@ Nel Menù “Event” si trovano le seguenti opzioni:
 * All MIDI Notes Off (Ctrl+Shift+.)
 * Retrospective Record (Alt+Shift+Z)
 
-![Screenshot Menu Event](./images/windows-protools-8-menu-event.png)
+![Screenshot Menu Event](.\images\protools-windows-images\windows-protools-8-menu-event.png)
 
 Nel menù “Audio suite” si trovano le funzionalità seguenti:
 * EQ
@@ -308,7 +308,7 @@ Nel menù “Audio suite” si trovano le funzionalità seguenti:
 	* Signal Generator
 	* Time Compression Expansion
 
-![Screenshot Menu AudioSuite](./images/windows-protools-9-menu-audiosuite.png)
+![Screenshot Menu AudioSuite](.\images\protools-windows-images\windows-protools-9-menu-audiosuite.png)
 
 Nel menù “Options” si trovano gli items seguenti:
 * Loop Record (Alt+L)
@@ -321,7 +321,7 @@ Nel menù “Options” si trovano gli items seguenti:
 * Pre-Fader Metering
 + Low Latency Monitoring
 
-![Screenshot Menu Options](./images/windows-protools-10-menu-options.png)
+![Screenshot Menu Options](.\images\protools-windows-images\windows-protools-10-menu-options.png)
 
 * Il menù “Setup” contiene:
 * Hardware...
@@ -333,7 +333,7 @@ Nel menù “Options” si trovano gli items seguenti:
 * Click/Countoff....
 * Language
 
-![Screenshot Meun Setup](./images/windows-protools-11-menu-setup.png)
+![Screenshot Meun Setup](.\images\protools-windows-images\windows-protools-11-menu-setup.png)
 
 Il menù “Window” contiene le seguenti funzioni:
 * Arrange
@@ -355,7 +355,7 @@ windows![Screenshot Menu Window](./images/windows-protools-12-menu-window.png)
 
 Il seguente raggruppamento di controlli è stato testato usando il tracking del mouse. In questa sezione i controlli non vengono individuati; però i relativi menù contestuali vengono letti correttamente. 
 
-![Screenshot Standard TCE Loop](./images/windows-protools-13-standard-tce-loop.png)
+![Screenshot Standard TCE Loop](.\images\protools-windows-images\windows-protools-13-standard-tce-loop.png)
 
 Il seguente raggruppamento di controlli è stato testato usando il tracking del mouse. In questa sezione i controlli non vengono individuati; però i relativi menù contestuali vengono letti correttamente. 
 
@@ -373,32 +373,32 @@ La funzionalità “Meter change” non è accessibile: i field sono focalizzabi
 
 In questo contesto l’unica finestra leggibile è quella d’errore, letta correttamente, eccetto il fatto che non viene segnalata dalla sintesi la presenza del button  di conferma.
 
-![Screenshot Meter Change Error](./images/windows-protools-17-meter-change-error.png)
+![Screenshot Meter Change Error](.\images\\protools-windows-images\\windows-protools-17-meter-change-error.png)
 
 Il pannello “Strip silence” è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
 Un altro esempio di questa tipologia di interazioneè la finesstra  "Asio control panel", di cui NVDA legge solo l'heading,. Già che si è analizzato questo pannello, si è testato anche il drop down menù  per l'impostazioone del buffer.
-![Asio control panel e impostazioni dimensioni buffer](./windows-pro-tools-asio-control-panel-2i2-25.jpeg)
+![Asio control panel e impostazioni dimensioni buffer](.\images\protools-windows-images\windows-protools-asio-control-panel-2i2-25.jpeg)
 
-![Screenshot Strip Silence](./images/windows-protools-18-strip-silence.png)
+![Screenshot Strip Silence](.\images\protools-windows-images\windows-protools-18-strip-silence.png)
 
 <!-- IN ATTESA DI RISPOSTA DA BONTEMPI A COSA SERVE STRIP SILENCE (MAIL MANDATA 14 LUGLIO 19) -->
 
 Questo pannello è stato aperto usando il mouse. Di questo pop-up NVDA vocalizza “Transport MIDI editor location” ; “MIDI editor quantize real time properties”; “Add new memory location”; “playback engine”; “artist community” “Market place”  etc… Tag che non hanno senso se isolati dal contesto, ossia se la sintesi non elenca  quali possibilità di interazione esistono con questi controlli e di che tipologia sono.
 
-![Screenshot Popup Strumenti Scomparsa](./images/windows-protools-19-popup-strumenti-scomparsa.png)
+![Screenshot Popup Strumenti Scomparsa](.\images\protools-windows-images\windows-protools-19-popup-strumenti-scomparsa.png)
 
 L’aprire questo menù è cosa infattibile da tastiera, ancora una volta si deve ricorrere all’uso del mouse. Gli items di questo menù vengono correttamente annunciati. Esso permette di eseguire alcune funzioni sulle tracce, ad esempio rinominare, salvare la traccia come preset, come si può vedere dallo screenshot. 
 
-![Screenshot Contestuale Pannello Traccia](./images/windows-protools-20-contestuale-pannello-traccia.png)
+![Screenshot Contestuale Pannello Traccia](.\images\protools-windows-images\windows-protools-20-contestuale-pannello-traccia.png)
 
 Per avviare la registrazione è necessario premere la combinazione di tasti "Control+R, ma non si riceve  alcun feedback vocale o sonoro dell’avvenuta operazione. Il ritorno  fornito è esclusivamente visivo.
 Il mixer è raggiungibile dal menù “Window”, selezionando la voce “Mix”, ma una volta aperto è impossibile eseguire qualsiasi operazione: dal punto di vista della sintesi lo schermo appare come se fosse privo di eelementi. Se si tenta la strada di cliccare i controlli col mouse, i menù contestuali relativi vengono letti dalla sintesi, ma la cosa risulta al quanto frustrante e rende necessario l’ausilio di un controller esterno. Da qui è nata la decisione  di testare anche con il device esterno E Corg
 
-![Screenshot Mixer](./images/windows-protools-21-mixer.png)
+![Screenshot Mixer](.\images\protools-windows-images\windows-protools-21-mixer.png)
 
 Il menù contestuale di selezione dell’output all’interno del mixer, così come quello relativo al bus, è stato raggiunto con l’impiego del mouse e, una volta all’interno del menù, scorrendo con le frecce, è stato letto correttamente dalla sintesi vocale. 
-![menù contestuale selezione output](./windows-protools-contest-menu-selezione-output23.jpeg)
-![menù contestuale del bus relativo al mixer](./windows-pro-tools-bus-contest-menu24.jpeg)
+![menù contestuale selezione output](.\images\protools-windows-images\windows-protools-contest-menu-selezione-output23.jpeg)
+![menù contestuale del bus relativo al mixer](.\images\protools-windows-images\windowspro-toolsbus-contest-menu24.jpeg)
 
 Le funzionalità di selezione della timeline delle tracce, sia parziale che completa non è fattibile, pertanto risulta impossibile svolgere le operazioni di editing delle trace come tagliare, copiare, incollare, aggiungere effetti di vario genere e inserire i marker.
 sempre per la stessa impossibilità a portare il cursore all'interno della timeline, non si può spostare il cursore tra le timeline, ad esempio tra traccia 1 e traccia 3, quindi non si riesce a effettuare operazioni tra l'una e l'altra.

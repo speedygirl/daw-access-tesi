@@ -25,7 +25,7 @@ Va chiarito, perché la strumentazione live dovrebbe essere economica, o lavorar
 fonte: [The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016]()
 - [x]  riferimento: "In passato le strumentazioni  potevano essereelettromeccaniche"
 già corretto: all'interno del testo: le strumentaziooni  erano elettromeccaniche.
-- [ ] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW. riferimento: 
+- [x] mettere riferimento ipertestuale alla sezione dedicata interamente alla DAW. riferimento: 
 - [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
 - [x] riferimento: "svolgono funzioni che fino a poco tempo fa erano appannaggio
  di equipe"
@@ -132,7 +132,7 @@ appunti file word "Daw bozza ver 1.doc"
 - [ ] riferimento: heading 3 "Risultati del test del miixer usando E Corg" fare prova pratica e scrivere risultati
     - [ ] Includere non includere, riferimento: "Impostazioni griglia (grid) FACOLTATIVO"
     - [ ] Completare con risposta, riferimento: "(inserisco qui il concetto di  playback engine? V pro tools ale)"
-    - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIER PLAYBACK ENGINE"
+    - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIRE PLAYBACK ENGINE"
 	              per trovare la sezione usare il seguente testo: 
 	              in Pro Tools per Mac Riferimento: "Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale"
     - [ ] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesta a techno help" Gianluca Pollaro mappatore shortcut Reaper Windows; Garth Hartung mappatore shortcut Reaper Mac.

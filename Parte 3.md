@@ -52,6 +52,7 @@ Nella porzione di schermo dedicata alle procedure è importante non tralasciare 
 Un esempio virtuoso è il canale di Valter Scarfia [] che, nello spiegare funzionalità in merito all’Iphone, applica quanto appena affermato.
 
 In Reaper per Windows sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
+![](.\images\reaper-windows-images\windows-reaper-1-controlli-traccia.PNG)
 
 Dall’esplorazione della GUI si sono subito “trovati” i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
 sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
@@ -60,8 +61,9 @@ Tali controlli non sono totalmente accessibili in quanto non viene annunciato ch
 Si è passato a analizzare la finestra “project settings” dove si può regolare i parametri generali, relativi all’intero progetto come la frequenza di campionamento, i BPM, impostare il metro del brano, i parametri contenuti in questa finestra sono accessibili nella loro  totalità in quanto vengono enunciate, per ogni controllo, il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente.
 Per maggiore chiarezza si riportano le definizioni relative a frequenza di campionamento, BPM e metro, basandomi sulla mia esperienza personale di musicista e sugli studi accadeici svolti.
 La frequenza di campionamento il numero di volte al secondo in cui i dati, i campioni, vengono registrati e memorizzati (lo standard impiegato per i CD è 44.100 Hz al secondo). I BPM (Beat Per Second) il numero di beat al minuto impiegati in musica per dare l'indicazione relativa alla velocità del metronomo. Il metro ossia la ricorsività degli accenti (le battute).  
+![](.\images\reaper-windows-images\windows-reaper-2-timeline.PNG)
 
-dal navigare, tramite TAB i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
+Dal navigare, tramite TAB i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
 
 Tutto questo è altamente accessibile, sono poche le DAW che permettono di eseguire lo scrubbing, che consente  anche a un non vedente di raffinare ad alto livello il proprio progetto.
 Simili comandi e s imili possibilirtà di navigazione sono valide anche per la selezione. Vi sono poi ulteriori comandi con i quali si può scelgiere se la selezione coinvolge sia timeline che items oppure solo questi ultimi.
@@ -73,7 +75,7 @@ A titolo esemplificativo si associa agli items le lettere A, B, C.
 Se si intende eliminare l'item B, A e C si uniscono e quindi la traccia avrà un flusso continuo, cosa che non accade se si è attivata la funzione "Ripple off", cui si è precedentemente accennato.  
 Lo stato del "Ripple on", e "Ripple off", si modifica, come già accennato, con la combinazione di tasti Alt+P in Windows, Cmd+P in Mac; mentre per avere una notifica sullo stato attuale del "Ripple", si impiega la combinazione Alt+Shift+P. 
 Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia.
-
+![](.\images\reaper-windowswindows-reaper-4-finestra-edit-marker-images\.jpg)
 
 Di vitale importanza per il non vedente è l’impiego dei marker (o marcatori), che in Reaper si dividono in 3 categorie: marker di progetto, temporali, di stretch.  Alcuni tipi sono ad esempio i marker comuni, cui  associata la shortcut "M", marker prompt for name Shift+M, "Region from time selection" Shift+R, "Tempo/time signature marker". Sono esempi di varie tipologie di marker, appartenenti alle 3 categorie presenti in Reaperconsentono di selezionare regioni caratterizzate da un altro metro o una velocità diversa (marker di tempo), opppure di assegnare nomi indicativi a porzioni della traccia (marker cui è possibile dare un nome personalizzato).
 I marcatori consentono di segnare sulla traccia dei punti di interesse, navigabili con Control+Frecce, che consentono di spostare l’edit cursor con velocità da una sezione all’altra del brano.
@@ -82,9 +84,10 @@ Markers e items sono due diversi strumenti per raggiungere risultati identici. I
 Nel caso in cui si voglia rimuovere una battuta da 3 tracce si può scegliere o di creare, tra marcatore d'inizio e di fine, una timeselection, oppure impiegare gli items impostando il Ripple su "all traks". 
 Per chi non vede sono utili anche perché, delimitando con un “marker di apertura” e un “marker di chiusura”, anche detti envelopes, una porzione, è possibile selezionarla e modificarne il tempo, il volume, la dinamica.
 Una funzione utile in questo senso è il poter creare marker con nome personalizzato. Questo è possibile usando il menù "Insert" o, in alternativa, la combinazione di tasti Shift+M che apre una Windows in cui editare nome e valore, permettendo di scriverlo mediante tastiera. Ciò non obbliga l'utente a regolare il valore tramite lo slider. Quest'ultima modalità, a mio avviso, non è molto pratica in quanto sovente accade che il cursore si sposti di un punto percentuale alla volta (rendendo l’operazione molto dispendiosa in termini di tempo); oppure che lo slider si sposti di una quantità percentuale predefinita dagli sviluppatori del programma (ad esempio 3% 5% 10%), il che rende impossibile all’utente raffinare il suo inserimento. Frequentemente sono presenti entrambi, ma non è il caso di Reaper.
-![reaper insert menu](.\images\reaper-windows-images\windows-reaper-4-insert-menu.jpg)
+![reaper insert menu](.\images\reaper-windows-images\windows-reaper-5-insert-menu.jpg)
 
 Un’altra funzionalità di base, importante per la registrazione, è l’impostazione del metronomo e la sua attivazione, cosa che ancora una volta è facile da eseguire, semrpe tramite tastiera o usando l’apposito menù in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat; impostare il beat patner; impostare il patner primario e secondario ecc operazioni con un elevato grado di accessibilità in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat patner, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annuncaito il valore di default e, dopo l’9intervento dell’utente, il nuovo valore immesso. 
+![](.\images\reaper-windows-images\windows-reaper-6-metronomo.png)
 
 Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono  traccia tempo, traccia da fonti esterne, dal menù tracks o dal menu’ applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
 

@@ -61,7 +61,7 @@ nome file: nome file: registratore-a-filo-01
 directory: onedrive<tesi<textedition<images
 - [ ] cercare walkman arlate gialli e grigi
 - [ ] inserire foto valvole radio nonno da sd card reflex
-- [ ] inserire foto disco quadrifonico nonno bontempi
+- [x] inserire foto disco quadrifonico nonno bontempi
 - [ ] formati loosy e loosness 
 - [x] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [x] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"

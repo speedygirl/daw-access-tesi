@@ -249,7 +249,7 @@ La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliar
 Ma a segnare la fine del disco in vinile saranno le grandi novità arrivate dal mondo informatico.
 ![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-1.jpg)
 ![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-2.jpg)
-
+[^immagini-disco-quadrifonico-1-2]: tratte da collezione privata
 
 ### 1.1.3 REGISTRAZIONE DIGITALE
 

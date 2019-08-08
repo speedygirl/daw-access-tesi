@@ -290,9 +290,33 @@ La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entram
 
 <!-- riquadro a parte con concetto di formati loosy e loosness -->
 ##formati lossy e lossless
-I principali sistemi di compressione che riesca a mantenere il più felemente possibile la qualità del suono sono il **lossless* e il **lossy**
-Lossless comprime le informaziooni legate al segnale audio senza togliere informazioni e si decomprime durante l'la riproduzione, riducendo non oltre la metà le dimensioni del file.Sono lossless: MLP, FLAC, MPAC.
-Lossy, al contrario,  può ridurre molto la dimensione perdendo di qualità.L'l?MP3 è in realtà il frmato MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
+I principali sistemi di compressione che riescano a mantenere il più fedelmente possibile la qualità del suono, sono il **lossless* e il **lossy**
+Vi sono moltissime teccniche per la compressione audio la cui struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 
+- bitrateç rappresetna il numero di bit necessari per trasmettere un secondo di informazione audio. Si misura in bit-sec.
+' processing delayç è la nsomma dei tempi di compressione e decompressione.
+' sygnal quality° indica la bontà del suono che si percepisce dopo la decodifica di un segnale compresso.
+La codifica (o compressione) comprende due categorie, quelle senza perdita di informazione e quelle con perdita, le quali possono essere ancora  suddivise in codifiche per modelli e per dominio frequenziale.
+Lossless comprime le informaziooni legate al segnale audio senza togliere informazioni e si decomprime durante la riproduzione: il segnale decompresso è identico a quello originale. La compressione  è piuttosto bassa riducendo di non oltre la metà le dimensioni del file, questi algoritmi però hanno il pregio di riconoscere ed eliminare le ridondanze numeriche. Sono lossless: MLP, FLAC, MPAC e Huffman. Quest'ultimo, attraverso un sistema che prevede l'associazione di pochi bit alle parole più frequenti e molti bit alle più rare, riesce a comprimere ulteriormente la stringa ottenuta dopo la quantizzazione non lineare. E' impiegata nei codec MPEG Layer-3.. 
+Lossy per modelli, vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto 
+ molto la dimensione del file perdendo di qualità.
+ Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggio
+ re processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono , secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG nLayer 2-3 e MPEG Audio.
+Esistono tre algoritmi di compressione che vengnoo utilizzati dagli MPEG 1 e MPEG 2.
+- Layer 1: è il più semplice degli algoritmi , lavora con un bitrate pari a 384 Kbit/sec per un segnale stereo.
+- Layer 2: adatto per codifiche a bitrate tra i 292-256 Kbit/sec per segnale stereo.
+- Layre 3: dà le migliori prestazioni ottenendo un segnale stereo di buona qualità con bitrate tra 128-192 Kbit/sec.
+I nuovi Layer sono compatibili 
+
+con i precedenti quinjdi Layer 3 è in grado di decodificare anche 1 e 2.
+MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG 1, MPEG2, MPEG2.5 tutti Layer3. Per questo si usa anche la sigla MPEG Layer3.
+> Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioin necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, telefoniaTelefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazion3we. Se per esempio vengono persi i dati di un generico frame K, il decoder è ingrado di decodificare correttamente tutti gli altri generando un silenzio in luogo del frame mancante.
+Nota Giancarlo Vercellesi.
+< E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
+<!-- Giancarlo Vercellesi nota>
+
+
+
+ inserire schema p 6 vercellesi-p-17to MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
 In questo formato il segnale viene suddiviso in **frame** indipendenti composti  576 campion in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.
 L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato appunto dallo spettro dell'onda usando la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
 Lo spetttro ottenuto viene analizzaato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa e far risultare il rumore di quantizzazione al di sotto della soglia di udibilità così da nonn "inquinare " il segnale.

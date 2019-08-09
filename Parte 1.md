@@ -310,11 +310,10 @@ I nuovi Layer sono compatibili
 con i precedenti quinjdi Layer 3 è in grado di decodificare anche 1 e 2.
 MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG 1, MPEG2, MPEG2.5 tutti Layer3. Per questo si usa anche la sigla MPEG Layer3.
 > Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioin necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, telefoniaTelefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazion3we. Se per esempio vengono persi i dati di un generico frame K, il decoder è ingrado di decodificare correttamente tutti gli altri generando un silenzio in luogo del frame mancante.
-Nota Giancarlo Vercellesi.
-< E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
-<!-- Giancarlo Vercellesi nota>
+[^giancarlo-vercellesi-p]:
 
-
+> E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
+[^giancarlo-vercellesi-p9]: p 9
 
  inserire schema p 6 vercellesi-p-17to MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
 In questo formato il segnale viene suddiviso in **frame** indipendenti composti  576 campion in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.

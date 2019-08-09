@@ -50,5 +50,7 @@ Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di 
 [^schema-bitrate-p17]: p 17
 
 [^giorgio-presti-p16-17]: pp. 16-17
+[^giancarlo-vercellesi-p9]: p 9
+[^giancarlo-vercellesi-p]: p 
 
 [^immagini-disco-quadrifonico-1-2]: tratte da collezione privata

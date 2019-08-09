@@ -315,10 +315,14 @@ MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG
 > E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
 [^giancarlo-vercellesi-p9]: p 9
 
- inserire schema p 6 vercellesi-p-17to MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
+<!-- inserire schema p 6--> 
+
+Il formato MPEG-1, 2 o 2,5 Layer 3, il cui sviluppo è iniziato nel 1996 dal laboratorio **************.
 In questo formato il segnale viene suddiviso in **frame** indipendenti composti  576 campion in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.
 L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato appunto dallo spettro dell'onda usando la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
 Lo spetttro ottenuto viene analizzaato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa e far risultare il rumore di quantizzazione al di sotto della soglia di udibilità così da nonn "inquinare " il segnale.
+[^vercellesi-schema-bitrate-p17]: p 17
+
 Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (singol channel), dual channel, stereo, surround.
 
 Il bitrate può essere fisso

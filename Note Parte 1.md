@@ -47,7 +47,7 @@ Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universit
 [^presti-schema-valori-bitrate-p13]: p 13
 
 Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005
-[^schema-bitrate-p17]: p 17
+[^vercellesi-schema-bitrate-p17]: p 17
 
 [^giorgio-presti-p16-17]: pp. 16-17
 [^giancarlo-vercellesi-p9]: p 9

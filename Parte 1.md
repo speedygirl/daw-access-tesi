@@ -298,7 +298,7 @@ Vi sono moltissime tecniche per la compressione audio, la cui struttura algoritm
 - sygnal quality: indica la bontà del suono che si percepisce dopo la decodifica di un segnale compresso.
 La codifica (o compressione) comprende due categorie: quelle senza perdita di informazione e quelle con perdita, le quali possono essere ancora  suddivise in codifiche per modelli e per dominio frequenziale.
 Lossless: comprime il segnale audio senza togliere informazioni e si decomprime durante la riproduzione: il segnale decompresso è identico a quello originale. La compressione  è piuttosto bassa riducendo di non oltre la metà le dimensioni del file; questi algoritmi però, hanno il pregio di riconoscere ed eliminare le ridondanze numeriche. Sono lossless: MLP, FLAC, MPAC e Huffman. Quest'ultimo, attraverso un sistema che prevede l'associazione di pochi bit alle parole più frequenti e molti bit alle più rare,ottiene un'ulteriore riduzione. "la codifica Huffman è impiegata nei codec MPEG Layer 3 per comprimere ulteriormente la sequenza numerica ottenuta dopo la quantizzazione non lineare". 
-<!-- citare vercellesi p 4 -->
+[^giancarlo-vercellesi-p4]: p 4
 
 Per questo viene utilizzata nella codifica MPEG Layer-3.. 
 Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.

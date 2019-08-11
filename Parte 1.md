@@ -302,9 +302,12 @@ Lossless: comprime il segnale audio senza togliere informazioni e si decomprime 
 
 
 Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
-Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
+Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall
+'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 
-<!-- inserire schema p 6--> 
+![](.\images\generic\vercellesi-schema-encoder-decoder-p-6.PNG)
+[^giancarlo-vercellesi-schema-encoder-decoder-p6: p 6]
+
 Il sistema di codifica MPEG (Moving Picture Experts Group) è costituito da:
 - formato di codifica: l'insieme delle regole degli standard MPEG che indicano come dev'essere codificata e strutturata l'informazione.
 - encoder: prende un file PCM non compresso e lo comprime secondo lo standard.

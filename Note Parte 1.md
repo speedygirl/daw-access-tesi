@@ -53,5 +53,6 @@ Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di 
 [^giancarlo-vercellesi-p9]: p 9
 [^giancarlo-vercellesi-p13]: p 13 
 [^giancarlo-vercellesi-p4]: p 4
+[^giancarlo-vercellesi-schema-encoder-decoder-p6: p 6]
 
 [^immagini-disco-quadrifonico-1-2]: tratte da collezione privata

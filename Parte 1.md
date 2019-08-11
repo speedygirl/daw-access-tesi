@@ -290,19 +290,25 @@ La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entram
 
 ## Il formato MP3
 <!-- citare garzantina definiizione mp3 -->
-E' un algoritmo di tipo lossy,in grado di comprimere e decomprimere un file audio, riducendolo anche di 12 volte la sua dimensione, manteendone una qualità e fedeltà quasi perfetta.
+E' un algoritmo di tipo lossy,in grado di comprimere e decomprimere un file audio, riducendolo anche di 12 volte la sua dimensione, mantenendone una qualità e fedeltà quasi perfetta.
 I principali sistemi di compressione che riescano a mantenere il più fedelmente possibile la qualità del suono, sono il **lossless* e il **lossy**
 Vi sono moltissime tecniche per la compressione audio, la cui struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 
-- bitrate: rappresetna il numero di bit necessari per trasmettere un secondo di informazione audio. Si misura in bit/sec.
+- bitrate: rappresenta il numero di bit necessari per trasmettere un secondo di informazione audio. Si misura in bit/sec.
 - processing delay: è la somma dei tempi di compressione e decompressione.
 - sygnal quality: indica la bontà del suono che si percepisce dopo la decodifica di un segnale compresso.
 La codifica (o compressione) comprende due categorie: quelle senza perdita di informazione e quelle con perdita, le quali possono essere ancora  suddivise in codifiche per modelli e per dominio frequenziale.
 Lossless: comprime il segnale audio senza togliere informazioni e si decomprime durante la riproduzione: il segnale decompresso è identico a quello originale. La compressione  è piuttosto bassa riducendo di non oltre la metà le dimensioni del file; questi algoritmi però, hanno il pregio di riconoscere ed eliminare le ridondanze numeriche. Sono lossless: MLP, FLAC, MPAC e Huffman. Quest'ultimo, attraverso un sistema che prevede l'associazione di pochi bit alle parole più frequenti e molti bit alle più rare,ottiene un'ulteriore riduzione. "la codifica Huffman è impiegata nei codec MPEG Layer 3 per comprimere ulteriormente la sequenza numerica ottenuta dopo la quantizzazione non lineare". 
 [^giancarlo-vercellesi-p4]: p 4
 
-Per questo viene utilizzata nella codifica MPEG Layer-3.. 
+
 Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
 Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
+
+<!-- inserire schema p 6--> 
+Il sistema di codifica MPEG (Moving Picture Experts Group) è costituito da:
+- formato di codifica: l'insieme delle regole degli standard MPEG che indicano come dev'essere codificata e strutturata l'informazione.
+- encoder: prende un file PCM non compresso e lo comprime secondo lo standard.
+- decoder: esegue l'operazione inversa convertendo un formato compresso MPEG portandolo in un PCM non compresso.
 Esistono tre algoritmi di compressione che vengono utilizzati dagli MPEG 1 e MPEG 2.
 - Layer 1: è il più semplice degli algoritmi , lavora con un bitrate pari a 384 Kbit/sec per un segnale stereo.
 - Layer 2: adatto per codifiche a bitrate tra i 292-256 Kbit/sec per segnale stereo.
@@ -315,16 +321,14 @@ MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG
 > E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
 [^giancarlo-vercellesi-p9]: p 9
 
-<!-- inserire schema p 6--> 
-
-L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato dallo spettro dell'onda attraverso la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR (Signal to Mask Ratio)e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
+L'MP3 viene generato dall'encoder, software che converte il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato dallo spettro dell'onda attraverso la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR (Signal to Mask Ratio)e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).
 Lo spettro ottenuto viene analizzato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit, conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa, così da far risultare il rumore di quantizzazione al di sotto della soglia di udibilità e non "inquinare " il segnale.
 [^vercellesi-schema-bitrate-p17]: p 17
 
 Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder che consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (singol channel), dual channel, stereo, surround.
 
-Il bitrate può essere fisso
-- fisso: tutti i frame del file hanno un valore prestabilito: scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subuto la dimensione del file.
+Il bitrate può essere:
+- fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
 ![](.\images\generic\presti-avventure-equalizzatore-p-13)
 
 [^presti-schema-valori-bitrate-p13]: p 13
@@ -364,8 +368,6 @@ Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita 
 > L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. [^roberto-diem-tigani-p258-259]
 
 ## 1.2 I PRODUTTORI: EVOLUZIONE DEL RUOLO NEL TEMPO
-<!-- frase da ponte tra tecnologie e produzione -->
-
 Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[^owsinski] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
 
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.

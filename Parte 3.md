@@ -641,9 +641,9 @@ A ogni traccia sono associati degli attributi, come solo, mute, panning, selezio
 
 Il pannello VST (apribile col tasto F4) serve per gestire gli ingressi e le uscite associando il canale virtuale al relativo BUS fisico, permette cioè, attraverso i driver, di interfacciare il programma con la scheda audio esterna. 
 
-![Windows CUBASE Connessioni VST Ingressi 1](./images/windows-cubase-connessioni-vst-ingressi-1.png)
+Windows CUBASE Connessioni VST Ingressi ![](.\images\cubase-windows-images\windows-cubase-connessioni-vst-ingressi-1.png)
 
-![Windows CUBASE Connessioni VST Ingressi 2](./images/windows-cubase-connessioni-vst-ingressi-2.png)
+Windows CUBASE Connessioni VST Ingressi ![](.\images\cubase-windows-images\windows-cubase-connessioni-vst-ingressi-2.png)
 
 Per associare i BUS  ai canali in ingresso e uscita le relative tracce PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 canale 1) in ingresso e uscita, si fa lo stesso procedimento, dall'Inspector scegliere .......   associato alla traccia selezionata ```, dove si trovano attributi come panning, automazioni e muto.
 Scegliere **“ASSEGNAZIONE INGRESSO”**

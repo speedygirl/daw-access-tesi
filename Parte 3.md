@@ -336,7 +336,7 @@ Nel menù “Options” si trovano gli items seguenti:
 * Click/Countoff....
 * Language
 
-![Screenshot Meun Setup](.\images\protools-windows-images\windows-protools-11-menu-setup.png)
+![Screenshot Menu Setup](.\images\protools-windows-images\windows-protools-11-menu-setup.png)
 
 Il menù “Window” contiene le seguenti funzioni:
 * Arrange

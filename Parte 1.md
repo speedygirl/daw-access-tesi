@@ -292,7 +292,7 @@ La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entram
 <!-- citare garzantina definiizione mp3 -->
 E' un algoritmo di tipo lossy,in grado di comprimere e decomprimere un file audio, riducendolo anche di 12 volte la sua dimensione, manteendone una qualità e fedeltà quasi perfetta.
 I principali sistemi di compressione che riescano a mantenere il più fedelmente possibile la qualità del suono, sono il **lossless* e il **lossy**
-Vi sono moltissime teccniche per la compressione audio, la cui struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 
+Vi sono moltissime tecniche per la compressione audio, la cui struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 
 - bitrate: rappresetna il numero di bit necessari per trasmettere un secondo di informazione audio. Si misura in bit/sec.
 - processing delay: è la somma dei tempi di compressione e decompressione.
 - sygnal quality: indica la bontà del suono che si percepisce dopo la decodifica di un segnale compresso.
@@ -301,18 +301,15 @@ Lossless: comprime il segnale audio senza togliere informazioni e si decomprime 
 <!-- citare vercellesi p 4 -->
 
 Per questo viene utilizzata nella codifica MPEG Layer-3.. 
-Lossy per modelli, vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
- Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggio
- re processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono , secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG nLayer 2-3 e MPEG Audio.
+Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
+Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 Esistono tre algoritmi di compressione che vengono utilizzati dagli MPEG 1 e MPEG 2.
 - Layer 1: è il più semplice degli algoritmi , lavora con un bitrate pari a 384 Kbit/sec per un segnale stereo.
 - Layer 2: adatto per codifiche a bitrate tra i 292-256 Kbit/sec per segnale stereo.
 - Layer 3: dà le migliori prestazioni ottenendo un segnale stereo di buona qualità con bitrate tra 128-192 Kbit/sec.
-I nuovi Layer sono compatibili 
-
-con i precedenti, quindi Layer 3 è in grado di decodificare anche 1 e 2.
+I nuovi Layer sono compatibili con i precedenti, quindi Layer 3 è in grado di decodificare anche 1 e 2.
 MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG 1, MPEG2, MPEG2.5, tutti Layer3. Per questo si usa anche la sigla MPEG Layer3.
-> Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioni necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, telefoniaTelefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazione. Se per esempio vengono persi i dati di un generico frame K, il decoder è ingrado di decodificare correttamente tutti gli altri generando un silenzio in luogo del frame mancante.
+> Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioni necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, Telefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazione. Se per esempio vengono persi i dati di un generico frame K, il decoder è in grado di decodificare correttamente tutti, gli altri generando un silenzio in luogo del frame mancante.
 [^giancarlo-vercellesi-p13]: p 13
 
 > E' importante ricordare che il "formato di codifica audio"definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
@@ -320,24 +317,23 @@ MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG
 
 <!-- inserire schema p 6--> 
 
-Nel formato MPEG il segnale viene suddiviso in frame indipendenti composti  576 campioni in modo da poter riprodurre il file anche nel caso uno dei campioni venga perso.
-L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato dallo spettro dell'onda usando la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
-Lo spetttro ottenuto viene analizzaato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa e far risultare il rumore di quantizzazione al di sotto della soglia di udibilità così da nonn "inquinare " il segnale.
+L'MP3 viene generato dall'encoder, un software il cui compito è di convertire il segnale dal dominio temporale a quello frequenziale. Nei frame il segnale è rappresentato dallo spettro dell'onda attraverso la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR (Signal to Mask Ratio)e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).i
+Lo spettro ottenuto viene analizzato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit, conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa, così da far risultare il rumore di quantizzazione al di sotto della soglia di udibilità e non "inquinare " il segnale.
 [^vercellesi-schema-bitrate-p17]: p 17
 
-Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (singol channel), dual channel, stereo, surround.
+Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder che consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (singol channel), dual channel, stereo, surround.
 
 Il bitrate può essere fisso
-- fisso: tutti i frame del file hanno un valore prestabilito: scegliendo, tra quelli in tabell , il valore più adatto al tipo di lavoro che si intende fare, si può sapere apriori la dimensione del file.
+- fisso: tutti i frame del file hanno un valore prestabilito: scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subuto la dimensione del file.
 ![](.\images\generic\presti-avventure-equalizzatore-p-13)
 
 [^presti-schema-valori-bitrate-p13]: p 13
 
-- variabile: ogni frame ha un bitrate proporzionato alle informazioni che contiene. l'utente può scegliere quello massimo e minimo entro cui operare, però non può stabilire la dimensione del file a priori.
-- medio o average, è una variante del precedente: l'utente definisce il bitrate medio così da poter scegliere a priori la dimensione del file, l'encoder quindi adotta una codifica a bitrate variabile senza eccedere i limiti.
- free format: non supportato da alcuni deccoder, bitrate diverso da quelli in tabella, ma deve rimanere costante e non superare i 320 kbs. 
+- variabile: ogni frame ha un bitrate proporzionato alle informazioni che contiene. L'utente può scegliere quello massimo e minimo entro cui operare, però non può stabilire la dimensione del file a priori.
+- medio o average, è una variante del precedente: l'utente definisce il bitrate medio così da poter scegliere la dimensione del file, l'encoder quindi adotta una codifica a bitrate variabile senza eccedere i limiti.
+- free format: non supportato da alcuni decoder, non rispetta gli standard di bitrate riportati in tabella, ma deve rimanere costante nei frame e non superare i 320 kbs. 
 
-La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame in quanto, ridistribuisce i bit che riesce a risparmiare da un frame, a un altro che ha maggiori necessità. Non deve essere utilizzato per MP3 destinati alo streaming.
+La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame, in quanto ridistribuisce i bit che riesce a risparmiare da un frame ad altri che abbiano maggiori necessità. Non deve essere utilizzato per MP3 destinati allo streaming.
 ![](.\images\generic\mpeg-audio-tutorial-vercellesi-p-17.jpg)
 [^schema-bitrate-p17]: p 17
 

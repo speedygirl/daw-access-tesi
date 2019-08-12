@@ -332,7 +332,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 
 Il bitrate può essere:
 - fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
-![](.\images\generic\presti-avventure-equalizzatore-p-13): p 13
+![](.\images\generic\presti-valori-bitrate-p-13)
 
 [^presti-schema-valori-bitrate-p13]: p 13
 
@@ -341,7 +341,7 @@ Il bitrate può essere:
 - free format: non supportato da alcuni decoder, non rispetta gli standard di bitrate riportati in tabella, ma deve rimanere costante nei frame e non superare i 320 kbs. 
 
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame, in quanto ridistribuisce i bit che riesce a risparmiare da un frame ad altri che abbiano maggiori necessità. Non deve essere utilizzato per MP3 destinati allo streaming.
-![](.\images\generic\mpeg-audio-tutorial-vercellesi-p-17.jpg)
+![](.\images\generic\vercellesi-bitreservoir-p-17.jpg)
 [^schema-bitrate-p17]: p 17
 
 I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamente.

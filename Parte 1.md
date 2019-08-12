@@ -332,7 +332,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 
 Il bitrate può essere:
 - fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
-![](.\images\generic\presti-valori-bitrate-p-13)
+![](.\images\generic\presti-valori-bitrate-p-13PNG)
 
 [^presti-schema-valori-bitrate-p13]: p 13
 

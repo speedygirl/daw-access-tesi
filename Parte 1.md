@@ -302,7 +302,7 @@ Lossless: comprime il segnale audio senza togliere informazioni e si decomprime 
 
 
 Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
-Lossy  nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall
+Lossy nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall
 'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 
 ![](.\images\generic\vercellesi-schema-encoder-decoder-p-6.PNG)
@@ -332,7 +332,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 
 Il bitrate può essere:
 - fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
-![](.\images\generic\presti-avventure-equalizzatore-p-13)
+![](.\images\generic\presti-avventure-equalizzatore-p-13): p 13
 
 [^presti-schema-valori-bitrate-p13]: p 13
 

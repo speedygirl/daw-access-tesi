@@ -179,6 +179,79 @@ voice recognition permette agli utenti di comandare il device dando comandi voca
 “Il deep learning è un caso particolare di machine learning, e le reti neurali sono i sistemi di calcolo (con le loro architetture, talvolta non del tipo Von Neumann-Zuse) sui quali essi sono implementati ed operano algoritmicamente.”
 
 ### 2.6.4 Screen Magnifier
+E' un software in gardo di presentare l'output a schermo ingrandendolo. si può ingrandire una parte o lo schermo intero.
+è impiegato soltatno da chi è in possesso di residuo visivo minimo o ipovedenti. chi ha un residuo visivo eccessivamente ridotto o completamente compromesso non può far uso di questo assistive technology ma solo di screenr eader e barrabraille.
+la porzione di schermo ingrandita, detta focus, deve poter coprire lo schermo parzialmente o interamente, essa deve includere il contenuto d'interesse per l'utente e il puntatore o cursore debitamente ingrandito. questa porzione deve poter essere dall'utente allargata o ristretta a piacimento e deve essere in grado di seguire i movimenti del puntatore ingrandendo la nuova area di interesse indicata da nuovo puntamento del mouse o tramite shorcut; segue i n maniera automatica i cambiamenti di stato degli elementi o dei pop-up e pop-down.
+Apple mette a disposizione un’ulteriore funzionalità, chiamata “cursor magnification” [^cursor-magnification]  che consente di ingrandire maggiormente il puntatore, se le possibilità offerte di default non sono sufficienti. Questa opzione però si disattiva nel caso in cui l’utente spenga o riavvii il computer, esegua il logout dal proprio account.
+color invertion inversione cromatica spesso i disabili visivi preferiscono leggere invertendo i colori, tipicamente portando il testo da nero su bianco a bianco / giallo su fondo blu/nero.
+questo può ridurre la luminescenza ed è utile soprattuto per degenrazione della macula in età avanzata.
+smoothing il compensa la sgranatura dell'immagine dovuta all'ingrandimento eccessivo, fornendo un'interpolazione.
+cursor costumization personalizzazione dei cursori in modo di facilitarne l'identificazione a schermo ingrandendoli, scurendoli con varie gradazioni di colori che diano contrasto sullo sfondo.
+differenti modalità di ingrandimento la modalità di ingrandimetno può essere customizzabile impostando una zona di ingrandimento fissa; una lente da spostare all'interno dello schermo; oppure l'intero schermo ingrandito.
+Alcuni magnifier hanno integrati degli screen reader basilari che leggono la porzione di schermo ingrandita (leggeri a livello di software occupano poca memoria).
+esempi di magnifier:
+windows a partire dal 1998 ha integrato un applicativo di ingrandimento chiamato Magnifier.
+Tale funzione è tutt’ora disponibile, in Windows 10 per attivarlo è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. (Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test).
+OSX IOS si attiva con specifici imput (shortcut, mouse pad, scrool)
+La procedura standard in un computer Mac è aprire Apple menu e selezionare System Preferences.
+All’interno del System row selezionare Universal Access, attivare il pulsante Zoom. Mentre per ulteriori opzioni raggiungere il pulsante Options.
+(La medesima scelta di esporre solo le procedure relative alla versione del sistema operativo impiegato per eseguire i test sui programmi, per identiche ragioni, è stata operata anche in merito all’analisi procedurale di attivazione dello zoom nel sistema operativo Mac, le cui operazioni peraltro non variano di molto tra una versione e l’altra).
+La procedura innanzi esposta riguarda la versione Mac Mojave 10.14.
+
+
+NELLE FONTI CITARE A CHE 
+cita da wikipedia le reference:
+sito IOS OSX: 
+https://support.apple.com/en-us/HT204390 SHORTCUT SOLO PER IPHONE IPAD
+Magnifier in sito ufficiale Apple, su computer, ipad, iphone https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 
+sito microsoft: https://support.microsoft.com/it-it/help/4052291/accessories-how-do-i-turn-my-mouse-magnifier-on-and-off 
+(aggiornato 10 aprile 2018; consultato 13 novembre 2018)
+[guida all’uso e risoluzione di problemi della Microsoft, trovaa in calce alla pagina wikipedia]
+wikipedia: https://en.m.wikipedia.org/wiki/Screen_magnifier
+
+### 2.7 Storia accessibilità:/ tipologie screenreaader a partire dagli anni 90
+Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
+Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech).* Utilizzabile esclusivamente su sistema operativo Windows 98 o successivo, aveva come caratteristica unica la possibilità di utilizzare i menu a cascata e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo ne comportò una notevole diffusione perché nonostante i costi elevati, in Italia spesso finanziati dal sistema sanitario locale o dal sistema scolastico, la suite di comandi da tastiera particolarmente complicata. È possibile rintracciare differenti pagine web e letteratura specifica in merito in cui si spiega come utiliizzare JAWS e vi si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi. Oltretutto, gli stessi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedono l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
+Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. [^germano-carella-ausili-screenreader-2]
+Recentemente, anche grazie alla spinta normativa imposta dai vari goversni, hanno cominciato a diffondersi software efficienti e gratuiti, che hanno comportato una notevole svolta nell’autonomia dei disabili visivi. 
+Sicuramente degno di nota è il software opensource gratuito NVDA *(Non Visual Desktop Access)*, introdotto a partire dalla versione Windows7 e disponibile anche in versione “portable” ovvero installabile su supporto esterno al PC e quindi trasportabile facilemente da un PC ad un altro, rendendo immediatamente accessibile la macchina di interesse. Questo fatto ha abbattuto un’ulteriore barriera, secondo cui il disabile visvo fosse costretto ad utilizzare esclusivamente i propri supporti hardware. 
+
+** Un altro aspetto da non sottovalutare, in aggiunta a quello tecnico di usabilità delle informazioni, è legato alla qualità della riproduzione del suono e della voce. 
+
+Successivamente, sono stati sviluppati software opensource o comunque gratuiti 
+l'utente tenta di eeseguire una ricerca in un browser, vengono interpretate molti tasti digitati vengono intrepretati dallo screen reader come sue proprie hortcut (per ovviaer a questo sconveniente gli sviluppatori hano diviso le tipologie di navigazione in due: modalità maschere (per dare comandi allo jaws e modalità d'inserimentos semplice per poter eseguire la ricerca in  modo comune)
+
+. registrazione iphone scarfia differenza tra assistente vocale e screen reader
+**
+<!-- in word evidenziato in giallo -->
+
+IBM ha , prima ditta a interssarsi di accessiblità svilupando un suo screrenreader per i dipendenti interni (v "concetto di accessibilità.doc") ha implementato uno screenr eader denominato Home Page Reader sviluppato specificatamente solo per poche applicazioni come wordpad, windows desktop, notepad.
+Narrator, sempre per windows 8 e successive, è considerato leggermente migliore rispeto agli in quanto meno complesso, tutavia presentava difficoltà al primo utilizzo
+perchè non trovavi elenco dei comandi e ingenerale perchè le short cut prevedevano l'impiego dell'home key, di complesso utilizzo come già detto.
+
+<!-- CITARE SITO MICROSOFT.COM -->
+
+VoiceOver per Mac è meglio strutturato dei precedenti elencati, all'avvio del sistema operativo l'utente non vedente può facilmente accedere al tutorial  direttamente, per imparare a usarlo.
+presenta un numero minore di comandi rapidi rispetto a JAWS, comandi che prevedono il tasto chiave Home/V.O oppure capslock o insert
+
+### 2.7.1 / Storia tecniche accessibilità
+<!-- da completare -->
+
+### 2.7.2 / riflessione su come può essere reso accessibile software audio [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella seconda sezione della tesi (180 pag)
+
+
+## Conclusioni accessiblità
+Ciò che ha portato a uno spinto sviluppo negli ultimi dieci anni degli screen reader e del vocal recognition delle tecnologie di accesibilità è stao il fatto che hanno troavato vasto utilizzo anche dai
+normo dotati che possono così far cose che altrimenti non potrebbero fare per esempio i comandi vocali mentre guidi l'auto, ottenere rispota al telefono a distanza /google home); il device riconosce la specifica voce ("ok google").
+tutto ciò ha avuto ricaduta fondamentale sull'uso dei device da parte dei disabili che altrimenti non avrebbero mai ricevuto mai una ricerca così spinta.
+legge spinge a fare il minimo indispensabile per soddisfare i requisiti di leggi, la ricaduta economica va oltre.
+
+
+
+
+
+
+
 
 
 

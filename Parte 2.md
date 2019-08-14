@@ -86,4 +86,53 @@ sviluppati software di input tramite comando vocale.
 (…… ; consultato 25 novembre 2018). -->
 
 ### 2.6.1 Screen Reader
+Con il termine “screen reader” si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^text-to-speach], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Il sintetizzatore per funzionare sfrutta la scheda audio del computer. Naturalmente lo screen reader è caricato nella memoria del computer. 
+
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
+<!-- citare le sue fonti bibliografiche a fondo pagina del sito -->
+
+La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è chiamata sintesi vocale, in quanto in grado di articolare suoni sintetizzati, quindi artificiali, in fonemi [^fonemi]. 
+<!-- wikipedia: cambiare fonte per omografi e numeri -->
+
+Le regole grammaticali della lingua consentono di ottenere una corretta pronuncia dei vocaboli e persino le parole abbreviate; possono invece creare problemi: i nomi composti, i termini con successioni di lettere inusuali, le omografie e numeri [^omografi-numeri]. Con i progressivi miglioramenti delle tecnologie alla base delle sintesi vocali, tali problematiche stanno diminuendo 
+I primi sintetizzatori ricreavano voci dal suono metallico e spesso la lettura risultava difficoltosa o addirittura incomprensibile, con evidenti riflessi negativi sull’efficacia del messaggio da parte dell’utilizzatore. Fortunatamente questa tecnologia, che ha avuto un ampio sviluppo avendo trovato riscontro in applicazioni commerciali, è stata continuamente migliorata negli anni, soprattutto dal punto di vista della naturalezza della lettura e dell’intelligibilità. Questo ha prodotto Le voci prodotte in una gamma varia, sono ormai molto simili a quelle umane, in grado di riprodurre suoni non solo comprensibili, ma che riflettano anche le intonazioni del parlato, come nel fondamentale caso delle frasi esclamative o interrogative. Notevoli progressi si riscontrano anche relativamente alla normalizzazione del testo.
+Oggi però, l’utente con deficit visivo è costretto a operare delle scelte quando si trova nella condizione di dover acquistare una sintesi vocale, infatti una sintesi molto elaborata, quindi con voce più simile a quella umana, richiede troppo dispendio di memoria del PC e rallentamenti nell’esecuzione delle operazioni. Tali voci vengono utilizzate di preferenza da enti e società che dispongono di grandi elaboratori, piuttosto che dal singolo utente.
+Esistono varie modalità d’uso di una sintesi vocale, infatti vi sono comandi che consentono la lettura, di un testo o di un elemento, per caratteri, parole, righe
+<!-- citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER -->
+
+trovare una stringa di testo nella videata; annunciare la locazione del cursore o dell’elemento selezionato. 
+Esistono anche funzioni più avanzate, come: leggere la porzione di testo con una particolare formattazione; leggere una predeterminata porzione dello schermo a richiesta; leggere la porzione di testo selezionata, permette all’utente di conoscere qual è la scelta attiva in un menù. [^funzionamento-screenreader-american-foundation]
+Per eseguire tali operazioni i comandi differiscono secondo la versione del sistema operativo impiegato, nonché quella dello screen reader, cosa che crea non poco disagio all’utente. Esistono però anche comandi che attivano la funzionalità di suggerimento delle shortcut relative allo screen reader.
+Molti sistemi operativi supportano screen reader ad essi dedicati: Linux utilizza Orca, Windows Vista, Windows XP, Windows 98, Windows ME e Windows NT supportano Narrator; infine Apple Macintosh computers il sistema OS X con lo screen reader VoiceOve [^tipologie-screenreader-american-foundation]
+Dall’inizio degli anni ’90 la conformazione dei sistemi operativi non è più, per l’utente, di natura testuale, ma si basa sulla componente grafica della GUI (Graphical User Interface), che è composta da icone e pulsanti. Ne consegue che lo screen reader non può più esclusivamente estrarre le informazioni di natura testuale presenti nella videata, ma deve essere in grado di leggere anche le componenti grafiche, mediante opportuni accorgimenti e appositi metadati, testi alternativi, tag.
+Di seguito vengono elencate le principali funzioni dello screen reader.
+- Identificare e leggere testi. Normalmente ciò che è rappresentato a schermo, viene realizzato tramite indicazioni di coordinate di pixel, secondo una matrice che indica quali sono i colorati e quali no. Lo screen reader non è in grado di distinguere l’elemento testuale da quello grafico, pertanto intercetta l’input di testo prima che venga immesso e lo immagazzina in un’altra matrice chiamata OMS (Off-Screen Model), basandosi nel suo funzionamento esclusivamente su questa e ignorando la prima.
+- Annunciare e identificare le funzioni di Windows construct. Windows mantiene il tipo o la classe di ciascun elemento in un’applicazione e la maggior parte degli screen reader è in grado di recuperare questa informazione e renderla disponibile all’utente. Per esempio, in una finestra di dialogo sono normalmente in grado di dire all’utente quali siano i pulsanti e quali gli items.
+- Identificazione degli elementi grafici. Alcune funzionalità delle finestre non sono etichettate con testo, ma semplicemente riportate come icone o immagini. Lo screen reader è in grado di etichettare questi elementi grafici in modo che possano avere significato per l’utente. (Questo argomento verrà esplicitato più dettagliatamente nel paragrafo riguardante le APIs).
+- Fornire un’interfaccia alternativa efficiente. Scopo ultimo dello screen reader è rendere possibile l’utilizzo del computer da parte di chi non è in condizione di leggere lo schermo, tramite accorgimenti che permettano la fruizione delle informazioni in esso contenute. Per questo motivo è necessario introdurre comandi opportunamente semplificati che consentano di selezionare le informazioni o le parti di schermo richiesti in uno specifico momento, per una determinata operazione, permettendo di lavorare in autonomia e senza eccessive perdite di tempo. Esistono ad esempio comandi che consentono di far leggere alla sintesi l’intero contenuto dello schermo dall’angolo in alto a sinistra, fino all’angolo in basso a destra, oppure di portare direttamente il cursore al punto d’interesse, saltando le parti intermedie. Vi sono altresì comandi per leggere secondo parametri scelti dall’utente: lettura per intestazioni di pagina, link, colonne, righe.
+- Funzionalità di mouse o puntatore. Una evidente difficoltà nell’utilizzo del mouse, soprattutto per i non vedenti totali, è legata al posizionamento del puntatore. Tale problematica è stata risolta suddividendo lo schermo in righe e colonne, nelle quali è possibile muovere il puntatore di unità, sfruttando i movimenti delle frecce della tastiera, e emularne il click usando il tastierino numerico. 
+L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e come esse interagiscano tra loro, verrà trattata più avanti.
+<!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI] -->
+
+#### PARLARE DI API’s
+Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è stato espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, slider, link), 
+**proprietà del controllo (nome), automation properties (comandi da tastiera),**
+<!-- inserire elementi mancanti -->
+
+patterns/behaviour (toggle, invoke, select, expande/collapse); infine “layout the hierarky for expected behaviour”.  (tratto da PDF di sito Microsoft [^layout-the-hierarky-for-expected-behaviour-pdf-sito-microsoft]
+<!-- recuperare pdf perchè url non più funzionante -->
+
+da questo link si può eseguire il suo download) 
+Le UIA danno anche informazioni sul contesto in cui il comando si trova; il contesto in cui il focus è posizionato (ad esempio il cursore di testo all’apertura di un documento di Word)
+La quantità di informaziooni fornite all’utente dipende da come quest’ultimo ha impostato il “grado di verbosità”, ad esempio si può scegliere se lo screen reader annuncia o meno che il pulsante è selezionato, se dà suggerimenti sulle azioni che è possibile eseguire (premere invio o spazio per selezionare); oppure ancora (premere le frecce) per espandere il sottomenù quindi si può anche impostare che vengano forniti suggerimenti sulle shortcut da utilizzare. (Si noti che molto spesso è data la possibilità di personalizzare le shortcut, sia relative a alcune funzioni interne allo screen reader, sia relative a funzionalità presenti nei vari programmi, ma non si affronterà questo argomento in quanto il tentativo è di riuscire a essere il più generici possibile).
+NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
+
+**C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES.**
+<!-- in word evidenziato in azzurro -->
+
+**Active Accessibility
+Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
+<!-- in word evidenziato in giallo - tradurre e rielaborare -->
+## 2.6.2 Barra Braille
+
 

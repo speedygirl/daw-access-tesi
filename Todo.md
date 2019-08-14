@@ -78,7 +78,13 @@ appunti file word "Daw bozza ver 1.doc"
 
 ## paragrafo 1.4 il MIDI
 - [x] importare dal doc word
-- [x] salvare le foto contenute nel deoc e importarli in markdown 
+- [x] salvare le foto contenute nel doc e importarli in markdown 
+
+## Appunti e cose da fare su "Parte 2"
+- [] verificare - riferimento: "
+però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati"
+<!-- controllare in word era evidenziato azzurro -->
+
 
 ## Appunti e cose da fare su "Parte 3"
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

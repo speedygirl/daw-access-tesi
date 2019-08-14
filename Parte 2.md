@@ -68,16 +68,16 @@ Il concetto di usabilità nasce negli anni ’60 ma si è poi sviluppato alla fi
 
 Con il termine “assistive technologies” (AT), o nella traduzione italiana “tecnologie assistive”, ci si riferisce all’insieme delle soluzioni hardware e software che rendono accessibile e usabile qualsiasi sistema informatico da parte di persone con disabilità fisica, sensoriale o cognitiva, consentendo la fruizione delle informazioni e dei servizi da esso erogati.
 L’ideale sarebbe progettare programmi e applicazioni nativamente accessibili, ma troppo spesso questi principi rimangono solo delle enunciazioni.
-Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insieme delle parti hardware e software che forniscono informazioni relative allo stato della macchina e ai comandi necessari all’utente per svolgere le funzioni specifiche per cui il programma è stato progettato. [*massimiliano-salfi-assistive-technology-slide]
+Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insieme delle parti hardware e software che forniscono informazioni relative allo stato della macchina e ai comandi necessari all’utente per svolgere le funzioni specifiche per cui il programma è stato progettato. [^massimiliano-salfi-assistive-technology-slide]
 <!-- citare correttamente Massimiliano Salfi SLIDE NFORMATICA ASSISTIVE TECHNOLOGY -->
 
-La prima formalizzazione del concetto di assistive technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [*the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
-Negli “Access Board's [*Electronic-and-Information Technology-Accessibility-Standards]
+La prima formalizzazione del concetto di assistive technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
+Negli “Access Board's [^electronic-and-Information Technology-Accessibility-Standards]
 si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
 <!-- in word evidenziato in giallo -->
 
 ## 2.6 Esempi di assistive technologies legati alla disabilità visiva
-Fin dalla nascita del personal computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [*germano-carella-ausili-screenreader]
+Fin dalla nascita del personal computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili-screenreader-1]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, erano in grado di trasmettere frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono 
 sviluppati software di input tramite comando vocale. 
  

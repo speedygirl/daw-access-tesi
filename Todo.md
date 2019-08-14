@@ -62,7 +62,7 @@ directory: onedrive<tesi<textedition<images
 - [ ] cercare walkman arlate gialli e grigi
 - [ ] inserire foto valvole radio nonno da sd card reflex
 - [x] inserire foto disco quadrifonico nonno bontempi
-- [ ] formati loosy e loosness 
+- [x] formati loosy e loosness 
 - [x] integra compact cassette riferimento: "l’audio cassetta si impose come il supporto più utilizzato nel mondo"
 - [x] materiale dell'involucro e funzionamento tecnico del DAT. riferimento: "poteva avere una durata compresa tra i 15 e i 240 minuti"
 - [x] riferimento: "costituisce poi lo stampo per la serializzazione"

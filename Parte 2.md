@@ -16,7 +16,7 @@ la democrazia ha portato a un dibattito sul reale significato di uguaglianza / d
 dall'estensione a tutti del diritto di voto (il riconoscimento cioè che tuttti sono uguali( a considerazioni più "alte".
 non a caso gli 11 enunciati della legge stanca prendono le mosse dall'articolo 3 della Costituzione Italiana.
 
-cosa deve garantire la società?
+#### cosa deve garantire la società?
 Di cosa la società si deve fare carico?
 per approfondire questo argomento citare la legge sull'integrazione degli anni '70, che poi, nel 1992 è diventata la legge 104).
 

@@ -1,15 +1,15 @@
 à note parte 2
 Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale" sta trasformando l'energia, l'economia e il mondo, traduzione di Paolo Canton, collana Oscar Mondadori, Arnoldo Mondadori Editore, 2011, pp. 329, ISBN 978-88-04-61420-3.
-[^eremy-Rifki-p329]
+[^eremy-Rifki-p329]: p 329
 
 http://www.treccani.it/enciclopedia/digital-divide_%28Enciclopedia-della-Scienza-e-della-Tecnica%29/
-[^digital-devide-definizione]
+[^digital-devide-definizione]: digital devide definizione
 
 http://www.isticom.it/documenti/rivista/rivista2014/7_accessibilita_usabilita_metodologie_inclusione_sociale.pdf
-[^accessibilita-usabilita-rivista]
+[^accessibilita-usabilita-rivista]: accessibilità usabilità
 
 http://www.europedirectteramo.it/files/CEE.pdf
-[^direttiva-europea-pdf]
+[^direttiva-europea-pdf]: direttiva europea
 
 CITA SALFI ASSISTIVE TECHNOLOGY SLIDE
 [^massimiliano-salfi-assistive-technology-slide]

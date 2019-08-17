@@ -114,7 +114,7 @@ Di seguito vengono elencate le principali funzioni dello screen reader.
 - Fornire un’interfaccia alternativa efficiente. Scopo ultimo dello screen reader è rendere possibile l’utilizzo del computer da parte di chi non è in condizione di leggere lo schermo, tramite accorgimenti che permettano la fruizione delle informazioni in esso contenute. Per questo motivo è necessario introdurre comandi opportunamente semplificati che consentano di selezionare le informazioni o le parti di schermo richiesti in uno specifico momento, per una determinata operazione, permettendo di lavorare in autonomia e senza eccessive perdite di tempo. Esistono ad esempio comandi che consentono di far leggere alla sintesi l’intero contenuto dello schermo dall’angolo in alto a sinistra, fino all’angolo in basso a destra, oppure di portare direttamente il cursore al punto d’interesse, saltando le parti intermedie. Vi sono altresì comandi per leggere secondo parametri scelti dall’utente: lettura per intestazioni di pagina, link, colonne, righe.
 - Funzionalità di mouse o puntatore. Una evidente difficoltà nell’utilizzo del mouse, soprattutto per i non vedenti totali, è legata al posizionamento del puntatore. Tale problematica è stata risolta suddividendo lo schermo in righe e colonne, nelle quali è possibile muovere il puntatore di unità, sfruttando i movimenti delle frecce della tastiera, e emularne il click usando il tastierino numerico. 
 L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e come esse interagiscano tra loro, verrà trattata più avanti.
-<!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI] -->
+<!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI -->
 
 #### PARLARE DI API’s
 Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è stato espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, slider, link), 
@@ -161,7 +161,6 @@ I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90
 
 Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone, supportano l’utilizzo alla guida o hands free e recentemente in dispositivi come il Google Home supportando l’IOT.
 <!-- AMPLIARE IOT -->
-AMPLIARE IOT
 
 Uno degli utilizzi più comuni sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi. Un software molto conosciuto è Dragon Naturally Speaking 
 <!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
@@ -227,7 +226,7 @@ l'utente tenta di eeseguire una ricerca in un browser, vengono interpretate molt
 **
 <!-- in word evidenziato in giallo -->
 
-IBM ha , prima ditta a interssarsi di accessiblità svilupando un suo screrenreader per i dipendenti interni (v "concetto di accessibilità.doc") ha implementato uno screenr eader denominato Home Page Reader sviluppato specificatamente solo per poche applicazioni come wordpad, windows desktop, notepad.
+IBM ha , prima ditta interessarsi di accessiblità svilupando un suo screrenreader per i dipendenti interni (v "concetto di accessibilità.doc") ha implementato uno screenr eader denominato Home Page Reader sviluppato specificatamente solo per poche applicazioni come wordpad, windows desktop, notepad.
 Narrator, sempre per windows 8 e successive, è considerato leggermente migliore rispeto agli in quanto meno complesso, tutavia presentava difficoltà al primo utilizzo
 perchè non trovavi elenco dei comandi e ingenerale perchè le short cut prevedevano l'impiego dell'home key, di complesso utilizzo come già detto.
 
@@ -247,33 +246,4 @@ Ciò che ha portato a uno spinto sviluppo negli ultimi dieci anni degli screen r
 normo dotati che possono così far cose che altrimenti non potrebbero fare per esempio i comandi vocali mentre guidi l'auto, ottenere rispota al telefono a distanza /google home); il device riconosce la specifica voce ("ok google").
 tutto ciò ha avuto ricaduta fondamentale sull'uso dei device da parte dei disabili che altrimenti non avrebbero mai ricevuto mai una ricerca così spinta.
 legge spinge a fare il minimo indispensabile per soddisfare i requisiti di leggi, la ricaduta economica va oltre.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

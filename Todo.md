@@ -111,8 +111,6 @@ riferimento: "arrivare a una comprensione sempre maggiore."
 riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 -[] AMPLIARE IOT
 
-
-
 ## Appunti e cose da fare su "Parte 3"
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
   

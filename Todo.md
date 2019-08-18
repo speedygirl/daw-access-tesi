@@ -102,7 +102,7 @@ riferimento: "**proprietà del controllo (nome), automation properties (comandi 
 riferimento nota: [^layout-the-hierarky-for-expected-behaviour-pdf-sito-microsoft]
 - [] <!-- controllare se è del 1975 -->
 riferimento: "Naturally Speaking [^Dragon-Naturally-Speaking] dell'IBM del 1975."
-- [] <!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
+- [x] <!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
 riferimento: "software molto conosciuto è Dragon Naturally Speaking "
 - [] <!-- QUALE  TECNOLOGIA PERMETTEVA A PRG DI I
 riferimento: "arrivare a una comprensione sempre maggiore."

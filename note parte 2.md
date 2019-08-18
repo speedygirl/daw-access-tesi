@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=7CAkYs8PJT0 (consultato 9 novembre 2018, video c
 [^via-voice]
 
 https://discovertechnologies.com/blog/dragon-speech-recognition-software-for-blind/ (consultato 9 novembre 2018; ultimo aggiornamento © Discover Technologies 2018)
-[^Dragon-Naturally-Speaking]
+[^dragon-Naturally-Speaking]
 
 https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 link consultato 9 gennaio 2018
 [^cursor-magnification]

@@ -156,16 +156,13 @@ NELLE FONTI CONSULTATE CITARE ANCHE
 ### 2.6.3 Speech Recognition
 Si definisce Speech Recognition la capacità di un supporto elettronico di comprendere il parlato umano e di eseguire operazioni a seguito di quanto recepito. Tale sistema necessita di un microfono che capti la voce del parlante e di un hardware che converta il segnale da onde analogiche a segnale digitale. Successivamente i dati in formato digitale sono processati da un software dedicato che è in grado di interpretare i fonemi individuando le singole parole e convertirle poi in formato macchina, in modo tale che possano essere finalmente utilizzate dal supporto. Questo sistema, sfrutta algoritmi di modellazione acustica che individuano la relazione tra le parole e il segnale audio, in seguito tale processo viene affinato utilizzando una modellazione linguistica in grado di riconoscere i significati di parole simili all’interno del contesto di una frase, in modo da non creare ambiguità di significato e di comandi.
 Le prime release di questo genere di software avevano un vocabolario molto limitato e potevano interpretare solo semplici frasi che fossero ben scandite e perfettamente pronunciate. 
-I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^Dragon-Naturally-Speaking] dell'IBM del 1975.
+I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^dragon-Naturally-Speaking] dell'IBM del 1975.
 <!-- controllare se è del 1975 -->
 
 Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone, supportano l’utilizzo alla guida o hands free e recentemente in dispositivi come il Google Home supportando l’IOT.
 <!-- AMPLIARE IOT -->
 
-Uno degli utilizzi più comuni sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi. Un software molto conosciuto è Dragon Naturally Speaking 
-<!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
-
-; oppure recenti funzionalità built-in nei sistemi operativi Windows e Machintosh.
+Uno degli utilizzi più comuni sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi. Un software molto conosciuto è Dragon Naturally Speaking; [^dragon-Naturally-Speaking] oppure recenti funzionalità built-in nei sistemi operativi Windows e Machintosh.
 Alcuni programmi supportano in automatico lo speech recognition mentre altri no, ma è una funzione che può essere abili	tata per ogni applicazione selezionando “all programs” > “Accessories” > “ease of access” > “windows speech recognition” > “enable dictation everywhere”.
 In OSX “preferences pannel” > “dictation and speech”.
 La nuova frontiera di sviluppo di queste tecnologie sono l’interactive speech e l’utilizzo hands free di dispositivi mobile. Tutta questa branca ha 

@@ -88,23 +88,24 @@ però per farlo occorrono conoscenza, intelligenza e controllo dei diretti inter
 - [] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
 - [] scrivere capitolo 2.4
-- [] <!-- citare le sue fonti bibliografiche a fondo pagina del sito -->
+- [] citare le sue fonti bibliografiche a fondo pagina del sito
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 riferimento: "La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è chiamata"
-- [] <!-- wikipedia: cambiare fonte per omografi e numeri -->
-- [] <!-- citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER -->
+- [] wikipedia: cambiare fonte per omografi e numeri
+- [] citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER
 riferimento: "Esistono varie modalità d’uso di una sintesi vocale, infatti vi sono comandi che consentono la lettura, di un testo o di un elemento, per caratteri, parole, righe"
-- [] <!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI -->
+- [] SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI
 riferimento: "L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e come esse interagiscano tra loro, verrà trattata più avanti."
-- [] <!-- inserire elementi mancanti --> 
+- [] inserire elementi mancanti
 riferimento: "**proprietà del controllo (nome), automation properties (comandi da" tastiera),**
-- [] <!-- recuperare pdf perchè url non più funzionante -->
+- [x] recuperare pdf perchè url non più funzionante
 riferimento nota: [^layout-the-hierarky-for-expected-behaviour-pdf-sito-microsoft]
-- [] <!-- controllare se è del 1975 -->
+il pdf si intitola "UIA Windows Accessibility.
+- [x] controllare se è del 1975
 riferimento: "Naturally Speaking [^Dragon-Naturally-Speaking] dell'IBM del 1975."
 - [x] <!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
 riferimento: "software molto conosciuto è Dragon Naturally Speaking "
-- [] <!-- QUALE  TECNOLOGIA PERMETTEVA A PRG DI I
+- [] QUALE  TECNOLOGIA PERMETTEVA A PRG DI IMPARARE?
 riferimento: "arrivare a una comprensione sempre maggiore."
 - [] <!-- CITARE SITO MICROSOFT.COM -->
 riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."

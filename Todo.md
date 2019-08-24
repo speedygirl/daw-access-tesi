@@ -87,7 +87,7 @@ però per farlo occorrono conoscenza, intelligenza e controllo dei diretti inter
 - [x] link rivista fiato metodologogie accessibiliità fine 2.1
 - [x] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
-- [] scrivere capitolo 2.4
+- [x] scrivere capitolo 2.4
 - [] citare le sue fonti bibliografiche a fondo pagina del sito
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 riferimento: "La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è chiamata"

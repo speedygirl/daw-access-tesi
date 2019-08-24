@@ -63,7 +63,8 @@ Il concetto di usabilità nasce negli anni ’60 ma si è poi sviluppato alla fi
 <!-- in word evidenziato in azzurro -->
 
 ## 2.4 attuazione nello sviluppo software e web
-<!-- da fare -->
+
+
 
 ## 2.5 Assistive technologyes definizione
 <!-- in word evidenziato in giallo -->
@@ -88,7 +89,7 @@ sviluppati software di input tramite comando vocale.
 (…… ; consultato 25 novembre 2018). -->
 
 ### 2.6.1 Screen Reader
-Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^text-to-speach], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente suuicomputer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi anccor più recenti sono le case produttrici, Windows, Macc..., che li inseriscono di default, oggi un non vedente può usare qualsiasi dispositivo.  
+Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^text-to-speach], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente suuicomputer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi anccor più recenti sono le case produttrici, Windows, Macc, Linux, che li inseriscono di default, oggi un non vedente può usare qualsiasi dispositivo.  
 
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 <!-- citare le sue fonti bibliografiche a fondo pagina del sito -->

@@ -7,7 +7,7 @@ Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale"
 http://www.treccani.it/enciclopedia/digital-divide_%28Enciclopedia-della-Scienza-e-della-Tecnica%29/
 [^digital-devide-definizione]: digital devide definizione
 
-http://www.isticom.it/documenti/rivista/rivista2014/7_accessibilita_usabilita_metodologie_inclusione_sociale.pdf
+rivista formato pdf metodologie di inclusione sociale 2014
 [^accessibilita-usabilita-rivista]: accessibilità usabilità
 
 http://www.europedirectteramo.it/files/CEE.pdf

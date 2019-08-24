@@ -84,7 +84,7 @@ appunti file word "Daw bozza ver 1.doc"
 - [] verificare - riferimento: "
 però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati"
 <!-- controllare in word era evidenziato azzurro -->
-- [] link treccani fine 2.1
+- [x] link rivista fiato metodologogie accessibiliità fine 2.1
 - [x] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
 - [] scrivere capitolo 2.4

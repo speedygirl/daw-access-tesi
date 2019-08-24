@@ -79,6 +79,10 @@ https://youtu.be/WWT0ltBf3MU
 https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 link consultato 9 gennaio 2018
 [^cursor-magnification]
 
+[^windows-magnifier-attivazione]
+https://support.microsoft.com/it-it/help/4052291/accessories-how-do-i-turn-my-mouse-magnifier-on-and-off  (aggiornato 10 aprile 2018; consultato 13 novembre 2018)
 
+https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 
+[^mac-magnifier-attivazione]
 
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

@@ -178,23 +178,13 @@ differenti modalità di ingrandimento:  è personalizzabile impostando una zona 
 Alcuni magnifier hanno integrati degli screen reader basilari che leggono la porzione di schermo ingrandita (leggeri a livello di software occupano poca memoria).
 Esempi di magnifier:
 windows a partire dal 1998 ha integrato un applicativo di ingrandimento chiamato Magnifier.
-Tale funzione è tutt’ora disponibile, in Windows 10 per attivarlo è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. (Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test sui programmi).
-OSX IOS si attiva con specifici imput (shortcut, mouse pad, scrool)
+Tale funzione è tutt’ora disponibile, in Windows 10 per attivarlo [^windows-magnifier-attivazione] è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. (Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test sui programmi).
+OSX IOS si attiva con specifici imput [^mac-magnifier-attivazione] (shortcut, mouse pad, scrool)
 La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezionare System Preferences.
 All’interno del System row selezionare Universal Access, attivare il pulsante Zoom. Mentre per ulteriori opzioni raggiungere il pulsante Options.
 (per identiche ragioni si è scelto di esporre  le  procedure relative alla versione Mac Mojave 10.14, ossia il sistema operativo impiegato per eseguire i test sui programmi).
 
-NELLE FONTI CITARE ANCHE 
-cita da wikipedia le reference:
-sito IOS OSX: 
-https://support.apple.com/en-us/HT204390 SHORTCUT SOLO PER IPHONE IPAD
-Magnifier in sito ufficiale Apple, su computer, ipad, iphone https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 
-sito microsoft: https://support.microsoft.com/it-it/help/4052291/accessories-how-do-i-turn-my-mouse-magnifier-on-and-off 
-(aggiornato 10 aprile 2018; consultato 13 novembre 2018)
-[guida all’uso e risoluzione di problemi della Microsoft, trovaa in calce alla pagina wikipedia]
-wikipedia: https://en.m.wikipedia.org/wiki/Screen_magnifier
-
-### 2.7 Storia accessibilità:/ tipologie screenreaader a partire dagli anni 90
+### 2.7 Storia accessibilità: tipologie screenreaader a partire dagli anni 90
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
 Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech).* Utilizzabile esclusivamente su sistema operativo Windows 98 o successivo, aveva come caratteristica unica la possibilità di utilizzare i menu a cascata e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo ne comportò una notevole diffusione perché nonostante i costi elevati, in Italia spesso finanziati dal sistema sanitario locale o dal sistema scolastico, la suite di comandi da tastiera particolarmente complicata. È possibile rintracciare differenti pagine web e letteratura specifica in merito in cui si spiega come utiliizzare JAWS e vi si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi. Oltretutto, gli stessi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedono l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
 Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. [^germano-carella-ausili-screenreader-2]

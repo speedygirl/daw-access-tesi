@@ -1,4 +1,6 @@
-à note parte 2
+note parte 2
+inserire commento html sotto ogni foto inserita nel testo senza inserire la nota relativa all'immagine in questo file da ale 24 agosto 2019
+
 Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale" sta trasformando l'energia, l'economia e il mondo, traduzione di Paolo Canton, collana Oscar Mondadori, Arnoldo Mondadori Editore, 2011, pp. 329, ISBN 978-88-04-61420-3.
 [^eremy-Rifki-p329]: p 329
 
@@ -11,7 +13,6 @@ http://www.isticom.it/documenti/rivista/rivista2014/7_accessibilita_usabilita_me
 http://www.europedirectteramo.it/files/CEE.pdf
 [^direttiva-europea-pdf]: direttiva europea
 
-CITA SALFI ASSISTIVE TECHNOLOGY SLIDE
 [^massimiliano-salfi-assistive-technology-slide]
 
 https://www.parentcenterhub.org/ata/, aggiornato il 09/10/2010, consultato il 27/11/2018
@@ -35,6 +36,8 @@ https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibil
 
  https://it.wikipedia.org/wiki/Sintesi_vocale cambiare fonte
 [^omografi-numeri]
+
+[^schema-sintesi-vocale]: tratto da wikipedia
 
 https://www.youtube.com/watch?v=o_mvO6EQ0tM
 [^mallard-youtube]
@@ -69,6 +72,9 @@ https://www.youtube.com/watch?v=7CAkYs8PJT0 (consultato 9 novembre 2018, video c
 
 https://discovertechnologies.com/blog/dragon-speech-recognition-software-for-blind/ (consultato 9 novembre 2018; ultimo aggiornamento © Discover Technologies 2018)
 [^dragon-Naturally-Speaking]
+
+https://youtu.be/WWT0ltBf3MU
+[^machine-learning-oogle-io2018]: Conferenza Google I/O 2018 youtube
 
 https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 link consultato 9 gennaio 2018
 [^cursor-magnification]

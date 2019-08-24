@@ -95,8 +95,8 @@ https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibil
 
 Il sistema di screen reader è composto da due parti: una detta front-end e una di Back-end. Le due funzioni del front-end sono: la normalizzazione, ovvero un'analisi del testo che converta sigle, abbreviazioni, numeri in parole, e l'analisi linguistica, che traspone gli idiomi in fonemi facendone un'analisi linguistica in grado di creare intonazione, pause, respiri, periodi. 
 La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è il baack-end ed è chiamata sintesi vocale, in quanto in grado di articolare suoni sintetizzati, quindi artificiali, in fonemi [^fonemi] Il sintetizzatore per funzionare sfrutta la scheda audio del computer: questo, come verrà esposto in seguito, comporterà dei problemi di compatibilità con i software di editing musicale.
-
-
+![](.\images\generic\Sintesi_vocale.png)
+[^schema-sintesi-vocale]: tratto da wikipedia
 <!-- wikipedia: cambiare fonte per omografi e numeri -->
 
 Le regole grammaticali della lingua consentono di ottenere una corretta pronuncia dei vocaboli e persino le parole abbreviate; possono invece creare problemi: i nomi composti, i termini con successioni di lettere inusuali, le omografie e numeri [^omografi-numeri]. Con i progressivi miglioramenti delle tecnologie alla base delle sintesi vocali, tali problematiche stanno diminuendo 
@@ -120,7 +120,7 @@ L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e
 <!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI -->
 
 #### PARLARE DI API’s
-Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è stato espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, slider, link), 
+Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è stato espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, combo, slider, link), 
 **proprietà del controllo (nome), automation properties (comandi da tastiera),**
 <!-- inserire elementi mancanti -->
 
@@ -137,42 +137,32 @@ NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare qua
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
 <!-- in word evidenziato in giallo - tradurre e rielaborare -->
-## 2.6.2 Barra Braille
+
+### 2.6.2 Barra Braille
 ![](.\images\generic\barra-braille.jpg)
 [^immagine-barra-braille]: tratto da collezione privata
 Il testo “Assistive Technology for Visually Impaired and Blind People” definisce: *“Refreshable Braille displays or soft Braille displays are output devices for reading text from a computer screen or ﬁle in Braille cells”.* [^barra-braille-definizione]
-In italiano questo supporto viene tradotto con il termine “barra braille”; si tratta di un dispositivo elettromeccanico in grado di riprodurre caratteri alfanumerici in formato braille, sollevando alternativamente dei pin plastici, tramite materiale piezoelettrico (Figura 1).
+In italiano questo supporto viene tradotto con il termine “barra braille” [^barra-braille-manuale-papenmeier]; si tratta di un dispositivo elettromeccanico in grado di riprodurre caratteri alfanumerici in formato \braille, sollevando alternativamente dei pin plastici, tramite materiale piezoelettrico (Figura 1).
 Generalmente è composto da una striscia di matrici, a ciascuna delle quali corrisponde un singolo carattere braille: il numero delle matrici è caratteristica determinante la capacità e la velocità di lettura. All’esaurimento del numero di matrici, tramite appositi tasti, l’utente può aggiornare i caratteri rappresentati per proseguire la lettura. 
 Il braille display può funzionare esclusivamente appoggiandosi ad un software di screen reader, in quanto il testo da riprodurre deve prima essere filtrato e tradotto in segnali elettronici corretti, per poter riprodurre adeguatamente i caratteri braille. 
-L’utente può così scegliere di utilizzare sia l’output braille che l’output sonoro tramite sintesi voc, oppure in alternanza secondo necessità. 
-Questo supporto consente all’utente di essere il protagonista della lettura, anziché ascoltatore passivo, con notevoli benefici per l’apprendimento. Questi dispositivi sono pensati per essere portatili, ma il loro uso è comunque limitato del fatto che devono essere sempre supportati dal software di screen reader apposito, risultando quindi utilizzabile esclusivamente solamente sul PC dell’utente appositamente settato e non può invece essere interfacciato con altri supporti hardware privi del software. Un altro aspetto da non sottovalutare è la velocità di aggiornamento e spostamento dei pin da parte dell’apparecchio, che ha notevole influenza sulla velocità di lettura, soprattutto in dispositivi dotati di uno scarso numero di matrici.
+L’utente può così scegliere di utilizzare sia l’output braille che l’output sonoro tramite sintesi vocale, oppure in alternanza secondo necessità. 
+Questo supporto consente all’utente di essere il protagonista della lettura, anziché ascoltatore passivo, con notevoli benefici per l’apprendimento. Questi dispositivi sono pensati per essere portatili, ma il loro uso è comunque limitato del fatto che devono essere sempre supportati dal software di screen reader apposito, risultando quindi utilizzabile esclusivamente sul PC dell’utente e non può invece essere interfacciato con altri supporti hardware privi del software. Un altro aspetto da non sottovalutare è la velocità di aggiornamento e spostamento dei pin da parte dell’apparecchio, che ha notevole influenza sulla velocità di lettura, soprattutto in dispositivi dotati di uno scarso numero di matrici.
 Sono già disponibili sul mercato display braille dotati di memoria interna e di tastiera braille di input che quindi posso servire da supporto I/O (input & output), unendo in un solo dispositivo le due funzioni.  
-
-NELLE FONTI CONSULTATE CITARE ANCHE 
 [^barra-braille-manuale-papenmeier]
-
 [^UIA-microsoft-youtube]
-
 [^sito-microsoft-ufficiale]
 
 ### 2.6.3 Speech Recognition
 Si definisce Speech Recognition la capacità di un supporto elettronico di comprendere il parlato umano e di eseguire operazioni a seguito di quanto recepito. Tale sistema necessita di un microfono che capti la voce del parlante e di un hardware che converta il segnale da onde analogiche a segnale digitale. Successivamente i dati in formato digitale sono processati da un software dedicato che è in grado di interpretare i fonemi individuando le singole parole e convertirle poi in formato macchina, in modo tale che possano essere finalmente utilizzate dal supporto. Questo sistema, sfrutta algoritmi di modellazione acustica che individuano la relazione tra le parole e il segnale audio, in seguito tale processo viene affinato utilizzando una modellazione linguistica in grado di riconoscere i significati di parole simili all’interno del contesto di una frase, in modo da non creare ambiguità di significato e di comandi.
 Le prime release di questo genere di software avevano un vocabolario molto limitato e potevano interpretare solo semplici frasi che fossero ben scandite e perfettamente pronunciate. 
 I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^dragon-Naturally-Speaking] dell'IBM del 1975, la cui più recente versione risale al settembre 2016.
-Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone, supportano l’utilizzo alla guida o hands free e recentemente in dispositivi come il Google Home supportando l’IOT.
-<!-- AMPLIARE IOT -->
-
-Uno degli utilizzi più comuni sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi. Un software molto conosciuto è Dragon Naturally Speaking; [^dragon-Naturally-Speaking] oppure recenti funzionalità built-in nei sistemi operativi Windows e Machintosh.
-Alcuni programmi supportano in automatico lo speech recognition mentre altri no, ma è una funzione che può essere abili	tata per ogni applicazione selezionando “all programs” > “Accessories” > “ease of access” > “windows speech recognition” > “enable dictation everywhere”.
+Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone, supportano l’utilizzo alla guida o hands free e recentemente in dispositivi come il Google Home supportano l’IOT.
+Uno degli utilizzi più comuni sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi (Dragon Naturally Speaking), oppure recenti funzionalità built-in nei sistemi operativi Windows (Cortana) e Machintosh (Siri).
+Alcuni programmi supportano in automatico lo speech recognition mentre altri no, ma è una funzione che può essere abili	tata per ogni applicazione selezionando “all programs”> “Accessories” > “ease of access” > “windows speech recognition” > “enable dictation everywhere”.
 In OSX “preferences pannel” > “dictation and speech”.
 La nuova frontiera di sviluppo di queste tecnologie sono l’interactive speech e l’utilizzo hands free di dispositivi mobile. Tutta questa branca ha 
 
-Deep learning e machine learning
-I più famosi interactive speech si sono sviluppati come “assistenti” i più famosi sono Cortana di Windows e Siri di OSX.
-Tradotto da me prendendo dal sito: https://searchcrm.techtarget.com/definition/speech-recognition (aggiornato 10 gennaio 2014; consultato 26 novembre 2018)
-
-voice recognition permette agli utenti di comandare il device dando comandi vocali già stando a dei dettami dell'articolo del 2005 "CIT stanford" l'accuratezza di comprensione dei vocal regognition dell'input a questi programmi era superiore al 90% ed erano in grado di apprendere, attraverso l'utilizzo da parte dell'utente, la modalità d'uso e arrivare a una comprensione sempre maggiore.
-<!-- QUALE  TECNOLOGIA PERMETTEVA A PRG DI IMPARARE? -->
+voice recognition permette agli utenti di comandare il device dando comandi vocali già stando a dei dettami dell'articolo del 2005 "CIT stanford" l'accuratezza di comprensione dei vocal regognition dell'input a questi programmi era superiore al 90% ed erano in grado di apprendere, attraverso l'utilizzo da parte dell'utente, la modalità d'uso e arrivare a una comprensione sempre maggiore, cosa resa possibile dalla recente tecnologia del machine learning. [^machine-learning-oogle-io2018]
 
 “Il deep learning è un caso particolare di machine learning, e le reti neurali sono i sistemi di calcolo (con le loro architetture, talvolta non del tipo Von Neumann-Zuse) sui quali essi sono implementati ed operano algoritmicamente.”
 

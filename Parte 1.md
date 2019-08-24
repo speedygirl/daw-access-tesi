@@ -302,7 +302,7 @@ Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'a
 Lossy nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 
 ![](.\images\generic\vercellesi-schema-encoder-decoder-p-6.PNG)
-[^giancarlo-vercellesi-schema-encoder-decoder-p6: p 6]
+[^giancarlo-vercellesi-schema-encoder-decoder-p6]: p 6
 
 Il sistema di codifica MPEG (Moving Picture Experts Group) è costituito da:
 - formato di codifica: l'insieme delle regole degli standard MPEG che indicano come dev'essere codificata e strutturata l'informazione.
@@ -315,7 +315,7 @@ Esistono tre algoritmi di compressione che vengono utilizzati dagli MPEG 1 e MPE
 I nuovi Layer sono compatibili con i precedenti, quindi Layer 3 è in grado di decodificare anche 1 e 2.
 MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG 1, MPEG2, MPEG2.5, tutti Layer3. Per questo si usa anche la sigla MPEG Layer3.
 > Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioni necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, Telefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazione. Se per esempio vengono persi i dati di un generico frame K, il decoder è in grado di decodificare correttamente tutti gli altri generando un silenzio in luogo del frame mancante.
-[^giancarlo-vercellesi-p13]: p 13
+[^giancarlo-vercellesi-p13]: p 13]
 
 > È importante ricordare che il "formato di codifica audio" definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
 [^giancarlo-vercellesi-p9]: p 9
@@ -328,7 +328,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 
 Il bitrate può essere:
 - fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
-![](.\images\generic\presti-valori-bitrate-p-13PNG)
+![](.\images\generic\presti-valori-bitrate-p-13.PNG)
 
 [^presti-schema-valori-bitrate-p13]: p 13
 

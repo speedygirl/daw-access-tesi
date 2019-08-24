@@ -74,8 +74,14 @@ Ogni qualvolta che gli sviluppatori progettano una GUI basata sull'impiego del m
 Buona norma è fornire titoli ed etichette per ogni elemento dell'interfaccia.
 Anche nello sviluppare i moduli dell'interfaccia è consigliabile seguire le linee guida impiegate per i controlli, soprattutto se si tratta di casi non complessi. 
 Definizione di modulo by Ale: Nell'ambito delle interfacce utente, con il terimine modulo, si intende l'insieme di controlli all'interno di una maschera adibiti all'inserimento dei dati, solitamente  ha una funzione molto specifica, ma può essere riproposto nella medesima forma in più contesti all'interno del software, essendo il modulo collegato prettamente alla tipologia di dato gestito.
-
-
+Il modulo gestisce un insieme eterogeneo di dati.
+Un esempio di modulo è,  l'inserimento del colore , il font, la grandezza, l'interlinea, lo stile.
+Per rendere accessibili i moduli l'ordine di tabulazione dev'essere logico e significativo, fornire la corrispondenza tra tag e campo sfruttando gli strumenti dati dalla suite di sviluppo; creare etichette chiare per ogni elemento del modulo.
+Tutte le azioni devono poter essere svolte anche solamente impiegando la tastiera.
+differenziare le modalità di fruizione delle informazioni non limitandosi a trasmetterle visvamente (ad esempio tramite il colore), ma fornendo testi alternativi (ad esempio "grassetto attivato" e il pulsante evidenziato; "errore nell'inserimento" oltre al campo evidenziato in rosso per indicare un inserimento scorretto).
+L'utente deve poter in maniera facile individuare e correggere gli errori di inserimento.
+Al fine di facilitare l'inserimento, precompilare, con dei valori predefiniti, la combobox.
+Le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta alll'utente la possibilità di regolare il tempo in cui rimangono attive, così da poterle leggere con lo screen reader.
 
 ## 2.5 Assistive technologyes definizione
 <!-- in word evidenziato in giallo -->

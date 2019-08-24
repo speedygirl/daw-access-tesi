@@ -72,3 +72,4 @@ https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 link consu
 
 
 
+[^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

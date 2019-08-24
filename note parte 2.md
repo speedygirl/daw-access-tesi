@@ -94,4 +94,7 @@ https://robertoscano.info/files/salt/guidelines/sec8.html
 [^introduction-to-web-accessibility]
 https://www.w3.org/WAI/fundamentals/accessibility-intro/
 
+https://www.apple.com/accessibility/mac/vision/
+[^voiceover-apple-ufficiale]
+
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

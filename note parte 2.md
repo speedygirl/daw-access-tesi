@@ -36,6 +36,9 @@ https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibil
  https://it.wikipedia.org/wiki/Sintesi_vocale cambiare fonte
 [^omografi-numeri]
 
+https://www.youtube.com/watch?v=o_mvO6EQ0tM
+[^mallard-youtube]
+
 http://www.afb.org/info/assistive-technology/speech-systems/35 link consultato 9 gennaio 2018
 [^funzionamento-screenreader-american-foundation]
 

@@ -85,7 +85,7 @@ appunti file word "Daw bozza ver 1.doc"
 però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati"
 <!-- controllare in word era evidenziato azzurro -->
 - [] link treccani fine 2.1
-- [] citare slide salfi assistive technology/speech-systems/35
+- [x] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
 - [] scrivere capitolo 2.4
 - [] citare le sue fonti bibliografiche a fondo pagina del sito
@@ -94,6 +94,8 @@ riferimento: "La funzionalità che si occupa di riprodurre in suoni il contenuto
 - [] wikipedia: cambiare fonte per omografi e numeri
 - [] citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER
 riferimento: "Esistono varie modalità d’uso di una sintesi vocale, infatti vi sono comandi che consentono la lettura, di un testo o di un elemento, per caratteri, parole, righe"
+link già citatto:
+https://www.youtube.com/watch?v=o_mvO6EQ0tM
 - [] SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI
 riferimento: "L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e come esse interagiscano tra loro, verrà trattata più avanti."
 - [] inserire elementi mancanti

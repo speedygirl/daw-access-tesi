@@ -88,10 +88,10 @@ però per farlo occorrono conoscenza, intelligenza e controllo dei diretti inter
 - [x] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
 - [x] scrivere capitolo 2.4
-- [] citare le sue fonti bibliografiche a fondo pagina del sito
+- [x] citare le sue fonti bibliografiche a fondo pagina del sito
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 riferimento: "La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è chiamata"
-- [] wikipedia: cambiare fonte per omografi e numeri
+- [x] wikipedia: cambiare fonte per omografi e numeri
 - [x] citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER
 riferimento: "Esistono varie modalità d’uso di una sintesi vocale, infatti vi sono comandi che consentono la lettura, di un testo o di un elemento, per caratteri, parole, righe"
 link già citatto:

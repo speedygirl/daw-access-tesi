@@ -34,8 +34,8 @@ https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibil
  https://usabilitygeek.com/10-free-screen-readcer-blind-visually-impaired-users/
 [^fonemi]
 
- https://it.wikipedia.org/wiki/Sintesi_vocale cambiare fonte
-[^omografi-numeri]
+ http://www.treccani.it/vocabolario/omografia/
+[^omografi-treccani]
 
 [^schema-sintesi-vocale]: tratto da wikipedia
 
@@ -84,5 +84,8 @@ https://support.microsoft.com/it-it/help/4052291/accessories-how-do-i-turn-my-mo
 
 https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 
 [^mac-magnifier-attivazione]
+
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
+[^stanford-sito-ufficiale]
 
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

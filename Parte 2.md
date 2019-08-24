@@ -115,9 +115,8 @@ Il sistema di screen reader è composto da due parti: una detta front-end e una 
 La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è il baack-end ed è chiamata sintesi vocale, in quanto in grado di articolare suoni sintetizzati, quindi artificiali, in fonemi [^fonemi] Il sintetizzatore per funzionare sfrutta la scheda audio del computer: questo, come verrà esposto in seguito, comporterà dei problemi di compatibilità con i software di editing musicale.
 ![](.\images\generic\Sintesi_vocale.png)
 [^schema-sintesi-vocale]: tratto da wikipedia
-<!-- wikipedia: cambiare fonte per omografi e numeri -->
 
-Le regole grammaticali della lingua consentono di ottenere una corretta pronuncia dei vocaboli e persino le parole abbreviate; possono invece creare problemi: i nomi composti, i termini con successioni di lettere inusuali, le omografie e numeri [^omografi-numeri]. Con i progressivi miglioramenti delle tecnologie alla base delle sintesi vocali, tali problematiche stanno diminuendo 
+Le regole grammaticali della lingua consentono di ottenere una corretta pronuncia dei vocaboli e persino le parole abbreviate; possono invece creare problemi: i nomi composti, i termini con successioni di lettere inusuali, le omografie [^omografi-treccani] e numeri [^omografi-numeri]. Con i progressivi miglioramenti delle tecnologie alla base delle sintesi vocali, tali problematiche stanno diminuendo 
 I primi sintetizzatori ricreavano voci dal suono metallico e spesso la lettura risultava difficoltosa o addirittura incomprensibile, con evidenti riflessi negativi sull’efficacia del messaggio da parte dell’utilizzatore. Fortunatamente questa tecnologia, che ha avuto un ampio sviluppo avendo trovato riscontro in applicazioni commerciali, è stata continuamente migliorata negli anni, soprattutto dal punto di vista della naturalezza della lettura e dell’intelligibilità. Questo ha prodotto voci ormai molto simili a quelle umane, in grado di riprodurre suoni non solo comprensibili, ma che riflettano anche le intonazioni del parlato, come nel fondamentale caso delle frasi esclamative o interrogative. Notevoli progressi si riscontrano anche relativamente alla normalizzazione del testo.
 Per contro sintesi molto elaborate e con voci simili alla dizione umana richiedono un utilizzo di memoria del computer molto ingenti, tali da rallentare l'esecuzione di operazioni anche elementari; questo è il motivo per cui si trovano in commercio sintesi con voci meno gradevoli che caricano meno la CPU facilitando le operazioni da svolgere. Voci molto elaborate vengono utilizzate di preferenza da enti e società che dispongono di grandi elaboratori, piuttosto che dal singolo utente per le moivazioni di sovraccarico del PC esposte sopra.
 
@@ -204,6 +203,7 @@ All’interno del System row selezionare Universal Access, attivare il pulsante 
 (per identiche ragioni si è scelto di esporre  le  procedure relative alla versione Mac Mojave 10.14, ossia il sistema operativo impiegato per eseguire i test sui programmi).
 
 ### 2.7 Storia delle assistive technologyes
+Per la stesura di questa sezione si è impiegato il sito cs.stanford.edu. [^stanford-sito-ufficiale]
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
 Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech).* Utilizzabile esclusivamente su sistema operativo Windows 98 o successivo, aveva come caratteristica unica la possibilità di utilizzare i menu a cascata e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo ne comportò una notevole diffusione perché nonostante i costi elevati, in Italia spesso finanziati dal sistema sanitario locale o dal sistema scolastico, la suite di comandi da tastiera particolarmente complicata. È possibile rintracciare differenti pagine web e letteratura specifica in merito in cui si spiega come utiliizzare JAWS e vi si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi. Oltretutto, gli stessi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedono l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
 Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. [^germano-carella-ausili-screenreader-2]
@@ -212,7 +212,7 @@ Sicuramente degno di nota è il software opensource gratuito NVDA *(Non Visual D
 
 ** Un altro aspetto da non sottovalutare, in aggiunta a quello tecnico di usabilità delle informazioni, è legato alla qualità della riproduzione del suono e della voce. 
 
-Successivamente, sono stati sviluppati software opensource o comunque gratuiti 
+Successivamente sono stati sviluppati software opensource o comunque gratuiti 
 l'utente tenta di eeseguire una ricerca in un browser, vengono interpretate molti tasti digitati vengono intrepretati dallo screen reader come sue proprie shortcut (per ovviaer a questo sconveniente gli sviluppatori hano diviso le tipologie di navigazione in due: modalità maschere (per dare comandi allo jaws e modalità d'inserimentos semplice per poter eseguire la ricerca in  modo comune)
 
 . registrazione iphone scarfia differenza tra assistente vocale e screen reader
@@ -220,7 +220,7 @@ l'utente tenta di eeseguire una ricerca in un browser, vengono interpretate molt
 <!-- in word evidenziato in giallo -->
 
 IBM ha , prima ditta interessarsi di accessiblità svilupando un suo screrenreader per i dipendenti interni (v "concetto di accessibilità.doc") ha implementato uno screenr eader denominato Home Page Reader sviluppato specificatamente solo per poche applicazioni come wordpad, windows desktop, notepad.
-Narrator, sempre per windows 8 e successive, è considerato leggermente migliore rispeto agli in quanto meno complesso, tutavia presentava difficoltà al primo utilizzo
+Narrator, sempre per windows 8 e successive, è considerato leggermente migliore rispeto agli altri in quanto meno complesso, tutavia presentava difficoltà al primo utilizzo
 perchè non trovavi elenco dei comandi e ingenerale perchè le short cut prevedevano l'impiego dell'home key, di complesso utilizzo come già detto.
 
 <!-- CITARE SITO MICROSOFT.COM -->

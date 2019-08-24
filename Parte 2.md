@@ -167,27 +167,24 @@ voice recognition permette agli utenti di comandare il device dando comandi voca
 “Il deep learning è un caso particolare di machine learning, e le reti neurali sono i sistemi di calcolo (con le loro architetture, talvolta non del tipo Von Neumann-Zuse) sui quali essi sono implementati ed operano algoritmicamente.”
 
 ### 2.6.4 Screen Magnifier
-E' un software in gardo di presentare l'output a schermo ingrandendolo. si può ingrandire una parte o lo schermo intero.
-è impiegato soltatno da chi è in possesso di residuo visivo minimo o ipovedenti. chi ha un residuo visivo eccessivamente ridotto o completamente compromesso non può far uso di questo assistive technology ma solo di screenr eader e barrabraille.
-la porzione di schermo ingrandita, detta focus, deve poter coprire lo schermo parzialmente o interamente, essa deve includere il contenuto d'interesse per l'utente e il puntatore o cursore debitamente ingrandito. questa porzione deve poter essere dall'utente allargata o ristretta a piacimento e deve essere in grado di seguire i movimenti del puntatore ingrandendo la nuova area di interesse indicata da nuovo puntamento del mouse o tramite shorcut; segue i n maniera automatica i cambiamenti di stato degli elementi o dei pop-up e pop-down.
-Apple mette a disposizione un’ulteriore funzionalità, chiamata “cursor magnification” [^cursor-magnification]  che consente di ingrandire maggiormente il puntatore, se le possibilità offerte di default non sono sufficienti. Questa opzione però si disattiva nel caso in cui l’utente spenga o riavvii il computer, esegua il logout dal proprio account.
-color invertion inversione cromatica spesso i disabili visivi preferiscono leggere invertendo i colori, tipicamente portando il testo da nero su bianco a bianco / giallo su fondo blu/nero.
+E' un software in grado di presentare l'output a schermo ingrandito ed è impiegato soltanto da coloro che hanno un residuo visivo minimo o sono ipovedenti.
+la porzione di schermo ingrandita, detta focus, deve poter coprire lo schermo parzialmente o interamente,  deve includere il contenuto d'interesse e il puntatore o cursore debitamente ingrandito. La porzione deve poter essere dall'utente allargata o ristretta a piacimento, seguire i movimenti del puntatore ingrandendo la nuova area di interesse indicata da nuovo puntamento del mouse o tramite shorcut. In maniera automatica si adatta ai cambiamenti di stato di finestre, elementi e pop-up.
+Apple mette a disposizione un’ulteriore funzionalità, chiamata “cursor magnification” [^cursor-magnification] che consente di ingrandire maggiormente il puntatore, se le possibilità offerte di default non sono sufficienti. Questa opzione però si disattiva nei casi in cui l’utente esegua il logout dal proprio account, spenga o riavvii il computer.
+Color invertion, inversione cromatica dei colori: spesso i disabili visivi preferiscono leggere invertendo i colori, tipicamente portando il testo da nero su bianco a bianco / giallo su fondo blu/nero.
 questo può ridurre la luminescenza ed è utile soprattuto per degenrazione della macula in età avanzata.
-smoothing il compensa la sgranatura dell'immagine dovuta all'ingrandimento eccessivo, fornendo un'interpolazione.
-cursor costumization personalizzazione dei cursori in modo di facilitarne l'identificazione a schermo ingrandendoli, scurendoli con varie gradazioni di colori che diano contrasto sullo sfondo.
-differenti modalità di ingrandimento la modalità di ingrandimetno può essere customizzabile impostando una zona di ingrandimento fissa; una lente da spostare all'interno dello schermo; oppure l'intero schermo ingrandito.
+Smoothing: facendo un'interpolazione di pixel compensa la sgranatura dell'immagine dovuta all'ingrandimento eccessivo.
+Cursor costumization, personalizzazione dei cursori: ne modifica alcuni parametri dei cursori in modo da facilitarne l'identificazione a schermo ingrandendoli, scurendoli con varie gradazioni di colori che diano contrasto elevato rispetto allo  sfondo.
+differenti modalità di ingrandimento:  è personalizzabile impostando una zona di ingrandimento fissa; una lente da spostare all'interno dello schermo; oppure l'intero schermo ingrandito.
 Alcuni magnifier hanno integrati degli screen reader basilari che leggono la porzione di schermo ingrandita (leggeri a livello di software occupano poca memoria).
-esempi di magnifier:
+Esempi di magnifier:
 windows a partire dal 1998 ha integrato un applicativo di ingrandimento chiamato Magnifier.
-Tale funzione è tutt’ora disponibile, in Windows 10 per attivarlo è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. (Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test).
+Tale funzione è tutt’ora disponibile, in Windows 10 per attivarlo è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. (Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test sui programmi).
 OSX IOS si attiva con specifici imput (shortcut, mouse pad, scrool)
-La procedura standard in un computer Mac è aprire Apple menu e selezionare System Preferences.
+La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezionare System Preferences.
 All’interno del System row selezionare Universal Access, attivare il pulsante Zoom. Mentre per ulteriori opzioni raggiungere il pulsante Options.
-(La medesima scelta di esporre solo le procedure relative alla versione del sistema operativo impiegato per eseguire i test sui programmi, per identiche ragioni, è stata operata anche in merito all’analisi procedurale di attivazione dello zoom nel sistema operativo Mac, le cui operazioni peraltro non variano di molto tra una versione e l’altra).
-La procedura innanzi esposta riguarda la versione Mac Mojave 10.14.
+(per identiche ragioni si è scelto di esporre  le  procedure relative alla versione Mac Mojave 10.14, ossia il sistema operativo impiegato per eseguire i test sui programmi).
 
-
-NELLE FONTI CITARE A CHE 
+NELLE FONTI CITARE ANCHE 
 cita da wikipedia le reference:
 sito IOS OSX: 
 https://support.apple.com/en-us/HT204390 SHORTCUT SOLO PER IPHONE IPAD

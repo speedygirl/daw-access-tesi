@@ -92,7 +92,7 @@ però per farlo occorrono conoscenza, intelligenza e controllo dei diretti inter
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 riferimento: "La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è chiamata"
 - [] wikipedia: cambiare fonte per omografi e numeri
-- [] citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER
+- [x] citare VIDEO MALLARD OLGA IN ELENCO LINK STORIA SCREEN READER
 riferimento: "Esistono varie modalità d’uso di una sintesi vocale, infatti vi sono comandi che consentono la lettura, di un testo o di un elemento, per caratteri, parole, righe"
 link già citatto:
 https://www.youtube.com/watch?v=o_mvO6EQ0tM
@@ -107,11 +107,11 @@ il pdf si intitola "UIA Windows Accessibility.
 riferimento: "Naturally Speaking [^Dragon-Naturally-Speaking] dell'IBM del 1975."
 - [x] <!-- riprendere link Dragon da capitolo su esempi di assistive technologies ->
 riferimento: "software molto conosciuto è Dragon Naturally Speaking "
-- [] QUALE  TECNOLOGIA PERMETTEVA A PRG DI IMPARARE?
+- [x] QUALE  TECNOLOGIA PERMETTEVA A PRG DI IMPARARE? il machine learning, usato youtube google io 18 per rispondere.
 riferimento: "arrivare a una comprensione sempre maggiore."
-- [] <!-- CITARE SITO MICROSOFT.COM -->
+- [x] <!-- CITARE SITO MICROSOFT.COM -->
 riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
--[] AMPLIARE IOT
+-[/] AMPLIARE IOT èstato cancellato
 
 ## Appunti e cose da fare su "Parte 3"
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù

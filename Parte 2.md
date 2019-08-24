@@ -10,7 +10,7 @@ Questa innovazione è nata dapprima nei paesi occidentali più sviluppati per po
 Per molte tipologie di disabiliità si aggiungeva un altro problema, l'impossibilità di accedere autonomamente alle risorse di queste tecnologie ed anche ai servizi che venivano erogati per loro tramite. È in questo frangente che si sono sviluppate le prime iniziative legislative da parte dei Governi, dirette ad attuare la parità di accesso alle tecnologie, con l’obbiettivo di colmare tale divario e sviluppare un sistema sociale più equilibrato. Questo processo è sempre più necessario perché, se un tempo la fruizione del digital web prevedeva il solo l'accesso alle informazioni, ora sono sempre più numerosi i servizi e le procedure che prevedono l’accesso esclusivamente via web. [^accessibilita-usabilita-rivista] 
 **(vedi se già citato…)** 
 
-## 2.2 Concetto di accessibilità e di usabilità
+## 2.2 appunti per oncetto di accessibilità e di usabilità
 Oggi vi è la necessità di portare i programmi a livello di tutti (per difficoltà generiche, disabilità specifiche, ma anche quelle insorte tardivamente) perchè sono sempre più nel quotidiano.
 naturalmente le disabilità specifiche bisognano di appositi adattamenti.
 
@@ -33,6 +33,7 @@ Attuazione di questi principi nelle moderne tecnologie (già abbozzato in doc 2.
 Conclusione: Se questi accorgimenti vengono tralasciati si trascurano grandi porzioni di umanità. però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati.**
 <!-- controllare in word era evidenziato azzurro -->
 
+ ## 2.2 concetto di accessibilità e usabilità
 È in questo contesto che assumono sempre maggiore rilevanza i concetti di accessibilità e usabilità. 
 Trattato istitutivo della comunità europea [direttiva-europea-pdf] art.13 
 > Fatte salve le altre disposizioni del presente trattato e nell’ambito delle competenze da esso conferite alla Comunità, il Consiglio, deliberando all’unanimità su proposta della Commissione e previa consultazione del Parlamento europeo, può prendere i provvedimenti opportuni per combattere le discriminazioni fondate sul sesso, la razza o l’origine etnica, la religione o le convinzioni personali, gli handicap, l’età o le tendenze sessuali.
@@ -63,6 +64,16 @@ Il concetto di usabilità nasce negli anni ’60 ma si è poi sviluppato alla fi
 <!-- in word evidenziato in azzurro -->
 
 ## 2.4 attuazione nello sviluppo software e web
+Nello sivlppo di interfacce software gli sviluppatori devono tener conto la compatibilità del loro prodotto con le tecnologie assistive usate dalle diverse tipologie di accessibilità. Le più comuni problematiche riguardanti l'accessibilità dei controlli dell'interfaccia si riscontrano nei controlli etichettati con immagini anzichè testi alternativi, tag testuali, nella priorità dei tag (priority 1, 0); utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale; opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera. Per rendere gli elementi raggiungibili dal focus della sintesi è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel.
+E' buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità.
+Contrasto elevato, possibilità di invertire i colori (tra testo e sfondo) sono funzionalit da non tralasciare, utili all'ipovedente.
+Testare il software sia attraverso tools automatici, sia manualmente per acceertarsi che i componenti (menù, items,, opo-up/down, combobox, checkbox...) siano accessibili sia da mouse che da tastiera.
+Costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecncica, e corredata di shortcut chiare e intuitive.
+Il significato delle icone non deve passare solo per via visiva (colore, immagine) ma essere corredato di testo alternativo; dev'essere reso chiaro all'utente quando il pulsante è attivato o disattivato, visivamente con l'oscuramento del pulsante stesso, ma dando un feedback uditivo agli utilizzatori di AT.
+Ogni qualvolta che gli sviluppatori progettano una GUI basata sull'impiego del mouse, stanno tralasciando il fatto che creano difficoltàa coloro che non lo possono usare o che lo impiegano in maniera alternativa (ad esempio con la sua emulazione tramite tastiera). Evitare perciò le interfacce basate su indice dei contenuti e frame complessi. Esempi sono l'indicizzazione di frame che non contempli nei suoi attributi nome e titolo; indice dei contenuti con elementi di espansione per incrementare o decremenare; barre di menù sviluppate con linguaggi di scriptingche le assistive technology non possono rilevare e elaborare.
+Buona norma è fornire titoli ed etichette per ogni elemento dell'interfaccia.
+Anche nello sviluppare i moduli dell'interfaccia è consigliabile seguire le linee guida impiegate per i controlli, soprattutto se si tratta di casi non complessi. 
+Definizione di modulo by Ale: Nell'ambito delle interfacce utente, con il terimine modulo, si intende l'insieme di controlli all'interno di una maschera adibiti all'inserimento dei dati, solitamente  ha una funzione molto specifica, ma può essere riproposto nella medesima forma in più contesti all'interno del software, essendo il modulo collegato prettamente alla tipologia di dato gestito.
 
 
 
@@ -132,7 +143,8 @@ Le UIA danno anche informazioni sul contesto in cui il comando si trova; il cont
 La quantità di informaziooni fornite all’utente dipende da come quest’ultimo ha impostato il “grado di verbosità”, ad esempio si può scegliere se lo screen reader annuncia o meno che il pulsante è selezionato, se dà suggerimenti sulle azioni che è possibile eseguire (premere invio o spazio per selezionare); oppure ancora (premere le frecce) per espandere il sottomenù quindi si può anche impostare che vengano forniti suggerimenti sulle shortcut da utilizzare. (Si noti che molto spesso è data la possibilità di personalizzare le shortcut, sia relative a alcune funzioni interne allo screen reader, sia relative a funzionalità presenti nei vari programmi, ma non si affronterà questo argomento in quanto il tentativo è di riuscire a essere il più generici possibile).
 NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
 
-**C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES.**
+<!-- risolvere contraddizione microsoft uia -->
+** C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES. **
 <!-- in word evidenziato in azzurro -->
 
 **Active Accessibility
@@ -185,7 +197,7 @@ La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezio
 All’interno del System row selezionare Universal Access, attivare il pulsante Zoom. Mentre per ulteriori opzioni raggiungere il pulsante Options.
 (per identiche ragioni si è scelto di esporre  le  procedure relative alla versione Mac Mojave 10.14, ossia il sistema operativo impiegato per eseguire i test sui programmi).
 
-### 2.7 Storia accessibilità: tipologie screenreaader a partire dagli anni 90
+### 2.7 Storia delle assistive technologyes
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
 Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech).* Utilizzabile esclusivamente su sistema operativo Windows 98 o successivo, aveva come caratteristica unica la possibilità di utilizzare i menu a cascata e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo ne comportò una notevole diffusione perché nonostante i costi elevati, in Italia spesso finanziati dal sistema sanitario locale o dal sistema scolastico, la suite di comandi da tastiera particolarmente complicata. È possibile rintracciare differenti pagine web e letteratura specifica in merito in cui si spiega come utiliizzare JAWS e vi si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi. Oltretutto, gli stessi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedono l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
 Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. [^germano-carella-ausili-screenreader-2]

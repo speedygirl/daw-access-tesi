@@ -58,12 +58,12 @@ La norma si prodiga ulteriormente nell’esplicitare i termini:
 L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere e che rendano possibile il recupero di eventuali errori.
 E’ opportuno sottolineare la fondamentale differenza tra i due concetti: se l’usabilità è la ricerca di una semplificazione che si rivolge a tutti gli utenti, l’accessibilità cerca di sopperire alle carenze dovute a specifiche disabilità con tecnologie dedicate.
 
-## 2.3 decreti
+## 2.3 Decreti
 Il concetto di usabilità nasce negli anni ’60 ma si è poi sviluppato alla fine degli anni ’80 con il diffondersi delle tecnologie informatiche e del personal computer tra un numero sempre crescente di soggetti: fino ad allora il problema non sussisteva, in quanto queste tecnologie erano utilizzate esclusivamente da esperti. 
 **La crescita del web in ambito sociale ha comportato la necessità di rendere accessibili i siti e le sue stesse risorse e informazioni. Questo ha portato gli enti governativi a muoversi da un punto di vista legislativo, arrivando a promuovere delle linee guida specifiche per il web che sono state ritenute a tal punto valide dagli esperti del settore, da essere applicate per l’accessibilità anche nell’ambito dello sviluppo software, che invece non è stato coperto da alcuna specifica normativa. Stesso discorso si può applicare allo sviluppo di applicazioni mobile, la cui accessibilità non viene richiesta al momento dell’inserimento sulle piattaforme store, ma è a totale discrezione dello sviluppatore. Di prospettiva, visto il prorompente sviluppo delle applicazioni mobile negli ultimi anni, ci si aspetta che gli enti normativi a breve intervengano anche in questo ambito. **
 <!-- in word evidenziato in azzurro -->
 
-## 2.4 attuazione nello sviluppo software e web
+## 2.4 Attuazione nello sviluppo software e web
 Nello sivluppo di interfacce software gli sviluppatori devono tener in considerazione  la compatibilità del loro prodotto con le tecnologie assistive usate dalle diverse tipologie di accessibilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità dei controlli dell'interfaccia si riscontrano nei controlli etichettati con immagini anzichè testi alternativi, tag testuali, nella priorità dei tag (priority 1, 0); utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale; opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera. Per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel.
 E' buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità.
 Contrasto elevato, possibilità di invertire i colori (tra testo e sfondo) sono funzionalità da non tralasciare, utili all'ipovedente.
@@ -84,7 +84,6 @@ Al fine di facilitare l'inserimento, precompilare, con dei valori predefiniti, l
 Le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta alll'utente la possibilità di regolare il tempo in cui rimangono attive, così da poterle leggere con lo screen reader.
 
 ## 2.5 Assistive technologyes definizione
-<!-- in word evidenziato in giallo -->
 
 Con il termine “assistive technologies” (AT), o nella traduzione italiana “tecnologie assistive”, ci si riferisce all’insieme delle soluzioni hardware e software che rendono accessibile e usabile qualsiasi sistema informatico da parte di persone con disabilità fisica, sensoriale o cognitiva, consentendo la fruizione delle informazioni e dei servizi da esso erogati.
 L’ideale sarebbe progettare programmi e applicazioni nativamente accessibili, ma troppo spesso questi principi rimangono solo delle enunciazioni.
@@ -147,6 +146,8 @@ da questo link si può eseguire il suo download)
 Le UIA danno anche informazioni sul contesto in cui il comando si trova; il contesto in cui il focus è posizionato (ad esempio il cursore di testo all’apertura di un documento di Word)
 La quantità di informaziooni fornite all’utente dipende da come quest’ultimo ha impostato il “grado di verbosità”, ad esempio si può scegliere se lo screen reader annuncia o meno che il pulsante è selezionato, se dà suggerimenti sulle azioni che è possibile eseguire (premere invio o spazio per selezionare); oppure ancora (premere le frecce) per espandere il sottomenù quindi si può anche impostare che vengano forniti suggerimenti sulle shortcut da utilizzare. (Si noti che molto spesso è data la possibilità di personalizzare le shortcut, sia relative a alcune funzioni interne allo screen reader, sia relative a funzionalità presenti nei vari programmi, ma non si affronterà questo argomento in quanto il tentativo è di riuscire a essere il più generici possibile).
 NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
+![](.\images\generic\schema-api-uia-microsoft.png)
+[^schema-uia-microsoft-youtube]
 
 <!-- risolvere contraddizione microsoft uia -->
 ** C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES. **

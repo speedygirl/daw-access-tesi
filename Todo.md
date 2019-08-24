@@ -81,6 +81,7 @@ appunti file word "Daw bozza ver 1.doc"
 - [x] salvare le foto contenute nel doc e importarli in markdown 
 
 ## Appunti e cose da fare su "Parte 2"
+- [] [^schema-uia-microsoft-youtube]: link youtube inserire link youtube
 - [] verificare - riferimento: "
 però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati"
 <!-- controllare in word era evidenziato azzurro -->

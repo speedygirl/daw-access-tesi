@@ -88,4 +88,10 @@ https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
 [^stanford-sito-ufficiale]
 
+[^roberto-scano-linee-guida]
+https://robertoscano.info/files/salt/guidelines/sec8.html
+
+[^introduction-to-web-accessibility]
+https://www.w3.org/WAI/fundamentals/accessibility-intro/
+
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

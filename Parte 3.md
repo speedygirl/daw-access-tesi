@@ -1,4 +1,12 @@
 ## Analisi di accessibilità dei programmi
+## Introduzione
+In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
+La scelta dei programmi è stata effettuata sulla base di criteri di diffusione commerciale prendendo in considerazione quelli a più vasta diffusione.
+I test sono stati effettuati sui due sistemi operativi a maggior diffusione.
+Ci si è avvalsi di sintesi vocali più note alla gran parte degli utenti e maggiormente personalizzabili.
+Si è cercato di testare i software tutti con lo stesso schema procedurale in modo tale da ottenere un'analisi comparaabile, tuttavia in alcuni casi non è stato possibile in quanto sono state sviluppate da case produttrici diverse e alcune funioni sono proprietarie ed esclusive del software in questione e non rintracciabili negli altri programmi.
+Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare i comandi principali utilizzati in fase di registrazione di una traccia audio in uno studio di registrazioone professionale. Succcessivamente sii è cercato di ampliare il campione simulando anche una sessione di editing dell'ipotetica traccia registrata, tuttavia, come si vedr nell'ananalisi che segue, la maggior parte dei comandi relativi alla fase di post produzione risultano inaccessibili con l'utilizzo degli screen reader scelti. Infine si è testata l'accessibilità dei comandi di elaborazione del file, elaborazione, importazione, esportazione, salvataggio, modifica, il cui risultatto si vede nell'analisi che segue.
+
 ### Presupposti
 In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 

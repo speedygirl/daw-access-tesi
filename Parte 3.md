@@ -398,13 +398,11 @@ In questo contesto l’unica finestra leggibile è quella d’errore, letta corr
 
 ![Screenshot Meter Change Error](.\images\\protools-windows-images\\windows-protools-17-meter-change-error.png)
 
-Il pannello “Strip silence” è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
+Il pannello “Strip silence” (serve a individuare aree del brano silenziose o che non raggiungono il minimo livello impostato dal treshold), tale funzione è raggiungibile con la combinazione di tasti “Control+Shift+U”, qui NVDA legge “barra del titolo strip silence”. Si può intuire che anche con le altre finestre della medesima tipologia avrà lo stesso comporrtamento e lo stesso grado di interazione.
 Un altro esempio di questa tipologia di interazioneè la finesstra  "Asio control panel", di cui NVDA legge solo l'heading,. Già che si è analizzato questo pannello, si è testato anche il drop down menù  per l'impostazioone del buffer.
 ![Asio control panel e impostazioni dimensioni buffer](.\images\protools-windows-images\windows-protools-asio-control-panel-2i2-25.jpeg)
 
 ![Screenshot Strip Silence](.\images\protools-windows-images\windows-protools-18-strip-silence.png)
-
-<!-- IN ATTESA DI RISPOSTA DA BONTEMPI A COSA SERVE STRIP SILENCE (MAIL MANDATA 14 LUGLIO 19) -->
 
 Questo pannello è stato aperto usando il mouse. Di questo pop-up NVDA vocalizza “Transport MIDI editor location” ; “MIDI editor quantize real time properties”; “Add new memory location”; “playback engine”; “artist community” “Market place”  etc… Tag che non hanno senso se isolati dal contesto, ossia se la sintesi non elenca  quali possibilità di interazione esistono con questi controlli e di che tipologia sono.
 

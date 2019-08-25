@@ -85,28 +85,29 @@ Sulla base dell'esperienza diretta di muscista e di quanto scritto nellla prima 
 - equalizzazione
 - compressione
 - salvataggio, impostazioni progetto
+Ciascun comando è stato testato, ove possibile,su ciascun software scelto e come già spiegato, a ciascuno è stato assegnato un livello di accessibilità. 
 
-
-<!-- manca tutta la descrizione usato -->
+<!-- manca tutta la descrizione usato e testing automatico-->
 
 #### Reaper per Windows 
 <!-- (l'installazione è sotto anche per mac)-->
-In Reaper per Windows sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, ad esempio i controlli posti sulla singola traccia o sulla master track.
+<!-- inserire tabelle con comandi-->
+In Reaper per Windows sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, come ad esempio i controlli posti sulla singola traccia o sulla master track.
 ![](.\images\reaper-windows-images\windows-reaper-1-controlli-traccia.PNG)
 
-Dall’esplorazione della GUI si sono subito “trovati” i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
-sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
+Dall’esplorazione della GUI è stato possibile individuare in modo semplice i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risalito a trovare le relative shortcut.
+Sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
 
-Tali controlli non sono totalmente accessibili in quanto non viene annunciato che si tratta di un pulsante ne l’azione che vi si può eseguire come ad esempio scorrimento, clic, ma viene annunciato solo il nome del controllo.
-Si è passato a analizzare la finestra “project settings” dove si può regolare i parametri generali, relativi all’intero progetto come la frequenza di campionamento, i BPM, impostare il metro del brano, i parametri contenuti in questa finestra sono accessibili nella loro  totalità in quanto vengono enunciate, per ogni controllo, il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente.
-Per maggiore chiarezza si riportano le definizioni relative a frequenza di campionamento, BPM e metro, basandomi sulla mia esperienza personale di musicista e sugli studi accadeici svolti.
-La frequenza di campionamento il numero di volte al secondo in cui i dati, i campioni, vengono registrati e memorizzati (lo standard impiegato per i CD è 44.100 Hz al secondo). I BPM (Beat Per Second) il numero di beat al minuto impiegati in musica per dare l'indicazione relativa alla velocità del metronomo. Il metro ossia la ricorsività degli accenti (le battute).  
+Tali controlli non sono totalmente accessibili in quanto non viene annunciato ne che si tratta di un pulsante ne l’azione che vi si può eseguire come ad esempio scorrimento, clic, ma viene annunciato solo il nome del controllo.
+Si è passato ad analizzare la finestra “project settings” dove si può regolare i parametri generali, relativi all’intero progetto, come la frequenza di campionamento, i BPM, impostare il metro del brano. I parametri contenuti in questa finestra sono accessibili nella loro  totalità in quanto vengono enunciate, per ogni controllo, il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente.
+Per maggiore chiarezza si riportano le definizioni relative a frequenza di campionamento, BPM e metro, basandomi sulla mia esperienza personale di musicista e sugli studi accademici svolti.
+La frequenza di campionamento è definito come il numero di volte al secondo in cui i dati, i campioni, vengono registrati e memorizzati (lo standard impiegato per i CD è 44.100 Hz al secondo). Con BPM (Beat Per Second) si intende il numero di beat al minuto impiegati in musica per dare l'indicazione relativa alla velocità del metronomo. Il metro ossia la ricorsività degli accenti (le battute).  
 ![](.\images\reaper-windows-images\windows-reaper-2-timeline.PNG)
 
-Dal navigare, tramite TAB i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
+La navigazione tramite TAB attraverso i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo lo scrubbing )ossia una curva d’onda alla volta), inoltre ni comuni 
 
 Tutto questo è altamente accessibile, sono poche le DAW che permettono di eseguire lo scrubbing, che consente  anche a un non vedente di raffinare ad alto livello il proprio progetto.
-Simili comandi e s imili possibilirtà di navigazione sono valide anche per la selezione. Vi sono poi ulteriori comandi con i quali si può scelgiere se la selezione coinvolge sia timeline che items oppure solo questi ultimi.
+Simili comandi e simili possibilità di navigazione sono valide anche per la selezione. Vi sono poi ulteriori comandi con i quali si può scelgiere se la selezione coinvolge sia timeline che items oppure solo questi ultimi.
 Dopo la selezione è naturalmente possibile svolgere svariate operazioni come la rimozione, il tagliare, copiare del tratto di brano selezionato, o il duplicare l’intera traccia.
 Una volta selezionata una porzione è possibile riprodurla in loop portando il cursore (anche detto edit cursor o play cursor) all’inizio della stessa e cliccando "Play". 
 Quando una porzione viene rimossa, se non si dà uno specifico comando oppure se si è impostato il “ripple off”, viene lasciato del silenzio. Per evitare ciò, e unire quindi “i due lembi” si può attivare il “ripple on” e riferirlo alla singola traccia "per track", oppure a tutte le tracce del progetto "alll traks", usando la combinazione di tasti Alt+P  per modificare lo stato del Ripple.

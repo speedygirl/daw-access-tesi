@@ -9,7 +9,7 @@ Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare i comandi 
 I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per i quali il test è stato efefettuato anche tramite software automatiaco. Entrambi i metodi di test hanno dato risultati identici.
 
 ### Presupposti
-In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
+In questo lavoro si analizzano Reaper 5.95 della softwarehouse Cockos; Pro Tools per windows versione 2018 7.0,  entre per OS X versione 5.921 della softwarehouse Avid e Cubase 9.5 della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 
 ### Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 In una prima fase ci si era preposti dilimitare l'analisi esclusivamente al sistema operativo Windows, successivamente si è preferito testare i programmi su entrambe le piattaforme, per fornire un quadro più completo dell'offerta commerciale e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso, nelle modalità di ricevere i feedback, nell’ubicazione dei pulsanti nella GUI o nei menù.
@@ -138,7 +138,7 @@ Il programma è progettato sia per il sistema operativo Windows che per Mac
 In Windows l’installazione di Reaper è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
 Aspetto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
 
-####Reaper per Mac OS X versione 5.921 installazione
+#### Reaper per Mac OS X versione 5.921 installazione
   [^ Tratto da https://reaperaccessibility.com/index.php/Chapter_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac       Consultato 2 gennaio 2019)]
 Per installare Reaper sul sistema operativo Mac è necessario aprire REAPER disk image (.dmg), per aprire questo file è necessario accettare le condizioni di  licenza del programma cliccando su "aconsento".
 Infine  trascinare l'icona di Reaper all'interno della cartella applicazioni.

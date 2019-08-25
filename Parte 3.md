@@ -1,16 +1,16 @@
 ## Analisi di accessibilità dei programmi
 ### Presupposti
-In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione e anche nelle precedenti, fanno riferimento a queste versioni, se non diversamente indicato.
-Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
-Se in una prima fase il lavoro si proponeva il limitarsi esclusivamente a Windows, si è poi preferito testare i programmi su entrambe le piattaforme per fornire un quadro più completo della situazione e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso; nelle modalità di ricevere i feedback; nell’ubicazione dei pulsanti nella GUI o nei menù.
+In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 
+### Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
+In una prima fase ci si era preposti dilimitare l'analisi esclusivamente al sistema operativo Windows, successivamente si è preferito testare i programmi su entrambe le piattaforme, per fornire un quadro più completo dell'offerta commerciale e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso, nelle modalità di ricevere i feedback, nell’ubicazione dei pulsanti nella GUI o nei menù.
 Si è scelto di utilizzare una scala di valori da 0 a 4 per indicare con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 completamente inutilizzabile.
-Livelli di accessibilità
-0 comando totalmente irraggiungibile dai comandi da tastiera, inoltre la sintesi vocale non riconosce la presenza del controllo in caso di interazione col mouse (nessuna interazione)
-1 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto non facilmente discriminabile utilizzando la sintesi vocale, però la sintesi vocale non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
-2 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale non dà feedback ma è possibile verificare l'efficacia del comando
-3 il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale dà feedback ed è possibile verificare l'efficacia del comando
-4 il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno del contesto grafico e rende i riferimenti riguardo l'intera situazione del contesto.
+Livelli di accessibilità:
+- livello 0: comando totalmente irraggiungibile dai comandi da tastiera, inoltre la sintesi vocale non riconosce la presenza del controllo in caso di interazione col mouse (nessuna interazione)
+- livello 1: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto non facilmente discriminabile utilizzando la sintesi vocale, però la sintesi vocale non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
+- livello 2: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale non dà feedback ma è possibile verificare l'efficacia del comando
+- livello 3: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale dà feedback ed è possibile verificare l'efficacia del comando
+- livello 4: il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno del contesto grafico e rende i riferimenti riguardo l'intera situazione del contesto.
 	
 
 ### Perché testare con NVDA

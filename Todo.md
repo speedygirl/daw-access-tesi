@@ -115,6 +115,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 -[/] AMPLIARE IOT èstato cancellato
 
 ## Appunti e cose da fare su "Parte 3"
+- [] scrivere introduzione parte 3
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
   
 - [ ] Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
@@ -142,7 +143,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 - [ ] Il tool per testare l’accessibilità usato dai 2 del video microsoft è da loro chiamato semplicemente “Inspect” e dimostrano come si usa  da 1/3 del video in avanti.
     ### Video [Consultato 13 novembre 2018, Caricato il 17 maggio 2017](https://www.youtube.com/watch?v=6b0K2883rXA)
 
-- [ ] SPOSTARE IN CAPITOLO 3: I PROGRAMMI DI EDITING SONO MULTIPIATTAFORMA QUINDI NON UTILIZZANO LE uia (CHE SONO BASATE SU C++).
+- [x] SPOSTARE IN CAPITOLO 3: I PROGRAMMI DI EDITING SONO MULTIPIATTAFORMA QUINDI NON UTILIZZANO LE uia (CHE SONO BASATE SU C++).
 
 - [x] fatti procedura di installazione di reaper per mac os + link download software house
 
@@ -157,7 +158,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 	- [x] uso di markers e items riferimento:
 	non parlare di differenza ma di due modi diversi per arrivare allo stesso risultato.
     - [x] Completare render: aggiungere a definizione Alessio quella con risposta, riferimento: "(GIA’ RICEVUTA MAIL RISPOSTA DAA BONTEMPI e già inserita nel testo)"
-- [ ]inserire canale valter scarfia (iphone nella query di ricerca)
+- [ ] inserire canale valter scarfia (iphone nella query di ricerca)
 - [x] :"dove?" in che programma riferimento: "sono state provate tutte le possibilità per raggiungere uno stesso risultato"
 - [ ] Sistemare altre sezioni
 	- [ ] In protools windows, trovare spiegazione comando "Strip Silence", riferimento: "CHIEDERE A BONTEMPI A
@@ -183,7 +184,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
   
 - [ ] Rifare foto come screenshot
 
-###tabelle di appendice
+### tabelle di appendice
 - [x] reaper windows
 - [x] reaper mac (controllare alcuni comandi e aggiungere 2 righe per inserire queli posti a fine della sezione)
 - [x] protools windows

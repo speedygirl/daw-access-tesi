@@ -9,7 +9,7 @@ Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare i comandi 
 I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per i quali il test è stato efefettuato anche tramite software automatiaco. Entrambi i metodi di test hanno dato risultati identici.
 
 ### Presupposti
-In questo lavoro si analizzano Reaper 5.95 della softwarehouse Cockos; Pro Tools per windows versione 2018 7.0,  entre per OS X versione 5.921 della softwarehouse Avid e Cubase 9.5 della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
+In questo lavoro si analizzano Reaper 5.95 della softwarehouse Cockos; Pro Tools per windows versione 2018 7.0,  mentre per OS X versione 2018.10 5.921 della softwarehouse Avid e in entrambi i sistemi operativi Cubase 9.5 della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 
 ### Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
 In una prima fase ci si era preposti dilimitare l'analisi esclusivamente al sistema operativo Windows, successivamente si è preferito testare i programmi su entrambe le piattaforme, per fornire un quadro più completo dell'offerta commerciale e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso, nelle modalità di ricevere i feedback, nell’ubicazione dei pulsanti nella GUI o nei menù.
@@ -74,6 +74,18 @@ Si ricorda che alcune operazioni hanno effetti diversi secondo il contesto in cu
 A valle di questa analisi preliminare, il programma che risultava immediatamente più accessibile è stato Reaper, in quanto era già stato analizzato ed adattato da una community di non vedenti chiamata "Reaper Accessibility". Da questo lavoro è nato un plug-in dedicato che interfacciandosi direttamente con la sintesi vocale espone comandi specializzati per l'accesso con screen reader. Per questo motivo è stato scelto come programma da testare per primo. 
 <!-- aggiungere link reaper accessibility -->
 Il plug su Reaper hanno permesso di individuare il campione di comandi chiave che avrebbero 
+Sulla base dell'esperienza diretta di muscista e di quanto scritto nellla prima parte della tesi i comandi individuati sono i seguenti e sono stati ragggruppati secondo criteri d'uso pragmatico:
+- controlli di esecuzione
+- navigazione delle trace
+- gestione delle tracce
+- controlli delle tracce
+- gestione del mixer
+- editing delle tracce
+- timeline
+- equalizzazione
+- compressione
+- salvataggio, impostazioni progetto
+
 
 <!-- manca tutta la descrizione usato -->
 

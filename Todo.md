@@ -115,6 +115,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 -[/] AMPLIARE IOT èstato cancellato
 
 ## Appunti e cose da fare su "Parte 3"
+- [] <!-- manca tutta la descrizione usato -->
 - [] scrivere introduzione parte 3
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
   
@@ -124,6 +125,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 
 - [ ] Usare queste domande per giustificare la scelta dello screen reader (in traduzione da auri)
     ### Domande:
+	
     - What **version of Windows** will be used? Is the **screen reader compatible** with the version of Windows to be used?
     - Are there **standard system configurations** with which the **screen reader does not work** (color schemes, common video cards, etc.)?
     - What **synthesizers are/are** not supported?

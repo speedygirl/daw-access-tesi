@@ -3,9 +3,10 @@
 In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
 La scelta dei programmi è stata effettuata sulla base di criteri di diffusione commerciale prendendo in considerazione quelli a più vasta diffusione.
 I test sono stati effettuati sui due sistemi operativi a maggior diffusione.
-Ci si è avvalsi di sintesi vocali più note alla gran parte degli utenti e maggiormente personalizzabili.
+Per ogni sistema operativo, ci si è avvalsi di una sintesi vocale, scelta in base a criteri di notorietà e di facilità nella personalizzazione di navigazione dell'interfaccia.
 Si è cercato di testare i software tutti con lo stesso schema procedurale in modo tale da ottenere un'analisi comparaabile, tuttavia in alcuni casi non è stato possibile in quanto sono state sviluppate da case produttrici diverse e alcune funioni sono proprietarie ed esclusive del software in questione e non rintracciabili negli altri programmi.
 Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare i comandi principali utilizzati in fase di registrazione di una traccia audio in uno studio di registrazioone professionale. Succcessivamente sii è cercato di ampliare il campione simulando anche una sessione di editing dell'ipotetica traccia registrata, tuttavia, come si vedr nell'ananalisi che segue, la maggior parte dei comandi relativi alla fase di post produzione risultano inaccessibili con l'utilizzo degli screen reader scelti. Infine si è testata l'accessibilità dei comandi di elaborazione del file, elaborazione, importazione, esportazione, salvataggio, modifica, il cui risultatto si vede nell'analisi che segue.
+I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per i quali il test è stato efefettuato anche tramite software automatiaco. Entrambi i metodi di test hanno dato risultati identici.
 
 ### Presupposti
 In questo lavoro si analizzano Reaper della softwarehouse Cockos; Pro Tools dell’Avid e Cubase della Steimberg. I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
@@ -21,10 +22,23 @@ Livelli di accessibilità:
 - livello 4: il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno del contesto grafico e rende i riferimenti riguardo l'intera situazione del contesto.
 	
 
-### Perché testare con NVDA
-Si è scelto di usare la sintesi vocale NVDA (NonVisual Desktop Access) perché è facilmente reperibile, è gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
-è risultata molto efficace nella fase di testing dei programmi in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. In pratica muovendo il mouse, gli elementi che man mano si trovano sotto il puntatore, vengono letti e la sintesi non intralcia le comuni operazioni di clicc con entrambi i tasti, o di scrool con l’apposita rotella. 
-Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle operazioni o si riavvia in automatico (ossia senza specifico intervento dell’utente)
+### Scelta degli screen reader per i tes
+Per quanto riguarda Windows la scelta dello screen reader è stata guidata da questa serie di domande, da me liberamente tradotte in italiano.
+- What **version of Windows** will be used? Is the **screen reader compatible** with the version of Windows to be used?
+    - Are there **standard system configurations** with which the **screen reader does not work** (color schemes, common video cards, etc.)?
+    - What **synthesizers are/are** not supported?
+    - From among the **applications** that will likely be used, **are there some with which the screen reader does not work**, no matter the skill level of the user?
+    - **How much "automatic" speech does the screen reader give when the user is performing standard Windows functions** such as selecting menu items or moving through items in dialog boxes? Can the amount of **speech be adjusted to suit the user's skill** level and preferences?
+    - **How difficult** is it to **change** simple **standard features** such as voice rate or the choice of a reading key?
+    - **What must the user do in order to make an unfriendly program work well enough to be usable?**
+    - What **useful and unique features** does the screen reader have?
+    - **What problems** does the screen reader add to Windows use? 
+    - **Is the manual accessible and accurate**?
+    - Is there a **tutorial** in a usable format?
+Si è scelto di usare la sintesi vocale NVDA (NonVisual Desktop Access) perché è facilmente reperibile, gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
+Questa scelta si è dimostrata molto efficace soprattutto nella fase di testing dei programmi, in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. Questa sintesi consente di leggere gli elementi che man mano si trovano sotto il puntatore, che può essere spostato tramite movimenti del mouse, senza che la sintesi intralci le comuni operazioni di clic con entrambi i tasti, o di scrool con l’apposita rotella. 
+Si sono riscontrate solamente due problematiche, una legata all'improvviso rallentamento nella reattività di esecuzione delle operazioni, l'altra legata a riavvii imprevisti e non legati ad imput dell'utente: in questo caso la sintesi interrompe la lettura che può essere ripresa esclusivamente con il riavvio dei programmi in utilizzo.
+Per quanto riguarda il sistema operativo Macintosh, questo approccio non è applicabile, in quanto i device Apple dispongono di una sintesi vocale proprietaria integrata nel sistema operativo stesso, e di conseguenza aggiornata costantemente e perfettamente compatibile. Come già menzionato nella parte due della presente tesi, questa sintesi integrata si chiama VoiceOver e ha ottime prestazioni con tutti i device su cui è di default installata. 
 
 ### Installazione dei programmi
 
@@ -35,8 +49,8 @@ Il difetto è che di tanto in tanto rallenta la reattività di esecuzione delle 
     https://www.reaper.fm/download.php 
 -->
 
-### Plug in
-All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità  che sono  in grado di risolvere la gran parte dei problemi, ma non la totalità.
+#### Plug in
+All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità  che sono in grado di risolvere la gran parte dei problemi.
 
 [Download SWS Extension](http://www.sws-extension.org/)
 [Cockos Inc] (https://www.cockos.com/index.php)

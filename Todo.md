@@ -122,7 +122,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 
 - [ ] Spiegare software valutazione accessibilità, mettere screenshot che visualizza i suoi risultati.
 
-- [ ] Usare queste domande per giustificare la scelta dello screen reader
+- [ ] Usare queste domande per giustificare la scelta dello screen reader (in traduzione da auri)
     ### Domande:
     - What **version of Windows** will be used? Is the **screen reader compatible** with the version of Windows to be used?
     - Are there **standard system configurations** with which the **screen reader does not work** (color schemes, common video cards, etc.)?

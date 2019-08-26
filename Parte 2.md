@@ -96,7 +96,7 @@ AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo gover
 > Fatte salve le altre disposizioni del presente trattato e nell’ambito delle competenze da esso conferite alla Comunità, il Consiglio, deliberando all’unanimità su proposta della Commissione e previa consultazione del Parlamento europeo, può prendere i provvedimenti opportuni per combattere le discriminazioni fondate sul sesso, la razza o l’origine etnica, la religione o le convinzioni personali, gli handicap, l’età o le tendenze sessuali.
 I principi di usabilità e accessibilità si basano sul valore primario di uguaglianza dei cittadini in tutti i settori della società. L'impossibilità  di accesso per le persone disabili alle risorse digitali equivale a negare uno dei diritti fondamentali e impedire il pieno sviluppo della persona umana. Quindi, come tutte le barriere, anche quelle digitali devono essere abolite e siti web resi accessibili a tutti.
 La Legge n. 4/2004 (Legge Stanca) definisce:
-> Accessibilità…la capacità dei sistemi informatici, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari.
+> Accessibilità: la capacità dei sistemi informatici ... nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari.
 Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici”
 Si parla di accessibilità dei sistemi informatici quando ci si riferisce alla possibilità di fruire delle informazioni e dei servizi forniti, attraverso sistemi hardware e software appositamente progettati.
 Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto"[^agid-sito-ufficiale]. 
@@ -139,14 +139,12 @@ Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insi
 La prima formalizzazione del concetto di assistive technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
 Negli “Access Board's [^electronic-and-Information Technology-Accessibility-Standards]
 si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
-<!-- in word evidenziato in giallo -->
 
 ## 2.6 Esempi di assistive technologies legati alla disabilità visiva
 Fin dalla nascita del personal computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili-screenreader-1]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, erano in grado di trasmettere frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono 
 sviluppati software di input tramite comando vocale. 
  
-
 <!-- INSERIRE TABELLE CON ESEMPI TECNOLOGIE ASSISTIVE E RELATIVO LINK https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
 (…… ; consultato 25 novembre 2018). -->
 
@@ -197,11 +195,9 @@ NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare qua
 
 <!-- risolvere contraddizione microsoft uia -->
 ** C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES. **
-<!-- in word evidenziato in azzurro -->
 
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
-<!-- in word evidenziato in giallo - tradurre e rielaborare -->
 
 ### 2.6.2 Barra Braille
 ![](.\images\generic\barra-braille.jpg)

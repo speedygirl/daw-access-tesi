@@ -111,17 +111,17 @@ Le linee guida sono aggiornate o modificate con la procedura di cui al comma 1.
 Art. 12 (Normative internazionali)
 Le linee guida di cui all’articolo 11 sono emanate osservando le linee guida indicate nelle comunicazioni, nelle raccomandazioni e nelle direttive sull’accessibilità dell’Unione europea, nonché nelle normative internazionalmente riconosciute e tenendo conto degli indirizzi forniti dagli organismi pubblici e privati, anche internazionali, operanti nel settore.
 [^aggiornamento-legge-stanca-2018]
- Segue la pubblicazione da parte di AGID delle linee guida.
- AGID [*agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. I suoi compiti sono:
- monitoraggio dei siti web della pubblica amministrazione e assistenza per l’adeguamento alla normativa
-predisposizione di modelli per l’autovalutazione ai fini della redazione degli Obiettivi di accessibilità che le pubbliche amministrazioni sono tenute a pubblicare entro il 31 marzo di ciascun anno
-gestione delle segnalazioni di inaccessibilità e attivazione delle procedure previste
-gestione elenco valutatori di accessibilità
-concessione del logo di accessibilità alle amministrazioni richiedenti il Logo di accessibilità
-definizione e pubblicazione delle Specifiche tecniche sulle postazioni di lavoro per i dipendenti con disabilità
-formazione alla pubblica amministrazione sui temi dell'accessibilità.
-Osservatorio Nazionale sulla Disabilità del Ministero del Lavoro e delle Politiche sociali (OND);
-Enti di normazione CEN, UNI e UNINFO.
+Segue la pubblicazione da parte di AGID delle linee guida.
+AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. I suoi compiti sono:
+- monitoraggio dei siti web della pubblica amministrazione e assistenza per l’adeguamento alla normativa
+- predisposizione di modelli per l’autovalutazione ai fini della redazione degli Obiettivi di accessibilità che le pubbliche amministrazioni sono tenute a pubblicare entro il 31 marzo di ciascun anno
+- gestione delle segnalazioni di inaccessibilità e attivazione delle procedure previste
+- gestione elenco valutatori di accessibilità
+- concessione del logo di accessibilità alle amministrazioni richiedenti il Logo di accessibilità
+- definizione e pubblicazione delle Specifiche tecniche sulle postazioni di lavoro per i dipendenti con disabilità
+- formazione alla pubblica amministrazione sui temi dell'accessibilità.
+- Osservatorio Nazionale sulla Disabilità del Ministero del Lavoro e delle Politiche sociali (OND);
+- Enti di normazione CEN, UNI e UNINFO.
 
 ## 2.2 appunti per oncetto di accessibilità e di usabilità
 Oggi vi è la necessità di portare i programmi a livello di tutti (per difficoltà generiche, disabilità specifiche, ma anche quelle insorte tardivamente) perchè sono sempre più nel quotidiano.
@@ -158,13 +158,11 @@ La Legge n. 4/2004 (Legge Stanca) definisce:
 Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici”
 Si parla di accessibilità dei sistemi informatici quando ci si riferisce alla possibilità di fruire delle informazioni e dei servizi forniti, attraverso sistemi hardware e software appositamente progettati.
 
-Al concetto di accessibilità si connette quello di usabilità, definita dalle norme standard ISO9241-210:2010:
-> ”Il grado in cui un prodotto può essere usato da particolari utenti per raggiungere certi obiettivi con efficacia, efficienza, soddisfazione, in uno specifico contesto d’uso.”
-
-La norma si prodiga ulteriormente nell’esplicitare i termini:
-- Efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti.
-- Efficienza: si intende in rapporto tra le risorse impiegate in relazione all’efficacia definita in precedenza.
-- Soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto.
+Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto"[^agid-sito-ufficiale]. 
+Secondo le norme standard ISO 9241 , il concetto di usabilità viene definito secondo tre parametri:
+- efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti.
+- efficienza: si intende in rapporto tra le risorse impiegate in relazione all’efficacia definita in precedenza.
+- soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto.
 L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere e che rendano possibile il recupero di eventuali errori.
 E’ opportuno sottolineare la fondamentale differenza tra i due concetti: se l’usabilità è la ricerca di una semplificazione che si rivolge a tutti gli utenti, l’accessibilità cerca di sopperire alle carenze dovute a specifiche disabilità con tecnologie dedicate.
 

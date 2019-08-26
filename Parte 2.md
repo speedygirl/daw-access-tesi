@@ -99,33 +99,17 @@ la democrazia ha portato a un dibattito sul reale significato di uguaglianza / d
 dall'estensione a tutti del diritto di voto (il riconoscimento cioè che tuttti sono uguali( a considerazioni più "alte".
 non a caso gli 11 enunciati della legge stanca prendono le mosse dall'articolo 3 della Costituzione Italiana.
 
-#### cosa deve garantire la società?
-Di cosa la società si deve fare carico?
-per approfondire questo argomento citare la legge sull'integrazione degli anni '70, che poi, nel 1992 è diventata la legge 104).
 
-Anche a livello internazionale si assiste a affini tipologie di dibattiti, che hanno portato anche  alttrove alla formulazione di leggi che sostanzialmente affermano gli stessi principi ma ciò dimostra come l'attenzione al problema sia sempre maggiore.
 
-(elenchi normative- mondo/europa/italia - già scritti nel doc).
-
-alla profondità del dibattito in questi anni, la pratica fatica a corrispondere.
-
-è interessante sottolineare la diversità del significato di accessibilità e usabilità 
-Attuazione di questi principi nelle moderne tecnologie (già abbozzato in doc 2.4.1)
-Conclusione: Se questi accorgimenti vengono tralasciati si trascurano grandi porzioni di umanità. però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati.**
-<!-- controllare in word era evidenziato azzurro -->
 
  ## 2.2 concetto di accessibilità e usabilità
-È in questo contesto che assumono sempre maggiore rilevanza i concetti di accessibilità e usabilità. 
-Trattato istitutivo della comunità europea [direttiva-europea-pdf] art.13 
-<!-- quale? inserire date e spostare in parte storica legislazione -->
-
+ Trattato istitutivo della comunità europea [direttiva-europea-pdf] art.13 
 > Fatte salve le altre disposizioni del presente trattato e nell’ambito delle competenze da esso conferite alla Comunità, il Consiglio, deliberando all’unanimità su proposta della Commissione e previa consultazione del Parlamento europeo, può prendere i provvedimenti opportuni per combattere le discriminazioni fondate sul sesso, la razza o l’origine etnica, la religione o le convinzioni personali, gli handicap, l’età o le tendenze sessuali.
+I principi di usabilità e accessibilità si basano sul valore primario di uguaglianza dei cittadini in tutti i settori della società. L'impossibilità  di accesso per le persone disabili alle risorse digitali equivale a negare uno dei diritti fondamentali e impedire il pieno sviluppo della persona umana. Quindi, come tutte le barriere, anche quelle digitali devono essere abolite e siti web resi accessibili a tutti.
 La Legge n. 4/2004 (Legge Stanca) definisce:
 > Accessibilità…la capacità dei sistemi informatici, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari.
-
 Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici”
 Si parla di accessibilità dei sistemi informatici quando ci si riferisce alla possibilità di fruire delle informazioni e dei servizi forniti, attraverso sistemi hardware e software appositamente progettati.
-
 Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto"[^agid-sito-ufficiale]. 
 Secondo le norme standard ISO 9241 , il concetto di usabilità viene definito secondo tre parametri:
 - efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti.
@@ -133,11 +117,8 @@ Secondo le norme standard ISO 9241 , il concetto di usabilità viene definito se
 - soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto.
 L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere e che rendano possibile il recupero di eventuali errori.
 E’ opportuno sottolineare la fondamentale differenza tra i due concetti: se l’usabilità è la ricerca di una semplificazione che si rivolge a tutti gli utenti, l’accessibilità cerca di sopperire alle carenze dovute a specifiche disabilità con tecnologie dedicate.
-
-## 2.3 Decreti
-Il concetto di usabilità nasce negli anni ’60 ma si è poi sviluppato alla fine degli anni ’80 con il diffondersi delle tecnologie informatiche e del personal computer tra un numero sempre crescente di soggetti: fino ad allora il problema non sussisteva, in quanto queste tecnologie erano utilizzate esclusivamente da esperti. 
-**La crescita del web in ambito sociale ha comportato la necessità di rendere accessibili i siti e le sue stesse risorse e informazioni. Questo ha portato gli enti governativi a muoversi da un punto di vista legislativo, arrivando a promuovere delle linee guida specifiche per il web che sono state ritenute a tal punto valide dagli esperti del settore, da essere applicate per l’accessibilità anche nell’ambito dello sviluppo software, che invece non è stato coperto da alcuna specifica normativa. Stesso discorso si può applicare allo sviluppo di applicazioni mobile, la cui accessibilità non viene richiesta al momento dell’inserimento sulle piattaforme store, ma è a totale discrezione dello sviluppatore. Di prospettiva, visto il prorompente sviluppo delle applicazioni mobile negli ultimi anni, ci si aspetta che gli enti normativi a breve intervengano anche in questo ambito. **
-<!-- in word evidenziato in azzurro -->
+Il concetto di usabilità nasce negli anni ’60, ma si è sviluppato alla fine degli anni ’80 con il diffondersi delle tecnologie informatiche e del personal computer tra un numero sempre crescente di soggetti. Fino ad allora il problema non sussisteva, in quanto queste tecnologie erano utilizzate esclusivamente da esperti. 
+La crescita del web in ambito sociale ha portato, come detto, gli enti governativi a muoversi da un punto di vista legislativo, per rendere accessibili i siti, le risorse e le informazioni ai disabili. Le linee guida specifiche elaborate per il web sono state ritenute a tal punto valide dagli esperti del settore, da essere applicate per l’accessibilità anche nell’ambito dello sviluppo software, che invece non era stato coperto da alcuna specifica normativa. Stesso discorso si può estendere allo sviluppo di applicazioni mobile, la cui accessibilità non viene richiesta al momento dell’inserimento sulle piattaforme store, ma è a totale discrezione dello sviluppatore. Di prospettiva, visto il prorompente sviluppo delle applicazioni mobile negli ultimi anni, ci si aspetta che gli enti normativi a breve intervengano anche in questo ambito.
 
 ## 2.4 Attuazione nello sviluppo software e web
 Nello sivluppo di interfacce software gli sviluppatori devono tener in considerazione  la compatibilità del loro prodotto con le tecnologie assistive usate dalle diverse tipologie di accessibilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità dei controlli dell'interfaccia si riscontrano nei controlli etichettati con immagini anzichè testi alternativi, tag testuali, nella priorità dei tag (priority 1, 0); utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale; opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera. Per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel.

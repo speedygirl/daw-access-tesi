@@ -2,7 +2,7 @@ note parte 2
 inserire commento html sotto ogni foto inserita nel testo senza inserire la nota relativa all'immagine in questo file da ale 24 agosto 2019
 
 Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale" sta trasformando l'energia, l'economia e il mondo, traduzione di Paolo Canton, collana Oscar Mondadori, Arnoldo Mondadori Editore, 2011, pp. 329, ISBN 978-88-04-61420-3.
-[^eremy-Rifki-p329]: p 329
+[^jeremy-rifkin-p329]: p 329
 
 http://www.treccani.it/enciclopedia/digital-divide_%28Enciclopedia-della-Scienza-e-della-Tecnica%29/
 [^digital-devide-definizione]: digital devide definizione

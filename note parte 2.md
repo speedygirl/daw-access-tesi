@@ -98,6 +98,9 @@ https://www.apple.com/accessibility/mac/vision/
 [^voiceover-apple-ufficiale]
 
 ![](.\images\generic\schema-api-uia-microsoft.png)
-[^schema-uia-microsoft-youtube]:
+[^schema-uia-microsoft-youtube]: link youtube
+
+https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg
+[^aggiornamento-legge-stanca-2018]: decreto legislativo 10 agosto 2018, n. 106 pubblicato in Gazzetta Ufficiale n. 221
 
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

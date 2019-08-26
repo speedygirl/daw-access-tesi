@@ -23,11 +23,10 @@ Nel 2004 viene finalmente approvata La Legge n. 4, Disposizioni per favorire l�
 Dell’anno successivo le linee guida per le metodologie per lo sviluppo e la verifica dell’accessibilità in applicazione della Legge, che consistono in 22 requisiti tecnici e i criteri contenuti nelle WCAG 1.0.
 Nel 2010 il Dipartimento per la digitalizzazione della PA e l’Innovazione tecnologica pubblica un documento che riduce i requisiti da 22 a 12, rielaborandoli in base ai concetti espressi all’interno delle WCAG 2.0. Tale indicazione verrà recepita nel 2013 nel decreto che aggiorna i requisiti previsti dalla Legge Stanca, firmato Ministro della Pubblica Istruzione Francesco Profumo (con Delega all’Innovazione della Pubblica Amministrazione) richiedendo che i siti delle pubbliche amministrazioni e degli altri enti coinvolti in tale legge soddisfino i criteri previsti dalle linee guida WCAG 2.0 al livello di conformità AA.
 
-Pubblicato in Gazzetta Ufficiale n. 221 del giorno 11 settembre 2018 il DECRETO LEGISLATIVO 10 agosto 2018, n. 106 “Riforma dell’attuazione della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici”.
-Il decreto entrerà in vigore il 26 settembre 2018 e recepisce la direttiva europea che prevede l’obbligo di accessibilità per i siti Web e le app mobile nonché ulteriori obblighi tra cui la pubblicazione della dichiarazione di accessibilità. Sparisce inoltre il bollino di accessibilità così come il DPR 75/2005 e il DM 8 luglio 2005 (con i relativi allegati), una volta emanate le linee guida a cura di AGID.
-Di seguito si riporta il testo aggiornato della legge 4/2004. Impor
+L'ultimo aggiornamento è il DECRETO LEGISLATIVO 10 agosto 2018, n. 106 “Riforma dell’attuazione della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti web e delle applicazioni mobili degli enti pubblici”, pubblicato in Gazzetta Ufficiale n. 221 del giorno 11 settembre 2018, in ottemperanza alla direttiva europea che prevede l’obbligo di accessibilità per i siti Web, le app mobile, la pubblicazione della dichiarazione di accessibilità e altro.
+"Si riporta in sintesi il testo aggiornato della legge 4/2004." 
 Disposizioni per favorire l’accesso degli utenti e, in particolare, alle persone con disabilità agli strumenti informatici
-Art. 1 (Obiettivi e finalità)
+> Art. 1 (Obiettivi e finalità)
 La Repubblica riconosce e tutela il diritto di ogni persona ad accedere a tutte le fonti di informazione e ai relativi servizi, ivi compresi quelli che si articolano attraverso gli strumenti informatici e telematici.
 È tutelato e garantito, in particolare, il diritto di accesso ai servizi informatici e telematici della pubblica amministrazione e ai servizi di pubblica utilità da parte delle persone con disabilità, in ottemperanza al principio di uguaglianza ai sensi dell’articolo 3 della Costituzione.
 Art. 2 (Definizioni)
@@ -112,6 +111,17 @@ Le linee guida sono aggiornate o modificate con la procedura di cui al comma 1.
 Art. 12 (Normative internazionali)
 Le linee guida di cui all’articolo 11 sono emanate osservando le linee guida indicate nelle comunicazioni, nelle raccomandazioni e nelle direttive sull’accessibilità dell’Unione europea, nonché nelle normative internazionalmente riconosciute e tenendo conto degli indirizzi forniti dagli organismi pubblici e privati, anche internazionali, operanti nel settore.
 [^aggiornamento-legge-stanca-2018]
+ Segue la pubblicazione da parte di AGID delle linee guida.
+ AGID [*agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. I suoi compiti sono:
+ monitoraggio dei siti web della pubblica amministrazione e assistenza per l’adeguamento alla normativa
+predisposizione di modelli per l’autovalutazione ai fini della redazione degli Obiettivi di accessibilità che le pubbliche amministrazioni sono tenute a pubblicare entro il 31 marzo di ciascun anno
+gestione delle segnalazioni di inaccessibilità e attivazione delle procedure previste
+gestione elenco valutatori di accessibilità
+concessione del logo di accessibilità alle amministrazioni richiedenti il Logo di accessibilità
+definizione e pubblicazione delle Specifiche tecniche sulle postazioni di lavoro per i dipendenti con disabilità
+formazione alla pubblica amministrazione sui temi dell'accessibilità.
+Osservatorio Nazionale sulla Disabilità del Ministero del Lavoro e delle Politiche sociali (OND);
+Enti di normazione CEN, UNI e UNINFO.
 
 ## 2.2 appunti per oncetto di accessibilità e di usabilità
 Oggi vi è la necessità di portare i programmi a livello di tutti (per difficoltà generiche, disabilità specifiche, ma anche quelle insorte tardivamente) perchè sono sempre più nel quotidiano.

@@ -7,6 +7,7 @@
 [^fred-gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.
 [^luca-cerchiari-p17]: p. 17
 [^roberto-diem-tigani-p258-259]: pp 258-259
+[^roberto-diem-tigani-p57]: p 57 Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.
 [^roberto-diem-tigani-p57-58]: op.cit. pp 57-58
 [^roberto-diem-tigani-p174]: p 174
 [^le-garzantine]: voce alta fedeltà p. 16 Le Garzantine 2012

@@ -76,7 +76,7 @@ Edison reagì in maniere rabbiosa a queste innovazioni, facendo desistere il gru
 Dopo poco tempo una nuova invenzione avrebbe definitivamente sostituito i dispositivi a cilindro.
 
 Il salto di qualità avvenne con l'introduzione, da parte di Emil Berliner (1851-1929), tedesco naturalizzato statunitense, del supporto di registrazione di forma discoidale.
-Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo <!-- a quale scopo? Specificherei.. --> da essere utilizzata ancora ai nostri giorni.
+Questa forma, ripresa dal progetto di Charles Cros, risulterà a tal punto congeniale allo scopo dell'incisione sonora da essere utilizzata ancora ai nostri giorni.
 
 ![Berliner a lavoro](.\images\supporti_registrazione_riproduzione\berliner_a_lavoro_1.jpg){ width=300px }
 
@@ -95,10 +95,9 @@ Altre fondamentali migliorie furono:
 
 Berliner si era applicato fin dall'inizio alla riproduzione della musica, scindendo l'aspetto della registrazione da quello della riproduzione: questo aveva determinato da subito il carattere del grammofono come lettore di un supporto preregistrato.
 Si occupò inoltre del problema della riproduzione da matrice, avendo capito che, per le attese del nascente mercato fonografico, era necessario avere a disposizione numerose copie in poco tempo e a bassi costi. Nasceva così una produzione seriale, che conteneva i costi producendo copie fino alla consunzione della matrice. Come materiale per le copie, egli usò dapprima un nuovo prodotto della Duranoid Company, ma poi preferì la gommalacca, talmente funzionale da essere utilizzata fino agli anni '50, quando fu sostituita dal policloruro di vinile.
-
 Nel 1893 fondò a Washington la United States Gramophone Company, con la collaborazione del produttore Gaisberg, cui era affidata la direzione artistica, sodalizio che introdusse una serie di attività assolutamente innovative per l'epoca, come la creazione di cataloghi editoriali, la scelta e allestimento di un repertorio, l'ingaggio di artisti. La nuova compagnia si presentò sul mercato con la sua produzione di dischi e tre diversi tipi di grammofono, uno a manovella e due già dotati di motore elettrico. Il successo fu enorme.
-
-> Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile [^luca-cerchiari-p17] <!-- qui si torna a parlare dei cilindri quando si era passati ai dischi, se vuoi lasciare la citazione la contestualizzarei, non la lascerei così, altrimento non si capisce il collegamento col testo principale -->
+L'era del cilindro comincia a declinare a causa delle continue innovazioni tecniche di Berliner, ma il disco supererà il cilindro solo nei primi anni del '900.
+> Le versioni elettriche degli apparecchi a cilindro hanno tuttavia vita limitata per la scarsa diffusione della rete elettrica stessa, cui in questi casi si ovvia dotando le macchine di pile. Sino agli anni della comparsa del microfono, fonografi e grammofoni funzionano meccanicament, traendo l'energia necessaria al tempo di rotazione e lettura del supporto da una manovella che "carica" uncongegno a molla. [^luca-cerchiari-p17]
 
 Subito Berliner pensò a ulteriori migliorie e diede incarico a Eldridge Reeves Johnson (1867-1945), esperto ingegnere meccanico del New Jersey, di realizzare un prototipo di motore a molla che desse regolarità alla riproduzione, senza i costi di un motore elettrico. Il nuovo apparecchio, pronto nel 1896, verrà distribuito con grande lancio pubblicitario, segnando definitivamente il tramonto dei cilindri.
 Johnson si occupò anche del problema della produzione delle copie, sperimentando soluzioni chimiche innovative. Eliminò il pericoloso utilizzo dell'acido impiegando per l'incisione un disco di cera poi spolverato di grafite, materiale conduttore, e immerso in una soluzione a base di sale di rame. Tramite un processo elettrochimico le particelle di rame andavano prima a depositarsi nel solco registrato e poi formavano uno strato solido di rame che poteva essere staccato dalla cera e utilizzato per la duplicazione. In seguito il rame venne sostituito col nichel, ma questo sistema era talmente valido che rimase sostanzialmente invariato e tuttora i dischi in vinile vengono duplicati con matrici prodotte secondo il processo di Johnson.
@@ -107,7 +106,7 @@ Johnson sperimentò anche la registrazione su entrambe le facce di un disco, com
 
 ![Supporto 78 giri](.\images\supporti_registrazione_riproduzione\78_giri.jpg){ width=400px }
 
-> Toscanini definì il grammofono "insuperabile", Leoncavallo "prezioso", Giordano "meraviglioso", Cilea "gioiello artistico", Illica parla di "conquista spirituale", Puccini di "momenti deliziosi". <!-- indicare la fonte -->
+> Toscanini definì il grammofono "insuperabile", Leoncavallo "prezioso", Giordano "meraviglioso", Cilea "gioiello artistico", Illica parla di "conquista spirituale", Puccini di "momenti deliziosi". [^roberto-diem-tigani-p57]
 
 Ascoltando oggi un documento sonoro di quel periodo, specie sulle macchine originali e senza il conforto di una sofisticata tecnologia di restauro, c'è da restare stupefatti di fronte a tanta abbondanza di lodi, così in contrasto con un risultato sonoro povero di dettagli, non sempre comprensibile e martoriato da rumori di fondo oggi inaccettabili.
 

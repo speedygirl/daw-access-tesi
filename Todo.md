@@ -82,9 +82,8 @@ appunti file word "Daw bozza ver 1.doc"
 
 ## Appunti e cose da fare su "Parte 2"
 - [] [^schema-uia-microsoft-youtube]: link youtube inserire link youtube
-- [] verificare - riferimento: "
+- [x] verificare - riferimento: "
 però per farlo occorrono conoscenza, intelligenza e controllo dei diretti interessati"
-<!-- controllare in word era evidenziato azzurro -->
 - [x] link rivista fiato metodologogie accessibiliità fine 2.1
 - [x] citare slide salfi assistive technology/speech-systems/35
 - [] inserire tabella screen reader
@@ -153,7 +152,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
     
 - [ ] Elencare screenshot e punto di inserimento
 
-- [ ] Sistemare testo sezione "Metodo di analisi" 
+- [x] Sistemare testo sezione "Metodo di analisi" 
     - [x] Fatte deefinizioni in testo random, riferimento: "frequenza con cui i dati"
 	- [x] correggere ripple on e ripple off nella frase sopra al testo qui citato. riferimento: "Alcune DAW prevedono che l'operazione di unione venga svolta manualmente"
     - [x] Completare con risposta, riferimento "Inserire contenuto menù in conversazione wa aurora intorno al 22 novembre 2018"
@@ -172,7 +171,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
     - [ ] Testo random, riferimento: "RIPARTIRE DI QUI E INSERIRE PLAYBACK ENGINE"
 	              per trovare la sezione usare il seguente testo: 
 	              in Pro Tools per Mac Riferimento: "Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale"
-    - [ ] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesta a techno help" Gianluca Pollaro mappatore shortcut Reaper Windows; Garth Hartung mappatore shortcut Reaper Mac.
+    - [x] Completare con risposta eventuale, riferimento: "SELEZIONE DELLE TRACCE continua e discontinua già mandata richiesta a techno help" Gianluca Pollaro mappatore shortcut Reaper Windows; Garth Hartung mappatore shortcut Reaper Mac.
 	Secondo Gianluca Pollaro non si può fare la selezione discontinua. 
     - [x] Sistemare testo random, sezione "AUDIO TRAck- [x]  fino a 16 righe dopo
     - [x] la sezione "audio track" riguarda il mixer: vengono citati tutti gli elementi che lo compongono.
@@ -200,7 +199,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 - [ ]   
 
 ## Patch parte 1
-- [ ] Controllare specifiche tecniche midi da questo [Link](https://en.wikipedia.org/wiki/MIDI#Technical_specifications)
+- [x] Controllare specifiche tecniche midi da questo [Link](https://en.wikipedia.org/wiki/MIDI#Technical_specifications)
 
 ## Linee guida markdown
   - Le cose evidenziate in giallo sono marcate con il doppio asterisco \*\*

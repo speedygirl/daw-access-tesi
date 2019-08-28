@@ -195,8 +195,9 @@ L’argomento legato alle tre tipologie di focus tra sintesi, tastiera e mouse e
 <!-- SPIEGARE FOCUS E TROVARE DOVE METTERLO, SICURAMENTE NON QUI -->
 
 #### PARLARE DI API’s
-Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è stato espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, combo, slider, link), 
-**proprietà del controllo (nome), automation properties (comandi da tastiera),**
+Lo screen reader per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo per fornire allo screen reader le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di windows. Esse forniscono allo screen reader, e di conseguenza alla barrabraille, informazioni riguardo l’azione da parte dell’utente (l’elemento è selezionato, il pulsante è stato premuto, il menù è espanso ecc…); sul tipo di controllo (pulsante, menù a discesa, checkbox, combo, slider, link), 
+**proprietà del controllo (nome, properties values che aiuta l'utente a localizzare e capire la caratteristica del controllo stesso), automation properties (comandi da tastiera),**
+uia patterns indica se il controllo è selezionabile o non selezionabile.
 <!-- inserire elementi mancanti -->
 
 patterns/behaviour (toggle, invoke, select, expande/collapse); infine “layout the hierarky for expected behaviour”.  (tratto da PDF "UIA Windows Accessibility" dal sito Microsoft)[^layout-the-hierarky-for-expected-behaviour-pdf-sito-microsoft]
@@ -273,7 +274,7 @@ Narrator, sempre per windows 8 e successive, è considerato leggermente migliore
 VoiceOver [^voiceover-apple-ufficiale] utilizzabile esclusivamente con sistema operativo sviluppati da Apple, risulta essere meglio strutturato dei precedenti elencati, all'avvio del sistema operativo l'utente non vedente può facilmente accedere al tutorial, per imparare a usarlo.
 Presenta un numero minore di comandi rapidi rispetto a JAWS, comandi che prevedono il tasto chiave Home/V.O oppure capslock o insert
 
-### 2.7.1 / Storia tecniche accessibilità
+### 2.7.1 / Storia delle tecniche di accessibilità
 <!-- da completare -->
 
 ### 2.7.2 / riflessione su come può essere reso accessibile software audio [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella seconda sezione della tesi (180 pag)

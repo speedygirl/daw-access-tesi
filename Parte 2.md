@@ -207,9 +207,7 @@ La quantità di informaziooni fornite all’utente dipende da come quest’ultim
 NB si ricorda che anche il mignifier fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
 ![](.\images\generic\schema-api-uia-microsoft.png)
 [^schema-uia-microsoft-youtube]
-
-<!-- risolvere contraddizione microsoft uia -->
-** C’è CONTRADDIZIONE NEL VIDEO DELLA MICROSOFT: PRIMA SUDDIVIDE SHORTCUT NELLE AUTOMATION PROPERTIES DA NOME DEL CONTROLLO CHE è INSERITO NELLE PROPERTIES, POI, NELLE 2 VOLTE SUCCESSIVE CHE RICOMPARE L’ARGOMENTO, NAME E SHORTCUT VENGONO ENTRAMBE MESSE SOTTO LA VOCE PROPERTIES. **
+[^introduction-to-uia-microsoft-youtube]
 
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**

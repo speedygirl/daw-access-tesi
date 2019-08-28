@@ -100,6 +100,9 @@ https://www.apple.com/accessibility/mac/vision/
 ![](.\images\generic\schema-api-uia-microsoft.png)
 [^schema-uia-microsoft-youtube]: link youtube
 
+https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s
+[^introduction-to-uia-microsoft-youtube]
+
 https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg
 [^aggiornamento-legge-stanca-2018]: decreto legislativo 10 agosto 2018, n. 106 pubblicato in Gazzetta Ufficiale n. 221
 

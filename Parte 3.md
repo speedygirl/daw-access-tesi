@@ -1,13 +1,16 @@
 ## Analisi di accessibilità dei programmi
-## Introduzione
+### Introduzione
 In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
-La scelta dei programmi è stata effettuata sulla base di criteri di diffusione commerciale prendendo in considerazione quelli a più vasta diffusione.
-I test sono stati effettuati sui due sistemi operativi a maggior diffusione.
+La scelta dei programmi è stata effettuata sulla base di un criterio commerciale, prendendo in considerazione quelli a più vasta diffusione.
+I test sono stati effettuati sui due sistemi operativi maggiormente installati.
 Per ogni sistema operativo, ci si è avvalsi di una sintesi vocale, scelta in base a criteri di notorietà e di facilità nella personalizzazione di navigazione dell'interfaccia.
-Si è cercato di testare i software tutti con lo stesso schema procedurale in modo tale da ottenere un'analisi comparaabile, tuttavia in alcuni casi non è stato possibile in quanto sono state sviluppate da case produttrici diverse e alcune funioni sono proprietarie ed esclusive del software in questione e non rintracciabili negli altri programmi.
-Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare i comandi principali utilizzati in fase di registrazione di una traccia audio in uno studio di registrazioone professionale. Succcessivamente sii è cercato di ampliare il campione simulando anche una sessione di editing dell'ipotetica traccia registrata, tuttavia, come si vedr nell'ananalisi che segue, la maggior parte dei comandi relativi alla fase di post produzione risultano inaccessibili con l'utilizzo degli screen reader scelti. Infine si è testata l'accessibilità dei comandi di elaborazione del file, elaborazione, importazione, esportazione, salvataggio, modifica, il cui risultatto si vede nell'analisi che segue.
-I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per i quali il test è stato efefettuato anche tramite software automatico. Entrambi i metodi di test hanno dato risultati identici.
+Si è cercato di testare tutti i software con lo stesso schema procedurale in modo tale da ottenere un'analisi comparabile. In alcuni casi non è stato possibile seguire la procedura essendo state sviluppate da case produttrici diverse, alcune funzioni sono proprietarie esclusive del software in questione e non rintracciabili negli altri programmi.
+Il campione di comandi prescelto ai fini dell'analisi vuole ricalcare quelli principali utilizzati in fase di registrazione di una traccia audio in uno studio di registrazioone professionale. 
+Successivamente si è cercato di ampliare il campione simulando anche una sessione di editing dell'ipotetica traccia registrata, tuttavia, come si vedrà nell'analisi che segue, la maggior parte dei comandi relativi alla fase di post produzione risulta inaccessibile con l'utilizzo degli screen reader scelti. 
+Infine si è testata l'accessibilità dei comandi di elaborazione di file, manipolazione, importazione, esportazione, salvataggio, modifica, il cui risultato si vede nell'analisi che segue.
+I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per il quale il test è stato effettuato anche tramite software automatico. Entrambi i metodi di test hanno dato risultati identici.
 
+<!-- correggere da qui -->
 ### Presupposti
 In questo lavoro si analizzano Reaper 5.95 della softwarehouse Cockos; Pro Tools per windows versione 2018 7.0,  mentre per OS X versione 2018.10 5.921 della softwarehouse Avid e in entrambi i sistemi operativi Cubase Pro 9.5 della Steimberg. [^steimberg-sito-ufficiale] I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 
@@ -559,9 +562,9 @@ gli SDK di Windows contengono svariati tools che sono utili per creare servizi e
   -	[UI Accessibility Checker](https://docs.microsoft.com/en-us/windows/desktop/winauto/ui-accessibility-checker): The UI Accessibility Checker (AccChecker) tool **verifies** that **key UI accessibility requirements are** met. AccChecker includes verification checks for **UI Automation, Microsoft Active Accessibility**, and Accessible Rich Internet Applications (ARIA). It can provide a **static check** looking for **errors** such as missing names, tree issues and more. It helps verify **programmatic access** and has **advanced features to support automating accessibility testing**.
   - [UI Automation Verify (UIA Verify)](https://docs.microsoft.com/en-us/windows/desktop/winauto/ui-automation-verify) is a testing **framework for manual and automated** testing of a **control's or application's** implementation of UI Automation. It can also log the test results. You can **integrate your application into the test code** and conduct regular, automated testing or spot checks of your UI Automation scenarios. This tool is useful to verify that changes to applications with established features do not have new issues or regressions in areas beyond the new features.
 
-(proseguio dello stesso articolo).
+(prosecuzione  dello stesso articolo).
 
-windows “winsèy++” è il corrispettivo dell'inspector in mac.
+windows “winspy++” è il corrispettivo dell'inspector in mac.
 winsèy++”  è scaricabile al seguente link: 
 [aggiornato 8 settembre 2018; consultato 20 novembre 2018](https://sourceforge.net/projects/winspyex/.)
 
@@ -590,11 +593,11 @@ Articolo su accessibility inspector tratto da:
 [consultato 4 novembre 2018; pubblicato 9 maggio 2013; autore Léonie Watson](https://developer.paciellogroup.com/blog/2013/05/testing-and-debugging-ios-accessibility-for-voiceover/)
 
 ```
-A differenza di altri, si tratta di un tool alquanto completo per analizzare l’accessibilità di programmi, siti web ecc…,  ad esclusione delle app mobile.
-I controlli nativi della UI hanno l’accessibilità incorporata come standard, quelli personalizzati sono rendibili accessibili senza difficoltà.
+A differenza di altri, si tratta di un tool alquanto completo per analizzare Con questo tool si può valutare l’accessibilità di programmi, siti web ecc…, ad esclusione delle app mobile.
+I controlli nativi della UI hanno l’accessibilità incorporata come standard, quelli personalizzati si possono rendere accessibili senza difficoltà.
 
-Quando si esegue il test dell’app non c’è cosa migliore da fare che provare la propria app (o il prototipo) in uno stato stabile da essere utilizzata su un device, testarla con voiceover o meglio ancora chiedere agli utenti di voiceover di provarla. Questo dà un feedback realistico.
-Accessibility inspector	(disponibile nell’IOIS simulator) può anche essere usato per debuggare ogni problema che si incontra. Esso consente di simulare l’interazione con VoiceOver e di esaminare le informazioni di accessibilità che sono disponibili nei controlli della propria app.
+Quando si esegue il test dell’app non c’è cosa migliore da fare che provarla  (o il suo prototipo se si iè a uno stadio iniziale) testarla con voiceover o meglio ancora chiedere agli utenti, utilizzatori di Assistive Technology, di provarla così da avere un ritorno più vicino al reale.
+L'Accessibility inspector è disponibile nell’IOS simulator ed è in grado di risolvere qualsiasi tipologia di problema relativo alle AT perchè consente di simulare l’interazione con VoiceOver e di esaminare le informazioni di accessibilità che sono disponibili nei controlli del programma.
 Accessibility inspector non ha un output vocale quindi è un tool di debugging piuttosto che un test tool.
 è quindi un buon approccio testare con VoiceOver e fare debgging con l’accessibility inspector.
 Per avviare l’Accessibility Inspector bisogna eseguire l’app nell’iOS simulator andare alla Home > Settings > General > Accessibility and slide the Accessibility Inspector switch to on. Questo apre l’Accessibility Inspector panel.

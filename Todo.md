@@ -114,8 +114,8 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
 -[/] AMPLIARE IOT èstato cancellato
 
 ## Appunti e cose da fare su "Parte 3"
-- [] <!-- manca tutta la descrizione usato -->
-- [] scrivere introduzione parte 3
+- [x] descrizione metodo usato
+- [x] scrivere introduzione parte 3
 - [x] Citare per ogni comando il percorso fatto nella ricerca della shortcut nella ricerca del menù
   
 - [ ] Aggiungere piccola sezione su cubase 10 quando esce la demo del programma.
@@ -141,7 +141,7 @@ riferimento: "l'impiego dell'home key, di complesso utilizzo come già detto."
     - [Browse Speech Synthesizer Products](http://www.afb.org/info/assistive-technology/speech-systems/ProdBrowseCatResults.asp?CatID=50) 
     - [Browse Personal Digital Assistants with Speech Products](http://www.afb.org/info/assistive-technology/speech-systems/ProdBrowseCatResults.asp?CatID=48)
 - [ ] Reaper per Mac riferimento: Cmd+Shift+Spazio verificare in mac provando manualmente cosa fa questo comando e cosa VoiceOver vocalizza
-- [ ] Il tool per testare l’accessibilità usato dai 2 del video microsoft è da loro chiamato semplicemente “Inspect” e dimostrano come si usa  da 1/3 del video in avanti.
+- [x] Il tool per testare l’accessibilità usato dai 2 del video microsoft è da loro chiamato semplicemente “Inspect” e dimostrano come si usa  da 1/3 del video in avanti.
     ### Video [Consultato 13 novembre 2018, Caricato il 17 maggio 2017](https://www.youtube.com/watch?v=6b0K2883rXA)
 
 - [x] SPOSTARE IN CAPITOLO 3: I PROGRAMMI DI EDITING SONO MULTIPIATTAFORMA QUINDI NON UTILIZZANO LE uia (CHE SONO BASATE SU C++).

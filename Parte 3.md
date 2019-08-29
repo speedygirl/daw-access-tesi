@@ -1,5 +1,5 @@
-## Analisi di accessibilità dei programmi
-### Introduzione
+# Analisi di accessibilità dei programmi
+## Introduzione
 In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
 La scelta dei programmi è stata effettuata sulla base di un criterio commerciale, prendendo in considerazione quelli a più vasta diffusione.
 I test sono stati effettuati sui due sistemi operativi maggiormente installati.
@@ -11,40 +11,43 @@ Infine si è testata l'accessibilità dei comandi di elaborazione di file, manip
 I test sono stati svolti in maniera manuale: per validare l'esattezza dei risultati ottenuti è stato scleto un gruppo di controllo per il quale il test è stato effettuato anche tramite software automatico. Entrambi i metodi di test hanno dato risultati identici.
 
 <!-- correggere da qui -->
-### Presupposti
-In questo lavoro si analizzano Reaper 5.95 della softwarehouse Cockos; Pro Tools per windows versione 2018 7.0,  mentre per OS X versione 2018.10 5.921 della softwarehouse Avid e in entrambi i sistemi operativi Cubase Pro 9.5 della Steimberg. [^steimberg-sito-ufficiale] I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
+## Presupposti
+In questo lavoro si analizzano tre DAW, software di editing musicali, attualmente sul mercato: 
+- Reaper della softwarehouse Cockos, Windows versione 5.95, OS X versione 5.921; 
+- Pro Tools per windows versione 2018 7.0, per OS X versione 2018.10 5.921 della softwarehouse Avid;
+- Cubase Pro 9.5 della Steimberg, stessa versione sia in WIndows che Machinttosh[^steimberg-sito-ufficiale] . 
+I test relativi ai programmi sono eseguiti usando Windows 10 versione 1803 (build SO 17134.472) e Mac Mojave 10.14. Ne consegue che tutte le procedure esposte in questa sezione fanno riferimento a queste versioni, se non diversamente indicato.
 
 ### Windows vs Mac perché la scelta di provarli su diversi sistemi operativi
-In una prima fase ci si era preposti dilimitare l'analisi esclusivamente al sistema operativo Windows, successivamente si è preferito testare i programmi su entrambe le piattaforme, per fornire un quadro più completo dell'offerta commerciale e cercare di evidenziare le differenze nell’esperienza dell’utente nell’uso, nelle modalità di ricevere i feedback, nell’ubicazione dei pulsanti nella GUI o nei menù.
-Si è scelto di utilizzare una scala di valori da 0 a 4 per indicare con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 completamente inutilizzabile.
+In una prima fase ci si era proposti di limitare l'analisi al sistema operativo Windows; successivamente si è preferito testare i programmi su entrambe le piattaforme, per fornire un quadro più completo dell'offerta commerciale e cercare di evidenziare le differenze nell'user experience, nelle modalità di ricevere i feedback, nell’ubicazione dei pulsanti, nella GUI o nei menù.
+Si è scelto di utilizzare una scala di valori da 0 a 4 intendendo con 4 il massimo grado di usabilità e rapidità di accesso alla funzionalità, 0 totale inaccessibiliità.
 Livelli di accessibilità:
 - livello 0: comando totalmente irraggiungibile dai comandi da tastiera, inoltre la sintesi vocale non riconosce la presenza del controllo in caso di interazione col mouse (nessuna interazione)
-- livello 1: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto non facilmente discriminabile utilizzando la sintesi vocale, però la sintesi vocale non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
+- livello 1: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, solamente in un determinato contesto, non facilmente discriminabile, utilizzando la sintesi vocale, che però non dà feedback dell'attivazione del comando e non è possibile tramite sintesi vocale rendersi conto degli effetti.
 - livello 2: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale non dà feedback ma è possibile verificare l'efficacia del comando
 - livello 3: il comando è raggiungibile da tastiera utilizzando il cursore o tramite shortcut, la sintesi vocale dà feedback ed è possibile verificare l'efficacia del comando
-- livello 4: il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno del contesto grafico e rende i riferimenti riguardo l'intera situazione del contesto.
+- livello 4: il comando è totalmente accessibile da tastiera, è perfettamente integrato all'interno dell'ambito grafico e rende i riferimenti riguardo l'intera situazione del contesto.
 	
 
-### Scelta degli screen reader per i tes
-Per quanto riguarda Windows la scelta dello screen reader è stata guidata da questa serie di domande, da me liberamente tradotte in italiano.
-- What **version of Windows** will be used? Is the **screen reader compatible** with the version of Windows to be used?
-    - Are there **standard system configurations** with which the **screen reader does not work** (color schemes, common video cards, etc.)?
-    - What **synthesizers are/are** not supported?
-    - From among the **applications** that will likely be used, **are there some with which the screen reader does not work**, no matter the skill level of the user?
-    - **How much "automatic" speech does the screen reader give when the user is performing standard Windows functions** such as selecting menu items or moving through items in dialog boxes? Can the amount of **speech be adjusted to suit the user's skill** level and preferences?
-    - **How difficult** is it to **change** simple **standard features** such as voice rate or the choice of a reading key?
-    - **What must the user do in order to make an unfriendly program work well enough to be usable?**
-    - What **useful and unique features** does the screen reader have?
-    - **What problems** does the screen reader add to Windows use? 
-    - **Is the manual accessible and accurate**?
-    - Is there a **tutorial** in a usable format?
-Si è scelto di usare la sintesi vocale NVDA (NonVisual Desktop Access) perché è facilmente reperibile, gratuita, subisce spesso aggiornamenti (circa ogni 3 mesi) che la mantengono al passo con le novità tecnologiche.
-Questa scelta si è dimostrata molto efficace soprattutto nella fase di testing dei programmi, in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. Questa sintesi consente di leggere gli elementi che man mano si trovano sotto il puntatore, che può essere spostato tramite movimenti del mouse, senza che la sintesi intralci le comuni operazioni di clic con entrambi i tasti, o di scrool con l’apposita rotella. 
-Si sono riscontrate solamente due problematiche, una legata all'improvviso rallentamento nella reattività di esecuzione delle operazioni, l'altra legata a riavvii imprevisti e non legati ad imput dell'utente: in questo caso la sintesi interrompe la lettura che può essere ripresa esclusivamente con il riavvio dei programmi in utilizzo.
-Per quanto riguarda il sistema operativo Macintosh, questo approccio non è applicabile, in quanto i device Apple dispongono di una sintesi vocale proprietaria integrata nel sistema operativo stesso, e di conseguenza aggiornata costantemente e perfettamente compatibile. Come già menzionato nella parte due della presente tesi, questa sintesi integrata si chiama VoiceOver e ha ottime prestazioni con tutti i device su cui è di default installata. 
+## Scelta degli screen reader per i test
+Per quanto riguarda Windows la scelta dello screen reader è stata guidata da una serie di domande, da me liberamente tradotte in italiano, prese da American Foundation for Blind [^english-questions] <!-- mettere link american foundation-->- 
+- Quale versione di Windows sarà usata? Lo Screen reader è compatibile con la versione di WIndows da usarsi?
+- Sono presenti configurazioni standard di sistema con cui la sintesi vocale non funziona? 
+- Quali sintetizzatori sono o non sono supportati?
+- Tra le applicazioni che si intendono usare, ce ne sono alcune con cui lo screen reader non funziona, a prescindere dalle abilità dell'utente?
+- Quale quota di lettura fornisce la sintesi vocale quanto l'utilizzatore usa funzioni standard di Windows, come selezionare oggetti da un menù o spostarsi tra gli oggetti di una finestra di dialogo? La quota di parlato può essere adattata alle competenze e preferenze dell'utente?
+- Quanto risulta difficile modificare le impostazioni standard, quali velocità di lettura e la scela di una chiave di lettura?
+- Cosa è obbligato a fare l'utente per far sì che un programma non user-friendly, lavori sufficientemente bene da essere usato? 
+- Quali caratteristiche uniche e efficaci ha lo screen reader? 
+- Quali problemi causa lo screen reader all'utilizzo di Windows? 
+- Il manuale è accessibile e dettagliato?
+- Esiste un tutorial in un formato fruibile ed accessibile?
+Si è scelto di usare la sintesi vocale NVDA (Non Visual Desktop Access) perché è facilmente reperibile, gratuita e spesso soggetta ad aggiornamenti (circa ogni 3 mesi), che la mantengono al passo con le novità tecnologiche.
+Questa scelta si è dimostrata molto efficace soprattutto nella fase di testing dei programmi, in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. NVDA consente di leggere gli elementi che man mano si trovano sotto il puntatore, il quale può essere spostato tramite movimenti del mouse, senza che la sintesi intralci le comuni operazioni di clic con entrambi i tasti, o di scrool con l’apposita rotella. 
+Si sono riscontrate solamente due problematiche: una legata all'improvviso rallentamento nella reattività di esecuzione delle operazioni; l'altra legata a riavvii imprevisti e non legati ad imput dell'utente.In quest'ultimo caso la sintesi interrompe la lettura che può essere ripresa esclusivamente con il riavvio dei programmi in utilizzo.
+Per quanto riguarda il sistema operativo Macintosh, questo approccio non è applicabile, in quanto i device Apple dispongono di una sintesi vocale proprietaria integrata nel sistema operativo stesso, di conseguenza aggiornata costantemente e perfettamente compatibile. Come già menzionato nella parte due della presente tesi, questa sintesi integrata si chiama VoiceOver e ha ottime prestazioni con tutti i device su cui è di default installata. 
 
 ### Installazione dei programmi
-
 
 #### Riferimenti
 <!-- 
@@ -92,10 +95,13 @@ Ciascun comando è stato testato, ove possibile,su ciascun software scelto e com
 sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, come ad esempio i controlli posti sulla singola traccia o sulla master track.
 <!-- manca tutta la descrizione usato e testing automatico-->
 
-## Reaper per Windows 
-<!-- (l'installazione è sotto anche per mac)-->
-<!-- inserire tabelle con comandi-->
+## Reaper versione 5.95 per Windows 
 Come già detto, l'analisi è partita dal testare Reaper per Windows, con ausilio di sintesi NVDA. 
+Il programma è progettato sia per il sistema operativo Windows che per Mac. 
+In Windows l’installazione è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
+Aspetto a suo favore è inoltre la facilità di gestione della pagina web, da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
+
+<!-- inserire tabelle con comandi-->
  ###Controlli di esecuzione - Reaper per Windows 
  <!-- inserire tabella 1-->
 ![](.\images\reaper-windows-images\windows-reaper-1-controlli-traccia.PNG)
@@ -152,43 +158,33 @@ Una funzione utile in questo senso è il poter creare marker con nome personaliz
 ![reaper insert menu](.\images\reaper-windows-images\windows-reaper-5-insert-menu.jpg)
 <!-- 3.8-9-->
 Un’altra funzionalità di base, importante per la registrazione, è l’impostazione ed attivazionedel metronomo, che si imposta tramite tastiera (Alt+Shift+M) o usando il menù "options" e selezionando la voce "opzioni metronomo": in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat, impostare il beat pattern, impostare il pattern primario e secondario ecc.
- La valutazione dell'operazioni con un elevato grado di accessibilità in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat pattern, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annunciato il valore di default e, dopo l’intervento dell’utente, il nuovo valore immesso. 
+La valutazione dell'accessibilità del menù metronomo ha valutazione massima, in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat pattern, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annunciato il valore di default e, dopo l’intervento dell’utente, il nuovo valore immesso. 
 ![](.\images\reaper-windows-images\windows-reaper-6-metronomo.png)
-
-Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono  traccia tempo, traccia da fonti esterne, dal menù tracks o dal menu’ applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
+<!--gestione delle tracce 3.11-->
+Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono traccia tempo, traccia da fonti esterne, dal menù tracks o dal menù applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
 
 Il comando Capslock+I permette di eseguire alcune operazioni altrimenti complicate da eseguire dal mix, come  pan, track channel, volume fader digitando i valori nei fields.
-per importare una traccia è disponibile il comando da tastiera Insert che richiama subito la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati.
-Le sample delle ttracce, dato che sono collocate in dei menu’ standard, sono accessibili al massimo grado e non si sono riscontrati problemi comeil posizionamento scorretto del focus os imil.ù
-Le operazioni che di solito vengono svolte a progetto terminato, come l’esportazione della traccia, Il salvataggio e render del progetto eccsono opzioni situate nel menu’ file, raggiungibili con le frecce.
-il salvataggio può esser del singolo progetto con  Control+S; di tutti i progetti )cui non è associata alcuna shortcut) salva come Alt+S, può esserne chiuso solo uno con Control+F4 o tutti Control+Shift+F4, è stata posta attenzione alla difficoltà mnemonica causata dalle shortcut perciò in questi casi sono state associate shortcut standard, comuni nella gran parte dei programmi, mentre, laddove possibile, n è stato usato  il criterio che richiama la prima lettera del nome del comando. 
+<!--gestione delle tracce 3.4-->
+Per importare una traccia è disponibile il comando da tastiera Insert che richiama subito la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati.
+<!--gestione delle tracce 3.6-->
+Le sample delle tracce, dato che sono collocate in menù standard, sono accessibili al massimo grado e non si sono riscontrati problemi come il posizionamento scorretto del focus o simili.
+<!--Salvataggio 9-->
+Le operazioni che di solito vengono svolte a progetto terminato, come l’esportazione della traccia, il salvataggio ed il render del progetto sono opzioni situate nel menù "File", raggiungibili con le frecce.
+Esistono diverse opzioni di salvatggio: nel caso di singolo progetto la shotcut è Control+S; per salva con nome si usa Control+Alt+S; salva tutti i progetti non ha associata alcuna shortcut. I comandi Salva, Salva come o Salva tutti i progetti aprono una finestra standard di Windows perciò non si ritiene utile proseguire nell'analisi.
+La chiusura può essere di un solo progetto tramite Control+F4 o di tutti con shortcut Control+Shift+F4. 
+La scelta delle shortcuts ha posto attenzione a facilitare la memorizzazione da parte degli utenti, utilizzando shortcut universali per altri software, mentre, laddove possibile, è stato usato il criterio che richiama la prima lettera del nome del comando. 
+Il comando Render si richiama con Control+Alt+R e consente di sommare tra loro le singole tracce selezionate ed esportare il tutto in un unico file: il concetto di render varia leggermente secondo la DAW che si sta impiegando.
+<!--il processo di rendering è la parte definitiva di composit dell'IDE (Integrated Development Envirement).-->
+<!--mixer 5-->
+La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tutte le altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
+Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche dai non vedenti.
+###Equalizzazione 8
+La totalità delle funzioni di equalizzazione risultano totalmente inaccessibili, in quanto non è stato nemmeno possibile indivisuare il loro posizionamento sulla GUI o all'interno della barra dei menù.
+###Compressione 9
+è possibile inserire gli effetti in due modi: o dal pulsante presente nel mixer o dal pulsante sulla master track o sulle singole tracce. Il modo più rapido e semplice è premere il tasto F, in quanto raggiungere i pulsanti implica lo scorrere con le frecce o col Tab, procedura che è molto dispendiosa in termini di tempo. Una volta aperto il pannello degli effetti viene letto interamente; è presente inoltre una sezione inaccessibile contenente le librerie Contact, che richiedono opportuni plug in a pagamento, sviluppati da Andrea De Solis e forniti solo tramite contatto diretto con lo sviluppatore.
 
-I comandi Salva, Salva come o Salva tutti i progetti aprono una finestra standard di Windows perciò non si ritiene utile soffermarvisi eoo.
-2019
-Il comando Render si richiama con Control+Alt+R e consente di  sommare tra loro le singole tracce selezionate ed esportare il tutto in un unico file.
-il concetto di render varia leggermente secondo la DAW che si sta impiegando. Questo appena esposto è quello relativo a Reaper.
-il processo di rendering è la parte definitiva di composit dell'IDE (Integrated Development Envirement).
-
-La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tuttel e altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
-Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche da di non vedenti.
-
-Inserire gli effetti è possibile in due modi: o dal pulsante presente nel mixer o dal pulsante sulla master track o sulle singole tracce. Il modo più rapido e più accessibile è premendo il tasto F, in quanto raggiungere i pulsanti implica lo scorrere con le frecce col Tab, procedura che è molto dispendiosa in termini di tempo. Una volta aperto il pannello degli effetti viene letto interamente, c’è una sezione inaccessibile che sono le librerie Cntact, che richiedono opportuni plug in (sviluppati da Andrea De Solis che dà a pagamento).
-
-### ```Impostazioni griglia (grid) FACOLTATIVO```
-Impostazioni dei canali di ingresso e di uscita, spiegare che in cubase devi fare tuto manualmente mentre in Reaper è tutto automatizzato.
-
-#### Reaper versione 5.95 per Windows installazione
-Il programma è progettato sia per il sistema operativo Windows che per Mac
-In Windows l’installazione di Reaper è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
-Aspetto a suo favore è la facilità di gestione della pagina web da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
-
-#### Reaper per Mac OS X versione 5.921 installazione
-  [^ Tratto da https://reaperaccessibility.com/index.php/Chapter_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac       Consultato 2 gennaio 2019)]
-Per installare Reaper sul sistema operativo Mac è necessario aprire REAPER disk image (.dmg), per aprire questo file è necessario accettare le condizioni di  licenza del programma cliccando su "aconsento".
-Infine  trascinare l'icona di Reaper all'interno della cartella applicazioni.
-Il programma è scaricabile, sia per Windows, che per Mac, al seguente link ufficiale della softwarehouse:
-[^https://www.reaper.fm/download.php]
-
+<!-- ### ```Impostazioni griglia (grid) FACOLTATIVO```
+Impostazioni dei canali d,i ing,resso e di uscita, spiegare che in cubase devi fare tuto manualmente mentre in Reaper è tutto automatizzato.-->
 
 #### Reaper 5.921 per Mac
 Per quanto riguarda le procedure impiegate,si è operato come descritto sopra.

@@ -1,8 +1,8 @@
 note parte 2
 inserire commento html sotto ogni foto inserita nel testo senza inserire la nota relativa all'immagine in questo file da ale 24 agosto 2019
 
-Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale" sta trasformando l'energia, l'economia e il mondo, traduzione di Paolo Canton, collana Oscar Mondadori, Arnoldo Mondadori Editore, 2011, pp. 329, ISBN 978-88-04-61420-3.
-[^jeremy-rifkin-p329]: p 329
+
+[^jeremy-rifkin-p329]: Jeremy Rifkin, La terza rivoluzione ind¬¬¬ustriale: come il "potere laterale" sta trasformando l'energia, l'economia e il mondo, traduzione di Paolo Canton, collana Oscar Mondadori, Arnoldo Mondadori Editore, 2011, ISBN 978-88-04-61420-3, p 329
 
 [^digital-devide-definizione]: digital devide definizione: *http://www.treccani.it/enciclopedia/digital-divide_%28Enciclopedia-della-Scienza-e-della-Tecnica%29/* link consultato 9 gennaio 2018
 
@@ -102,9 +102,11 @@ https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s
 [^introduction-to-uia-microsoft-youtube]
 
 https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg
-[^aggiornamento-legge-stanca-2018]: decreto legislativo 10 agosto 2018, n. 106 pubblicato in Gazzetta Ufficiale n. 221
 
-[^agid-sito-ufficiale]
+[^aggiornamento-legge-stanca-2018]: Decreto legislativo 10 agosto 2018, n. 106 pubblicato in Gazzetta Ufficiale n. 221
+
+[^agid-sito-ufficiale]: Agid Sito Ufficiale: *https://www.agid.gov.it/*
+
 https://www.agid.gov.it/it/design-servizi/accessibilita-siti-web
 
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica

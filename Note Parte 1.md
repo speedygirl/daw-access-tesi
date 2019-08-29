@@ -6,22 +6,20 @@
 [^luca-cerchiari-p12-13]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
 [^fred-gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.
 [^luca-cerchiari-p17]: p. 17
-[^roberto-diem-tigani-p258-259]: pp 258-259
-[^roberto-diem-tigani-p57]: p 57 Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.
-[^roberto-diem-tigani-p57-58]: op.cit. pp 57-58
-[^roberto-diem-tigani-p174]: p 174
+[^roberto-diem-tigani-p258-259]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 258-259
+[^roberto-diem-tigani-p57]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 57
+[^roberto-diem-tigani-p57-58]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 57-58
+[^roberto-diem-tigani-p174]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 174
 [^le-garzantine]: voce alta fedeltà p. 16 Le Garzantine 2012
+[^roberto-diemg-igani-p173]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 173
 [^immagini-grammofono-portatile-pubblicita]: link consultato 30 aprile 2019 *ebay.it*
-[^roberto-diem-tigani-p222]: p 222
+[^roberto-diem-tigani-p222]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 222
 [^immagini-45-giri-mangiadischi]: tratte da collezione privata
 [^g-haus]: G. HAUS, Corso di informatica applicata alla musica, pdf URL consultato il 14/06/2018 disponibile sul sito  *http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf*
 [^virtual-standard-technology]: Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
 [^asio]: ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
 
-
-[^roberto-diemg-igani-p173]: Tigani p 173
-
-[^owsinski-produttori]: <!-- inserisci-pagina -->
+[^owsinski-produttori]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016<!-- inserisci-pagina -->
 
 <!-- Fonti Immagini !-->
 [^immagine-fonoautografo-1]: tratto da classicasenzafrontiere.wordpress dove è disponibile anache il video del fonoautografo in funzione.
@@ -44,21 +42,15 @@
 [^massimiliano-salfi]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
 [^immagine-grafofono]: Immagine fonografo link consultato 30 aprile 2019 ebay.com
 
-Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008
-[^presti-schema-valori-bitrate-p13]: p 13
 
-Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005
+[^presti-schema-valori-bitrate-p13]: Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008, p 13
 
-[^giancarlo-vercellesi-p17]: p 17
 
-[^giorgio-presti-p16-17]: pp. 16-17
 
-[^giancarlo-vercellesi-p9]: p 9
-
-[^giancarlo-vercellesi-p13]: p 13 
-
-[^giancarlo-vercellesi-p4]: p 4
-
-[^giancarlo-vercellesi-p6]: p 6
-
+[^giorgio-presti-p16-17]: Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008, p 16-17
+[^giancarlo-vercellesi-p17]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 17
+[^giancarlo-vercellesi-p9]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 9
+[^giancarlo-vercellesi-p13]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 13ùù
+[^giancarlo-vercellesi-p4]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 4
+[^giancarlo-vercellesi-p6]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 6
 [^immagini-disco-quadrifonico-1-2]: tratte da collezione privata

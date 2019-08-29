@@ -42,7 +42,7 @@ Antesignani ne furono gli esperimenti del fisico inglese Thomas Young[^young] (1
 
 In particolare Young si dedicò agli studi sul suono arrivando alla conclusione che "il suono non è un'entità materiale ma evento generato da impulsi di energia che provocano onde di compressione/rarefazione percepibili dal nostro orecchio attraverso l'aria", teoria valida ancora oggi. Definì inoltre i concetti di periodo, frequenza, ampiezza, timbro.
 Oltre al contributo teorico, Young progettò un dispositivo sperimentale in grado di registrare l'andamento di un segnale sonoro, molto simile ai primi grammofoni, che non si sa se sia mai stato realizzato. Tra i suoi documenti è stata trovata la seguente descrizione autografa:
-"... applicando una piccola penna intrisa d'inchiostro ad una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola a contatto con un foglio di carta che venga a sua volta fatto scorrere per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^taylor-and-walton]
+> "... applicando una piccola penna intrisa d'inchiostro ad una membrana che entri in vibrazione per effetto di una sorgente sonora e ponendola a contatto con un foglio di carta che venga a sua volta fatto scorrere per evitare sovrapposizioni del segno, verrà tracciata una linea ondulata che rappresenterà perfettamente l'andamento della vibrazione sonora..." [^taylor-and-walton]
 
 A Young interessava la rappresentazione grafica del moto ondulatorio, ma è già enucleata, benchè ancora non se ne ipotizzi la possibilità, l'idea che porterà molti anni dopo alla riproduzione di un suono precedentemente registrato.
 
@@ -239,7 +239,7 @@ La tecnica di registrazione e riproduzione detta quadrifonia consente di ampliar
 Ma a segnare la fine del disco in vinile sarebbero state le grandi novità in arrivo dal mondo informatico.
 ![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-1.jpg)
 ![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-2.jpg)
-[^immagini-disco-quadrifonico-1-2]: tratte da collezione privata
+*Tratte da collezione privata*
 
 ### 1.1.3 REGISTRAZIONE DIGITALE
 
@@ -289,14 +289,13 @@ Vi sono moltissime tecniche per la compressione audio, la cui struttura algoritm
 - signal quality: indica la bontà del suono che si percepisce dopo la decodifica di un segnale compresso.
 La codifica (o compressione) comprende due categorie: quelle senza perdita di informazione e quelle con perdita, le quali possono essere ancora  suddivise in codifiche per modelli e per dominio frequenziale.
 Lossless: comprime il segnale audio senza togliere informazioni e si decomprime durante la riproduzione: il segnale decompresso è identico a quello originale. La compressione  è piuttosto bassa riducendo di non oltre la metà le dimensioni del file; questi algoritmi però hanno il pregio di riconoscere ed eliminare le ridondanze numeriche. Sono lossless: MLP, FLAC, MPAC e Huffman. Quest'ultimo, attraverso un sistema che prevede l'associazione di pochi bit alle parole più frequenti e molti bit alle più rare,ottiene un'ulteriore riduzione. "la codifica Huffman è impiegata nei codec MPEG Layer 3 per comprimere ulteriormente la sequenza numerica ottenuta dopo la quantizzazione non lineare". 
-[^giancarlo-vercellesi-p4]: p 4
-
+[^giancarlo-vercellesi-p4]
 
 Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'altezza (pitch) e le formanti dell'onda, per poi sintetizzarle durante la decompressione. Riducono di molto la dimensione del file perdendo di qualità.
 Lossy nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 
 ![](.\images\generic\vercellesi-schema-encoder-decoder-p-6.PNG)
-[^giancarlo-vercellesi-p6]: p 6
+[^giancarlo-vercellesi-p6]
 
 Il sistema di codifica MPEG (Moving Picture Experts Group) è costituito da:
 - formato di codifica: l'insieme delle regole degli standard MPEG che indicano come dev'essere codificata e strutturata l'informazione.
@@ -309,10 +308,10 @@ Esistono tre algoritmi di compressione che vengono utilizzati dagli MPEG 1 e MPE
 I nuovi Layer sono compatibili con i precedenti, quindi Layer 3 è in grado di decodificare anche 1 e 2.
 MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG 1, MPEG2, MPEG2.5, tutti Layer3. Per questo si usa anche la sigla MPEG Layer3.
 > Il contenuto di un MP3 è organizzato in frame o bitstream, ognuno dei quali contiene tutte le informazioni necessarie per ricostruire i corrispondenti campioni PCM, in modo indipendente da tutto il resto del file. Ciò permette di rendere utilizzabile questo formato anche in ambito streaming Over IP (es. Radio Web, Telefonia, Chat vocali, ecc) in quanto, a differenza di un formato a chunk (AIFF o RIFF-WAV per esempio), la perdita di un certo numero di byte audio non compromette la corretta decodifica del resto dell'informazione. Se per esempio vengono persi i dati di un generico frame K, il decoder è in grado di decodificare correttamente tutti gli altri generando un silenzio in luogo del frame mancante.
-[^giancarlo-vercellesi-p13]: p 13]
+[^giancarlo-vercellesi-p13]
 
 > È importante ricordare che il "formato di codifica audio" definisce il modo in cui vengono rappresentati i dati audio, mentre il "formato di file" definisce il modo in cui questi dati vengono scritti su un computer e dunque su un file.
-[^giancarlo-vercellesi-p9]: p 9
+[^giancarlo-vercellesi-p9]
 
 L'MP3 viene generato dall'encoder, software che converte il segnale dal dominio temporale a quello frequenziale. <!-- quaesta parte è una citazione? Va sistemata la formattazione in caso --> Nei frame il segnale è rappresentato dallo spettro dell'onda attraverso la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR (Signal to Mask Ratio)e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).
 Lo spettro ottenuto viene analizzato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit, conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa, così da far risultare il rumore di quantizzazione al di sotto della soglia di udibilità e non "inquinare " il segnale.
@@ -323,8 +322,7 @@ Per poter controllare i parametri di realizzazione di un MP3 si possono utilizza
 Il bitrate può essere:
 - fisso: tutti i frame del file hanno un valore prestabilito, scegliendo il valore più adatto al tipo di lavoro che si intende fare, si conosce da subito la dimensione del file.
 ![](.\images\generic\presti-valori-bitrate-p-13.PNG)
-
-[^presti-schema-valori-bitrate-p13]: p 13
+[^presti-schema-valori-bitrate-p13]
 
 - variabile: ogni frame ha un bitrate proporzionato alle informazioni che contiene. L'utente può scegliere quello massimo e minimo entro cui operare, però non può stabilire la dimensione del file a priori.
 - medio o average, è una variante del precedente: l'utente definisce il bitrate medio così da poter scegliere la dimensione del file, l'encoder quindi adotta una codifica a bitrate variabile senza eccedere i limiti.
@@ -332,11 +330,11 @@ Il bitrate può essere:
 
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame, in quanto ridistribuisce i bit che riesce a risparmiare da un frame ad altri che abbiano maggiori necessità. Non deve essere utilizzato per MP3 destinati allo streaming.
 ![](.\images\generic\vercellesi-bitreservoir-p-17.PNG)
-[^schema-bitrate-p17]: p 17
+[^giancarlo-vercellesi-p17]
 
 I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamente.
 Il formato AAC (Advanced Audio Coding) deriva dall'MPEG-2 Layer 3, di cui migliora la qualità correggendone i difetti. Questo standard è attualmente molto diffuso e supportato dai più comuni lettori di musica digitale.
-Giorgio Presti [^giorgio-presti-p16-17]: pp. 16-17 in "Le avventure di un quantizzatore non lineare" pp. 16-17 fa alcune considerazioni derivate dalla sua esperienza, consigliando la via per evitare alcuni errori comuni. Elenco alcuni di questi utili consigli.
+Giorgio Presti [^giorgio-presti-p16-17] in "Le avventure di un quantizzatore non lineare" pp. 16-17 fa alcune considerazioni derivate dalla sua esperienza, consigliando la via per evitare alcuni errori comuni. Elenco alcuni di questi utili consigli.
 Non è possibile migliorare la qualità di un file audio MP3 convertendolo in WAV, in quanto non è in nessun modo possibile recuperare i dati persi nella compressione.
 È bene mantenere sempre la frequenza di campionamento utilizzata dai media su cui si scrivono i dati, cioè CD a 44.1 khz, DVD video 48 khz: infatti sia l'eventuale innalzamento della frequenza di campionamento che l'abbassamento introducono artificiosità senza migliorare la qualità del prodotto finale. 
 Meglio lavorare a 24 bit anzichè 32 in quanto appesantirebbe eccessivamente la CPU senza apportare miglioramenti percepibili.

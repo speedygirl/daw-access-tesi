@@ -299,7 +299,7 @@ Lossy per modelli: vengono impiegati di solito su segnali vocali, estraendo  l'a
 Lossy nel dominio delle frequenze: anche questo è un gruppo di algoritmi con perdita di informazioni, un tasso molto elevato di compressione e un maggiore processing delay.Codificano con una quantizzazione non lineare lo spettro del segnale eliminando le informazioni che ritengono, secondo un modello psicoacustico, non percepite dall'orecchio umano. Appartengono a questa categoria MPEG Layer 2-3 e MPEG Audio.
 
 ![](.\images\generic\vercellesi-schema-encoder-decoder-p-6.PNG)
-[^giancarlo-vercellesi-schema-encoder-decoder-p6]: p 6
+[^giancarlo-vercellesi-p6]: p 6
 
 Il sistema di codifica MPEG (Moving Picture Experts Group) è costituito da:
 - formato di codifica: l'insieme delle regole degli standard MPEG che indicano come dev'essere codificata e strutturata l'informazione.
@@ -319,7 +319,7 @@ MP3 è un formato che può contenere tre diversi formati di codifica audio: MPEG
 
 L'MP3 viene generato dall'encoder, software che converte il segnale dal dominio temporale a quello frequenziale. <!-- quaesta parte è una citazione? Va sistemata la formattazione in caso --> Nei frame il segnale è rappresentato dallo spettro dell'onda attraverso la FFT (Fast Furièr Transformation), spettro che viene poi analizzato per la restituzione della soglia di udibilità utilizzando i modelli di psicoaucustica e percezione del suono. Ciò sfrutta i concetti di soglia di udibilità SMR (Signal to Mask Ratio)e di mascheramento eliminando i suoni superflui sia nell'intensità che nella durata (se troppo deboli o troppo brevi vengono cancellati per evitare ridondanze).
 Lo spettro ottenuto viene analizzato da un quantizzatore non lineare che lo codifica in formato binario usando per ogni banda critica un numero consono di bit, conforme al grado di percettibilità di ogni banda. Ne consegue che bande meno percepite dall'orecchio vengono codificate con un numero inferiore di bit e viceversa, così da far risultare il rumore di quantizzazione al di sotto della soglia di udibilità e non "inquinare " il segnale.
-[^vercellesi-schema-bitrate-p17]: p 17
+[^giancarlo-vercellesi-p17]
 
 Per poter controllare i parametri di realizzazione di un MP3 si possono utilizzare degli encoder che consentono memorizzazioni diverse secondo il tipo di registrazione che si vuole fare, come ad esempio monofonica (single channel), dual channel, stereo, surround <!-- non mi è chiara questa parte, è una citazione? Se si vuole solo dire che i file mp3 possono essere mono, stereo ecc riscriverei la frase in modo molto più semplice e diretto -->.
 
@@ -334,7 +334,7 @@ Il bitrate può essere:
 - free format: non supportato da alcuni decoder, non rispetta gli standard di bitrate riportati in tabella, ma deve rimanere costante nei frame e non superare i 320 kbs. 
 
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame, in quanto ridistribuisce i bit che riesce a risparmiare da un frame ad altri che abbiano maggiori necessità. Non deve essere utilizzato per MP3 destinati allo streaming.
-![](.\images\generic\vercellesi-bitreservoir-p-17.jpg)
+![](.\images\generic\vercellesi-bitreservoir-p-17.PNG)
 [^schema-bitrate-p17]: p 17
 
 I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamente.

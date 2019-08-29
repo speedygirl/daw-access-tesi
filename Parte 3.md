@@ -119,7 +119,7 @@ A titolo esemplificativo si associa agli items le lettere A, B, C.
 Se si intende eliminare l'item B, A e C si uniscono e quindi la traccia avrà un flusso continuo, cosa che non accade se si è attivata la funzione "Ripple off", cui si è precedentemente accennato.  
 Lo stato del "Ripple on", e "Ripple off", si modifica, come già accennato, con la combinazione di tasti Alt+P in Windows, Cmd+P in Mac; mentre per avere una notifica sullo stato attuale del "Ripple", si impiega la combinazione Alt+Shift+P. 
 Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia.
-![](.\images\reaper-windowswindows-reaper-4-finestra-edit-marker-images\.jpg)
+![](.\images\reaper-windows-images\windows-reaper-4-finestra-edit-marker.PNG)
 
 Di vitale importanza per il non vedente è l’impiego dei marker (o marcatori), che in Reaper si dividono in 3 categorie: marker di progetto, temporali, di stretch.  Alcuni tipi sono ad esempio i marker comuni, cui  associata la shortcut "M", marker prompt for name Shift+M, "Region from time selection" Shift+R, "Tempo/time signature marker". Sono esempi di varie tipologie di marker, appartenenti alle 3 categorie presenti in Reaper consentono di selezionare regioni caratterizzate da un altro metro o una velocità diversa (marker di tempo), opppure di assegnare nomi indicativi a porzioni della traccia (marker cui è possibile dare un nome personalizzato).
 I marcatori consentono di segnare sulla traccia dei punti di interesse, navigabili con Control+Frecce, che consentono di spostare l’edit cursor con velocità da una sezione all’altra del brano.
@@ -398,7 +398,7 @@ Il menù “Window” contiene le seguenti funzioni:
 * Artist Chat Ctrl+Shift+=
 * System Usage
 
-windows![Screenshot Menu Window](./images/windows-protools-12-menu-window.png)
+windows![Screenshot Menu Window](.\images\protools-windows-images\windows-protools-12-menu-window.png)
 
 Il seguente raggruppamento di controlli è stato testato usando il tracking del mouse. In questa sezione i controlli non vengono individuati; però i relativi menù contestuali vengono letti correttamente. 
 
@@ -410,7 +410,7 @@ Il seguente raggruppamento di controlli è stato testato usando il tracking del 
 
 Usando il tasto TAB si è raggiunta la sezione per rinominare le tracce. È sufficiente entrare nel campo editazione e digitare il testo, per confermare premere Invio. Non è quindi richiesta, come in altre DAW, la pressione del tasto F2.
 
-![Screenshot Rinomina Traccia](./images/windows-protools-15-rinomina-traccia.png)
+![Screenshot Rinomina Traccia](.\images\protools-windows-images\windows-protools-15-rinomina-traccia.png)
 
 Il menù contestuale relativo alla traccia consente di adoprare le seguenti funzioni, come si vede nello screenshot, ma si è deciso di soffermarsi sulla funzione “Meter change”. Essa è raggiungibile selezionando la voce “Insert” e successivamente, dal suo sottomenù, “Meter change”.
 
@@ -443,7 +443,7 @@ Il mixer è raggiungibile dal menù “Window”, selezionando la voce “Mix”
 
 Il menù contestuale di selezione dell’output all’interno del mixer, così come quello relativo al bus, è stato raggiunto con l’impiego del mouse e, una volta all’interno del menù, scorrendo con le frecce, è stato letto correttamente dalla sintesi vocale. 
 ![menù contestuale selezione output](.\images\protools-windows-images\windows-protools-contest-menu-selezione-output23.jpeg)
-![menù contestuale del bus relativo al mixer](.\images\protools-windows-images\windowspro-toolsbus-contest-menu24.jpeg)
+![menù contestuale del bus relativo al mixer](.\images\protools-windows-images\windows-protools-bus-contest-menu24.jpeg)
 
 Le funzionalità di selezione della timeline delle tracce, sia parziale che completa non è fattibile, pertanto risulta impossibile svolgere le operazioni di editing delle trace come tagliare, copiare, incollare, aggiungere effetti di vario genere e inserire i marker.
 sempre per la stessa impossibilità a portare il cursore all'interno della timeline, non si può spostare il cursore tra le timeline, ad esempio tra traccia 1 e traccia 3, quindi non si riesce a effettuare operazioni tra l'una e l'altra.

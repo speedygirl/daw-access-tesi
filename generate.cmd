@@ -18,3 +18,7 @@ echo "Generating help"  >> output.txt 2>&1
 pandoc -s ".\help.md" --filter=pandoc-docx-pagebreakpy --reference-doc=reference.docx -o ".\generated\help.docx" >> output.txt 2>&1
 echo "Generating sintassi"  >> output.txt 2>&1
 pandoc ".\sintassi.md" --filter=pandoc-docx-pagebreakpy --reference-doc=reference.docx -s -o ".\generated\sintassi.docx" >> output.txt 2>&1
+echo "Generating Tesi>> output.txt 2>&1
+del tmp.md
+copy /b ".\Parte 1.md" + ".\Note Parte 1.md" + ".\Parte 2.md" + ".\note parte 2.md" + ".\Parte 3.md" + ".\note parte 3.md" + "Parte 3 integrazioni.md" ".\tmp.md" >> output.txt  2>&1
+pandoc ".\tmp.md" --filter=pandoc-docx-pagebreakpy -f markdown+implicit_figures+link_attributes --reference-doc=reference.docx -s -o ".\generated\tesi.docx" >> output.txt 2>&1

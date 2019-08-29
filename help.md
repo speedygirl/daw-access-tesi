@@ -33,6 +33,7 @@ inserire testo proccedura e in linea diversa i cironflessi di apertura e chiusur
 
 Quando la vuoi esplicare:
 [^1]: Testo di spiegazione
+tra quadre c'è il tag per il pc che non viene visualizzato, dopo il due punti c'è il testo che viene visualizzato nell'esportazione in word.
 
 Quando vuoi mettere un link esterno
 [Link esterno](https://google.com)
@@ -81,7 +82,16 @@ link utili
 [link guida ai comandi](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [link come inserire le note](https://stackedit.io/)
 
+There are two ways to create links.
+[I'm an inline-style link](https://www.google.com)
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
 
 ## referenziare file
 per referenziare un file all'interno della cartella corrente è sufficente creare un link relativo al file 

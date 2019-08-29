@@ -4,8 +4,8 @@
 [^taylor-and-walton]: THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
 [^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
 [^luca-cerchiari-p12-13]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
+[^luca-cerchiari-p17]: Luca Cerchiari "Il disco: musica tecnologia mercato", p 17, Luca Cerchiari – Milano, Sansoni. C2001
 [^fred-gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.
-[^luca-cerchiari-p17]: p. 17
 [^roberto-diem-tigani-p258-259]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 258-259
 [^roberto-diem-tigani-p57]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 57
 [^roberto-diem-tigani-p57-58]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore, p 57-58
@@ -19,6 +19,7 @@
 [^virtual-standard-technology]: Virtual Standard Technology è un protocollo implementato da Steinberg per i plug in, che assegna ai MIDI strumenti virtuali e effetti.
 [^asio]: ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
 
+[^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
 [^owsinski-produttori]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016<!-- inserisci-pagina -->
 
 <!-- Fonti Immagini !-->

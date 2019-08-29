@@ -30,7 +30,22 @@ Livelli di accessibilità:
 	
 
 ## Scelta degli screen reader per i test
-Per quanto riguarda Windows la scelta dello screen reader è stata guidata da una serie di domande, da me liberamente tradotte in italiano, prese da American Foundation for Blind [^english-questions] <!-- mettere link american foundation-->- 
+Per quanto riguarda Windows la scelta dello screen reader è stata guidata da una serie di domande prese da American Foundation for Blind [^english-questions] <!-- mettere link american foundation-->, riportate testualmente di seguito:
+
+- What **version of Windows** will be used? Is the **screen reader compatible** with the version of Windows to be used
+- Are there **standard system configurations** with which the **screen reader does not work** (color schemes, common video cards, etc.)?
+- What **synthesizers are/are** not supported?
+- From among the **applications** that will likely be used, **are there some with which the screen reader does not work**, no matter the skill level of the user?
+- **How much "automatic" speech does the screen reader give when the user is performing standard Windows functions** such as selecting menu items or moving through items in dialog boxes? Can the amount of **speech be adjusted to suit the user's skill** level and preferences?
+- **How difficult** is it to **change** simple **standard features** such as voice rate or the choice of a reading key?
+- **What must the user do in order to make an unfriendly program work well enough to be usable?**
+- What **useful and unique features** does the screen reader have?
+- **What problems** does the screen reader add to Windows use? 
+- **Is the manual accessible and accurate**?
+- Is there a **tutorial** in a usable format?
+
+Di seguito si fornisce la traduzione in italiano dei quesiti:
+
 - Quale versione di Windows sarà usata? Lo Screen reader è compatibile con la versione di WIndows da usarsi?
 - Sono presenti configurazioni standard di sistema con cui la sintesi vocale non funziona? 
 - Quali sintetizzatori sono o non sono supportati?
@@ -42,6 +57,8 @@ Per quanto riguarda Windows la scelta dello screen reader è stata guidata da un
 - Quali problemi causa lo screen reader all'utilizzo di Windows? 
 - Il manuale è accessibile e dettagliato?
 - Esiste un tutorial in un formato fruibile ed accessibile?
+
+
 Si è scelto di usare la sintesi vocale NVDA (Non Visual Desktop Access) perché è facilmente reperibile, gratuita e spesso soggetta ad aggiornamenti (circa ogni 3 mesi), che la mantengono al passo con le novità tecnologiche.
 Questa scelta si è dimostrata molto efficace soprattutto nella fase di testing dei programmi, in quanto  ha consentito una facile esplorazione dello schermo sfruttando il mouse come principale strumento di esplorazione. NVDA consente di leggere gli elementi che man mano si trovano sotto il puntatore, il quale può essere spostato tramite movimenti del mouse, senza che la sintesi intralci le comuni operazioni di clic con entrambi i tasti, o di scrool con l’apposita rotella. 
 Si sono riscontrate solamente due problematiche: una legata all'improvviso rallentamento nella reattività di esecuzione delle operazioni; l'altra legata a riavvii imprevisti e non legati ad imput dell'utente.In quest'ultimo caso la sintesi interrompe la lettura che può essere ripresa esclusivamente con il riavvio dei programmi in utilizzo.

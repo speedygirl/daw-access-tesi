@@ -168,6 +168,8 @@ L'utilizzo della valvola amplificatrice di De Forest permise di superare i consu
 In seguito fu realizzato, dalla AEG e dalle industrie Farben, un sistema innovativo di registrazione su nastro di acetato vinilico con copertura in ossido di ferro: tale nastro permetteva una riduzione notevole della distorsione sia nell'incisione che nella riproduzione. Al pari di altri supporti anche questo ebbe un iniziale impiego in ambito militare.
 
 > La vera svolta avvenne però solo agli inizi degli anni '40 quando, per puro caso, durante una registrazione presso la Reichs-Rundfunk-Gesellschaft, un sistema di amplificazione instabile entrò in oscillazione registrando una frequenza elevatissima che si sovrappose al segnale. La frequenza non era udibile ma produsse un tale incremento di qualità da lasciare stupefatti i tecnici. Da questa fortuita circostanza partirono nuovi progetti sperimentali sulla premagnetizzazione ad alta frequenza che porteranno la registrazione su nastro a livelli di qualità elevatissimi. [^roberto-diem-tigani-p174]
+
+
 Questa innovazione, essendo stata scoperta in pieno conflitto mondiale, rimase esclusiva dei militari tedeschi, che poterono godere di trasmissioni radiofoniche che stupivano il mondo per la qualità, l'assenza di fruscio, la mancanza di interruzioni. Il "mistero" si scoprì solo al termine della guerra e la magnetizzazione dei nastri, grazie agli evidenti vantaggi, si diffuse rapidamente prima nel mondo della radio e poi negli studi di registrazione. Questo sistema dava risposte in frequenza dai 20 ai 20000 Hz, la più ampia gamma fino ad allora ottenuta; consentiva il riascolto immediato del brano registrato e permetteva di effettuare registrazioni ovunque, al contrario dei dischi che erano legati ai luoghi di produzione. Ma la vera novità fu nella possibilità di effettuare tagli e giunture che non lasciavano traccia durante il riascolto e quindi il montaggio di pezzi di registrazione, fatti anche in tempi diversi. Questa possibilità modificò le consuetudini nella registrazione, indicando una modalità che segna la storia successiva della registrazione, determinando il modo di operare: da quel momento i prodotti finali furono e sono tuttora realizzati da accostamenti e giunture da parti di registrazioni differenti.
 A partire dal 1949 il nastro entra prepotentemente nella produzione dell'industria discografica modificandone in modo evidente le tecniche ormai da tempo consolidate.
 
@@ -330,11 +332,11 @@ Il bitrate può essere:
 
 La tecnica del bit reservoir ottiene una maggior qualità a parità di bitrate. Ha però lo svantaggio di rendere interdipendenti i frame, in quanto ridistribuisce i bit che riesce a risparmiare da un frame ad altri che abbiano maggiori necessità. Non deve essere utilizzato per MP3 destinati allo streaming.
 ![](.\images\generic\vercellesi-bitreservoir-p-17.PNG)
-[^giancarlo-vercellesi-p17]
+*Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 17*
 
 I metadati, detti tag, nello standard ID1 venivano  posti a fine del file mp3 perchè non tutti i decoder erano  in grado di riconoscerli e interpretarli. Nel più recente standard ID3 invece vengono posti all'inizio del file perchè tutti i decoder si sono uniformati e si possono scrivere manualmente o automaticamente.
 Il formato AAC (Advanced Audio Coding) deriva dall'MPEG-2 Layer 3, di cui migliora la qualità correggendone i difetti. Questo standard è attualmente molto diffuso e supportato dai più comuni lettori di musica digitale.
-Giorgio Presti [^giorgio-presti-p16-17] in "Le avventure di un quantizzatore non lineare" pp. 16-17 fa alcune considerazioni derivate dalla sua esperienza, consigliando la via per evitare alcuni errori comuni. Elenco alcuni di questi utili consigli.
+Giorgio Presti [^giorgio-presti-p16-17] in "Le avventure di un quantizzatore non lineare" fa alcune considerazioni derivate dalla sua esperienza, consigliando la via per evitare alcuni errori comuni. Elenco alcuni di questi utili consigli.
 Non è possibile migliorare la qualità di un file audio MP3 convertendolo in WAV, in quanto non è in nessun modo possibile recuperare i dati persi nella compressione.
 È bene mantenere sempre la frequenza di campionamento utilizzata dai media su cui si scrivono i dati, cioè CD a 44.1 khz, DVD video 48 khz: infatti sia l'eventuale innalzamento della frequenza di campionamento che l'abbassamento introducono artificiosità senza migliorare la qualità del prodotto finale. 
 Meglio lavorare a 24 bit anzichè 32 in quanto appesantirebbe eccessivamente la CPU senza apportare miglioramenti percepibili.
@@ -354,12 +356,15 @@ Questo scontro di interessi, nonostante interventi legislativi internazionali in
 Col nuovo millennio l'ascolto in Mp3 divenne un fenomeno giovanile planetario, grazie all'invenzione di lettori provvisti di auricolari, con notevole capacità di archiviazione ma dimensioni estremamente ridotte, che consentivano l'ascolto ovunque. Il primo di questi dispositivi, l'iPod, fu presentato nel 2001, seguito da una grande varietà di lettori Mp3 <!-- l'iPod non fu il primo lettore: https://www.theregister.co.uk/2008/03/10/ft_first_mp3_player/ -->. La successiva evoluzione furono gli smartphone e i tablet collegati direttamente alla rete, tramite i quali la musica può essere non solo ascoltata in streaming, ma anche scaricata e riascoltata in assenza di collegamento a internet.
 Oggi la musica occupa quasi tutti gli spazi dell'esistenza, ma viene restituita da dispositivi che non riescono a raggiungere livelli di alta qualità: l'alta definizione è rimasta circoscritta alla nicchia degli amatori, che peraltro possono avvantaggiarsi della distribuzione via internet per trovare i prodotti a loro dedicati.
 
+
 > In questo scenario, nessuna meraviglia che l'avventura dell'alta definizione fosse inevitabilmente destinata al limbo del mercato di nicchia. Proprio negli anni in cui DVD Audio e SACD si sfidavano ..., l'iPod conquistava le masse e l'Mp3 si accreditava come il più diffuso formato dell'intera produzione fonografica. Altro curioso paradosso è rilevare come proprio nel momento della sua massima evoluzione tecnologica, la riproduzione sonora appaia condannata a servirsi di un formato oggettivamente involutivo rispetto a tutti i media prodotti negli ultimi cinquant'anni. Paradosso ancora più incomprensibile ove si osservi come già nei primi anni 2000, praticamente in contemporanea col successo dell'iPod, la diffusione della banda larga e dei collegamenti veloci a internet avrebbe agevolmente consentito non solo il download del formato CD, ma persino quello dei formati ad alta definizione.... 
+
 
 > L'avvento della musicassetta aveva dimostrato già quarant'anni prima come praticità e portabilità fossero considerate più importanti della qualità ... D'altro canto, se la musica ... deve raggiungere le orecchie di un ascoltatore immerso nei rumori del traffico o - peggio - nella galleria di una metropolitana, è fin troppo plausibile che questi non avverta alcun bisogno di alta definizione. [^roberto-diem-tigani-p258-259]
 
+
 ## 1.2 I PRODUTTORI: EVOLUZIONE DEL RUOLO NEL TEMPO
-Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[^owsinski] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
+Per quanto riguarda la professione del produttore da un punto di vista cronologico, Bobby Owsinski[^owsinski-produttori] propone la seguente periodizzazione: early label era, mature music era, indipendent era [^handbook].
 
 È possibile parlare di musica registrata già a partire dal 1867 ma, sul piano commerciale, tale fenomeno ha acquisito rilevanza solo a partire dal 1900.
 Questo lasso temporale è così ampio a causa dell'insufficienza delle tecniche di registrazione dell'epoca.
@@ -389,7 +394,6 @@ Con la diffusione della produzione di musica su computer il ruolo del produttore
 Questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio, le DAW (Digital Audio Workstation), che svolgono le funzioni prima espletate da strumentazioni analogiche. Le DAW potenzialmente permettono realizzazioni anche in ambito "domestico" (home recording studio), attraverso l'utilizzo di computer fissi o portatili. Questi programmi consentono al singolo di produrre tracce musicali in modo autonomo, operazione che fino a poco tempo fa era appannaggio di équipes, .
 I brani possono essere realizzati interamente in autonomia con l'uso del computer *in the box*.
 
-[^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
 
 ## 1.3 LA PRODUZIONE AUDIO
 
@@ -521,9 +525,11 @@ Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla socie
 
 ![Pin Connettore MIDI](.\images\midi\pin_connettore_1.PNG)
 
-> Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con "data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi.
+> Dal punto di vista circuitale, il MIDI è un’interfaccia seriale asincrona con "data rate” di 31,250 Kbps, quindi oltre al segnale di massa e di alimentazione da collegare alla scheda remota, necessita di una linea dei dati che può essere di trasmissione o di ricezione, a seconda dei casi. \
 L’interfaccia hardware si compone di tre connettori di tipo DIN (Deutsche Industre Normen) a cinque poli, di cui soltanto tre vengono utilizzati (vedi schema). Di conseguenza anche i cavi utilizzati per la connessione MIDI sono composti da cinque fili di cui utilizzati solo tre.
+
 I connettori si suddividono in tre categorie: MIDI IN, MIDI OUT, MIDI THRU. Il primo trasmette i dati in ingresso; la seconda svolge la funzione opposta; mentre l’ultima,che svolge il ruolo di mediazione tra MIDI IN e MIDI OUT, consente di collegare più slaves a un unico master.
+
 Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non si possono connettere due porte IN o due porte OUT contigue.
 
 ![Connettore MIDI](.\images\midi\pin_connettore_2.PNG)

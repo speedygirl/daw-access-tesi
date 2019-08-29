@@ -168,9 +168,7 @@ In questo paragrafo, saranno affrontati i concetti di accessibilità e usabilit�
 Trattato istitutivo della comunità europea [^direttiva-europea-pdf] art.13 
 
 > Fatte salve le altre disposizioni del presente trattato e nell’ambito delle competenze da esso conferite alla Comunità, il Consiglio, deliberando all’unanimità su proposta della Commissione e previa consultazione del Parlamento europeo, può prendere i provvedimenti opportuni per combattere le discriminazioni fondate sul sesso, la razza o l’origine etnica, la religione o le convinzioni personali, gli handicap, l’età o le tendenze sessuali. \
-I principi di usabilità e accessibilità si basano sul valore primario di uguaglianza dei cittadini in tutti i settori della società. L'impossibilità  di accesso per le persone disabili alle risorse digitali equivale a negare uno dei diritti fondamentali e impedire il pieno sviluppo della persona umana. Quindi, come tutte le barriere, anche quelle digitali devono essere abolite e siti Web resi accessibili a tutti. 
-
-La Legge n. 4/2004 (Legge Stanca) definisce: \
+I principi di usabilità e accessibilità si basano sul valore primario di uguaglianza dei cittadini in tutti i settori della società. L'impossibilità  di accesso per le persone disabili alle risorse digitali equivale a negare uno dei diritti fondamentali e impedire il pieno sviluppo della persona umana. Quindi, come tutte le barriere, anche quelle digitali devono essere abolite e siti Web resi accessibili a tutti. La Legge n. 4/2004 (Legge Stanca) definisce: 
 
 > Accessibilità: la capacità dei sistemi informatici ... nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari. \
 Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici”
@@ -178,38 +176,60 @@ Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzi
 Si parla di accessibilità dei sistemi informatici quando ci si riferisce alla possibilità di fruire delle informazioni e dei servizi forniti, attraverso sistemi hardware e software appositamente progettati.
 Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto" [^agid-sito-ufficiale]. 
 Secondo le norme standard ISO 9241, il concetto di usabilità viene definito secondo tre parametri:
-- efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti.
-- efficienza: si intende in rapporto tra le risorse impiegate in relazione all’efficacia definita in precedenza.
-- soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto.
+
+- efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti. \
+
+- efficienza: si intende in rapporto tra le risorse impiegate in relazione all’efficacia definita in precedenza. \
+
+- soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto. \
 
 L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere e che rendano possibile il recupero di eventuali errori.
 È opportuno sottolineare la fondamentale differenza tra i due concetti: se l’usabilità è la ricerca di una semplificazione che si rivolge a tutti gli utenti, l’accessibilità cerca di sopperire alle carenze dovute a specifiche disabilità con tecnologie dedicate.
+
 Il concetto di usabilità nasce negli anni ’60, ma si è sviluppato alla fine degli anni ’80 con il diffondersi delle tecnologie informatiche e del Personal Computer tra un numero sempre crescente di soggetti. Fino ad allora il problema non sussisteva, in quanto queste tecnologie erano utilizzate esclusivamente da esperti. 
+
 La crescita del Web in ambito sociale ha portato, come detto, gli enti governativi a muoversi da un punto di vista legislativo, per rendere accessibili i siti, le risorse e le informazioni ai disabili. Le linee guida specifiche elaborate per il Web, le app mobile  e le pubbliche amministrazioni sono state ritenute a tal punto valide dagli esperti del settore, da essere applicate per l’accessibilità anche nell’ambito dello sviluppo software, che invece non era stato coperto da alcuna specifica normativa. Stesso discorso si può estendere allo sviluppo di applicazioni mobile, la cui accessibilità non viene richiesta al momento dell’inserimento sulle piattaforme store, ma è a totale discrezione dello sviluppatore. Di prospettiva, visto il prorompente sviluppo delle applicazioni mobile negli ultimi anni, ci si aspetta che gli enti normativi a breve intervengano anche in questo ambito.
 
 <!-- Il paragrafo 2.3 non c'è? -->
 
 ## 2.4 Attuazione nello sviluppo software e Web
 Nello sviluppo di interfacce software gli sviluppatori devono tener in considerazione  la compatibilità del loro prodotto con le tecnologie assistive usate a seconda della tipologia di disabilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità nei software si riscontrano:
-- nei controlli etichettati con immagini anzichè con il nome, detto "tag", 
-- nell'assenza di testi alternativi, che ne esplicitino la funzione, 
-- nella priorità di lettura dei tag (i nomi descrittori devono seguire un ordinamento logico che sia funzionale),
-- nella necessità di utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale,
-- nelle opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera. 
+
+- nei controlli etichettati con immagini anzichè con il nome, detto "tag"
+
+- nell'assenza di testi alternativi, che ne esplicitino la funzione
+
+- nella priorità di lettura dei tag (i nomi descrittori devono seguire un ordinamento logico che sia funzionale)
+
+- nella necessità di utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale
+- nelle opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera.
 
 Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
-- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel <!-- chiarisci i termini mappa, label, mapping dei pixel -->,
-- è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità <!-- chiarisci il termine API e cosa intendi per controlli personalizzati -->,
+
+- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel. <!-- chiarisci i termini mappa, label, mapping dei pixel -->
+
+- è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità. <!-- chiarisci il termine API e cosa intendi per controlli personalizzati -->
+
 - il contrasto elevato e la possibilità di invertire i colori (tra testo e sfondo) sono funzionalità da non tralasciare, utili all'ipovedente.
+
 - è consigliabile testare il software sia attraverso tools automatici, sia manualmente per accertarsi che componenti quali moduli (l'insieme di controlli all'interno di una maschera adibiti all'inserimento dei dati), menù, tendine di selezione, combobox, checkbox ecc. siano accessibili sia da mouse che da tastiera,
-- per rendere accessibili i moduli, lo spostamento del cursore del focus della sintesi vocale tramite tastiera deve seguire un ordine logico e significativo e deve essere garantito che il nome, definito in gergo tecnico "tag", sia quello corrispondente al campo che è stato selezionato, detto "field", sfruttando gli strumenti dati dall'ambiente di sviluppo; inoltre sarebbe opportuno creare etichette chiare per ogni elemento del modulo,
-- è importante costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecnica, e corredata di shortcut chiare e intuitive.
-- il significato delle icone non deve passare solo per via visiva (colore, immagine) ma essere corredato di testo alternativo; dev'essere reso chiaro all'utente quando il pulsante è attivato o disattivato, visivamente con la modifica grafica del pulsante stesso, ma anche dando un feedback uditivo agli utilizzatori di tecnologie assistive sonore,
-- ogni volta che gli sviluppatori progettano una GUI basata sull'impiego del mouse, stanno tralasciando il fatto che creano difficoltà a coloro che non lo possono usare o che lo impiegano in maniera alternativa (ad esempio con la sua emulazione tramite tastiera). Sarebbe opportuno evitare perciò le interfacce basate su strutturazioni grafiche complesse inaccessibili senza l'ausilio visivo o comunque senza utilizzo del mouse,
-- vanno evitati i linguaggi di scripting che le Assistive Technology non possono rilevare ed elaborare,
+
+- per rendere accessibili i moduli, lo spostamento del cursore del focus della sintesi vocale tramite tastiera deve seguire un ordine logico e significativo e deve essere garantito che il nome, definito in gergo tecnico "tag", sia quello corrispondente al campo che è stato selezionato, detto "field", sfruttando gli strumenti dati dall'ambiente di sviluppo; inoltre sarebbe opportuno creare etichette chiare per ogni elemento del modulo
+
+- è importante costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecnica, e corredata di shortcut chiare e intuitive
+
+- il significato delle icone non deve passare solo per via visiva (colore, immagine) ma essere corredato di testo alternativo; dev'essere reso chiaro all'utente quando il pulsante è attivato o disattivato, visivamente con la modifica grafica del pulsante stesso, ma anche dando un feedback uditivo agli utilizzatori di tecnologie assistive sonore
+
+- ogni volta che gli sviluppatori progettano una GUI basata sull'impiego del mouse, stanno tralasciando il fatto che creano difficoltà a coloro che non lo possono usare o che lo impiegano in maniera alternativa (ad esempio con la sua emulazione tramite tastiera). Sarebbe opportuno evitare perciò le interfacce basate su strutturazioni grafiche complesse inaccessibili senza l'ausilio visivo o comunque senza utilizzo del mouse
+
+- vanno evitati i linguaggi di scripting che le Assistive Technology non possono rilevare ed elaborare
+
 - buona norma è fornire titoli ed etichette per ogni elemento dell'interfaccia. [^roberto-scano-linee-guida]
-- occorre differenziare le modalità di fruizione delle informazioni non limitandosi a trasmetterle visivamente (ad esempio tramite il colore), ma fornendo testi alternativi (quali "grassetto attivato" e il pulsante evidenziato; "errore nell'inserimento" oltre al campo evidenziato in rosso per indicare un inserimento scorretto),
-- dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli per farlo questi si possono precompilare con dei valori predefiniti,
+
+- occorre differenziare le modalità di fruizione delle informazioni non limitandosi a trasmetterle visivamente (ad esempio tramite il colore), ma fornendo testi alternativi (quali "grassetto attivato" e il pulsante evidenziato; "errore nell'inserimento" oltre al campo evidenziato in rosso per indicare un inserimento scorretto)
+
+- dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli per farlo questi si possono precompilare con dei valori predefiniti
+
 - le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta alll'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
 
 ## 2.5 Assistive Technology
@@ -218,28 +238,27 @@ Con il termine “Assistive Technology” (AT), o nella traduzione italiana “t
 L’ideale sarebbe progettare applicazioni nativamente accessibili, ma troppo spesso questo principio viene disatteso
 .
 Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insieme delle parti hardware e software che forniscono informazioni relative allo stato della macchina e ai comandi necessari all’utente per svolgere le funzioni specifiche per cui il programma è stato progettato. [^massimiliano-salfi-assistive-technology-slide]
-[^massimiliano-salfi-AT]
 
 La prima formalizzazione del concetto di Assistive Technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
-Negli “Access Board's [^electronic-and-Information Technology-Accessibility-Standards] si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
+Negli “Access Board's [^electronic-and-Information-Technology-Accessibility-Standards] si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
 
 ## 2.6 Esempi di Assistive Technology legati alla disabilità visiva
-Fin dalla nascita del Personal Computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili-screenreader-1]
+Fin dalla nascita del Personal Computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, erano in grado di trasmettere frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono sviluppati software di input tramite comandi vocali. <!-- riusciamo a inserire qualche data per collocare storicamente le informazioni? -->
  
 <!-- INSERIRE TABELLE CON ESEMPI TECNOLOGIE ASSISTIVE E RELATIVO LINK https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
 (…… ; consultato 25 novembre 2018). -->
 
 ### 2.6.1 Screen Reader
-Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^text-to-speach], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo.  
+Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
 
-https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html <!-- perché qui c'è un URL abbandonato a se stesso?!? -->
+<!-- perché qui c'è un URL abbandonato a se stesso?!? -->
 <!-- citare le sue fonti bibliografiche a fondo pagina del sito -->
 
 Il sistema di screen reader con sintesi vocale è composto da due parti: una detta front-end e una di back-end. Le due funzioni del front-end sono: la normalizzazione, ovvero un'analisi del testo che converta sigle, abbreviazioni, numeri in parole, e l'analisi linguistica, che traspone gli idiomi in fonemi facendone un'analisi linguistica in grado di creare intonazione, pause, respiri, periodi. 
 La funzionalità che si occupa di riprodurre in suoni il contenuto testuale, analizzato e opportunamente filtrato dallo screen reader, è il baack-end ed è chiamata sintesi vocale, in quanto in grado di articolare suoni sintetizzati, quindi artificiali, in fonemi [^fonemi] Il sintetizzatore per funzionare sfrutta la scheda audio del computer: questo, come verrà esposto in seguito, comporta dei problemi di compatibilità con i software di produzione musicale.
 ![](.\images\generic\Sintesi_vocale.png)
-[^schema-sintesi-vocale]: tratto da wikipedia
+*Tratto da wikipedia*
 
 Le regole grammaticali della lingua consentono di ottenere una corretta pronuncia dei vocaboli. Possono invece creare problemi le parole abbreviate, i nomi composti, i termini con successioni di lettere inusuali, le omografie [^omografi-treccani]. Con i progressivi miglioramenti delle tecnologie alla base delle sintesi vocali, tali problematiche stanno diminuendo 
 I primi sintetizzatori ricreavano voci dal suono metallico e spesso la lettura risultava difficoltosa o addirittura incomprensibile, con evidenti riflessi negativi sulla comprensibilità del messaggio da parte dell’utilizzatore. Fortunatamente questa tecnologia, che ha avuto un ampio sviluppo avendo trovato riscontro in applicazioni commerciali, è stata continuamente migliorata negli anni, soprattutto dal punto di vista della naturalezza della lettura e dell’intelligibilità. Questo ha prodotto voci ormai molto simili a quelle umane, in grado di riprodurre suoni non solo comprensibili, ma che riflettono anche le intonazioni del parlato, come nel fondamentale caso delle frasi esclamative o interrogative. Notevoli progressi si riscontrano anche relativamente alla normalizzazione del testo.
@@ -250,13 +269,15 @@ Esistono varie modalità d’uso di una sintesi vocale, vi sono diverse modalit�
 
 È possibile inoltre cercare una stringa di testo nella videata e annunciare la locazione del cursore o dell’elemento selezionato. 
 Esistono anche funzioni più avanzate, come: 
-- leggere la porzione di testo con una particolare formattazione,
-- leggere una predeterminata porzione dello schermo a richiesta,
-- leggere la porzione di testo selezionata, 
+
+- leggere la porzione di testo con una particolare formattazione
+- leggere una predeterminata porzione dello schermo a richiesta
+- leggere la porzione di testo selezionata
 - permettere all’utente di conoscere qual è la voce attiva in un menù. [^funzionamento-screenreader-american-foundation].
 
 Per eseguire tali operazioni i comandi differiscono a seconda della versione del sistema operativo impiegato, nonché di quella dello screen reader, cosa che crea non poco disagio all’utente. Esistono però anche comandi che attivano la funzionalità di suggerimento delle shortcut relative allo screen reader.
-Molti sistemi operativi integrano screen reader dedicati: Linux utilizza Orca, Windows Vista, Windows XP, Windows 98, Windows ME e Windows NT supportano Narrator; infine Apple Mac OS X lo screen reader VoiceOver [^tipologie-screenreader-american-foundation] <!-- e Windows 7 e 10? -->
+
+Molti sistemi operativi integrano screen reader dedicati: Linux utilizza Orca, Windows Vista, Windows XP, Windows 98, Windows ME e Windows NT supportano Narrator; infine Apple Mac OS X lo screen reader VoiceOver [^funzionamento-screenreader-american-foundation] <!-- e Windows 7 e 10? -->
 Dall’inizio degli anni ’90 l'interfaccia dei sistemi operativi non è più, per l’utente, di natura testuale, ma si basa sulla componente grafica della GUI (Graphical User Interface), che è composta da icone e pulsanti. Ne consegue che lo screen reader non può più esclusivamente estrarre le informazioni di natura testuale presenti nella videata, ma deve essere in grado di leggere anche le componenti grafiche, mediante opportuni accorgimenti e appositi metadati, testi alternativi, tag.
 
 Di seguito vengono elencate le principali funzioni dello screen reader:
@@ -276,15 +297,19 @@ da questo link si può eseguire il suo download) <!-- non mi sembra molto chiaro
 Le UIA danno anche informazioni sul contesto in cui il comando si trova, il contesto in cui il focus è posizionato (ad esempio il cursore di testo all’apertura di un documento di Word).
 La quantità di informaziooni fornite all’utente dipende da come quest’ultimo ha impostato il “grado di verbosità”, ad esempio si può scegliere se lo screen reader deve annunciare o meno che il pulsante è selezionato, se deve dare suggerimenti sulle azioni che è possibile eseguire (*premere invio o spazio per selezionare*); oppure ancora (premere le frecce) per espandere il sottomenù quindi si può anche impostare che vengano forniti suggerimenti  sulle shortcut da utilizzare <!-- non ho ben capito l'ultima parte della frase, dal ; Puoi ricontrollare? -->. (Si noti che molto spesso è data la possibilità di personalizzare le shortcut, sia relative a alcune funzioni interne allo screen reader, sia relative a funzionalità presenti nei vari programmi, ma non si affronterà questo argomento in quanto il tentativo è di riuscire a essere il più generici possibile).
 NB si ricorda che anche il magnifier <!-- spiega cos'è --> fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
+
 ![](.\images\generic\schema-api-uia-microsoft.png)
-[^schema-uia-microsoft-youtube]
+*Video Guida Microsoft https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s* consultata il 29 agosto 2019
 
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
 
 ### 2.6.2 Barra Braille
+
 ![](.\images\generic\barra-braille.jpg)
-[^immagine-barra-braille]: tratto da collezione privata
+
+*Tratto da collezione privata*
+
 Il testo “Assistive Technology for Visually Impaired and Blind People” definisce: *“Refreshable Braille displays or soft Braille displays are output devices for reading text from a computer screen or ﬁle in Braille cells”.* [^barra-braille-definizione]
 In italiano questo supporto viene tradotto con il termine “barra braille” [^barra-braille-manuale-papenmeier]; si tratta di un dispositivo elettromeccanico in grado di riprodurre caratteri alfanumerici in formato braille, sollevando alternativamente dei pin plastici, tramite materiale piezoelettrico (Figura 1).
 Generalmente è composto da una striscia di matrici, a ciascuna delle quali corrisponde un singolo carattere braille: il numero delle matrici è caratteristica determinante la capacità e la velocità di lettura. All’esaurimento del numero di matrici, tramite appositi tasti, l’utente può aggiornare i caratteri rappresentati per proseguire la lettura. 
@@ -302,15 +327,15 @@ Le prime release di questo genere di software avevano un vocabolario molto limit
 I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^dragon-Naturally-Speaking] dell'IBM del 1975 <!-- IBM nel 1975?!? Fai una verifica -->, la cui più recente versione risale ad agosto 2016.
 Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone: supportano l’utilizzo alla guida o hands free e recentemente in dispositivi come il Google Home supportano l’IOT <!-- definisci l'IOT -->.
 Una delle declinazioni più comuni degli applicativi di riconoscimento vocale sono software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione di testi. Questi ultimi non sono però in grado di eseguire comandi (Dragon Naturally Speaking), oppure recenti funzionalità built-in nei sistemi operativi Windows (Cortana) e Mac OS (Siri). <!-- puoi chiarire? Per quanto ne so con Dragon puoi fare molto più di dettare testi, per Cortana e Siri a cosa ti riferisci? -->
-Alcuni programmi supportano in automatico lo speech recognition mentre altri no, ma è una funzione che può essere abilitata per ogni applicazione selezionando in Windows “all programs”> “Accessories” > “ease of access” > “windows speech recognition” > “enable dictation everywhere” <!-- perché in inglese? Specifica anche a quale versione di Windows fai riferimento -->.
-In Mac Os X il percorso è invece “preferences pannel” > “dictation and speech”.
+Alcuni programmi supportano in automatico lo speech recognition mentre altri no, ma è una funzione che può essere abilitata per ogni applicazione selezionando in Windows 10 “Start” > “Impostazioni” > “Data Ora e Lingua” > “Riconoscimento Vocale” > “Inizia” <!-- perché in inglese? Specifica anche a quale versione di Windows fai riferimento -->.
+In Mac Os X il percorso è invece “Preferenze di sistema” > “Tastiera” > "Dettatura".
 La nuova frontiera di sviluppo di queste tecnologie sono l’interactive speech e l’utilizzo hands free di dispositivi mobile. 
 
 <!-- Ricontrolla da qui a fine paragrafo, mi sembrano appunti sparsi -->
 
 Tutta questa branca ha 
 
-voice recognition permette agli utenti di comandare il device dando comandi vocali già stando a dei dettami dell'articolo del 2005 "CIT stanford" l'accuratezza di comprensione dei vocal regognition dell'input a questi programmi era superiore al 90% ed erano in grado di apprendere, attraverso l'utilizzo da parte dell'utente, la modalità d'uso e arrivare a una comprensione sempre maggiore, cosa resa possibile dalla recente tecnologia del machine learning. [^machine-learning-oogle-io2018]
+voice recognition permette agli utenti di comandare il device dando comandi vocali già stando a dei dettami dell'articolo del 2005 "CIT stanford" l'accuratezza di comprensione dei vocal regognition dell'input a questi programmi era superiore al 90% ed erano in grado di apprendere, attraverso l'utilizzo da parte dell'utente, la modalità d'uso e arrivare a una comprensione sempre maggiore, cosa resa possibile dalla recente tecnologia del machine learning. [^machine-learning-google-io18]
 
 “Il deep learning è un caso particolare di machine learning, e le reti neurali sono i sistemi di calcolo (con le loro architetture, talvolta non del tipo Von Neumann-Zuse) sui quali essi sono implementati ed operano algoritmicamente.”
 
@@ -328,21 +353,22 @@ Alcuni magnifier hanno integrati degli screen reader basilari che leggono la por
 
 Riporto di seguito alcuni esempi di magnifier con relative procedure di attivazione per permettere al lettore di provarli, dal momento che sono tutt'ora presenti di default nei più diffusi sistemi operativi.
 Microsoft Windows a partire dal 1998 ha integrato un applicativo di ingrandimento chiamato Magnifier.
-Tale funzione è tutt’ora disponibile; in Windows 10 per attivarla [^windows-magnifier-attivazione] è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. [^]: Si è scelto di riportare solamente la procedura relativa a Windows 10, escludendo le precedenti versioni, in quanto è il sistema operativo su cui sono stati eseguiti i test sui programmi.
+Tale funzione è tutt’ora disponibile; in Windows 10 per attivarla [^windows-magnifier-attivazione] è sufficiente richiamare la funzione dal menù Start oppure aprire il pannello “impostazioni” e mettere il flag su “lente di ingrandimento”. Dal medesimo pannello è poi possibile operare ulteriori aggiustamenti. [^windows-magnifie-method]
+
 Nei sistemi sviluppati da Apple è presente sin dalle prime versioni ed è stata implementata in tutte le tipologie di OS (iOS, MacOs, WatchOS, tvOS, iPadOS) si attiva con specifici input, in questo lavoro ci si concentrerà su quelli relativi alla piattaforma desktop. [^mac-magnifier-attivazione] (shortcut, mouse pad, scrool)
 La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezionare System Preferences.
-All’interno del System row selezionare Universal Access e attivare il pulsante Zoom. Per ulteriori opzioni va cliccato il pulsante Options. [^]: per identiche ragioni si è scelto di esporre  le  procedure relative alla versione Mac Mojave 10.14, ossia il sistema operativo impiegato per eseguire i test sui programmi.
+All’interno del System row selezionare Universal Access e attivare il pulsante Zoom. Per ulteriori opzioni va cliccato il pulsante Options. [^mac-magnifie-method] 
 
 ### 2.7 Storia delle Assistive Technologies
 Per la stesura di questa sezione ho fatto riferimento al sito https://cs.stanford.edu/. [^stanford-sito-ufficiale]
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
 Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech) sviluppato dalla Freedom Scientific a partire dal 1995 quando fu prodotta laversione 1.0. E'Utilizzabile esclusivamente su sistema operativo Windows 3.1 e Windows for Workgroups 3.11 (DOS)  e successivi. Dalla versione Windows 98 in avanti AWS aveva come caratteristiche uniche la possibilità di utilizzare i menù a cascata <!-- intendi a tendina? --> e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo lo portò ad avere una grande diffusione perché nonostante i costi elevati, in Italia spesso sostenuti dal sistema sanitario locale o dal sistema scolastico, e nonostante la suite di comandi da tastiera particolarmente complicata <!-- questa frase va rivista, non ha molto senso -->. È possibile rintracciare differenti pagine Web e letteratura specifica in cui si spiega come utilizzare JAWS; sulle medesime fonti si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi <!-- non capisco, in queste fonti di cui parli gli utenti hanno elencato le loro combinazioni di tasti personalizzate? -->. Oltretutto, i medesimi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedevano l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
-Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. Per ovviare a questo sconveniente gli sviluppatori hanno diviso le tipologie di navigazione in due: modalità maschere (per dare comandi allo jaws e modalità d'inserimento semplice per poter eseguire la ricerca in  modo comune) <!-- anche in questa frase non si capisce molto, verifica -->[^germano-carella-ausili-screenreader-2]
+Un altro elemento sfavorevole, è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. Per ovviare a questo sconveniente gli sviluppatori hanno diviso le tipologie di navigazione in due: modalità maschere (per dare comandi allo jaws e modalità d'inserimento semplice per poter eseguire la ricerca in  modo comune) <!-- anche in questa frase non si capisce molto, verifica -->[^germano-carella-ausili]
 
 Recentemente, anche grazie alla spinta normativa imposta dai vari governi, hanno cominciato a diffondersi software efficienti e gratuiti, che hanno comportato una notevole svolta nell’autonomia dei disabili visivi. 
 Sicuramente degno di nota è il software opensource gratuito NVDA *(Non Visual Desktop Access)*, introdotto a partire da Windows 7 e disponibile anche in versione “portable” ovvero caricabile su supporto esterno al PC e quindi trasportabile facilemente da un PC ad un altro, rendendo immediatamente accessibile la macchina di interesse. Questo fatto ha abbattuto un’ulteriore barriera, secondo cui il disabile visivo sarebbe costretto ad utilizzare esclusivamente i propri supporti hardware. 
 
-** Un altro aspetto da non sottovalutare, in aggiunta a quello tecnico di usabilità delle informazioni, è legato alla qualità della riproduzione del suono e della voce: migliorata solo nelle ultimissime versioni, risultava in passato facilmente irritante per un pubblico non abituato. 
+Un altro aspetto da non sottovalutare, in aggiunta a quello tecnico di usabilità delle informazioni, è legato alla qualità della riproduzione del suono e della voce: migliorata solo nelle ultimissime versioni, risultava in passato facilmente irritante per un pubblico non abituato. 
 
 IBM è stata la prima ditta ad interessarsi di accessiblità svilupando un suo screrenreader per i dipendenti interni non vedenti denominato Home Page Reader, sviluppato specificatamente solo per poche applicazioni come WordPad, Windows Desktop, Notepad.
 Narrator, per windows 8 e successivi, è considerato leggermente migliore rispetto ai software simili in quanto meno complesso; tutavia presentava difficoltà al primo utilizzo, in quanto non era presente un manuale utente di spiegazione dei comandi. Inoltre, come nel caso di JAWS, le shortcut prevedevano l'impiego del tasto Home, ergonomicamente scomodo.
@@ -350,12 +376,15 @@ Narrator, per windows 8 e successivi, è considerato leggermente migliore rispet
 Ritengo infine opportuno citare VoiceOver [^voiceover-apple-ufficiale] utilizzabile esclusivamente con sistemi operativi sviluppati da Apple <!-- cioè macOS X? -->: risulta essere meglio strutturato dei precedenti elencati e all'avvio del sistema operativo l'utente non vedente può facilmente accedere al tutorial, per imparare a usarlo.
 Presenta un numero minore di comandi rapidi rispetto a JAWS, comandi che prevedono ii tasti chiave Home/V.O <!-- cos'è il tasto Home/V.O?--> oppure Capslock o Insert.
 
-### 2.7.1 / Storia delle tecniche di accessibilità
+### 2.7.1 Storia delle tecniche di accessibilità
 <!-- da completare -->
 
-### 2.7.2 / riflessione su come può essere reso accessibile software audio [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella seconda sezione della tesi (180 pag)
+### 2.7.2 Riflessione su come può essere reso accessibile software audio 
+<!-- [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella seconda sezione della tesi (180 pag) -->
 <!-- da completare -->
 
 ## Conclusioni accessibilità
-Nei primi decenni di questo secolo si è assistito a uno sviluppo fortissimo delle tecnologie di sintetizzazione delle voci umane, ingenti investimenti sono stati fatti per portare questa tecnica ad un livello di perfezione che non sarebbe mai stato raggiunto se non si fosse trovato per le sintesi un risvolto commerciale. È oramai funzionalità di base in ogni smartphone e tablet la capacità di riconoscimento del proprietario per impartire ordini hands free. L'accessibilità ha tratto quindi immenso giovamento da questi ritrovati tecnologici, raggiungendo qualità e prestazioni che non sarebbero mai stati raggiunti con l'imposizione legislativa tramite semplici linee guida. <!-- La posizione è interessante, ma va argomentata, da cosa deduci quello che hai scritto? -->
+Nei primi decenni di questo secolo si è assistito a uno sviluppo fortissimo delle tecnologie di sintetizzazione delle voci umane, ingenti investimenti sono stati fatti per portare questa tecnica ad un livello di perfezione che non sarebbe mai stato raggiunto se non si fosse trovato per le sintesi un risvolto commerciale. È oramai funzionalità di base in ogni smartphone e tablet la capacità di riconoscimento del proprietario per impartire ordini hands free. L'accessibilità ha tratto quindi immenso giovamento da questi ritrovati tecnologici, raggiungendo qualità e prestazioni che non sarebbero mai stati raggiunti con l'imposizione legislativa tramite semplici linee guida. 
+
+<!-- La posizione è interessante, ma va argomentata, da cosa deduci quello che hai scritto? -->
 

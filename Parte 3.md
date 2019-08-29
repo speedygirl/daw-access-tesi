@@ -209,7 +209,7 @@ La totalità delle funzioni di equalizzazione risultano totalmente inaccessibili
 ###Compressione 9
 è possibile inserire gli effetti in due modi: o dal pulsante presente nel mixer o dal pulsante sulla master track o sulle singole tracce. Il modo più rapido e semplice è premere il tasto F, in quanto raggiungere i pulsanti implica lo scorrere con le frecce o col Tab, procedura che è molto dispendiosa in termini di tempo. Una volta aperto il pannello degli effetti viene letto interamente; è presente inoltre una sezione inaccessibile contenente le librerie Contact, che richiedono opportuni plug in a pagamento, sviluppati da Andrea De Solis e forniti solo tramite contatto diretto con lo sviluppatore.
 
-<!-- ### ```Impostazioni griglia (grid) FACOLTATIVO```
+<!-- ### Impostazioni griglia (grid) FACOLTATIVO
 Impostazioni dei canali d,i ing,resso e di uscita, spiegare che in cubase devi fare tuto manualmente mentre in Reaper è tutto automatizzato.-->
 
 ###Reaper per mac installazione
@@ -516,7 +516,7 @@ La finestra di salvataggio che compare quando si sta per chiudere inavvertitamen
 Sempre nel medesimo menù File vi sono le funzioni per gestire l'apertura di progetti. “Open project”, Cmd+O, serve per aprire un progetto, mentre per aprirne uno precedentemente salvato occorre selezionare “open recent” il quale mostra nel sottomenù gli ultimi aperti di recente e infine “create "new project” Cmd+N per aprirne uno nuovo. Per il motivo sopra esposto, sono anch'esse perfettamente raggiungibili e selezionabili mediante l'impiego della tastiera o del mouse.
 L’impostazione degli ingressi e delle uscite, a differenza delle precedenti operazioni, è stata testata utilizzando lo scorrimento del mouse. Per testare questo programma, come anche per Cubase, è stata impiegatta una scheda audio in aggiunta a quella interna al computer. LO scopo di questa scelta è separare la destinazione degli output audio provenienti dalla sintesi vocale e quelli provenienti dalle tracce registrate, altrimenti avviene che le due componenti entrano in conflitto diventando ingestibili.
 Per eseguire i test si è utilizzata una scheda Focusrite Scarlett 2i2.
-Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale, mentre con quella esterna gli eventi della DAW. ```(inserisco qui il concetto di  playback engine? V pro tools ale)```.
+Per mezzo della scheda audio interna al computer è stata gestita la sintesi vocale, mentre con quella esterna gli eventi della DAW. (inserisco qui il concetto di  playback engine? V pro tools ale).
 RIPARTIRE D QUI E INSERIER PLAYBACK ENGINE 
 I controlli "Play", "Stop" e "Rewind", attivabili col tasto Spazio, sono raggiungibili coi consueti comandi di navigazione tipici del sistema operativo Mac e sono situati o sui pannelli relativi alle singole tracce o nella barra superiore. Tale barra è molto funzionale perché gli elementi ivi contenuti sono raggruppati per funzionalità, quindi scorrendo con le frecce destra e sinistra si capisce come sono distribuiti i gruppi e con le rimanenti due si entra all’interno di ogni gruppo. Ciò rende più intuitiva la navigazione e Pro Tools è l’unico programma, tra i tre analizzati, ad avere questa caratteristica.
 Con la combinazione di tasti Capslock+Freccia destra/sinistra si sposta il focus tra le tracce, VoiceOver annuncia il nome della traccia ma non fornisce il riferimento spaziale di dove essa sia collocata, non dice ad esempio “1 di 5 tracce”, cosa che aiuterebbe a orientarsi nel caso di un numero elevato di elementi.
@@ -626,7 +626,7 @@ windows “winspy++” è il corrispettivo dell'inspector in mac.
 winsèy++”  è scaricabile al seguente link: 
 [aggiornato 8 settembre 2018; consultato 20 novembre 2018](https://sourceforge.net/projects/winspyex/.)
 
-Spy++ è uno dei tanti tools [```come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE```] per valutare l’accessibilità dei programmi in ambiente Widows. Spy++ permette di
+Spy++ è uno dei tanti tools [come ……. CITA ARTICOLO IN FOLDER TOOLS IN ONEDRIVE] per valutare l’accessibilità dei programmi in ambiente Widows. Spy++ permette di
 Visualizzare gerarchicamente la conformazione della struttura degli oggetti di sistema, comprendendo anche finestre, thread e processi. Di questi tre, unitamente ai messaggi selezionati dall’utente, consente la ricerca e la selezione delle loro proprietà. 
 
 <u>La finestra può essere anche selezionata, usando lo strumento di ricerca interno al tool e portandovi il puntatore del mouse.</u>
@@ -650,7 +650,7 @@ Accessibility inspector cos’è, utilità, funzionalità principali
 Articolo su accessibility inspector tratto da:
 [consultato 4 novembre 2018; pubblicato 9 maggio 2013; autore Léonie Watson](https://developer.paciellogroup.com/blog/2013/05/testing-and-debugging-ios-accessibility-for-voiceover/)
 
-```
+
 A differenza di altri, si tratta di un tool alquanto completo per analizzare Con questo tool si può valutare l’accessibilità di programmi, siti web ecc…, ad esclusione delle app mobile.
 I controlli nativi della UI hanno l’accessibilità incorporata come standard, quelli personalizzati si possono rendere accessibili senza difficoltà.
 
@@ -663,12 +663,11 @@ Esso rimane attivo fino a che lo switch rimane attivo. Tuttavia è possibile att
 Quando si usa l’iOS simulator si può emulare le gesture del touch con il clicking del mouse.
 Nell’accessibility inspector si possono trovare due tipi di informazioni: properties e notifications.
 Accessibility properties: si può esaminare le label accessibili, value, hint (se disponibili).
-```
-```
+
+
 Accessibility traits and frame co-ordinate per ogni controllo. Come si aggiorna il codice, i cambiamenti sono riflessi in tempo reale, aiutando a sperimentare diverse soluzioni.
 Accessibility notifications aggiornano VoiceOver con quanto avviene nell’app. ad esempio si dovrebbe usare UIAccessibilityAnnouncementNotification   peer segnalare agli utilizatori di VoiceOver quando qualche informazione appare brevemente sullo schermo
 È un approccio efficace usanre in combinazione VoiceOver per testare e L’Accessibility Inspector per debuggare. Ad esempio, durante i test, si potrebbe scoprire un controllo indefinito. Usando l?inspector si può scoprire se effettivamentee è un’etichetta inaccessibile e che i trattti rilevanti siano stati resi disponibili. Se si ha la necessità di effettuare cambiamenti alla propria app si possono dapprima veirificare mediante l’Accessibility Inspector e poi con Voiceover nella prossima release.
-```
 
 (Tradotto da me)
 
@@ -714,7 +713,7 @@ Spostandosi su “attiva metronomo” VoiceOver vocalizza “Attiva metronomo”
 
 Si è infine tentato di sfruttare la funzionalità “cerca nell’aiuto di Cubase” 
 ma a ogni lettera digitata nella query VoiceOver pronunciava “cerca nell’aiuto” ma non notificava alll’utente le lettere che sta immettendo.
-```
+
 
 In tanti programmi, soprattutto se composti da centinaia di comandi, è messa a disposizione la funzione di ricerca rapida delle shortcut o delle funzionalità attraverso una query ossia una casella di ricerca in cui è possibile scrivere quello che si sta cercando, alleviando all’utente la fatica di scorrre lunghi elenchi; cosa per giunta pressochè impossibile a un non vedente (come già precedentemente accennato).
 Per avere un’ulteriore conferma dell’inaccessibiliità della GUI della finestra progetto si è quindi provveduto a scaricare il tool per valutare l’accessibilità: l’accessibility inspector [^accessibility-inspector-xcode], che ha riconfermato quanto appena affermato. Si può infatti vedere dallo screenshot che l’interfaccia non espone i metadati necessari per l’accessibilità, che non sono stati impiegati i tag o i testi alternativi, che gli eelementi non sono stati raggruppati in maniera tale da agevolare la navigazione (da tastiera), l’interazione tramite mouse supportata dalla sintesi e Non è possibile posizionare il focus della sintesi vocale sui singoli elementi dell'interfaccia perchè non sono correttamente annidati.
@@ -745,7 +744,7 @@ Windows CUBASE Connessioni VST Ingressi ![](.\images\cubase-windows-images\windo
 
 Windows CUBASE Connessioni VST Ingressi ![](.\images\cubase-windows-images\windows-cubase-connessioni-vst-ingressi-2.png)
 
-Per associare i BUS  ai canali in ingresso e uscita le relative tracce PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 canale 1) in ingresso e uscita, si fa lo stesso procedimento, dall'Inspector scegliere .......   associato alla traccia selezionata ```, dove si trovano attributi come panning, automazioni e muto.
+Per associare i BUS  ai canali in ingresso e uscita le relative tracce PER SCEGLIERE BUS DI INGRESSO RELATIVO (BUS 1 canale 1) in ingresso e uscita, si fa lo stesso procedimento, dall'Inspector scegliere .......   associato alla traccia selezionata , dove si trovano attributi come panning, automazioni e muto.
 Scegliere **“ASSEGNAZIONE INGRESSO”**
 (è consigliabile scegliere l'uscita stereo).
 
@@ -760,11 +759,11 @@ Tutti ipotizzano il non vedente solo come cieco totale senza considerare le poss
 **E' DOPPIA?**
 SPOSTARE NEL PUNTO CORRETTO NELLA ZONA DOVE SI PARLA DELLA FINESTRA PRINCIPALE DELLA SUA ZONA DI DESTRA. 
 Si apre la main windows del nuovo progetto presente nella barra dei menù in cima alla finestra, si seleziona il menù “progetto” e si seleziona la voce “impostazioni progetto. By ale.
-```
 
-```
+
+
 Col tasto Tab si è raggiunta la funzione “imposta cartella di progetto”, preseente nella parte destra della finestra principale (all’avvio del programma) ma non è accessibile perché VoiceOVer non da un feedback riguardo alle opzioni in essa contenute, limitando le possibilità dell’utente semplicemente allo spostare il focus del cursore da una parte all’altra della finestra.
-```
+
 
 VO impostato su “individua in automatico i gruppi” Vo crea i tag al posto del programma stesso, opzione che però con cubase non funziona. Questa opzione cambai gli elementi focalizzabili, gli elementi su cui si può interagire sono sempre gli stessi, il loro numero non viene alterato..
 

@@ -8,8 +8,8 @@ inserire commento html sotto ogni foto inserita nel testo senza inserire la nota
 
 [^accessibilita-usabilita-rivista]: rivista formato pdf metodologie di inclusione sociale 2014
 
-http://www.europedirectteramo.it/files/CEE.pdf
-[^direttiva-europea-pdf]: direttiva europea
+
+[^direttiva-europea-pdf]: Direttiva Europea: *http://www.europedirectteramo.it/files/CEE.pdf* consultato il 2 marzo 2018
 
 [^massimiliano-salfi-assistive-technology-slide]
 
@@ -80,34 +80,28 @@ https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 link consu
 [^windows-magnifier-attivazione]
 https://support.microsoft.com/it-it/help/4052291/accessories-how-do-i-turn-my-mouse-magnifier-on-and-off  (aggiornato 10 aprile 2018; consultato 13 novembre 2018)
 
-https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673 
-[^mac-magnifier-attivazione]
+[^mac-magnifier-attivazione]: Life Wire, *https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673* consultato il 2 agosto 2019
 
-https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html
-[^stanford-sito-ufficiale]
 
-[^roberto-scano-linee-guida]
-https://robertoscano.info/files/salt/guidelines/sec8.html
+[^stanford-sito-ufficiale]: Sito Ufficiale di Standford *https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html* consultato il 2 agosto 2019
 
-[^introduction-to-web-accessibility]
-https://www.w3.org/WAI/fundamentals/accessibility-intro/
+[^roberto-scano-linee-guida]: Roberto Scano *https://robertoscano.info/files/salt/guidelines/sec8.html* consultato il 2 agosto
 
-https://www.apple.com/accessibility/mac/vision/
-[^voiceover-apple-ufficiale]
+[^introduction-to-web-accessibility]: W3C Accessibility *https://www.w3.org/WAI/fundamentals/accessibility-intro/* consultato il 2 agosto 2019
+
+[^voiceover-apple-ufficiale]: Guida ufficiale Apple *
+https://www.apple.com/accessibility/mac/vision/* consultato il 2 di agosto 2019
 
 ![](.\images\generic\schema-api-uia-microsoft.png)
-[^schema-uia-microsoft-youtube]: link youtube
+[^schema-uia-microsoft-youtube]: Video Guida Microsoft *
+https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s* consultata il 29 agosto 2019
 
-https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s
-[^introduction-to-uia-microsoft-youtube]
-
-https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg
+[wcag]: DECRETO LEGISLATIVO 10 agosto 2018, n. 106 *https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg* consultato il 29 agosto 2019
 
 [^aggiornamento-legge-stanca-2018]: Decreto legislativo 10 agosto 2018, n. 106 pubblicato in Gazzetta Ufficiale n. 221
 
-[^agid-sito-ufficiale]: Agid Sito Ufficiale: *https://www.agid.gov.it/*
-
-https://www.agid.gov.it/it/design-servizi/accessibilita-siti-web
+[^agid-sito-ufficiale]: Agid Sito Ufficiale: *https://www.agid.gov.it/it/design-servizi/accessibilita-siti-web*
 
 [^massimiliano-salfi-AT]: M. SALFI, La tecnologia a supporto della disabilità, presentazione in formato pdf per il corso di Informatica medica, Università degli Studi di Catania, Dipartimento di matematica e informatica
 
+[^schiavone-eu]: Antonio Giovanni Schiavone, La legislazione europea sull’accessibilità dei sistemi informatici, 8 Settembre 2016

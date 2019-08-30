@@ -1,9 +1,11 @@
 # PREFAZIONE
 Questa tesi si occupa di indagare l'accessibilità da parte di disabili visivi ai software di produzione musicale DAW (Digital Audio Workstation).
+Per le definizioni di disabile e di accessibilità si è fatto riferimento alla Convenzione delle Nazioni Unite sui diritti delle persone con disabilità del 2008.
+Nella convenzione si dice che "la disabilità è il risultato dell'interazione tra persone con minorazioni e barriere attitudinali e ambientali, che impedisce la loro piena ed efficace partecipazione nella società su una base di parità con gli altri".
 
-Si definisce disabile visivo un individuo con minorazione al campo visivo, in uno o entrambi gli occhi. La riduzione del campo visivo può essere limitata o totale ,la legge assegna differenti percentuali di invalidità a seconda della gravità della minorazione. 
+Si definisce disabile visivo un individuo con minorazione al campo visivo, in uno o entrambi gli occhi. La riduzione del visus e del campo visivo oppure la sua totale assenza può essere limitata o totale ,la legge assegna differenti percentuali di invalidità a seconda della gravità della minorazione. 
 
-Si definisce accessibilità cone la possibilità di fruizione di servizi, spazi o informazioni da parte di tutti gli utenti che ne abbiano bisogno, indipendentemente dalle menomazioni o limiti che possano avere, temporanei o permanenti
+L'accessibilità, nell'articolo 9 della sopracitata convenzione abbreviata CRPD, è "l'accesso all'ambiente fisico, sociale, economico e culturale, ai trasporti, all'informazione e alla comunicazione, compresi i sistemi e le tecnologie di informazione e comunicazione, e ad altre attrezzature e servizi aperti o forniti al pubblico."
 
 Nell'ambito specifico dell'informatica, per accessibilità si intende la possibilità di poter fruire di informazioni hardware e sotware specificatamente ottimizzate ed è regolata da una specifica normativa, la Legge Stanca. 
 
@@ -253,7 +255,7 @@ Nel 1979 era stata brevettata una nuova tecnologia di registrazione e riproduzio
 La possibilità di codificare una forma d'onda sonora in codice binario era conosciuta da tempo: il PCM era stato brevettato nel 1938 dall'ingegnere Alex Reeves ed era stato utilizzato nella seconda guerra mondiale per trasmettere messaggi in codice <!-- citazione -->.
 Per la trasmissione di suoni di alta qualità era necessario però che la frequenza di campionamento (numero di scansioni della forma d'onda nell'unità di tempo) si facesse con valori molto elevati e questo avrebbe prodotto una mole di dati che nessun calcolatore dell'epoca sarebbe stato in grado di elaborare.
 
-Altro ostacolo consisteva nel fatto che venivano generate grandi quantità di frequenze spurie che alteravano la qualità del risultato. A quest'ultimo problema si trovò una soluzione applicando il teorema di Nyquist-Shannon,secondo il quale per evitare distorsioni o perdita di informazioni nella ricostruzione del segnale analogico la frequenza di campionamento deve essere maggiore del doppio della frequenza massima campionata. Essendo 20 kHz il limite udibile per l'orecchio umano si scelse la frequenza di campionamento a 44.1 kHz (con risoluzione a 16 bit) che consentiva una riproducibilità intorno ai 18-20 kHz <!-- perché? In teoria 44.1 kHz di campionamento danno 22.05 kHz di frequenza massima rappresentabile. Se è una citazione va indicato, altrimenti o si toglie o si chiarisce -->. La qualità ottenuta era accettabile, ma la mole dei dati da archiviare era impressionante. Si dovettero aspettare i nuovi sviluppi delle tecnologie digitali, in particolare il potenziamento e la miniaturizzazione dei processori.
+Altro ostacolo consisteva nel fatto che venivano generate grandi quantità di frequenze spurie che alteravano la qualità del risultato. A quest'ultimo problema si trovò una soluzione applicando il teorema di Nyquist-Shannon,secondo il quale per evitare distorsioni o perdita di informazioni nella ricostruzione del segnale analogico la frequenza di campionamento deve essere maggiore del doppio della frequenza massima campionata. Essendo 20 kHz il limite udibile per l'orecchio umano si scelse la frequenza di campionamento a 44.1 kHz (con risoluzione a 16 bit) che consentiva una riproducibilità intorno ai 20 kHz. La qualità ottenuta era accettabile, ma la mole dei dati da archiviare era impressionante. Si dovettero aspettare i nuovi sviluppi delle tecnologie digitali, in particolare il potenziamento e la miniaturizzazione dei processori.
 
 Il procedimento per lo stampaggio di un CD è simile a quello del disco fonografico: la superficie viene incisa da un raggio all'elio-cadmio e poi ricoperta con un sottile strato d'argento che, indurito, costituisce lo stampo per la serializzazione.
 
@@ -284,7 +286,7 @@ La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entram
 
 
 ## Il formato MP3
-<!-- citare garzantina definiizione mp3 -->
+<!-- citare  definiizione mp3 -->
 È un algoritmo di tipo lossy,in grado di comprimere e decomprimere un file audio <!-- attenzione alla differenza tra formato e algoritmo, non sono la stessa cosa -->, riducendolo anche di 12 volte la sua dimensione, mantenendone una qualità e fedeltà quasi perfetta <!-- sempre il solito discorso, sono posizioni opinabili e molto discusse e soggettive, ci farei attenzione -->.
 I principali sistemi di compressione che riescano a mantenere il più fedelmente possibile la qualità del suono, sono il **lossless* e il **lossy** <!-- i formati audio sono o lossy o lossless, non ci sono alternative, direi semplicemente che ci sono formati compressi lossy e formati compressi lossless -->
 Vi sono moltissime tecniche per la compressione audio, la cui struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 

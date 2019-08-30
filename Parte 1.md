@@ -1,17 +1,17 @@
 # PREFAZIONE
-Questa tesi si occupa di accessibilità per disabili visivi nell'ambito dei software di produzione musicale DAW (Digital Audio Workstation).
+Questa tesi si occupa di indagare l'accessibilità da parte di disabili visivi ai software di produzione musicale DAW (Digital Audio Workstation).
 
-Si definisce disabile visivo <!-- completare -->
+Si definisce disabile visivo un individuo con minorazione al campo visivo, in uno o entrambi gli occhi. La riduzione del campo visivo può essere limitata o totale ,la legge assegna differenti percentuali di invalidità a seconda della gravità della minorazione. 
 
-Si definisce accessibilità <!-- in generale - completare -->
+Si definisce accessibilità cone la possibilità di fruizione di servizi, spazi o informazioni da parte di tutti gli utenti che ne abbiano bisogno, indipendentemente dalle menomazioni o limiti che possano avere, temporanei o permanenti
 
-Nell'ambito specifico dell'informatica <!-- legge Stanca - completare -->
+Nell'ambito specifico dell'informatica, per accessibilità si intende la possibilità di poter fruire di informazioni hardware e sotware specificatamente ottimizzate ed è regolata da una specifica normativa, la Legge Stanca. 
 
 La Costituzione italiana stessa tutela <!-- Articolo 3 - completare -->
 
 Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni/sound design per materiali audiovisivi e installazioni artistiche o di intrattenimento.
 
-La scelta di affrontare l'argomento trattato è nata in seguito alla partecipazione a un corso di produzione musicale con la DAW Steinberg Cubase, corso durante il quale ho potuto constatare l'alto livello di inaccessibilità del software. 
+La scelta di affrontare l'argomento trattato è nata in seguito alla partecipazione ad un corso di produzione musicale con la DAW Steinberg Cubase, corso durante il quale ho potuto constatare l'alto livello di inaccessibilità del software. 
 
 Ho ritenuto opportuno offrire un'ampia introduzione di carattere storico e teorico, cimentandomi quindi l'analisi di alcune DAW selezionate, valutandone l'accessibilità.
 
@@ -19,7 +19,7 @@ Ho deciso per completezza di non limitarmi a testare i software su un solo siste
 
 Ho anche effettuato ricerche su come altri non vedenti hanno affrontato le problematiche rilevate.
 
-Per quanto riguarda le DAW la scelta è caduta su Cockos Reaper, Avid Pro-Tools e Steinberg Cubase, tre delle DAW più diffuse. Ho valutato per ciascuna il grado di accessibilità in relazione a una serie di operazioni e funzioni fondamentali. Ho scelto di sintetizzare i risultati dell'analisi stilando per ogni programma una tabella <!-- cosa sono questi 8h c78 ecc? --> 8h c78 s8, elencano le funzioni e una valutazione dell'accessibilità delle stesse attraverso un valore numerico da 1 a 5, in cui 5 corrisponde a perfettamente accessibile e 1 a completamente inaccessibile.
+Per quanto riguarda le DAW la scelta è caduta su Cockos Reaper, Avid Pro-Tools e Steinberg Cubase, tre delle DAW più diffuse. Ho valutato per ciascuna il grado di accessibilità in relazione a una serie di operazioni e funzioni fondamentali. Ho scelto di sintetizzare i risultati dell'analisi stilando per ogni programma una tabella <!-- cosa sono questi 8h c78 ecc? --> 8h c78 s8, elencano le funzioni e una valutazione dell'accessibilità delle stesse attraverso un valore numerico da 0 a 4, in cui 4 corrisponde a perfettamente accessibile e 0 a completamente inaccessibile.
 
 La trattazione è suddivisa in tre macrosezioni.
 Nella prima parte si definisce il concetto di produzione audio, per poi analizzare come è cambiato il lavoro del produttore dalla metà degli anni '50 a oggi.Si passano poi in rassegna le principali tecnologie utilizzate per la registrazione e la riproduzione sonora dalle origini ad oggi (dal fonografo alle Digital Audio Workstation). Si definisce infine il concetto di MIDI offrendone una panoramica storica e le principali specifiche tecniche.

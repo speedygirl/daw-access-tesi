@@ -5,6 +5,8 @@
 Cockos, Steimberg che hanno dato licenze
 Jin Hyun Kim  docente Berklee che ha dato informazioni
 
+appunto: fono sinonimo RCA (uscita del giradischi o del mangiacassette
+
 	- [x] trovare dove inserire definizione di hertz (nota già pronta di seguito):
 [^hertz]: Consultato 18/1/2019 *http://www.treccani.it/vocabolario/hertz/*
 concetto già inserito senza necessità di nota

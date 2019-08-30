@@ -485,31 +485,19 @@ Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
 ### 1.3.4 SCHEDA AUDIO
-<!-- da completare -->
 Una scheda è un componente che espande le funzionalità del computer.
 Le schede audio hanno ingressi e uscite analogiche. alcue, quelle di elevata qualità hanno ingressi e uscite digitali.
-ingressi e uscite digitali servono a comunicare con device che gesticono audio digitale, mentre quelle analogche per collegare microfoni, casse cuffie.
-(analogico = elettrico)
-ADAT standard digitale comunicazione audio, protocollo per rasmetere 8 tracce a 24 bit 48 khz (alzando khz bisogna abbassare num di tracce da gestsire).
-- preamplificatore con convertitore ad integrato e uscita adat; che può mandare segnale digitale a device che lo possa ricevere.
+Gli ingressi e le uscite digitali si interfacciano con apparecchiature per gestire l'audio digitale, mentre quelle analogiche, elettriche, consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse cuffie.
+Solitamente le schede sono dotate di ingressi e uscite analogici "combo", jack da 1/4 più canon.  Questa dimensioone è tipica delle schede professionali, mentre quelle economiche sono dotate di un ack da 1/8.
 
-ingressi analogici
-solitamente ci sono ingressi combo (jack+canon)
-uscite sempre su jack 1/4 di pollice
-fono sinonimo RCA (uscita del giradischi o del mangiacassette)
-uscita cuffie jack 1/4 per schede professsionali; 1/8 schede economiche
+L'ADAT è uno standard digitale che consente la comunicazione audio, è un protocollo per favorire la trasmissione di 8 tracce a 24 bit o 48 khz: alzando il numero di KHz è necessario diminuire il numero di tracce da gestire.
+Un esempio di applicazione è il preamplificatore con convertitore A/D integrato e un'uscita ADAT; la cui funzione è inviare il segnale digitale a un dispositivo che lo possa gestire corretamente.
 
-
-Driver disponibili e loro compatibilità
-I driver sono scaricabili dal sito della casa produttrice
-compatibilità con diversi software
-Frequenza di campionamento
-Quantizzazione
 
 Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale.
 
 La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita.
-In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali; sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software.
+In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali; sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software e sono scaricabili sul sito della casa produttrice della scheda.
 
 ## DAW, digital audio workstation
 Come già detto una DAW (Ditigal Auio Workstation) è un software che consente di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale gestendo anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.

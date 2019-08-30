@@ -43,11 +43,6 @@
 [^massimiliano-salfi]: M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
 [^immagine-grafofono]: Immagine fonografo link consultato 30 aprile 2019 ebay.com
 
-
-[^presti-schema-valori-bitrate-p13]: Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008, p 13
-
-
-
 [^giorgio-presti-p16-17]: Giorgio Presti, Le avventure di un quantizzatore non lineare, dispense universitarie, L.I.M., Università degli Studi di Milano,2008, p 16-17
 [^giancarlo-vercellesi-p17]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 17
 [^giancarlo-vercellesi-p9]: Giancarlo Vercellesi, MPEG / audio tutorial, L.I.M., Università degli Studi di Milano, 2005, p 9

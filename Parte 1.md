@@ -3,7 +3,7 @@ Questa tesi si occupa di indagare l'accessibilità da parte di disabili visivi a
 Per le definizioni di disabile e di accessibilità si è fatto riferimento alla Convenzione delle Nazioni Unite sui diritti delle persone con disabilità del 2008.
 Nella convenzione si dice che "la disabilità è il risultato dell'interazione tra persone con minorazioni e barriere attitudinali e ambientali, che impedisce la loro piena ed efficace partecipazione nella società su una base di parità con gli altri".
 
-Si definisce disabile visivo un individuo con minorazione al campo visivo, in uno o entrambi gli occhi. La riduzione del visus e del campo visivo oppure la sua totale assenza può essere limitata o totale ,la legge assegna differenti percentuali di invalidità a seconda della gravità della minorazione. 
+Si definisce disabile visivo la mancanza totale o parziale della percezione visiva in uno o in entrambi gli occhi.
 
 L'accessibilità, nell'articolo 9 della sopracitata convenzione abbreviata CRPD, è "l'accesso all'ambiente fisico, sociale, economico e culturale, ai trasporti, all'informazione e alla comunicazione, compresi i sistemi e le tecnologie di informazione e comunicazione, e ad altre attrezzature e servizi aperti o forniti al pubblico."
 

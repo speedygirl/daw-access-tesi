@@ -7,7 +7,9 @@ Si definisce accessibilità cone la possibilità di fruizione di servizi, spazi 
 
 Nell'ambito specifico dell'informatica, per accessibilità si intende la possibilità di poter fruire di informazioni hardware e sotware specificatamente ottimizzate ed è regolata da una specifica normativa, la Legge Stanca. 
 
-La Costituzione italiana stessa tutela <!-- Articolo 3 - completare -->
+La Costituzione italiana stessa garantisce la tutela tutte le categorie di cittadiniaffermandone l'uguaglianza e il dovere dello Stato di rimuovere gli ostacoli che ne impediscano la piena realizzazione personale e sociale.
+> Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
+E` compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
 Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni/sound design per materiali audiovisivi e installazioni artistiche o di intrattenimento.
 

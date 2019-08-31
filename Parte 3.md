@@ -1,3 +1,4 @@
+
 # Analisi di accessibilità dei programmi
 ## Introduzione
 In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
@@ -46,12 +47,12 @@ Per quanto riguarda Windows la scelta dello screen reader è stata guidata da un
 
 Di seguito si fornisce la traduzione in italiano dei quesiti:
 
-- Quale versione di Windows sarà usata? Lo Screen reader è compatibile con la versione di WIndows da usarsi?
+- Quale versione di Windows sarà usata? Lo Screen reader è compatibile con la versione di Windows da usarsi?
 - Sono presenti configurazioni standard di sistema con cui la sintesi vocale non funziona? 
-- Quali sintetizzatori sono o non sono supportati?
+- Quali sintesi sono o non sono supportati?
 - Tra le applicazioni che si intendono usare, ce ne sono alcune con cui lo screen reader non funziona, a prescindere dalle abilità dell'utente?
 - Quale quota di lettura fornisce la sintesi vocale quanto l'utilizzatore usa funzioni standard di Windows, come selezionare oggetti da un menù o spostarsi tra gli oggetti di una finestra di dialogo? La quota di parlato può essere adattata alle competenze e preferenze dell'utente?
-- Quanto risulta difficile modificare le impostazioni standard, quali velocità di lettura e la scela di una chiave di lettura?
+- Quanto risulta difficile modificare le impostazioni standard, quali velocità di lettura e la scelta di una chiave di lettura?
 - Cosa è obbligato a fare l'utente per far sì che un programma non user-friendly, lavori sufficientemente bene da essere usato? 
 - Quali caratteristiche uniche e efficaci ha lo screen reader? 
 - Quali problemi causa lo screen reader all'utilizzo di Windows? 
@@ -64,23 +65,13 @@ Questa scelta si è dimostrata molto efficace soprattutto nella fase di testing 
 Si sono riscontrate solamente due problematiche: una legata all'improvviso rallentamento nella reattività di esecuzione delle operazioni; l'altra legata a riavvii imprevisti e non legati ad imput dell'utente.In quest'ultimo caso la sintesi interrompe la lettura che può essere ripresa esclusivamente con il riavvio dei programmi in utilizzo.
 Per quanto riguarda il sistema operativo Macintosh, questo approccio non è applicabile, in quanto i device Apple dispongono di una sintesi vocale proprietaria integrata nel sistema operativo stesso, di conseguenza aggiornata costantemente e perfettamente compatibile. Come già menzionato nella parte due della presente tesi, questa sintesi integrata si chiama VoiceOver e ha ottime prestazioni con tutti i device su cui è di default installata. 
 
-### Installazione dei programmi
 
-#### Riferimenti
-<!-- 
-    CITARE A PIE ‘DI PAGINA sito casa produttrice dove sono indicate versioni programmi e versioni sistemi operativi compatibili. E dove è possibile scaricare il software. 
-    https://www.reaper.fm/download.php 
--->
-
-#### Plug in
-All’utente non vedente non è sufficiente solamente installare il programma ma, sia in Windows che in Mac, è obbligato a installare i plug in di accessibilità  che sono in grado di risolvere la gran parte dei problemi.
-
+### Metodo di analisi
+Per cominciare, si è testata la possibilità di installare i programmi sui PC a disposizione: per un utente non vedente già questo stadio può costituire un ostacolo, qualora il sito per il download e le procedure d'installazione non siano ottimizzate per l'utilizzo tramite assistive technologies. Inoltre, è indispensabile installare anche plug-in dedicati, che aumentano l'accessibilità dei programmi rispetto a quanto previsto dagli sviluppatori della softwarehouse, e riducono le interferenze con le sintesi vocali. 
 [Download SWS Extension](http://www.sws-extension.org/)
 [Cockos Inc] (https://www.cockos.com/index.php)
 
-
-### Metodo di analisi
-Per tutti e 3 i software oggetto di analisi si è proceduto dappprima ad effettuare un avvicinamento generico tramite le users guide con particolare riferimento ai capitoli che trattavano dell'accessibilità. [^protools-manuale-accessibilita]
+Per tutti e 3 i software oggetto di analisi si è proceduto dapprima ad effettuare un avvicinamento generico tramite le users guide con particolare riferimento ai capitoli che trattavano dell'accessibilità. [^protools-manuale-accessibilita]
 <!-- inserire manuali utente di cubase win e mac e -->
 Successivamente  si è provveduto a fare uno studio generico sulla GUI (Graphical User Interface), per avere un’idea spaziale sul collocamento degli elementi, usando il mouse corredato da sintesi vocale.
 In seguito è stata effettuata una nuova esplorazione tramite i tasti di navigazione da tastiera: in ambiente Windows usando il tasto TAB (per navigare tra i controlli)<!-- definizione di controllo--> e, in particolari tipologie di finestre il tasto F6 per passare da un riquadro a un altro (dalla tree view all’elenco degli items). In ambiente Mac invece usasndo i comandi di navigazione Cmd+Option+Frecce, la cui combinazione Cmd+Option è solitamente chiamata tasto VoiceOver per brevità, in quanto è la combinazione che consente tutte le operazioni, da quelle base a quelle più complesse. Essa è personalizzabile, si è preferito, per motivi di ergonomia della mano, cambiare il tasto chiave con CapsLock quindi la combinazione diventa Capslock+Frecce.
@@ -88,14 +79,14 @@ In seguito è stata effettuata una nuova esplorazione tramite i tasti di navigaz
 Al termine di questa fase preliminare, si è integrato lo studio delle guide d'uso pubblicate dalle softwarehouse, con materiali tecnici disponibili online. Talvolta le informazioni delle guide stesse sono risultate di difficile fruizione tramite assistive technologies, pertanto è stato indispensabile rintracciare materiale integrativo, fornito da community di sviluppatori quali Github.com [^github-link] oppure con la consultazione di materiali audiovisivi sulla piattaforma Youtube.com.
 Il canale con materiale più idoneo è risultato essere quello di Garth Humphreys [^garth-humphreys] in quanto fornisce informazioni utilizzabili non soltanto da utenza normodotata, ma anche da chi ha utilizzo limitato del mouse. 
 I tutorial video spesso utilizzano la voce per spiegare istruzioni fornite tramite registrazione del desktop: pertanto all'utenza non vedente mancano le informazioni fondamentali per poter capire in quale ambito e con quali comandi eseguire le istruzioni. Inoltre spesso le istruzioni sono fornite utilizzano sia input da tastiera che da mouse, pertanto la sequenza non è facilmente replicabile con assistive technologies. Raramente è possibile trovare risorse rivolte specificamente a non vedenti, le quali utilizzano esclusivamente spiegazioni con voce fuori campo, escludendo qualunque riscontro visivo, che potrebbe tuttavia risultare utile in caso di ipovisione o comunque in chi ha un residuo visivo a supporto. [^youtube-ciechi]
-Il canale consultato rientra in quest'ultima categoria e realizza il pregevole sforzo di realizzare materiale accessibile ai non vedenti; un piccolo miglioramento di queste istruzioni potrebbe essere fornito inserendo in ogni caso il video con l'esecuzione in tempo reale ma dettagliatamente commentata con i nomi degli elementi, in modo che sia utilizzabile da tutte le categorie di non vedenti. Nella porzione di schermo dedicata alle procedure è importante non tralasciare l’evidenziazione in tempo reale gli elementi e i controlli di volta in volta usati con riquadri dai bordi spessi e con colori contrastanti rispetto allo sfondo. 
+Il canale consultato rientra in quest'ultima categoria e realizza il pregevole sforzo di realizzare materiale accessibile ai non vedenti; un piccolo miglioramento di queste istruzioni potrebbe essere fornito inserendo in ogni caso il video con l'esecuzione in tempo reale ma dettagliatamente commentata con i nomi degli elementi, in modo che sia utilizzabile da tutte le categorie di non vedenti. Nella porzione di schermo dedicata alle procedure è importante non tralasciare l’evidenziazione in tempo reale degli elementi e i controlli di volta in volta usati, con riquadri dai bordi spessi e con colori contrastanti rispetto allo sfondo. 
 Un esempio virtuoso è il canale di Valter Scarfia [] che, nello spiegare funzionalità in merito all’Iphone, applica quanto appena affermato
 In ogni caso, le registrazioni di questo canale sono state fondamentali nel reperire istruzioni per sistema operativo Mac: da queste è stato poi possibile ricavare per deduzione e tentativi le medesime procedure anche per Windows, in quanto si è riscontrata la presenza di shortcut similari e una corrispondenza tra la mappatura della keystroke nei due sistemi. Ad esempio quando in Windows la shortcut richiede il tasto Start, in Mac richiede Mac+Control; quando in Windows si usa Control in Mac si usa CMD; quando in Windows si usa Alt in Mac si usa Option; mentre Shift è uguale in entrambi.
 Si ricorda che alcune operazioni hanno effetti diversi secondo il contesto in cui vengono eseguite e quindi dal posizionamento del focus. Ciò significa che la medesima shortcut, se eseguita in un dato contesto, ha un effetto, che varia qualora il focus sia spostato altrove:: questo è un aspetto da non sottovalutare quando l'utenza non ha residuo visivo e pertanto ha più difficoltà nell'individuare il corretto posizionamento del focus stesso.
 
 A valle di questa analisi preliminare, il programma che risultava immediatamente più accessibile è stato Reaper, in quanto era già stato analizzato ed adattato da una community di non vedenti chiamata "Reaper Accessibility". Da questo lavoro è nato un plug-in dedicato che interfacciandosi direttamente con la sintesi vocale espone comandi specializzati per l'accesso con screen reader. Per questo motivo è stato scelto come programma da testare per primo. 
 <!-- aggiungere link reaper accessibility -->
-La scelta del set di comandi da testare ha seguito le logiche imitare le operazioni che sarebbero state eseguite in uno studio di registrazione e sono stati ragggruppati secondo criteri d'uso pragmatico:
+La scelta del set di comandi da testare ha seguito la logica di imitare le operazioni che sarebbero state eseguite in uno studio di registrazione e sono stati ragggruppati secondo criteri d'uso pragmatico:
 - controlli di esecuzione
 - navigazione delle trace
 - gestione delle tracce
@@ -108,37 +99,33 @@ La scelta del set di comandi da testare ha seguito le logiche imitare le operazi
 - salvataggio, impostazioni progetto
 <!--spiegazione di tutto-->
 
-Ciascun comando è stato testato, ove possibile,su ciascun software scelto e come già spiegato, a ciascuno è stato assegnato un livello di accessibilità. 
-sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, come ad esempio i controlli posti sulla singola traccia o sulla master track.
+Ciascun comando è stato testato, ove possibile, su ciascun software scelto e come già spiegato, a ciascuno è stato assegnato un livello di accessibilità. 
+Sono state provate tutte le possibilità per raggiungere uno stesso risultato: la via estesa sfruttando i menù e la via rapida coi comandi da tastiera o sfruttando i buttons, come ad esempio i controlli posti sulla singola traccia o sulla master track.
+
+I risultati ottenuti sono stati raccolti e schematizzati tramite tabelle così composte: 
+- Colonna Componente: indica il nome del comando che si intende testare 
+- Colonna Istruzioni: è indicato il percorso completo per raggiungere il comando 
+- Colonna Shortcut: è indicato il comando rapido per azionare il comando 
+- Colonna Valutazione: riporta il valore di accessibilità assegnato 
+ 
+Dove è riportata l'indicazione N/A si intende che l'utente con i soli strumenti di user manual e di sintesi vocale, non è stato in grado di portare a termine con successo il test. In alcuni casi si è comunque potuti accedere al comando desiderato tramite scorciatoia da tastiera, in altri non è stato possibile discernere se fosse inaccessibile il comando oppure se il percorso completo fosse a tal punto complesso da non essere stato individuato con le tecniche di analisi scelte. 
 <!-- manca tutta la descrizione usato e testing automatico-->
 
 ## Reaper versione 5.95 per Windows 
-Come già detto, l'analisi è partita dal testare Reaper per Windows, con ausilio di sintesi NVDA. 
-Il programma è progettato sia per il sistema operativo Windows che per Mac. 
+Come già detto, l'analisi è partita dal testare Reaper per Windows, con ausilio di sintesi NVDA.  
 In Windows l’installazione è molto accessibile in quanto segue le procedure standard: la totalità dei contenuti delle varie finestre sono  raggiungibili usando i tasti TAB e le frecce, la sintesi vocale suggerisce anche le shortcut associate ai pulsanti.
-Aspetto a suo favore è inoltre la facilità di gestione della pagina web, da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link [https://osara.reaperaccessibility.com/snapshots/.](https://osara.reaperaccessibility.com/snapshots/.)
- 
-###Controlli  di esecuzione
-###Navigazione delle trace
-###Gestione delle tracce
-###Controlli delle tracce
-###Gestione del mixer
+Aspetto a suo favore è inoltre la facilità di gestione della pagina web, da cui scaricare il programma, priva di pop-up pubblicitari e di immagini che rendono più complessa la navigazione. Il software è scaricabile al seguente link . [^osara]
+<!-- e il plugin?-->
 ###Editing delle tracce
-###Timeline
-###Equalizzazione
-###Compressione
-###Salvataggio, impostazioni progetto
 
- <!-- inserire tabella 1-->
+
+
+### Controlli  di esecuzione
 ![](.\images\reaper-windows-images\windows-reaper-1-controlli-traccia.PNG)
-
+ <!-- inserire tabella 1-->
+ 
 Dall’esplorazione della GUI è stato possibile individuare in modo semplice i buttons relativi alle tracce, come i controlli solo, mute, record, stop, pausa, record mode, pan feader, envelopes and automation effects I/O, dai quali poi si è risaliti alle relative shortcut.
 
-<!--Gestione tracce 3.2 -->
-Sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia, il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
-Tali controlli non sono totalmente accessibili in quanto non è spiegato con testo alternativo nè che si tratta di un pulsante nè le azioni che vi si possono eseguire, come scorrimento o clic, ma viene annunciato solo il nome del controllo stesso.
-
-<!--da qui sotto va bene-->
 I comandi di cambio metro e BPM si trovano in questo software all'interno della finestra “Project Settings”, accessibile anche da shortcut, ove si possono regolare i parametri generali, relativi all’intero progetto, quali impostare il metro del brano, la frequenza di campionamento, i BPM.
 Per maggiore chiarezza si riportano le definizioni relative a:
 - frequenza dicampionamento: è definita come il numero di volte al secondo in cui i dati, i campioni, vengono registrati e memorizzati (lo standard impiegato per i CD è 44.100 Hz al secondo);
@@ -147,23 +134,51 @@ Per maggiore chiarezza si riportano le definizioni relative a:
 Tutti i campi contenuti nella finestra "Proect Settings" sono accessibili nella loro  totalità in quanto vengono enunciati per ogni controllo: il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente. Per questi motivi, il livello di accessibilità a questi controlli è stato giudicato pienamente soddisfacente ed efficace. 
 <!--vabene fino qui, aggiungere la foto -->
 
-###Navigazione delle tracce - Reaper per Windows 
+### Navigazione delle tracce 
 Durante il lavoro di registrazione, è possibile lavorare contemporaneamente su più tracce, che vengono caricate dal softwre e visualizzate nella finestra principale sotto forma di lunghe linee sovrapposte. 
 Ciascuna traccia è caratterizzata da una timeline, ovvero una linea del tempo che indica il trascorrere dei secondi e su cui sia possibile individuare il cursore durante la riproduzione della traccia. Esistono molteplici compandi per gestire le operazioni e lo spostamento nel tempo lungo la timeline.
 ![](.\images\reaper-windows-images\windows-reaper-2-timeline.PNG)
 <!-- spostare il focus tra le tracce 2.1>
+
+<!-- navigazione tracce 2.2-->
+Simili comandi e simili possibilità di navigazione sono valide anche per la selezione. 
+Vi sono ulteriori comandi con i quali si può scegliere se la selezione deve riguardare sia timeline che items, oppure solo questi ultimi. La selezione è funzionale allo svolgimento di operazioni di editing, per le quali si rimanda al paragrafo "Editing delle tracce.
 
 <!-- navigazione tracce 2.3-->
 La navigazione tramite tasto TAB attraverso i pulsanti presenti sulle tracce, sempre col medesimo tasto, ci si può spostare nella timeline e da lì navigare spostandosi a inizio o fine traccia, spostando il cursore per battute, per percentuale , per millisecondi per beat, o facendo "scrubbing", ossia un metodo di spostamento lungo la traccia di una curva d’onda alla volta. La valutazione di accessibilità per questo gruppod i controlli ha raggiuntoil massimo punteggio. 
 Nota di merito apprezzabile del software Reaper è il fatto che abbia resto accessibile anche la funzione di scrubbing.
 Sono pochi i programmi di editing musicale, ovvero le DAW, che permettono di eseguire tale comando, consentendo  anche a un non vedente di raffinare ad alto livello il proprio progetto: nella presente analisi questo livello di elaborazione è accessibile solo in Reaper.
 
-<!-- navigazione tracce 2.2-->
-Simili comandi e simili possibilità di navigazione sono valide anche per la selezione. 
-Vi sono ulteriori comandi con i quali si può scegliere se la selezione deve riguardare sia timeline che items, oppure solo questi ultimi. La selezione è funzionale allo svolgimento di operazioni di editing, per le quali si rimanda al paragrafo "Editing delle tracce.
-<!-- tabella timeline 7.1-->
-Una volta selezionata una porzione è possibile riprodurla in loop portando il cursore (anche detto edit cursor o play cursor) all’inizio della stessa e cliccando "Play".
-<!--Va spostata nella tabella 6 come la rimozione, il tagliare, copiare del tratto di brano selezionato, o il duplicare l’intera traccia-->
+
+### Gestione delle tracce
+<!--Gestione tracce 3.2 -->
+Sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia, il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
+Tali controlli non sono totalmente accessibili in quanto non è spiegato con testo alternativo nè che si tratta di un pulsante nè le azioni che vi si possono eseguire, come scorrimento o clic, ma viene annunciato solo il nome del controllo stesso.
+
+<!--gestione delle tracce 3.4-->
+Per importare una traccia è disponibile il comando da tastiera Insert che richiama subito la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati.
+
+<!--gestione delle tracce 3.6-->
+Le sample delle tracce, dato che sono collocate in menù standard, sono accessibili al massimo grado e non si sono riscontrati problemi come il posizionamento scorretto del focus o simili.
+
+<!-- 3.8-9-->
+Un’altra funzionalità di base, importante per la registrazione, è l’impostazione ed attivazionedel metronomo, che si imposta tramite tastiera (Alt+Shift+M) o usando il menù "options" e selezionando la voce "opzioni metronomo": in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat, impostare il beat pattern, impostare il pattern primario e secondario ecc.
+La valutazione dell'accessibilità del menù metronomo ha valutazione massima, in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat pattern, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annunciato il valore di default e, dopo l’intervento dell’utente, il nuovo valore immesso. 
+![](.\images\reaper-windows-images\windows-reaper-6-metronomo.png)
+<!--gestione delle tracce 3.11-->
+Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono traccia tempo, traccia da fonti esterne, dal menù tracks o dal menù applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
+
+Il comando Capslock+I permette di eseguire alcune operazioni altrimenti complicate da eseguire dal mix, come  pan, track channel, volume fader digitando i valori nei fields.
+
+
+### Controlli delle tracce
+
+
+
+### Gestione del mixer
+<!--mixer 5-->
+La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tutte le altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
+Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche dai non vedenti.
 <!-- gestione delle mixer 5.7-->
 Quando una porzione viene rimossa, se non si dà uno specifico comando oppure se si è impostato il “ripple off”, viene lasciato del silenzio. Per evitare ciò, e unire quindi “i due lembi” si può attivare il “ripple on” e riferirlo alla singola traccia "per track", oppure a tutte le tracce del progetto "alll traks", usando la combinazione di tasti Alt+P  per modificare lo stato del Ripple.
 Se il comando attivo è "ripple on" quando si elimina un item, l'item immediatamente successivo prende il posto di quello appena cancellato e i due rimanenti risultano accostati; questo consente di non avere silenzi tra il materiale sonoro.
@@ -171,6 +186,13 @@ A titolo esemplificativo si associa agli items le lettere A, B, C.
 Se si intende eliminare l'item B, A e C si uniscono e quindi la traccia avrà un flusso continuo, cosa che non accade se si è attivata la funzione "Ripple off", cui si è precedentemente accennato.  
 Lo stato del "Ripple on", e "Ripple off", si modifica, come già accennato, con la combinazione di tasti Alt+P in Windows, Cmd+P in Mac; mentre per avere una notifica sullo stato attuale del "Ripple", si impiega la combinazione Alt+Shift+P. 
 Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia.
+
+
+### Timeline
+
+<!-- tabella timeline 7.1-->
+Una volta selezionata una porzione è possibile riprodurla in loop portando il cursore (anche detto edit cursor o play cursor) all’inizio della stessa e cliccando "Play".
+<!--Va spostata nella tabella 6 come la rimozione, il tagliare, copiare del tratto di brano selezionato, o il duplicare l’intera traccia-->
 
 <!-- timeline 7.2 a 7.9-->
 ![](.\images\reaper-windows-images\windows-reaper-4-finestra-edit-marker.PNG)
@@ -182,37 +204,28 @@ Nel caso in cui si voglia rimuovere una battuta da 3 tracce si può scegliere o 
 Per chi non vede sono utili anche perché, delimitando con un “marker di apertura” e un “marker di chiusura”, anche detti envelopes, una porzione, è possibile selezionarla e modificarne il tempo, il volume, la dinamica.
 Una funzione utile in questo senso è il poter creare marker con nome personalizzato. Questo è possibile usando il menù "Insert" o, in alternativa, la combinazione di tasti Shift+M che apre una Windows in cui editare nome e valore, permettendo di scriverlo mediante tastiera. Ciò non obbliga l'utente a regolare il valore tramite lo slider. Quest'ultima modalità, a mio avviso, non è molto pratica in quanto sovente accade che il cursore si sposti di un punto percentuale alla volta (rendendo l’operazione molto dispendiosa in termini di tempo); oppure che lo slider si sposti di una quantità percentuale predefinita dagli sviluppatori del programma (ad esempio 3% 5% 10%), il che rende impossibile all’utente raffinare il suo inserimento. Frequentemente sono presenti entrambi, ma non è il caso di Reaper.
 ![reaper insert menu](.\images\reaper-windows-images\windows-reaper-5-insert-menu.jpg)
-<!-- 3.8-9-->
-Un’altra funzionalità di base, importante per la registrazione, è l’impostazione ed attivazionedel metronomo, che si imposta tramite tastiera (Alt+Shift+M) o usando il menù "options" e selezionando la voce "opzioni metronomo": in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat, impostare il beat pattern, impostare il pattern primario e secondario ecc.
-La valutazione dell'accessibilità del menù metronomo ha valutazione massima, in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat pattern, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annunciato il valore di default e, dopo l’intervento dell’utente, il nuovo valore immesso. 
-![](.\images\reaper-windows-images\windows-reaper-6-metronomo.png)
-<!--gestione delle tracce 3.11-->
-Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono traccia tempo, traccia da fonti esterne, dal menù tracks o dal menù applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
 
-Il comando Capslock+I permette di eseguire alcune operazioni altrimenti complicate da eseguire dal mix, come  pan, track channel, volume fader digitando i valori nei fields.
-<!--gestione delle tracce 3.4-->
-Per importare una traccia è disponibile il comando da tastiera Insert che richiama subito la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati.
-<!--gestione delle tracce 3.6-->
-Le sample delle tracce, dato che sono collocate in menù standard, sono accessibili al massimo grado e non si sono riscontrati problemi come il posizionamento scorretto del focus o simili.
-<!--Salvataggio 9-->
+
+### Equalizzazione 8
+La totalità delle funzioni di equalizzazione risultano totalmente inaccessibili, in quanto non è stato nemmeno possibile indivisuare il loro posizionamento sulla GUI o all'interno della barra dei menù.
+### Compressione 9
+è possibile inserire gli effetti in due modi: o dal pulsante presente nel mixer o dal pulsante sulla master track o sulle singole tracce. Il modo più rapido e semplice è premere il tasto F, in quanto raggiungere i pulsanti implica lo scorrere con le frecce o col Tab, procedura che è molto dispendiosa in termini di tempo. Una volta aperto il pannello degli effetti viene letto interamente; è presente inoltre una sezione inaccessibile contenente le librerie Contact, che richiedono opportuni plug in a pagamento, sviluppati da Andrea De Solis e forniti solo tramite contatto diretto con lo sviluppatore.
+
+
+### Salvataggio, impostazioni progetto
+<!--Salvataggio 10-->
 Le operazioni che di solito vengono svolte a progetto terminato, come l’esportazione della traccia, il salvataggio ed il render del progetto sono opzioni situate nel menù "File", raggiungibili con le frecce.
 Esistono diverse opzioni di salvatggio: nel caso di singolo progetto la shotcut è Control+S; per salva con nome si usa Control+Alt+S; salva tutti i progetti non ha associata alcuna shortcut. I comandi Salva, Salva come o Salva tutti i progetti aprono una finestra standard di Windows perciò non si ritiene utile proseguire nell'analisi.
 La chiusura può essere di un solo progetto tramite Control+F4 o di tutti con shortcut Control+Shift+F4. 
 La scelta delle shortcuts ha posto attenzione a facilitare la memorizzazione da parte degli utenti, utilizzando shortcut universali per altri software, mentre, laddove possibile, è stato usato il criterio che richiama la prima lettera del nome del comando. 
 Il comando Render si richiama con Control+Alt+R e consente di sommare tra loro le singole tracce selezionate ed esportare il tutto in un unico file: il concetto di render varia leggermente secondo la DAW che si sta impiegando.
 <!--il processo di rendering è la parte definitiva di composit dell'IDE (Integrated Development Envirement).-->
-<!--mixer 5-->
-La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tutte le altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
-Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche dai non vedenti.
-###Equalizzazione 8
-La totalità delle funzioni di equalizzazione risultano totalmente inaccessibili, in quanto non è stato nemmeno possibile indivisuare il loro posizionamento sulla GUI o all'interno della barra dei menù.
-###Compressione 9
-è possibile inserire gli effetti in due modi: o dal pulsante presente nel mixer o dal pulsante sulla master track o sulle singole tracce. Il modo più rapido e semplice è premere il tasto F, in quanto raggiungere i pulsanti implica lo scorrere con le frecce o col Tab, procedura che è molto dispendiosa in termini di tempo. Una volta aperto il pannello degli effetti viene letto interamente; è presente inoltre una sezione inaccessibile contenente le librerie Contact, che richiedono opportuni plug in a pagamento, sviluppati da Andrea De Solis e forniti solo tramite contatto diretto con lo sviluppatore.
+
 
 <!-- ### Impostazioni griglia (grid) FACOLTATIVO
 Impostazioni dei canali d,i ing,resso e di uscita, spiegare che in cubase devi fare tuto manualmente mentre in Reaper è tutto automatizzato.-->
 
-###Reaper per mac installazione
+### Reaper per mac installazione
 [^link-installazione-mac]
 Per installare Reaper su sistema operativo Mac, è necessario aprire "REAPER disk image", file di estensione. dmg che sono i
 file di installazione per Macintosh, e trascinarla all'interno della cartella applicazioni. Il programma è scaricabile dal link ufficiale della softwarehouse. [^link-download]
@@ -229,7 +242,7 @@ I controlli presenti sulle tracce e i loro relativi tasti rapidi associati sono 
 - F8 "Record mode" (modifica la modalità di registrazione da “normal” a “off” a “not when playing”.
 ###Controlli  di esecuzione
 Si ricorda che prima di avviare la registrazione, con Cmd+R è necessario armare la traccia premendo F7 perché, in caso contrario, la registrazione non può essere avviata e viene visualizzata a schermo una finestra d’errore, anch’essa completamente accessibile, in cui si avverte di eseguire l’operazione.
-###Navigazione delle trace
+###Navigazione delle tracce
 La versione di Reaper, in Mac, a differenza di quella in Windows,  fa sì che lo screen reader annunci anche il numero di traccia e la cartella in cui si trova, semplicemente muovendo, mediante le Frecce, il cursore sulle tracce.
 Nel caso specifico per far annunciare la cartella, si deve raggiungere il relativo controllo, come si può notare dallo screenshot. <!--aggiungere screenshot-->Non è stato possibile rilevare una shortcut per eseguire questa operazione rapidamente.
 Allo scopo di navigare la traccia sono stati ideati i comandi Cmd+Home/End per spostare il cursore all’inizio e alla fine della traccia; Page upr/Down lo spostano alla battuta precedente o successiva; Cmd+page su/giù lo spostano al beat precedente o successivo; le frecce destra e sinistra lo spostano di un pixel; mentre Alt+Shift+freccia destra/sinistra lo spostano di percentuale. Quando si usano queste modalità di navigazione VoiceOver dà sempre un feedback segnalando doveve si trova il cursore, mentre quando si impiega lo Scrubbing, ciò non avviene. In entrambi i casi però non dà mai feedback su qual è la traccia in cui si sta muovendo il cursore. Non fornisce aiuti come ad esempio "il cursore si trova a battuta 15 della traccia 3"; aiuti che sarebbero indispensabili per avere sempre coscienza della porzione di progetto su cui si sta agendo.
@@ -775,3 +788,17 @@ Ignora etichette ridondanti potrebbe servire a
 
 
 
+note parte 3
+[^steimberg-sito-ufficiale]: https://www.steinberg.net/en/home.html
+
+http://akmedia.digidesign.com/support/docs/Pro_Tools_SE_8_0_3_User_Guide_83889.pdf
+protools-manuale-accessibilita]
+
+[^osara]: *https://osara.reaperaccessibility.com/snapshots/*
+[^github-link]: https://github.com/jcsteh/osara
+[^garth-humphreys]: https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow
+[^youtube-ciechi]: https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow
+[^english-questions]: Versione in lingua originale Link *http://www.afb.org/info/assistive-technology/speech-systems/* 35consultato in data 11/01/2018]
+[^link-installazione-mac]:  https://reaperaccessibility.com/index.php/CHAPTER_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac Consultato 2/01/2019]
+[^link-download]: https://www.reaper.fm/download.php
+http://reaproducer.com/index.php/rt002/

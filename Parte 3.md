@@ -171,20 +171,34 @@ Il comando Capslock+I permette di eseguire alcune operazioni altrimenti complica
 
 
 ### Controlli delle tracce
+<!--spiegare che comandi sono?-->
+Il comando "Armamento" e "Mute/Solo" risultano essere accessibili anche se non specificano sempre in maniera univoca il contesto in cui opera il focus della sintesi., pertanto sono stati valutati di livello 3. 
 
+La regolazione del volume può essere eseguita con uno shortcut dedicato, rintracciato sui manuali d'uso per l'utente, ma restituisce un segnale di errore quando utilizzata tramite assistive technology: pertanto è stata valutata come totalmente inaccessibile. 
 
+<!-- rec traccia singola-->
 
 ### Gestione del mixer
 <!--mixer 5-->
-La mastertrack è la traccia che consente di gestire i parametri sull’intero progetto, ad esempio se si modifica il volume o il tipo di riverbero, ne risentiranno a cascata tutte le altre tracce; la mastertrack si rende visibile con Control+Alt+M e, premendo nuovamente la combinazione la si nasconde.
-Il mixer è piuttosto accessibile sfruttando il tracciamento del mouse, ma non tutti gli elementi vengono letti, mentre i comandi da tastiera non sono fruibili, però non è così fondamentale in quanto l’alternativa è sfruttare i controlli presenti sule tracce; da questo punto di vista i programmi su piattaforma Mac sono più user friendly in quanto i mixer sono ampiamente utilizzabili anche dai non vedenti.
-<!-- gestione delle mixer 5.7-->
-Quando una porzione viene rimossa, se non si dà uno specifico comando oppure se si è impostato il “ripple off”, viene lasciato del silenzio. Per evitare ciò, e unire quindi “i due lembi” si può attivare il “ripple on” e riferirlo alla singola traccia "per track", oppure a tutte le tracce del progetto "alll traks", usando la combinazione di tasti Alt+P  per modificare lo stato del Ripple.
+Per poter effettuare le azioni previste dal mixer è necessario preselezionare la traccia su cui si intende eseguire una modifica e poi procedere con i comandi. In questo ambito assume grande importanza la cosidetta "mastertrack", cioè una traccia che consente di gestire i parametri sull’intero progetto, anzichè ripetere le impostazioni su tutte le tracce che le sono gerarchicamente sottoposte. Ad esempio se si modifica il suo volume o il tipo di riverbero, ne risentiranno a cascata tutte le altre tracce: questa operazione è eseguibile solo con shortcut e non è stato trovato un percorso tramite i menù. La sua accessibilità è stata valutata di livello 3, perchè la sintesi restituisce la lettura di numeri di cui non è specificato se siano una percentuale o dei decibel, e inoltre il controllo si può effettuare solo scorrendo tutti i valori che il volume può assumere, anzichè inserire il valore direttamente in un eventuale campo di editazione, operazione che inficia l'efficacia del comando stesso. 
+Esistono più percorsi per rendere visibile la mastertrack, ad esempio con comando rapido Control+Alt+M e, premendo nuovamente la combinazione la si nasconde, oppure tramite un percorso in menu "View" e uno in "Actions". L'accessibilità in questo caso è valutata al massimo livello, con una nota di demerito relativa all'errata tag priority impostata: infatti la sintesi restituisce prima il tag del nome del file, il nome del software e la sua versione, il sistema operativo usato, prima del tag raltivo alla mastertrack. 
+
+Un commento dedicato merita il campo relativo all'utilizzo del Mixer, visualizzabile facilmente tramite il menù "View", ma di utilizzo difficoltoso una volta attivato. 
+Infatti, tutti i pulsanti collocati sul pannello mixer risultano completamente non accessibili attraverso navigazione da tastiera; soltanto sfruttando  il tracciamento del mouse risulta possibile eseguire operazioni basilari, anche se non tutti gli elementi vengono letti. <!--verificare valutazione accessibilità -->
+<!-- da verificare quanto segue, è quello che ho capito io-->
+In alcuni casi, gli stessi effetti applicabili tramite mixer, possono essere in alternativa eseguiti tramite i controlli presenti sule tracce: è il caso del comando "Pan", dotato anche di shortcut dedicato, che tuttavia ha valutazione di accessibilità pari a 2, in quanto la sintesi non ne restituisce indicazioni circa il mutamento di stato e il comando risulta pertanto non controllabile. 
+
+Sotto questo aspetto, i programmi su piattaforma Mac sono più user-friendly in quanto i mixer sono ampiamente utilizzabili anche dai non vedenti.
+
+Le modalità di esecuzione del comando "Impostazione ingresso/uscita" non sono state rintracciate né su manuali di utilizzo, né tramite esplorazione della GUI: per questo motivo il comando è stato valutato completamente inaccessibile per l'utente.
+
+Il comando di "Ripple" consente nel caso di rimozione di una porzione di traccia, di gestire le modalità di unione dei due lembi di traccia. In particolare, si può scegliere se conservare l'intervallo privo di audio ("Ripple off")  oppure di unire i due lembi in modo da non accorgersi della rimozione ("Ripple on"). Questa operazione può essere effettuata per la singola traccia ("per track"), oppure a tutte le tracce del progetto ("alll traks"). Lo stato del ripple si modifica usando la combinazione di tasti Alt+P, per avere una notifica sullo stato attuale del "Ripple", si impiega la combinazione Alt+Shift+P: non sono stati invece trovati percorsi tramite navigazione da tastiera. IL grado di accessibilità è stato valutato di massimo livello, in quanto non si sono riscontrate problematiche di contesto o di modifiche dello stato dei comandi. 
+<!-- mettere in nota:
 Se il comando attivo è "ripple on" quando si elimina un item, l'item immediatamente successivo prende il posto di quello appena cancellato e i due rimanenti risultano accostati; questo consente di non avere silenzi tra il materiale sonoro.
 A titolo esemplificativo si associa agli items le lettere A, B, C.
 Se si intende eliminare l'item B, A e C si uniscono e quindi la traccia avrà un flusso continuo, cosa che non accade se si è attivata la funzione "Ripple off", cui si è precedentemente accennato.  
-Lo stato del "Ripple on", e "Ripple off", si modifica, come già accennato, con la combinazione di tasti Alt+P in Windows, Cmd+P in Mac; mentre per avere una notifica sullo stato attuale del "Ripple", si impiega la combinazione Alt+Shift+P. 
-Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia.
+Lo stato del "Ripple on", e "Ripple off", si modifica, come già accennato, con la combinazione di tasti Alt+P in Windows, Cmd+P in Mac; 
+Alcune DAW prevedono che l'operazione di unione venga svolta manualmente tramite il drugging del mouse scorrendo sulla griglia. -->
 
 
 ### Timeline

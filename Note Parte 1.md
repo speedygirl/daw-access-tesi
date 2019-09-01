@@ -20,7 +20,7 @@
 [^asio]: ASIO è un driver audio per specifico uso professionale, con performance superiori ai driver audio tradizionali.
 
 [^handbook]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016
-[^owsinski-produttori]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016<!-- inserisci-pagina -->
+[^owsinski-produttori]: The Music Producer's HANDBOOK 2nd Endition Bobby Owsinski 2016 pp 3-4
 
 <!-- Fonti Immagini !-->
 [^immagine-fonoautografo-1]: tratto da classicasenzafrontiere.wordpress dove è disponibile anache il video del fonoautografo in funzione.

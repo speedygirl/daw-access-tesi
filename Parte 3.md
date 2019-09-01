@@ -153,21 +153,18 @@ Nota di merito comunque molto apprezzabile del software Reaper è il fatto che a
 
 ### Gestione delle tracce
 Questo paragrafo si occupa di quei comandi che vanno a lavorare direttamente sulle tracce interessate dalle operazioni di editing e quindi visualizzate nel pannello indicato al paragrafo precedente. 
-I comandi "Creazione"  "Cancella"tracce 
-Sempre rimanendo nell’ambito della traccia è possibile rinominarla. Si noti che, alla creazione di una nuova traccia, il focus è di default posizionato all’interno del campo editazione e si completa l’operazione dando invio, o in alternativa, esc.
-Tali controlli non sono totalmente accessibili in quanto non è spiegato con testo alternativo nè che si tratta di un pulsante nè le azioni che vi si possono eseguire, come scorrimento o clic, ma viene annunciato solo il nome del controllo stesso.
+I comandi "Creazione", "Cancella", "Rinomina", "Importa" tracce e "Annulla/Ripeti" hanno shortcut molto intuitivi e che ricalcano quelli di altri software molto diffusi quali Microsoft Office, pertanto risultano molto immediati all'uso.  Si noti che, alla creazione di una nuova traccia, il focus è di default posizionato all’interno del campo editazione e si completa l’operazione usando Invio, o in alternativa, Esc. IL comando "Importa", operabile con Insert, richiama la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati: la sintesi assiste l'utente con testi alternativi per tutta la sequenza di operazioni.
+Sono tutti raggiungibili anche da navigazione tramite menù, ad eccezione di "Rinomina", che agisce esclusivamente da shortcut su traccia precedentemente selezionata come da comandi del paragrafo precedente. Tutti questi comandi risultano avere il massimo livello di accessibilità, soltanto il comando "Annulla/Ripeti" non specifica debitamente il contesto in cui opera dopo l'azione, probabilmente presupponendo che l'utente ricordi il contesto prima dell'annullamento. 
 
-<!--gestione delle tracce 3.4-->
-Per importare una traccia è disponibile il comando da tastiera Insert che richiama subito la finestra da cui avere accesso alle directory del sistema operativo e prelevare i file precedentemente salvati.
+Le operazioni di sampling delle tracce, collocate nel menù "Tracks", seguono l'accessibilità dei menù standard e pertanto sono accessibili al massimo grado e non si sono riscontrati problemi come il posizionamento scorretto del focus. 
 
-<!--gestione delle tracce 3.6-->
-Le sample delle tracce, dato che sono collocate in menù standard, sono accessibili al massimo grado e non si sono riscontrati problemi come il posizionamento scorretto del focus o simili.
-
-<!-- 3.8-9-->
-Un’altra funzionalità di base, importante per la registrazione, è l’impostazione ed attivazionedel metronomo, che si imposta tramite tastiera (Alt+Shift+M) o usando il menù "options" e selezionando la voce "opzioni metronomo": in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat, impostare il beat pattern, impostare il pattern primario e secondario ecc.
+Un’altra funzionalità di base, importante per la registrazione, è l’impostazione ed attivazione del metronomo, che si imposta tramite tastiera (Alt+Shift+M) o usando il menù "Options" e selezionando la voce "Opzioni metronomo": in esso si può impostare se il metronomo  inizia prima della registrazione e di quanti beat, impostare il beat pattern, impostare il pattern primario e secondario ecc.
 La valutazione dell'accessibilità del menù metronomo ha valutazione massima, in quando viene annunciato dalla sintesi se i flag sono selezionati o meno, se la combobox, ad esempio del beat pattern, è collassata o espansa, nei campi editazione ad esempio del primary beat o del secondary beat viene annunciato che vi si può editare del testo e anche in questo caso viene annunciato il valore di default e, dopo l’intervento dell’utente, il nuovo valore immesso. 
 ![](.\images\reaper-windows-images\windows-reaper-6-metronomo.png)
-<!--gestione delle tracce 3.11-->
+
+Per quanto riguarda invece "Modalità di registrazione", "Impostazione tipo traccia" e "Audio mono" non è stato possibile trovare i comandi nella barra dei menù e soltanto per "Modalità di registrazione" si è rintracciato uno shortcut che ha reso accessibile il comando. Per gli altri, il livello di accessibilità è stato valutato al minimo, in quanto si è ritenuto che il comando non sia efficiente e che un utente non vedente non sia in grado in autonomia e in un tempo accettabile di eseguirlo. 
+
+<!--gestione delle tracce 3.11- da rivedere perché in contrasto con la tabella 3-->
 Si può selezionare il tipo di traccia, ad esempio audio, midi, audio mono, audio stereo, audio mono traccia tempo, traccia da fonti esterne, dal menù tracks o dal menù applicazioni relativo alla traccia apribile selezionando la traccia e premendo il tasto applicazioni.
 
 Il comando Capslock+I permette di eseguire alcune operazioni altrimenti complicate da eseguire dal mix, come  pan, track channel, volume fader digitando i valori nei fields.
@@ -1612,4 +1609,5 @@ protools-manuale-accessibilita]
 [^link-installazione-mac]:  https://reaperaccessibility.com/index.php/CHAPTER_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac Consultato 2/01/2019]
 [^link-download]: https://www.reaper.fm/download.php
 http://reaproducer.com/index.php/rt002/
+
 

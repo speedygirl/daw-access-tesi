@@ -1,2 +1,2 @@
-![](.\imagesreaperwindows-images\.jpg)
-![](.\images\protools-windows-images\windows-reaper-1-controlli-traccia.PNG)
+![](.\images\reaper-windows-images\.jpg)
+![](.\images\protools-windows-images\.PNG)

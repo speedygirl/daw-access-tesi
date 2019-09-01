@@ -136,7 +136,7 @@ Per maggiore chiarezza si riportano le definizioni relative a:
 - BPM (Beat Per Second): si intende il numero di beat al minuto impiegati in musica per dare l'indicazione relativa alla velocità del metronomo; 
 - metro: è definito come la ricorsività degli accenti (le battute).  
 Tutti i campi contenuti nella finestra "Proect Settings" sono accessibili nella loro  totalità in quanto vengono enunciati per ogni controllo: il tipo di controllo, la possibilità di editare nel campo, il valore di default e il valore modificato dall’utente. Per questi motivi, il livello di accessibilità a questi controlli è stato giudicato pienamente soddisfacente ed efficace. 
-<!--vabene fino qui, aggiungere la foto -->
+![](.\images\reaper-windows\windows-reaper-projject-settings-8.png)
 
 ### Navigazione delle tracce 
 Durante il lavoro di registrazione, è possibile lavorare contemporaneamente su più tracce, che vengono caricate dal software e visualizzate nella finestra principale sotto forma di lunghe linee sovrapposte: nella parte sinistra si ha un pannello con nome e alcuni pulsanti dedicati a ciascuna traccia, nella parte destra sono visualizzate le timeline relative.

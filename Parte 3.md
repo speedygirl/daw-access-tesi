@@ -1,5 +1,6 @@
 
 
+
 # Analisi di accessibilità dei programmi
 ## Introduzione
 In questa parte di tesi sarà esposto il lavoro di ricerca personalmente svolto circa l'accessibilità dei programmi di editing musicale.
@@ -1108,14 +1109,15 @@ Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per in
 
 ### Pro Tools per Windows
 Il programma è totalmente accessibile in fase di downloaod e di installazione, ma non lo è affatto una volta aperto, infatti   frequentemente accade che Pro Tools si bloccchi in fase di apertura, se è contemporaneamente attivo NVDA.  
-Si è reso necessario testare il programma usando una scheda audio esterna per separare l'output audio della sintesi vocale da quello delle tracce, altrimenti accadeva che il programma si appropriava dell'output audio della scheda integrata del computer. Inoltre si è dovuto risolvere il problema che Pro Tools modificava il comportamento del focus, diventando di difficile gestione quindi si è dovuto leggermente modificare le impostazioni di NVDA.
+Si è reso necessario testare il programma usando una scheda audio esterna per separare l'output audio della sintesi vocale da quello delle tracce, altrimenti accadeva che il programma si appropriava dell'output audio della scheda integrata del computer. Inoltre si è dovuto risolvere il problema che Pro Tools modificava il comportamento del focus, diventando di difficile gestione, quindi si è dovuto leggermente modificare le impostazioni di NVDA.
+ La finestra delle impostazioni della scehda audio è inaccessibile da tastiera ma lo è completamente col mouse.
  
 non si ritiene necessario riportare gli screenshot relativi a tutti i controlli in quanto hanno gli stessi comportamenti, Per lo stesso motivo verranno omesse anche finestre o pannelli similari tra loro, citandone solo uno a titolo esemplificativo.
-La finestra delle impostazioni della scehda audio è inaccessibile da tastiera ma lo è completamente col mouse.
-nVDA segnala solo la presenza di un campo editazione, mentre spostandosi con il tasto F6 non avvengono cambiamenti e tentando con  TAB la sintesi pronuncia “dashboard”.
+## dashboard
+NVDA segnala solo la presenza di un campo editazione, mentre spostandosi con il tasto F6 non avvengono cambiamenti e tentando con  TAB la sintesi pronuncia “dashboard”.
 L’unico modo quindi per raggiungere il progetto desiderato è editarne il nome all'interno field.
 I controlli laterali “Open” e “Create” non vengono citati da NVDA e non è possibile spostarvi il focus mediante tastiera, così come avviene anche per i pulsanti sottostanti “Create new session”, “Cancel”, “Open”.
-L'unica modalità trovata per aprire il progeto è usando la shortcut "Control+Shift+O".
+L'unica modalità trovata per aprire il progetto è usando la shortcut "Control+Shift+O".
 
 ![Screenshot Tipo progetto](.\images\protools-windows-images\windows-protools-1-tipo-progetto.png)
 

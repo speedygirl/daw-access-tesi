@@ -381,7 +381,7 @@ In principio coloro che si dedicavano alla registrazione avevano una fisionomia 
 
 Progressivamente il produttore comincerà ad acquisire una sua rilevanza, ma le figure che imponevano lo stile della musica erano principalmente quelle dei compositori e degli arrangiatori.
 
-I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi viaggiavano facendo audizioni, alla ricerca di musica e artisti che potessero piacere al pubblico. Accusati spesso di essere ladri di copyright e di non pagare quanto dovuto agli autori, meritarono <!-- solita cosa: perché meritarono? Se fai accuse devi avere citazioni autorevoli o dati certi alla mano --> una fama negativa all'intera categoria [^handbook], additata come approfittatrice e responsabile della stereotipizzazione dei generi musicali.
+I primi produttori erano contemporaneamente dei talent scout, degli imprenditori e dei tecnici. Essi viaggiavano facendo audizioni, alla ricerca di musica e artisti che potessero piacere al pubblico. Accusati spesso di essere ladri di copyright e di non pagare quanto dovuto agli autori, meritarono [^handbook] una fama negativa all'intera categoria, additata come approfittatrice e responsabile della stereotipizzazione dei generi musicali.
 
 
 Nel secondo periodo, che corrisponde a un maggiore sviluppo dell'industria musicale, le etichette discografiche (record label) cominciarono ad assumere persone cui era affidato il compito di ricercare gli artisti e di supportarli nel processo di registrazione. Noti come A&R(artist and repertoir) erano sovente compositori e arrangiatori musicalmente molto preparati, incaricati di ogni aspetto, dalla firma del contratto al prodotto finale. Queste figure possono essere definite gli antenati degli odierni a&r man che, a differenza di quanto accadeva in passato, sono soprattutto talent scout e product manager.
@@ -398,8 +398,8 @@ I produttori attivi sono coinvolti in tutte le decisioni sia creative sia finanz
 Passivi sono invece coloro che delegano le decisioni pratiche contingenti ad altre figure professionali e intervengono solo in caso di problemi o necessità.
 I produttori ibridi si trovano in una posizione intermedia: dialogano con l'artista principale, ma spesso non si occupano dei musicisti addizionali "additional musicians"; creano le tracce ma non partecipano alla scelta delle tracce e dei musicisti, limitandosi alla realizzazione del confezionamento finale del prodotto.
 Dato che la produzione di un brano implica l'impiego di attrezzature per l'acquisizione dei suoni, altre per il loro trattamento, la loro sintesi, l'arrangiamento e il mixaggio, in aggiunta al costo e al loro ingombro , gli studi di registrazione sono delle strutture altamente specializzate con un elevato costo di gestione e manutenzione ciò limitava la produzione musicale alle sole major.
- Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione. <!-- eliminerei questa frase, non vedo la connessione col discorso -->
-Con la diffusione della produzione di musica su computer le strumentazioni si sono ridotte perchè vengono emulate da programmi software, di conseguenza non vi è più la necessità di grandi spazi appositamente adibiti a studio di registrazione ma è possibile creare anche uno home-studio. A seguito di questi cambiamenti   il ruolo del produttore si è ulteriormente evoluto. Il produttore, in particolare nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale, in alcuni casi anche di musicista.
+ Queste strumentazioni sono in genere elettromeccaniche e sono tutte collocate all'interno dello studio di registrazione.
+Con la diffusione della produzione di musica su computer le strumentazioni si sono ridotte perchè vengono emulate da programmi software, di conseguenza non vi è più la necessità di grandi spazi appositamente adibiti a studio di registrazione ma è possibile creare anche uno home-studio. A seguito di questi cambiamenti il ruolo del produttore si è ulteriormente evoluto. Il produttore, in particolare nella più recente musica elettronica, è sempre di più l'unico referente della realizzazione di un progetto musicale: egli riveste contemporaneamente una funzione di primo piano nella registrazione, nell'arrangiamento e nella realizzazione del materiale, in alcuni casi anche di musicista.
 Questo cambio di fisionomia è dovuto anche alla sempre più accentuata diffusione di programmi di produzione audio, le DAW (Digital Audio Workstation), che svolgono le funzioni prima espletate da strumentazioni analogiche. Le DAW potenzialmente permettono realizzazioni anche in ambito "domestico" (home recording studio), attraverso l'utilizzo di computer fissi o portatili. Questi programmi consentono al singolo di produrre tracce musicali in modo autonomo, operazione che fino a poco tempo fa era appannaggio di équipes, .
 I brani possono essere realizzati interamente in autonomia con l'uso del computer *in the box*.
 
@@ -423,7 +423,7 @@ La seconda opzione permette di raggiungere un maggior controllo del prodotto e p
 Realizzare un buon mix favorisce il successo commerciale di un brano, perché sottolinea e veicola concetti ed emozioni espressi nella canzone: infatti è attraverso la sperimentazione e la ricerca di nuovi effetti sonori che si può allargare il panorama delle possibilità espressive. Per contro un prodotto qualitativamente notevole dal punto di vista del bilanciamento delle tracce e del panorama stereofonico, della qualità sonora e degli arrangiamenti, può essere danneggiato, sul piano della commercializzazione, da un mix non eccellente.
 A questo proposito va ricordato che ogni genere musicale necessita di un mixaggio peculiare proprio perché ciascun genere porta in sé un differente "ventaglio di emozioni".
 
-<!-- mix e mastering fanno parte della postproduzione, o se hai fatto riferimento a un testo che organizza le fasi diversamente inserisci una citazione esplicita. L'editing può essere considerato sia produzione sia post, a seconda dei casi 
+mix e mastering fanno parte della postproduzione, o se hai fatto riferimento a un testo che organizza le fasi diversamente inserisci una citazione esplicita. L'editing può essere considerato sia produzione sia post, a seconda dei casi 
 
 L'attività di mastering può riguardare il singolo brano o anche l'intero album, mettendo a punto le relazioni tra i vari brani, il bilanciamento generale, il volume complessivo, le pause che devono intercorrere tra la fine dell'uno e l'inizio dell'altro, etc.
 
@@ -440,13 +440,14 @@ Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la c
 
 Nel decennio successivo sono implementati i sequencer che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica. 
 
-Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer. <!-- non mi è molto chiaro, puoi fare un esempio specifico e magari inserire un'immagine? -->
+Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer. Il primo campionatore e sintetizzatore digitale, il Fairlight CMI, esce nel 1979 con un sistema operativo dedicato il QDOS. Era composto da una tastiera, un monitor, un case contenente il computer e le connessioni audio. Nella foto il modello Fairlight CMI.
+![](.\images\supporti_registrazione_riproduzione\sintetizzatore-fairlight-cmi..jpg) 
 
-In seguito lo stesso computer sarà utilizzato come sequencer e grazie a programmi ad hoc, alle interfacce e al protocollo MIDI, che lo rende compatibile con controller esterni, riesce a pilotare fino a 16 tracce polifoniche, aumentando considerevolmente le possibilità armoniche ed espressive. <!-- il MIDI ha 16 canali, e quindi 16 tracce polifoniche potenziali per porta MIDI, ma non capisco la questione delle 16 tracce collegate al computer -->
+In seguito lo stesso computer sarà utilizzato come sequencer, compatibile con controller esterni, grazie a programmi ad hoc, alle interfacce e al protocollo MIDI.
 
 A fine anni '80 viene rilasciato Steinberg Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^virtual-standard-technology] e la tecnologia ASIO [^asio].
 
-Altri esempi di programmi di questo tipo sono: Pro Tools, Garage Band, Logic Pro, Reaper, Ableton Live, FL Studio, Digital Performer, Cakewalk, Nuendo, Reason, Sony ACID. <!-- inserisci sempre anche l'azienda produttrice -->
+Altri esempi di programmi di questo tipo sono: Pro Tools di Avid, Garage Band di Apple, Logic Pro di Apple, Reaper di Cockos, Ableton Live di Ableton, Sony ACID di Sony. 
 Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU.
 
 Il sequencer nasce inizialmente come come generatore di segnali di controllo per strumenti elettronici. Per estensione il termine viene usato oggi in senso più ampio per identificare strumenti software in grado di registrare e richiamare materiali MIDI e audio.
@@ -474,7 +475,6 @@ percorso all'interno dello studio di registrazione lavorando con il digitale. (c
 - diffusore (il cavo parte da scheda audio verso diffusori e portando il segnale elettrico analogico.
 elettrico = analogico
 
-<!-- citare libro bontempi "produzione musicale con Cubase 10" Pierluigi Bontempi indipendently published 2019 pp 19-20 -->
 
 La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio.
 

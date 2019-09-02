@@ -1054,30 +1054,33 @@ file di installazione per Macintosh, e trascinarla all'interno della cartella ap
 L'intera procedura di installazione è facilmente accessibile, in quanto VoiceOver oltre a nominare gli elementi coinvolti, suggerisce come raggiungerli coi tasti di navigazione e ne descrive le funzionailtà. 
 
 #### Reaper 5.921 per Mac
-Per quanto riguarda le procedure impiegate,si è operato come descritto sopra. I menù presenti nella barra dei menù rispecchiano all’incirca le stesse funzionalità tra i sistemi operativi.
-Dapprima provando a raggiungere tutti i menù,sia quelli della barra superiore coi relativi sottomenù, sia i menù contestuali, i controlli, (ad esempio quelli sulle tracce, menù contestuali aperti dai controlli stessi). Si è tentato inoltre di navigare all’interno delle finestre, che nel complesso sono più accessibili che in Windows.
+Per quanto riguarda le procedure impiegate, si è operato come descritto sopra. I menù presenti nella barra dei menù rispecchiano all’incirca le stesse funzionalità tra i sistemi operativi.
+Dapprima provando a raggiungere tutti i menù, sia quelli della barra superiore coi relativi sottomenù, sia i menù contestuali, i controlli, (ad esempio quelli sulle tracce, menù contestuali aperti dai controlli stessi). Si è tentato inoltre di navigare all’interno delle finestre, che nel complesso sono più accessibili che in Windows.
 I controlli presenti sulle tracce e i loro relativi tasti rapidi associati sono identici a quelli presenti in Windows, ad esempio:
 - barra spaziatrice o Control+Barra Spaziatrice per avviare o arrestare/mettere in pausa la traccia; 
 - i tasti funzione F5 "mute"/"unmuted track"; 
 - F6 "solo"/"unsolo track"; 
 - F7  "armed"/"unarmed track"; 
 - F8 "Record mode" (modifica la modalità di registrazione da “normal” a “off” a “not when playing”.
-###Controlli  di esecuzione
+### Controlli  di esecuzione
 Si ricorda che prima di avviare la registrazione, con Cmd+R è necessario armare la traccia premendo F7 perché, in caso contrario, la registrazione non può essere avviata e viene visualizzata a schermo una finestra d’errore, anch’essa completamente accessibile, in cui si avverte di eseguire l’operazione.
-###Navigazione delle tracce
-La versione di Reaper, in Mac, a differenza di quella in Windows,  fa sì che lo screen reader annunci anche il numero di traccia e la cartella in cui si trova, semplicemente muovendo, mediante le Frecce, il cursore sulle tracce.
-Nel caso specifico per far annunciare la cartella, si deve raggiungere il relativo controllo, come si può notare dallo screenshot. <!--aggiungere screenshot-->Non è stato possibile rilevare una shortcut per eseguire questa operazione rapidamente.
-Allo scopo di navigare la traccia sono stati ideati i comandi Cmd+Home/End per spostare il cursore all’inizio e alla fine della traccia; Page upr/Down lo spostano alla battuta precedente o successiva; Cmd+page su/giù lo spostano al beat precedente o successivo; le frecce destra e sinistra lo spostano di un pixel; mentre Alt+Shift+freccia destra/sinistra lo spostano di percentuale. Quando si usano queste modalità di navigazione VoiceOver dà sempre un feedback segnalando doveve si trova il cursore, mentre quando si impiega lo Scrubbing, ciò non avviene. In entrambi i casi però non dà mai feedback su qual è la traccia in cui si sta muovendo il cursore. Non fornisce aiuti come ad esempio "il cursore si trova a battuta 15 della traccia 3"; aiuti che sarebbero indispensabili per avere sempre coscienza della porzione di progetto su cui si sta agendo.
-###Gestione delle tracce
-Per importare una traccia da una fonte esterna, stando ai tentativi eseguiti, che in questo caso differiscono dai suggerimenti ricavati da [^http://reaproducer.com/index.php/rt002/] si è evinto che il comando da premere è solo Insert mentre il canale suggerisce Cmd+Insert. Tentando però anche l’impiego di Cmd+Insert si è ottenuto come risultato l’inserimento di un virtual instrument e non di una traccia esterna. Per inserire le altre tipologie di tracce, vi è l’apposito menù "Track", che presenta gli stessi elementi di quello presente in Windows. Dal menù "Insert" si può ragiungere il comando “media file”, con shortcut Cmd+I, che è il corrispettivo di Alt+I in Windows. Questo comando è quello che consente, in entrambe le piattaforme, di importare file audio dalle risorse del proprio computer in un progetto Reaper.
-###Controlli delle tracce
-###Gestione del mixer
-###Editing delle tracce
-###Timeline
+### Navigazione delle tracce
+La versione di Reaper, in Mac, a differenza di quella in Windows,  fa sì che lo screen reader annunci anche il numero di traccia e la cartella in cui si trova, semplicemente muovendo, mediante le Frecce, il cursore sulle tracce e, a ogni suo spostamento, fornisce anche un lieve feedback sonoro. E' di grande aiuto in caso si debbano scorrere velocemente le tracce in quanto, contando il numero di allert acustici, si può sapere di quanto si è spostato il cursore rispetto al punto di partenza.
+Nel caso specifico per far annunciare la cartella relativa alla traccia selezionata, si deve raggiungere il relativo controllo, come si può notare dallo screenshot. Non è stato però possibile rilevare una shortcut per eseguire questa operazione rapidamente.
+<!--aggiungere screenshot-->
+
+Allo scopo di navigare la traccia sono stati ideati i comandi Cmd+Home/End per spostare il cursore all’inizio e alla fine della traccia; Page upr/Down lo spostano alla battuta precedente o successiva; Cmd+page su/giù lo spostano al beat precedente o successivo; le frecce destra e sinistra lo spostano di un pixel; mentre Alt+Shift+freccia destra/sinistra lo spostano di percentuale. Quando si usano queste modalità di navigazione VoiceOver dà sempre un feedback segnalando dove si trova il cursore, mentre quando si impiega lo Scrubbing, ciò non avviene. In entrambi i casi però non dà mai feedback su qual è la traccia in cui si sta muovendo il cursore. Non fornisce aiuti come ad esempio "il cursore si trova a battuta 15 della traccia 3"; aiuti che sarebbero indispensabili per avere sempre coscienza della porzione di progetto su cui si sta agendo.
+### Gestione delle tracce
+Per importare una traccia da una fonte esterna, stando ai tentativi eseguiti, che in questo caso differiscono dai suggerimenti ricavati da [^http://reaproducer.com/index.php/rt002/] si è evinto che il comando da premere è solo Insert mentre il canale suggerisce Cmd+Insert,. Tentando però anche l’impiego di Cmd+Insert si è ottenuto come risultato l’inserimento di un virtual instrument e non di una traccia esterna. Per inserire le altre tipologie di tracce, vi è l’apposito menù "Track", che presenta gli stessi elementi di quello presente in Windows. Dal menù "Insert" si può ragiungere il comando “media file”, con shortcut Cmd+I, che è il corrispettivo di Alt+I per raggiungere il Menù "Insert", oppure tasto Insert che consente in Windows di aprire direttamente la finestra da cui selezionare la risorsa. 
+
+### Controlli delle tracce
+#### Gestione del mixer
+##### Editing delle tracce
+##### Timeline
 Il menù "Insert" consente anche di inserire i marker comuni, denominati semplicemente ”marker” e richiamabili premendo M e consigliabili in caso di tracce MIDI, i marker per nome “marker prompt for name” Shift+M, i marker di cambio di tempo ”tempo/time signature change marker” Shift+C,, di inserire i “mmidi item” e i ”virtual instruments”.
-###Equalizzazione
-###Compressione
-###Salvataggio, impostazioni progetto
+### Equalizzazione
+### Compressione
+### Salvataggio, impostazioni progetto
 
 
 Disabilitando la funzione "Snap", attivando l’apposito pulsante presente sulla traccia, si può esploraarla usando la modalità di navigazione detta “scrubbing”. VoiceOver, se opportunamente impostato, annuncia la percentuale all’interno del beat in cui il cursore si trova, ad esempio: “beat 3 2%”. 

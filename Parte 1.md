@@ -455,16 +455,16 @@ Il sequencer nasce inizialmente come come generatore di segnali di controllo per
 <!-- fine parte revisionata -->
 
 DA SISTEMARE (CONCETTI CORRETTI)
-Gli strumenti virtuali possono essere controllati attraverso tastiere o controllers connessi, mediante protocollo MIDI, alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
+Gli strumenti virtuali possono essere controllati, attraverso tastiere o controllers connessi, mediante protocollo MIDI alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
 <!-- registrazione multitraccia (in sospeso; da collocare) -->
 La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio.
 
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
-Successivamente le tracce vengono miscelate e mixate; si aggiungono effetti su ogni traccia o su un punto specifico.
+Successivamente le tracce vengono miscelate e mixate; si possono aggiungere effetti su ogni traccia o su un punto specifico.
 
 ### IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
-percorso all'interno dello studio di registrazione lavorando con il digitale. (con nastro magnetico è differente ma non approfondire)
+percorso all'interno dello studio di registrazione lavorando con il digitale. 
 
 - suono
 - microfono
@@ -472,7 +472,7 @@ percorso all'interno dello studio di registrazione lavorando con il digitale. (c
 - conversione A/D (o macchinario a sè opppure integrati in scheda audio)
 - computer (c'è il segnale digitale pronto per essere manipolato tramite la daw)
 - convertitore D/A
-- diffusore (il cavo parte da scheda audio verso diffusori e portando il segnale elettrico analogico.
+- diffusore (il cavo parte da scheda audio verso diffusori e porta il segnale elettrico analogico.
 elettrico = analogico
 
 
@@ -480,18 +480,18 @@ La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una va
 
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. È perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo rielabori portandolo a un livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
-Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
+Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug-in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
 
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
 ### 1.3.4 SCHEDA AUDIO
 Una scheda è un componente che espande le funzionalità del computer.
-Le schede audio hanno ingressi e uscite analogiche. alcue, quelle di elevata qualità hanno ingressi e uscite digitali.
-Gli ingressi e le uscite digitali si interfacciano con apparecchiature per gestire l'audio digitale, mentre quelle analogiche, elettriche, consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse cuffie.
+Le schede audio hanno ingressi e uscite analogiche; alcune, quelle di elevata qualità, hanno ingressi e uscite digitali.
+Gli ingressi e le uscite digitali si interfacciano con apparecchiature per gestire l'audio digitale, mentre quelle analogiche, elettriche, consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse, cuffie.
 Solitamente le schede sono dotate di ingressi e uscite analogici "combo", jack da 1/4 più canon.  Questa dimensioone è tipica delle schede professionali, mentre quelle economiche sono dotate di un ack da 1/8.
 
 L'ADAT è uno standard digitale che consente la comunicazione audio, è un protocollo per favorire la trasmissione di 8 tracce a 24 bit o 48 khz: alzando il numero di KHz è necessario diminuire il numero di tracce da gestire.
-Un esempio di applicazione è il preamplificatore con convertitore A/D integrato e un'uscita ADAT; la cui funzione è inviare il segnale digitale a un dispositivo che lo possa gestire corretamente.
+Un esempio di applicazione è il preamplificatore con convertitore A/D integrato e un'uscita ADAT; la cui funzione è inviare il segnale digitale a un dispositivo che lo possa gestire correttamente.
 
 
 Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale.

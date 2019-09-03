@@ -148,15 +148,15 @@ Partendo dalle feature dedicate alla vista, si trova VoiceOver, lo screenreader 
 - **Descrizioni Audio**, permettono al sistema di dare all'utente informazioni vocali dei contenuti multimediali immagini\video: queste informazioni sono generalmente ottenute utilizzando l'intelligenza artificiale
 
 Nella sezione Udito :
-- **Audio**, trasforma i feedback uditivi in feedback visivi e converte l'output audio da stereo a mono
-- **RTT**, (Real Time Text) è un protocollo ideato per non udenti che permette di scambiare testo real time all'interno di una telefonata
-- **Sottotitoli Non Udenti**, permette di configurare il layout con cui vengono visualizzati i sottotitoli
+- Audio, trasforma i feedback uditivi in feedback visivi e converte l'output audio da stereo a mono
+- RTT, (Real Time Text) è un protocollo ideato per non udenti che permette di scambiare testo real time all'interno di una telefonata
+- Sottotitoli Non Udenti, permette di configurare il layout con cui vengono visualizzati i sottotitoli
 
 Nella sezione Capacità Motorie troviamo:
-- **Controllo Vocale**, è una nuova feature introdotta in MacOs catalina che permette agli utenti di controllare l'intero sistema esclusivamente utilizzando la voce; la modalità di navigazione è molto interessante e il sistema è stato sviluppato sfruttando lo stesso set di metadati che vengono gestiti da voice over
-- **Tastiera**, permette di abilitare le combinazioni di tasti a tasti singoli e di configurare il tempo con cui viene validata la pressione 
-- **Controllo Puntatore**, configurala sensibilità del touchpad e gli altri parametri annessi
-- **Controllo Interruttori**, configura il computer in maniera tale da poter essere controllato da un set di interruttori; i pulsanti configurabili sono quelli della tastiera, del mouse o di altri tipi di controlli esterni
+- Controllo Vocale, è una nuova feature introdotta in MacOs catalina che permette agli utenti di controllare l'intero sistema esclusivamente utilizzando la voce; la modalità di navigazione è molto interessante e il sistema è stato sviluppato sfruttando lo stesso set di metadati che vengono gestiti da voice over
+- Tastiera, permette di abilitare le combinazioni di tasti a tasti singoli e di configurare il tempo con cui viene validata la pressione 
+- Controllo Puntatore, configurala sensibilità del touchpad e gli altri parametri annessi
+- Controllo Interruttori, configura il computer in maniera tale da poter essere controllato da un set di interruttori; i pulsanti configurabili sono quelli della tastiera, del mouse o di altri tipi di controlli esterni
 
 Nel menu Generali:
 - Siri, è il famoso assistente vocale per Mac, utilissimo nell'ambito dell'accessibilità hands-free
@@ -164,19 +164,19 @@ Nel menu Generali:
 
 
 
-Comparando dal punto di vista tecnico le tecnologie assistive offerte su MacOs con quelle di Windows la differenza più grossa riguarda il backend, al contrario di windows MacOs sviluppa il proprio screenreader senza demandare a terze parti le funzionalità, introdotto nella versione 10.4 (OSx Tiger 29 aprile 2005) [^apple-vis] VoiceOver è stato poi introdotto nel 2009 sull'iPhone, esso è stato il primo tool di lettura schermo su piattaforma Machintosh e negli anni non ha smesso di ricevere aggiornamenti. Le API dedicate all'accessibilità su Mac sono state rinnovate nelle ultime versioni di MacOs per far sì che sia la versione mobile che quella desktop condividessero il solito set di comandi [^apple-doc].
 
+Comparando le tecnologie assistive offerte su MacOs con quelle di Windows, la principale differenza riguarda il backend; al contrario di windows MacOs sviluppa il proprio screenreader senza demandare a terze parti le funzionalità. VoiceOver è stato il primo lettore di schermo su piattaforma Machintosh:introdotto nella versione 10.4 (OSx Tiger 29 aprile 2005) [^apple-vis]  è stato poi esteso nel 2009 all'iPhone e negli anni non ha smesso di ricevere aggiornamenti. Le API dedicate all'accessibilità su Mac sono state rinnovate nelle ultime versioni di MacOs, per far sì che sia la versione mobile che quella desktop condividessero il medesimo gruppo di comandi [^apple-doc].
 [^apple-vis]: VoiceOver Turns 10 *https://www.applevis.com/blog/voiceover-turns-10* link consultato il 1 settembre 2019
 [^apple-doc]: Accessibilità su MacOs *https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/index.html#//apple_ref/doc/uid/TP40001078-CH254-SW1*
 
-MacOS supporta di base una lunga lista di display braille senza aver bisogno di installare drivers, questo permette al disabile di poter usufruire del supporto braille in modalità plug and play, inoltre la touch bar presente sui moderni computer è anch'essa accessibile a VoiceOver fornendo all'utente una feature ancora più completa.
+MacOS supporta di base una lunga lista di display braille senza aver bisogno di installare drivers, questo permette al disabile di poter usufruire del supporto braille in modalità plug and play, inoltre la touch bar presente sui moderni computer è anch'essa accessibile a VoiceOver, fornendo all'utente una feature ancora più completa.
 
 
 
-Per gli sviluppatori software, Microsoft ha sempre offerto supporti dedicati all'accessibilità, fin da Windows 95 Microsoft supportava già un modulo aggiuntivo che offriva uno speciale set di API dedicate all'accessibilità delle interfacce utente, questo modulo si chiama Microsoft Active Accessbility (MSAA) e permetteva l'intercomunicazione tra le tecnologie assistive e le applicazioni, tutt'oggi MSAA è presente in windows 10 come supporto legacy ed è la fondazione su cui si basa il più recente e potente UI Automation Framework. Questi due framework sono delle librerie che gli sviluppatori integrano all'interno delle loro applicazioni per interagire con strumenti come gli screen reader, dall'altra parte gli sviluppatori che implementano gli screen reader utilizzano il framework per reperire i metadati relativi alle applicazioni. I metadati di accessibilità di MSAA e UI Automation sono molto simili, entrambi creano una rappresentazione gerarchica delle finestre e dei controlli grafici contenuti al loro interno prendendo come riferimento il desktop
+Per gli sviluppatori software, Microsoft ha sempre offerto supporti dedicati all'accessibilità; già Windows 95 supportava un modulo aggiuntivo che offriva uno speciale set di API dedicate all'accessibilità delle interfacce utente. Questo modulo,che si chiama Microsoft Active Accessbility (MSAA), permetteva l'intercomunicazione tra le tecnologie assistive e le applicazioni, Tuttora MSAA è presente in windows 10 come supporto legacy ed è la fondazione su cui si basa il più recente e potente UI Automation Framework. Questi due framework sono delle librerie che gli sviluppatori integrano all'interno delle loro applicazioni per interagire con strumenti come gli screen reader; dall'altra parte gli sviluppatori che implementano gli screen reader utilizzano il framework per reperire i metadati relativi alle applicazioni. I metadati di accessibilità di MSAA e UI Automation sono molto simili, entrambi creano una rappresentazione gerarchica delle finestre e dei controlli grafici contenuti al loro interno, prendendo come riferimento il desktop
 
 
-esistono però altre funzionalità di accessibilità che vengono gestite direttamente dall'os il quale va ad agire direttamente sui controlli nativi, questo significa che se l'applicazione è stata sviluppata utilizzando i componenti grafici standard, sarà automaticamente compatibile con queste funzionalità. 
+Esistono però altre funzionalità di accessibilità che vengono gestite direttamente dall'os,il quale va ad agire direttamente sui controlli nativi; questo significa che se l'applicazione è stata sviluppata utilizzando i componenti grafici standard, sarà automaticamente compatibile con queste funzionalità. 
 
 Su windows esistono 4 principali framework per lo sviluppo di interfacce grafiche:
 - Win MCF
@@ -184,12 +184,9 @@ Su windows esistono 4 principali framework per lo sviluppo di interfacce grafich
 - Windows WPF 
 - Windows WPA Universal
 
-
-
 [^win-access-params]: "Accessibility Parameters", documentazione Microsoft, link consultato il 29 agosto 2019: *https://docs.microsoft.com/en-us/windows/win32/winauto/accessibility-parameters*
 
-##### 3.5. Feature accessibilità MacOS
-##### 3.5. Logic Pro come modello
+##### 3.6. Pro Tools come modello
 
 #### 4. Analisi accessibilità DAW
 ##### 4.1. Analisi di Reaper (Windows\MAC)

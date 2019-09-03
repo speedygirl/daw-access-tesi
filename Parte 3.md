@@ -138,6 +138,87 @@ Pedrini, Aurora
 	
 a me
 
+3 di 35
+reaper mac
+Posta in arrivo
+	x
+Gemma Pedrini <gemma.pedrini@gmail.com>
+	
+lun 2 set, 12:28 (1 giorno fa)
+	
+a Auri
+
+#### Reaper 5.921 per Mac
+Per quanto riguarda le procedure impiegate,si è operato come descritto sopra. I menù presenti nella barra dei menù rispecchiano all’incirca le stesse funzionalità tra i sistemi operativi.
+Dapprima provando a raggiungere tutti i menù,sia quelli della barra superiore coi relativi sottomenù, sia i menù contestuali, i controlli, (ad esempio quelli sulle tracce, menù contestuali aperti dai controlli stessi). Si è tentato inoltre di navigare all’interno delle finestre, che nel complesso sono più accessibili che in Windows perchè VoiceOver suggerisce sempre il contesto in cui il cursore si trova, le azioni che è possibile eseguire e con quali comandi da tastiera.
+I controlli presenti sulle tracce e i loro relativi tasti rapidi associati sono identici a quelli presenti in Windows, ad esempio:
+- barra spaziatrice o Control+Barra Spaziatrice per avviare o arrestare/mettere in pausa la traccia;
+- i tasti funzione F5 "mute"/"unmuted track";
+- F6 "solo"/"unsolo track";
+- F7  "armed"/"unarmed track";
+- F8 "Record mode" (modifica la modalità di registrazione da “normal” a “off” a “not when playing”.
+In Mac è possibile coi tasti di navigazione standard di VoiceOVer raggiungere ogni singolo controllo presente sulla traccia, sapere se il pulsante è stato attivato o meno. Ciò che non è agevole è che, se non si ricorda la shortcut, si devono scorrere uno ad uno tutti i controlli, con grande dispendio di tempo. Ciò che è positivo è che ci si può fare una mappa mentale di dove sono localizzati nello spazio. 
+### Controlli  di esecuzione
+Si ricorda che prima di avviare la registrazione, con Cmd+R è necessario armare la traccia premendo F7 perché, in caso contrario, la registrazione non può essere avviata e viene visualizzata a schermo una finestra d’errore, anch’essa completamente accessibile, in cui si avverte di eseguire l’operazione.
+### Navigazione delle tracce
+La versione di Reaper, in Mac, a differenza di quella in Windows,  fa sì che lo screen reader annunci anche il numero di traccia e la cartella in cui si trova, semplicemente muovendo, mediante le Frecce, il cursore sulle tracce.
+Nel caso specifico per far annunciare la cartella, si deve raggiungere il relativo controllo, come si può notare dallo screenshot. <!--aggiungere screenshot-->Non è stato possibile rilevare una shortcut per eseguire questa operazione rapidamente.
+Allo scopo di navigare la traccia sono stati ideati i comandi Cmd+Home/End per spostare il cursore all’inizio e alla fine della traccia; Page upr/Down lo spostano alla battuta precedente o successiva; Cmd+page su/giù lo spostano al beat precedente o successivo; le frecce destra e sinistra lo spostano di un pixel; mentre Alt+Shift+freccia destra/sinistra lo spostano di percentuale. Quando si usano queste modalità di navigazione VoiceOver dà sempre un feedback segnalando doveve si trova il cursore, mentre quando si impiega lo Scrubbing, ciò non avviene. In entrambi i casi però non dà mai feedback su qual è la traccia in cui si sta muovendo il cursore. Non fornisce aiuti come ad esempio "il cursore si trova a battuta 15 della traccia 3"; aiuti che sarebbero indispensabili per avere sempre coscienza della porzione di progetto su cui si sta agendo.
+### Gestione delle tracce
+Per importare una traccia da una fonte esterna, stando ai tentativi eseguiti, che in questo caso differiscono dai suggerimenti ricavati da [^http://reaproducer.com/index.php/rt002/] si è evinto che il comando da premere è solo Insert mentre il canale suggerisce Cmd+Insert. Tentando però anche l’impiego di Cmd+Insert si è ottenuto come risultato l’inserimento di un virtual instrument e non di una traccia esterna. Per inserire le altre tipologie di tracce, vi è l’apposito menù "Track", che presenta gli stessi elementi di quello presente in Windows. Dal menù "Insert" si può ragiungere il comando “media file”, con shortcut Cmd+I, che è il corrispettivo di Alt+I in Windows. Questo comando è quello che consente, in entrambe le piattaforme, di importare file audio dalle risorse del proprio computer in un progetto Reaper.
+###Controlli delle tracce
+###Gestione del mixer
+###Editing delle tracce
+###Timeline
+Il menù "Insert" consente anche di inserire i marker comuni, denominati semplicemente ”marker” e richiamabili premendo M e consigliabili in caso di tracce MIDI, i marker per nome “marker prompt for name” Shift+M, i marker di cambio di tempo ”tempo/time signature change marker” Shift+C,, di inserire i “mmidi item” e i ”virtual instruments”.
+###Equalizzazione
+###Compressione
+###Salvataggio, impostazioni progetto
+
+Disabilitando la funzione "Snap", attivando l’apposito pulsante presente sulla traccia, si può esploraarla usando la modalità di navigazione detta “scrubbing”. VoiceOver, se opportunamente impostato, annuncia la percentuale all’interno del beat in cui il cursore si trova, ad esempio: “beat 3 2%”.
+Una feature non presente nella versione per Windows è quella che prevede, con il comando Cmd+Shift+Spazio. Tramite questa shortcut VoiceOver vocalizza .........................................................................
+ Un simile compito è svolto da Cmd+Shift+J che sposta il cursore al beat o alla misura “Report edit cursor position Measures and Beats” e da Cmd+Shift+J, J “Report edit cursor position Time” indica dove è il cursore all’interno della traccia, sia quando questa è in esecuzione, sia quando non lo è.
+Affini ai comandi di navigazione sono quelli di selezione della traccia o sue porzioni, di navigazione e selezione degli items. Cmd+Frecce destra/sinistra consente di  navigare tra gli items, è il corrispettivo del Control+Freccia destra/sinistra in Windows. I tasti “[]” consentono di cominciare e terminare una selezione della timeline, "S" consente di aggiungere un item. Shift+M consente di aggiungere un Marker con nome; Shift+C di inserire un marker di tempo. Quest’ultimo, a differenza del Marker con nome, che non ha presentato alcuna difficoltà, ha comportato alcune difficoltà nella gestione del focus  all’interno della finestra perché talvolta il cursore VoiceOver si distaccava dal cursore editazione, medesima difficoltà incontrata nella gestione del pannello relativo alle impostazioni del metronomo, si è provato perciò a cambiare modalità di navigazione e a fonderne più d’una insieme.
+Si sono incontrate inizialmente difficoltà nel posizionare il focus all’interno della timeline e selezionare gli item (portando su di essi il focus), cosa che in Windows invece avviene automaticamente.
+Ciò che invece ha rappresentato un maggiore ostacolo in Windows, e invece è stato più intuitiva in Mac, è stata la selezione non continua degli elementi. La “non continuous selection” in Windows si effettua mantenendo il focus sulla traccia poi, tenendo premuto il tasto Shift, si sposta il focus sulle successive tracce e si conferma con Spazio laddove si voglia selezionare. Ad esempio si pone il focus sulla traccia 1 premendo la combinazione Shift+Spazio, poi, mantenendo premuto il tasto Shift, ci si sposta usando le frecce fino alla traccia 3 e si preme nuovamente Shift+Spazio. LA medesima operazione va ripetuta per ogni traccia che si voglia selezionare.
+È possibile retrocedere dall’azione eseguita o ripristinarla, usando la combinazione Cmd+Z e Cmd+Shift+Z o usare il menù Edit da cui è anche possibile eseguire operazioni sugli items come taglia, incolla, seleziona, anche eseguibili con le shortcut Cmd+C, Cmd+X, Cmd+V.
+“Duplicate track” è situato nel menù “Tracks” ha una funzione ed un effetto diverso rispetto a quanto si trova in Windows.
+Cmd+Shift+Backspace modifica il playrate (ossia  velocità di esecuzione, traducibile come BPM per meglio rendere l'idea del concetto che è assai macchinoso raggiungere con i comandi di navigazione messi a disposizione da VoiceOver in quanto è posto al centro della GUI.
+Cmd+R attiva la funzione “Repeat”, ossia manda in loop la porzione di traccia selezionata (l’argomento è già stato trattato nella sezione riguardante Reaper per Windows). Questo comando copia l’intera traccia alla destra o alla sinistra della traccia che è selezionata.
+Il metronomo, abilitabile con Cmd+Shift+M, ha una relativa finestra delle impostazioni raggiungibile con M, che però, a differenza di altre finestre, presenta alcune lievi difficoltà di navigazione perché il focus della sintesi e il cursore di editazione del testo sono talvolta separati. Per cercare di risolvere il problema si è tentato di navigare usando il il mouse o il tasto Tab in sostituzione ai consueti  comandi di navigazione di VoiceOver e alternando queste ultime due modalità, infine, il problema si è risolto.
+Il menù degli "Effetti FX" è raggiungibile premendo il tasto "F". è un menù composto da vari flag, perciò altamente intuitivo e di facile uso, in quanto scorribile anche solo semplicemente con le frecce, senza bisogno dell’aggiunta del tasto Capslock (pressoché indispensabile nel sistema operativo Mac); i flag  si selezionano e deselezionano con il tasto Spazio.
+Il menù "File" presenta, come in Windows, le voci “Project preferences”, “Open new project” Cmd+N, “open project” Cmd+O, “Save project” Cmd+S, “Save project as”; mentre per chiudere il progetto “Close project” Cmd+F4, per chiudere tutti i progetti “all project” Cmd+Shift+F4. A tutti questi comandi e alle finestre ad essi associate si accede con facilità, essendo finestre standard, è facile navigare tra gli elementi usando le facilitazioni di VoiceOver come ad esempio Capslock+freccia destra/siniistra per spostarsi sull’elemento precedente o successivo; Shift+Capslock+Freccia su/giù per uscire o andare all’interno dell’elemento selezionato. Talvolta, quando questi comandi non sono funzionali, è richiesto l’impiego del  Tab, tasto imprescindibile in Windows, ma in Mac, al contrario, è raramente richiesto.
+Si nota che in ognuna delle piattaforme è stata operata l’ottima scelta di mantenere i comandi familiari agli utilizzatori di ognuna di esse e che le funzionalità fondamentali o il collocamento delle funzionalità all’interno dei menù sono nei menù corrispettivi.
+Di grande utilità, in particolare all’utente non vedente, è la funzione, presente su entrambe le piattaforme, di suggerimento dei comandi, avviabile col tasto funzione F4, che fa risalire dal nome del comando alla shortcut relativa, oppure dalla shortcut digitata nell’apposito campo editazione, al suo comando associato. Si può quindi cercare l’inserimento marker, sia scrivendo nella query “marker” o, in alternativa, dopo aver cliccato il tasto “find shortcut”, digitando Shift+M e viene in tempo reale annunciato il comando. Funzione affine è quella tasto F12 che, una volta premuto, fa sì che la sintesi vocale annunci le funzionalità di tutti i tasti premuti, disabilitandone temporaneamente i loro effetti.
+Questo non dà sostegno solo dal punto di vista mnemonico, ma dà grande autonomia: al non vedente infatti è quasi impossibile gestire elenchi troppo estesi di elementi, non potendo avere la visione globale e non potendo fare discriminazioni a priori. La sintesi legge linearmente quello che incontra, pertanto se all’inizio degli elementi di una lista vi è sempre lo stesso termine e a cambiare è solo il secondo, usando una sintesi vocale non è possibile scegliere di leggere solo il secondo elemento tralasciando il primo. Tale operazione risulta invece elementare  per chi legge a schermo servendosi della vista.
+Per aprire "Paterns LFO generation" si impiega il tasto "O", è una
+finestra accessibile in tutte le sue componenti: campi editazione, lettura corretta dei tag e dei valori inseriti nei field. è navigabile, come qualunque tipo di finestra in mac, con la combinazione di tasti Capslock+Freccia destra/sinistra.
+Essa consente di scegliere il tipo di traccia su cui inserire l’"Envelope"
+e dove inserirlo. Ciò significa che l’"envelope" può essere posto nella zona selezionata "time seleciton” nel progetto intero o nella porzione messa in loop.
+Una volta operate le scelte, per concludere, cliccare sui pulsanti "Generate" o "Close" sempre raggiungibili con frecce e attivare l’opzione dando Capslock+Spazio.
+Per avviare la registrazione è necessario premere la combinazione Cmd+r. Per inserire una nuova traccia premere Cmd+T, il cursore è di default posizionato all'interno del campo editazione dove digitare il nome da assegnare alla traccia appena creataa.
+è possibile anche importare dei file esterni, recuperandoli dal disco fisso, premendo la cmbinazione Cmd+I e sfogliando tra le cartelle o digitando il path nella query di ricerca.
+
+
+-- 
+
+Gemma Pedrini
+
+Professional Cellist
+
+Social: FB | IN 
+
+Mobile: +39 3319215970 | Skype: gemma.pedrini@gmail.com
+
+Find me on: Youtube
+
+
+Pedrini, Aurora
+	
+lun 2 set, 23:30 (1 giorno fa)
+	
+a me
+
 #### Reaper 5.921 per Mac
 Il test sul sistema operativo Mac OS X è stato il medesimo impiegato per la versione Windows.
 
@@ -276,6 +357,8 @@ Non è stato trovato il comando “Threshold di compressione”, è stato invece
 
 Le “Impostazioni grid” sono analoghe come shortcut all’altro sistema operativo ma hanno massimo livello di accessibilità.
 Il menù degli "Effetti FX" è raggiungibile premendo il tasto "F": è un menù composto da vari flag , perciò altamente intuitivo e di facile uso. È scorribile anche solo semplicemente con le frecce, senza bisogno dell’aggiunta del tasto Capslock (pressoché indispensabile nel sistema operativo Mac); i flag  si selezionano e deselezionano con il tasto Spazio.
+
+ 
 
 ###Salvataggio, impostazioni progetto
 Il menù "File" presenta, come in Windows, le voci “Project preferences”, “Open new project” Cmd+N, “open project” Cmd+O, “Save project” Cmd+S, “Save project as”; mentre per chiudere il progetto “Close project” Cmd+F4, per chiudere tutti i progetti “All project” Cmd+Shift+F4. A tutti questi comandi e alle finestre ad essi associate si accede con facilità, essendo finestre standard, è facile navigare tra gli elementi usando le facilitazioni di VoiceOver come ad esempio Capslock+freccia destra/siniistra per spostarsi sull’elemento precedente o successivo; Shift+Capslock+Freccia su/giù per uscire o andare all’interno dell’elemento selezionato.

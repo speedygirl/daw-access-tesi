@@ -132,35 +132,37 @@ Nelle ultime release di Windows 10 è possibile utilizzare le barre braille con 
 <!-- Parlare della touchbar -->
 <!-- Mac Automator -->
 
-MacOS e con lui i Machintosh oramai da diversi anni non sono più i prodotti di punta della software house di Cupertino, ciò nonostante Apple è riuscita a manatenere in termini di accessibilità un ecosistema particolarmente coeso e coerente, parto con questa premessa poichè il mondo di oggi è estremamente mobile-first e questo comporta diverse sfide dal punto di vista dell'ingegneria del software e dell'ux, sfida dove la Apple si distingue in modo particolare offrendo un'amplia gamma di soluzioni sia desktop che mobile estremamente moderne e ottimizzate. Il punto di forza principale delle piattaforme Apple sta nella possibilità che ha Apple di poter controllare il design e la configurazione di tutto lo stack hardware e applicativo, ciò significa che è in grado di valorizzare ogni singola feature dei propri prodotti, anche al costo di mantenere una rottura nei confronti degli standard di mercato del mondo PC, questo si ripercuote in modo significativo sul modo in cui il software interagisce con l'hardware e si traduce in una migliore esperienza utente anche nell'ambito delle tecnologie assistive, questo modus operandi oltre a ottimizzare la relazione software\hardware aiuta anche a polarizzare il mercato delle Applicazioni, infatti sono molte le applicazioni che attirate dalla solidità della piattaforma contribuiscono nello sviluppare applicazioni estreamamente verticali e integrate all'interno dell'ecosistema MacOs\iOS, in modo particolare troviamo applicazioni professionali nel mondo dell'editing video\audio e nella produzione musicale.
+ Il mondo odierno è ormai incentrato sul mobile-first e le ingegnerie del software e dell'ux delle grandi aziende si sfidano sul mercato. Anche Apple si è molto impegnata in questo senso, offrendo un'ampia gamma di soluzioni sia desktop che mobile moderne e ottimizzate. MacOS e Machintosh, ormai da diversi anni, non sono più i prodotti di punta della software house di Cupertino, ciononostante Apple è riuscita a mantenere, in termini di accessibilità, un ecosistema particolarmente coeso e coerente.Il punto di forza principale delle sue piattaforme sta nella possibilità di controllare il design e la configurazione di tutto lo stack hardware e applicativo, ciò significa che è in grado di valorizzare ogni singola feature dei propri prodotti, anche a costo di rottura nei confronti degli standard di mercato del mondo PC. Ciò ha un effetto significativo sul modo in cui il software interagisce con l'hardware e si traduce in una migliore esperienza utente anche nell'ambito delle tecnologie assistive. Questo modus operandi, oltre a ottimizzare la relazione software\hardware, aiuta anche a polarizzare il mercato delle Applicazioni che, attirato dalla solidità della piattaforma, contribuisce allo sviluppo di applicazioni integrate all'interno dell'ecosistema MacOs\iOS. In modo particolare si trovano applicazioni professionali nel mondo dell'editing video\audio e nella produzione musicale.
 
-Su MacOs Catalina in modo simile a Windows 10 le feature di accessibilità sono configurate all'interno del pannello "Preferenze di Sistema" sotto "Accessibilità", all'interno delle preferenze di sistema troviamo varie sottosezioni:
-- **Vista**
-- **Udito**
-- **Capacità Motorie**
-- **Generali**
+Su MacOs Catalina, in modo simile a Windows 10, le feature di accessibilità sono configurate sotto "Accessibilità", all'interno del pannello "Preferenze di Sistema" in cui si trovano varie sottosezioni:
+- Visto
+- Udito
+- Capacità Motorie
+- Generali
 
-Partendo dalle feature dedicate alla vista, il primo tool che troviamo è **VoiceOver**, come accennato nei capitoli precedenti VoiceOver è lo screenreader dei sistemi Apple, una delle principali differenze di VoiceOver rispetto a Windows Narrator (La sintesi mantenuta da Microsoft su piattaforma PC) riguarda il supporto nativo delle barre Braille, su Mac le barre braille hanno una libreria di driver nativi direttamente matenuti da Apple, inoltre la gestione della barra braille è completamente integrata in voice over su MacOs così come dai dispositivi mobile con iOS. Di seguito riporto le altre feature di accessibilità della sezione "Vista":
+Partendo dalle feature dedicate alla vista, si trova VoiceOver, lo screenreader dei sistemi Apple. Una delle principali differenze rispetto a Windows Narrator (la sintesi mantenuta da Microsoft su piattaforma PC) riguarda il supporto nativo delle barre braille: su Mac le barre braille hanno una libreria di driver nativi direttamente mantenuti da Apple, inoltre la gestione della barra braille è completamente integrata in voice over su MacOs, così come dai dispositivi mobile con iOS. Di seguito si riportano le altre feature di accessibilità della sezione "Vista":
 
-- **Zoom**, è la lente di ingrandimento, permette di ingrandire frazioni dello schermo su richiesta permettendo all'utente di navigare utilizzando il mouse oppure utilizzando i "gesti"
-- **Monitor**, permette di attivare il contrasto elevato, l'inversione dei colori e la rimozione delle animazioni
-- **Voce**, permette di configurare la voce predefinita del sintetizzatore vocale di sistema
-- **Descrizioni Audio**, permettono al sistema dare all'utente informazioni vocali dei contenuti multimediali immagini\video, queste informazioni sono generalmente ottenuti utilizzando l'inteligenza artificiale
+- **Zoom**, è la lente di ingrandimento, ingrandisce frazioni dello schermo su richiesta permettendo all'utente di navigare col mouse oppure utilizzando i "gesti"
+- **Monitor**, attiva il contrasto elevato, l'inversione dei colori e la rimozione delle animazioni
+- **Voce**, configura la voce predefinita del sintetizzatore vocale di sistema
+- **Descrizioni Audio**, permettono al sistema di dare all'utente informazioni vocali dei contenuti multimediali immagini\video: queste informazioni sono generalmente ottenute utilizzando l'intelligenza artificiale
 
-Nella sezione Udito troviamo:
-- **Audio**, permette di trasformare i feedback uditivi in feedback visivi e di gestire convertire l'output audio da stereo a mono
-- **RTT**, sta per "Real Time Text" ed è un protocollo ideato per i non udenti che permette di scambiare testo real time all'interno di una telefonata
+Nella sezione Udito :
+- **Audio**, trasforma i feedback uditivi in feedback visivi e converte l'output audio da stereo a mono
+- **RTT**, (Real Time Text) è un protocollo ideato per non udenti che permette di scambiare testo real time all'interno di una telefonata
 - **Sottotitoli Non Udenti**, permette di configurare il layout con cui vengono visualizzati i sottotitoli
 
 Nella sezione Capacità Motorie troviamo:
-- **Controllo Vocale**, è una nuova feature introdotta in MacOs catalina che permette agli utenti di controllare l'intero sistema esclusivamente utilizzando la voce, la modalità di navigazione è molto interessante e il sistema è stato sviluppato sfruttando lo stesso set di metadati che vengono gestiti da voice over
-- **Tastiera**, permette di abilitare le combinazioni di tasti a tasti singoli e di configurare il tempo con cui viene validata la pressione dei tasti
-- **Controllo Puntatore**, permette di configurare la sensibilità del touchpad e gli altri parametri annessi
-- **Controllo Interruttori**, permette di configurare il computer in maniera tale da poter essere controllato da un set di interruttori, i pulsanti configurabili sono quelli della tastiera, del mouse o di altri tipi di controlli esterni
+- **Controllo Vocale**, è una nuova feature introdotta in MacOs catalina che permette agli utenti di controllare l'intero sistema esclusivamente utilizzando la voce; la modalità di navigazione è molto interessante e il sistema è stato sviluppato sfruttando lo stesso set di metadati che vengono gestiti da voice over
+- **Tastiera**, permette di abilitare le combinazioni di tasti a tasti singoli e di configurare il tempo con cui viene validata la pressione 
+- **Controllo Puntatore**, configurala sensibilità del touchpad e gli altri parametri annessi
+- **Controllo Interruttori**, configura il computer in maniera tale da poter essere controllato da un set di interruttori; i pulsanti configurabili sono quelli della tastiera, del mouse o di altri tipi di controlli esterni
 
-Nel menu Generali troviamo:
-- **Siri**, è il famoso assistente vocale per mac, utilissimo nell'ambito dell'accessibilità hands-free
-- **Abbreviazioni**, permette di configurare delle shortcut per abilitare le feature di accessibilità
+Nel menu Generali:
+- Siri, è il famoso assistente vocale per Mac, utilissimo nell'ambito dell'accessibilità hands-free
+- Abbreviazioni, permette di configurare delle shortcut per abilitare le feature di accessibilità
+
+
 
 Comparando dal punto di vista tecnico le tecnologie assistive offerte su MacOs con quelle di Windows la differenza più grossa riguarda il backend, al contrario di windows MacOs sviluppa il proprio screenreader senza demandare a terze parti le funzionalità, introdotto nella versione 10.4 (OSx Tiger 29 aprile 2005) [^apple-vis] VoiceOver è stato poi introdotto nel 2009 sull'iPhone, esso è stato il primo tool di lettura schermo su piattaforma Machintosh e negli anni non ha smesso di ricevere aggiornamenti. Le API dedicate all'accessibilità su Mac sono state rinnovate nelle ultime versioni di MacOs per far sì che sia la versione mobile che quella desktop condividessero il solito set di comandi [^apple-doc].
 
@@ -174,7 +176,7 @@ MacOS supporta di base una lunga lista di display braille senza aver bisogno di 
 Per gli sviluppatori software, Microsoft ha sempre offerto supporti dedicati all'accessibilità, fin da Windows 95 Microsoft supportava già un modulo aggiuntivo che offriva uno speciale set di API dedicate all'accessibilità delle interfacce utente, questo modulo si chiama Microsoft Active Accessbility (MSAA) e permetteva l'intercomunicazione tra le tecnologie assistive e le applicazioni, tutt'oggi MSAA è presente in windows 10 come supporto legacy ed è la fondazione su cui si basa il più recente e potente UI Automation Framework. Questi due framework sono delle librerie che gli sviluppatori integrano all'interno delle loro applicazioni per interagire con strumenti come gli screen reader, dall'altra parte gli sviluppatori che implementano gli screen reader utilizzano il framework per reperire i metadati relativi alle applicazioni. I metadati di accessibilità di MSAA e UI Automation sono molto simili, entrambi creano una rappresentazione gerarchica delle finestre e dei controlli grafici contenuti al loro interno prendendo come riferimento il desktop
 
 
-esistono però altre funzionalità di accessibilità che vengono gestite direttamente dall'os il quale va ad agire direttamente sui controlli nativi, questo significa che se l'applicazione è stata sviluppata utilizzando i componenti grafici standard sarà automaticamente compatibile queste funzionalità. 
+esistono però altre funzionalità di accessibilità che vengono gestite direttamente dall'os il quale va ad agire direttamente sui controlli nativi, questo significa che se l'applicazione è stata sviluppata utilizzando i componenti grafici standard, sarà automaticamente compatibile con queste funzionalità. 
 
 Su windows esistono 4 principali framework per lo sviluppo di interfacce grafiche:
 - Win MCF

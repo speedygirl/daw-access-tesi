@@ -1,7 +1,6 @@
 
 #### 1. Metodo impiegato nell’analisi (20 pagine)
 ##### 1.1. Metodo impiegato nell'analisi
-##### 1.2. Regola del 7
 ##### 1.3. Confronto di approccio tra vedente e non vedente 
 
 #### 2. Descrivere problemi di usabilità dal punto di vista dell’utente

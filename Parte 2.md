@@ -190,9 +190,8 @@ Il concetto di usabilità nasce negli anni ’60, ma si è sviluppato alla fine 
 
 La crescita del Web in ambito sociale ha portato, come detto, gli enti governativi a muoversi da un punto di vista legislativo, per rendere accessibili i siti, le risorse e le informazioni ai disabili. Le linee guida specifiche elaborate per il Web, le app mobile  e le pubbliche amministrazioni sono state ritenute a tal punto valide dagli esperti del settore, da essere applicate per l’accessibilità anche nell’ambito dello sviluppo software, che invece non era stato coperto da alcuna specifica normativa. Stesso discorso si può estendere allo sviluppo di applicazioni mobile, la cui accessibilità non viene richiesta al momento dell’inserimento sulle piattaforme store, ma è a totale discrezione dello sviluppatore. Di prospettiva, visto il prorompente sviluppo delle applicazioni mobile negli ultimi anni, ci si aspetta che gli enti normativi a breve intervengano anche in questo ambito.
 
-<!-- Il paragrafo 2.3 non c'è? -->
 
-## 2.4 Attuazione nello sviluppo software e Web
+## 2.3 Attuazione nello sviluppo software e Web
 Nello sviluppo di interfacce software gli sviluppatori devono tener in considerazione  la compatibilità del loro prodotto con le tecnologie assistive usate a seconda della tipologia di disabilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità nei software si riscontrano:
 
 - nei controlli etichettati con immagini anzichè con il nome, detto "tag"
@@ -232,7 +231,7 @@ Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
 - le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta alll'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
 
-## 2.5 Assistive Technology
+## 2.4 Assistive Technology
 
 Con il termine “Assistive Technology” (AT), o nella traduzione italiana “tecnologie assistive”, ci si riferisce all’insieme delle soluzioni hardware e software che rendono accessibile e usabile qualsiasi sistema informatico da parte di persone con disabilità fisica, sensoriale o cognitiva, consentendo la fruizione delle informazioni e dei servizi da esso erogati.
 L’ideale sarebbe progettare applicazioni nativamente accessibili, ma troppo spesso questo principio viene disatteso
@@ -242,15 +241,15 @@ Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insi
 La prima formalizzazione del concetto di Assistive Technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
 Negli “Access Board's [^electronic-and-Information-Technology-Accessibility-Standards] si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
 
-## 2.6 Esempi di Assistive Technology legati alla disabilità visiva
+## 2.5 Esempi di Assistive Technology legati alla disabilità visiva
 Fin dalla nascita del Personal Computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, erano in grado di trasmettere frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono sviluppati software di input tramite comandi vocali. <!-- riusciamo a inserire qualche data per collocare storicamente le informazioni? -->
  
 <!-- INSERIRE TABELLE CON ESEMPI TECNOLOGIE ASSISTIVE E RELATIVO LINK https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
 (…… ; consultato 25 novembre 2018). -->
 
-### 2.6.1 Screen Reader
-Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.6.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
+### 2.5.1 Screen Reader
+Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.5.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
 
 <!-- perché qui c'è un URL abbandonato a se stesso?!? -->
 <!-- citare le sue fonti bibliografiche a fondo pagina del sito -->
@@ -304,7 +303,7 @@ NB si ricorda che anche il magnifier <!-- spiega cos'è --> fa uso delle UIA ad 
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
 
-### 2.6.2 Barra Braille
+### 2.5.2 Barra Braille
 
 ![](.\images\generic\barra-braille.jpg)
 
@@ -321,7 +320,7 @@ Sono già disponibili sul mercato display braille dotati di memoria interna e di
 [^UIA-microsoft-youtube]
 [^sito-microsoft-ufficiale]
 
-### 2.6.3 Speech Recognition - Riconoscimento vocale
+### 2.5.3 Speech Recognition - Riconoscimento vocale
 Si definisce Speech Recognition la capacità di un supporto elettronico di comprendere il parlato umano e di eseguire operazioni a seguito di quanto recepito. Tale sistema necessita di un microfono che capti la voce del parlante e di un hardware che converta il segnale da segnale elettrico analogico ad audio digitale. Successivamente i dati in formato digitale sono processati da un software dedicato che è in grado di interpretare i fonemi individuando le singole parole e convertirle poi in formato macchina, in modo tale che possano essere finalmente utilizzate dal supporto. Questo sistema sfrutta algoritmi di modellazione acustica che individuano la relazione tra le parole e il segnale audio, in seguito tale processo viene affinato utilizzando una modellazione linguistica in grado di riconoscere i significati di parole simili all’interno del contesto di una frase, in modo da non creare ambiguità di significato e di comandi.
 Le prime release di questo genere di software avevano un vocabolario molto limitato e potevano interpretare solo semplici frasi che fossero ben scandite e perfettamente pronunciate. 
 I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^dragon-Naturally-Speaking] dell'IBM del 1975 <!-- IBM nel 1975?!? Fai una verifica -->, la cui più recente versione risale ad agosto 2016.
@@ -339,7 +338,7 @@ voice recognition permette agli utenti di comandare il device dando comandi voca
 
 “Il deep learning è un caso particolare di machine learning, e le reti neurali sono i sistemi di calcolo (con le loro architetture, talvolta non del tipo Von Neumann-Zuse) sui quali essi sono implementati ed operano algoritmicamente.”
 
-### 2.6.4 Screen Magnifier
+### 2.5.4 Screen Magnifier
 È un software in grado di presentare l'output a schermo ingrandito ed è impiegato soltanto da coloro che hanno un residuo visivo minimo o sono ipovedenti.
 La porzione di schermo ingrandita, detta focus, deve poter coprire lo schermo parzialmente o interamente,  deve includere il contenuto d'interesse e il puntatore o cursore debitamente ingranditi. Il focus deve poter essere allargato o ristretto a piacimento dall'utente, seguire i movimenti del puntatore ingrandendo la nuova area di interesse indicata dal nuovo puntamento del mouse o intervenire tramite shorcut. In maniera automatica si adatta ai cambiamenti di stato di finestre, elementi e pop-up.
 Apple mette a disposizione un’ulteriore funzionalità, chiamata “cursor magnification” [^cursor-magnification] che consente di ingrandire maggiormente il puntatore, se le possibilità offerte di default dal sistema operativo non fossero sufficienti. Questa opzione però si disattiva nei casi in cui l’utente esegua il logout dal proprio account, spenga o riavvii il computer.
@@ -359,7 +358,7 @@ Nei sistemi sviluppati da Apple è presente sin dalle prime versioni ed è stata
 La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezionare System Preferences.
 All’interno del System row selezionare Universal Access e attivare il pulsante Zoom. Per ulteriori opzioni va cliccato il pulsante Options. [^mac-magnifie-method] 
 
-### 2.7 Storia delle Assistive Technologies
+## 2.6 Storia delle Assistive Technologies
 Per la stesura di questa sezione ho fatto riferimento al sito https://cs.stanford.edu/. [^stanford-sito-ufficiale]
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
 Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech) sviluppato dalla Freedom Scientific a partire dal 1995 quando fu prodotta laversione 1.0. E'Utilizzabile esclusivamente su sistema operativo Windows 3.1 e Windows for Workgroups 3.11 (DOS)  e successivi. Dalla versione Windows 98 in avanti AWS aveva come caratteristiche uniche la possibilità di utilizzare i menù a cascata <!-- intendi a tendina? --> e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo lo portò ad avere una grande diffusione perché nonostante i costi elevati, in Italia spesso sostenuti dal sistema sanitario locale o dal sistema scolastico, e nonostante la suite di comandi da tastiera particolarmente complicata <!-- questa frase va rivista, non ha molto senso -->. È possibile rintracciare differenti pagine Web e letteratura specifica in cui si spiega come utilizzare JAWS; sulle medesime fonti si possono trovare comandi completamente differenti per assolvere alla medesima funzione, questo anche a causa della possibilità di personalizzazione degli stessi <!-- non capisco, in queste fonti di cui parli gli utenti hanno elencato le loro combinazioni di tasti personalizzate? -->. Oltretutto, i medesimi comandi che avrebbero dovuto essere facilmente accessibili, risultavano di complicato utilizzo, in quanto prevedevano l’utilizzo dei tasti “Home” ed “Insert”, che non sono ergonomici per un'utenza non vedente.
@@ -376,14 +375,8 @@ Narrator, per windows 8 e successivi, è considerato leggermente migliore rispet
 Ritengo infine opportuno citare VoiceOver [^voiceover-apple-ufficiale] utilizzabile esclusivamente con sistemi operativi sviluppati da Apple <!-- cioè macOS X? -->: risulta essere meglio strutturato dei precedenti elencati e all'avvio del sistema operativo l'utente non vedente può facilmente accedere al tutorial, per imparare a usarlo.
 Presenta un numero minore di comandi rapidi rispetto a JAWS, comandi che prevedono ii tasti chiave Home/V.O <!-- cos'è il tasto Home/V.O?--> oppure Capslock o Insert.
 
-### 2.7.1 Storia delle tecniche di accessibilità
-<!-- da completare -->
 
-### 2.7.2 Riflessione su come può essere reso accessibile software audio 
-<!-- [in generale (sintesi vocale, controller esterni] – sezione che si approfondirà nella seconda sezione della tesi (180 pag) -->
-<!-- da completare -->
-
-## Conclusioni accessibilità
+## 2. 7 Conclusioni accessibilità
 Nei primi decenni di questo secolo si è assistito a uno sviluppo fortissimo delle tecnologie di sintetizzazione delle voci umane, ingenti investimenti sono stati fatti per portare questa tecnica ad un livello di perfezione che non sarebbe mai stato raggiunto se non si fosse trovato per le sintesi un risvolto commerciale. È oramai funzionalità di base in ogni smartphone e tablet la capacità di riconoscimento del proprietario per impartire ordini hands free. L'accessibilità ha tratto quindi immenso giovamento da questi ritrovati tecnologici, raggiungendo qualità e prestazioni che non sarebbero mai stati raggiunti con l'imposizione legislativa tramite semplici linee guida. 
 
 <!-- La posizione è interessante, ma va argomentata, da cosa deduci quello che hai scritto? -->

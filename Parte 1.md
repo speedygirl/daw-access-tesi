@@ -246,8 +246,8 @@ Ma a segnare la fine del disco in vinile sarebbero state le grandi novità in ar
 *Tratte da collezione privata*
 
 ### 1.1.6 REGISTRAZIONE DIGITALE
-
-#### 1.1.3.1 COMPACT DISC
+g
+#### 1.1.6.1 COMPACT DISC
 
 Nel 1979 era stata brevettata una nuova tecnologia di registrazione e riproduzione del suono destinata ad avere un enorme successo commerciale : il Compact Disc (CD), supporto in policarbonato del diametro di soli 12 cm, capace di contenere miliardi di informazioni digitali, riproducibili attraverso una lettura ottica laser. Era stata la Philips a sviluppare la mediazione tra tecnologia ottica, ripresa da un prodotto che aveva avuto scarsissimo successo, il video disco, e codifica digitale, PCM (Pulse Code Modulation), una stringa in codice binario utilizzata originariamente in ambito militare . 
 La possibilità di codificare una forma d'onda sonora in codice binario era conosciuta da tempo: il PCM era stato brevettato nel 1938 dall'ingegnere Alex Reeves ed era stato utilizzato nella seconda guerra mondiale per trasmettere messaggi in codice <!-- citazione -->.
@@ -265,7 +265,7 @@ Il primo CD era uscito nel 1982 e nell'arco di un decennio riuscì a soppiantare
 La qualità del vinile rimaneva superiore ma la massa degli acquirenti era maggiormente attratta dalla novità <!-- discutibile, toglierei -->; il vinile rimase prerogativa degli appassionati, tornando a momenti come fenomeno di moda.
 La qualità non eccellente dei CD era dovuta a quello standard di 44.1 kHz, decisamente scarsi per una buona registrazione, che restituiva una riproduzione fedele ma "*fredda*" <!-- anche qui molto discutibile, se vuoi addentrarti in questo genere di giudizi fallo con citazioni di autori autorevoli -->. Anche i supporti, a distanza di anni, cominciarono a deludere. I processi chimici di ossidazione obbligarono a ricercare materiali meno alterabili. Il CD continuò ad essere venduto per tutti gli anni '90 e un deciso calo delle vendite si registrò solo quando l'industria informatica cominciò a produrre computer muniti di masterizzatori, che duplicavano i CD con estrema facilità e ottimi risultati. <!-- nessun riferimento bibliografico per tutte queste informazioni? -->
 
-#### 1.1.3.2 DAT, DCC, DVD, SACD
+#### 1.1.6.2 DAT, DCC, DVD, SACD
 Anche l'industria del nastro fece uso delle innovazioni digitali, ma senza grande successo. A cavallo tra gli anni '80 e '90 si era tentato di commercializzare dispositivi in apparenza simili alle musicassette ma di dimensioni molto più piccole e con registrazione digitale anzichè analogica.
 Le più note proposte avanzate in questo contesto furono:
 DAT (Digital Audio Tape) introdotto da Sony; aveva una durata compresa tra i 15 e i 240 minuti ed era utilizzato anche per scopi professionali in ambito radiofonico, cinematografico, televisivo.
@@ -282,7 +282,7 @@ Alla fine dello stesso anno il gruppo Matsushita presentava la versione audio de
 Poco dopo la ricerca di audio ad alta risoluzione da parte di Sony e Philips produsse il SACD (Super Audio CD), completamente nuovo nel processo di registrazione a flusso digitale diretto (DSD), che dava un risultato molto più dettagliato, e non costringeva l'utente a possedere un convertitore digitale/analogico ad esso dedicato per essere riprodotto. Il SACD poteva essere letto sia da un qualsiasi lettore CD in bassa risoluzione, oppure in alta definizione da chi possedeva il lettore adatto.
 La competizione tra i due nuovi formati in realtà non ebbe luogo perchè entrambi furono soppiantati dall'affermarsi dei formati compressi. Il DVD audio scomparve, anche a causa della necessità di acquistare un lettore specifico per l'ascolto; il SACD, confinato nell'ambito degli amatori dell'alta definizione, divide con il vinile le registrazioni storiche di alta qualità, ripubblicate per questo mercato di nicchia.
 L'invenzione dei formati compressi era in grado di mantenere livelli di buona qualità in pochi Kbyte. Le grandi possibilità di questi nuovi formati, furono immediatamente utilizzate nell'ambito della grafica digitale, dove ebbero rapidissima diffusione, mentre ci vollero per i dati audio ci vollero tempi più lunghi, in quanto nei formati compressi si perdeva la qualità del suono. A metà degli anni '90 una soluzione fu trovata dall'equipe di Karlheinz Brandenburg che, studiando il protocollo MPEG, utilizzato in ambito cinematografico per la codifica e sincronizzazione dei contenuti audio-video in formati compressi, individuò un algoritmo di compressione che consentiva un risultato di buona qualità. Col nuovo formato, noto con l'acronimo MP3, la riproduzione del suono perdeva la sua fisicità e la musica si poteva condividere con estrema facilità: questo ne decretò il successo e la rapidissima diffusione.  
-## Il formato di compressione MP3
+## 1.1.6.4 Il formato di compressione MP3
  
 Le tecniche per la compressione audio sono numerose; la loro struttura algoritmica dipende in maniera determinante dal compromesso scelto tra i seguenti parametri: 
 - bitrate: rappresenta il numero di bit necessari per trasmettere un secondo di informazione audio. Si misura in bit/sec.
@@ -354,7 +354,7 @@ Dato che ogni convertitore, secondo gli algoritmi utilizzati per convertire il s
 Relativamente alla dinamica il CD, che pure era stato sviluppato, perdendo in fedeltà, proprio per sopperire alla scarsa gamma dinamica del vinile, viene compresso in fase di mastering per aumentare la percezione di qualità: questo procedimento torna a scapito della stessa dinamica.
 Uno strumento non è mai neutro ma è un mezzo che influenza l'opera, per questo motivo un supporto non è in assoluto migliore degli altri, e si deve operare la scelta più rispondente alle proprie esigenze. 
 
-#### 1.1.3.3 INTERNET
+#### 1.1.7 INTERNET
 L'avvento di internet, come afferma Tigani, ha segnato "la fine" della fonografia, essendo stato una delle cause determinanti del declino delle vendite fisiche e, quindi, della profonda modificazione dell'industria discografica. in maniera gratuita e in totale violazione del copyright.
 
 Le case discografiche detentrici dei diritti d'autore reagirono con ripetuti tentativi a livello normativo e legale, volti a tutelare i propri interessi in pericolo: intentarono processi, chiesero norme restrittive e controlli serrati, idearono sistemi tecnologici di protezione e siti di vendite autorizzate di file audio. Ma contemporaneamente, sul versante della condivisione gratuita tra gli utenti, si trovavano strumenti sempre più sofisticati per aggirare i sistemi di protezione e rendere difficile l'individuazione dello scambio illegale.
@@ -463,7 +463,7 @@ La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
 Successivamente le tracce vengono miscelate e mixate; si possono aggiungere effetti su ogni traccia o su un punto specifico.
 
-### IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
+### 1.3.4 IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
 percorso all'interno dello studio di registrazione lavorando con il digitale. 
 
 - suono
@@ -484,7 +484,7 @@ Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware
 
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
-### 1.3.4 SCHEDA AUDIO
+### 1.3.5 SCHEDA AUDIO
 Una scheda è un componente che espande le funzionalità del computer.
 Le schede audio hanno ingressi e uscite analogiche; alcune, quelle di elevata qualità, hanno ingressi e uscite digitali.
 Gli ingressi e le uscite digitali si interfacciano con apparecchiature per gestire l'audio digitale, mentre quelle analogiche, elettriche, consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse, cuffie.
@@ -557,7 +557,7 @@ essa vede un minor coinvolgimento dell'artista e, come aspetto principale, conte
 esempi porte scheda: RCA/Jack, Cannon, USB B.
 jack stereo: canali L R e mass; jack mono: canale e mass. è un cavo di segnale L e R, mass è la massa. che abbia i due si può riconoscerlo dalle 2 linee a rilievo presenti sul jack -->
 
-### 1.3.5 Cos'è il MIDI
+### 1.3.6 Cos'è il MIDI
 
 Le informazioni contenute in questa parte e gli schemi illustrativi sono stati tratti da:
 M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica

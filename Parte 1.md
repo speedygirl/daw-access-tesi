@@ -245,7 +245,7 @@ Ma a segnare la fine del disco in vinile sarebbero state le grandi novità in ar
 ![](.\images\supporti_registrazione_riproduzione\disco-quadrifonico-2.jpg)
 *Tratte da collezione privata*
 
-### 1.1.3 REGISTRAZIONE DIGITALE
+### 1.1.6 REGISTRAZIONE DIGITALE
 
 #### 1.1.3.1 COMPACT DISC
 

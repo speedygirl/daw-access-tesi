@@ -212,7 +212,7 @@ Ai tre elementi principali a volte si aggiunge una piastra di registrazione e un
 
 All'inizio tutti gli apparecchi di cui si è parlato  erano molto grandi, ma sono poi stati progressivamente ridotti nelle dimensioni.
 
-### 1.1.4 PORTABILITÀ
+### 1.1.5 PORTABILITÀ
 
 Fin dall'inizio della fonografia una delle caratteristiche che ne aveva determinato il successo era stata la portabilità. Da quando Johnson aveva inventato il suo motore a molla erano stati progettati moltissimi apparecchi completamente autonomi, leggeri, alcuni addirittura di piccole dimensioni, per poter essere facilmente trasportati.
 Non fu possibile costruire apparecchi portabili con l'utilizzo degli amplificatori valvolari, che necessitavano di energia elettrica, ma l'avvento dei transistors aveva risolto la situazione.

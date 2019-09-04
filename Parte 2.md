@@ -1,4 +1,4 @@
-# Parte seconda ACCESSIBILITA'
+# 2 ACCESSIBILITA'
 
 ## 2.1 Introduzione
 Il recente sviluppo delle tecnologie digitali ha modificato profondamente le consuetudini sociali, al punto di divenire un aspetto fondamentale per l’accesso a professioni, interi settori artistico/culturali (tra cui la produzione musicale) e ai servizi, per l’acquisizione di competenze e per le relazioni interpersonali. 

@@ -1,18 +1,4 @@
-
-#### 1. Metodo impiegato nell’analisi (20 pagine)
-##### 1.1. Metodo impiegato nell'analisi
-##### 1.3. Confronto di approccio tra vedente e non vedente 
-
-#### 2. Descrivere problemi di usabilità dal punto di vista dell’utente
-##### 2.1. Come renderli accessibili
-<!-- COMPLETARE -->
-##### 2.2. SDK per l'accessibilità
-<!-- COMPLETARE -->
-
-#### 3. Ipotesi su problemi e errori nella programmazione a livello software
-
-<!-- Completare -->
-
+# parte 3 teorica
 ##### 3.1. Limiti delle applicazioni multipiattaforma
 
 rima di addentrarsi nei limiti delle applicazioni multipiattaforma, è necessario comprendere il significato attribuito dall'industria informatica al termine *"piattaforma"*, con cui si intende l'insieme della configurazione di un personal computer includendo il tipo di architettura hardware del microprocessore, l'insieme dell'hardware dell'intera macchina, il sistema operativo su cui le applicazioni vengono eseguite [^piattaforma].
@@ -191,6 +177,4 @@ Su windows esistono 4 principali framework per lo sviluppo di interfacce grafich
 ##### 4.1. Analisi di Reaper (Windows\MAC)
 ##### 4.2. Analisi di Cubase (Windows\MAC)
 ##### 4.3. Analisi di Pro-Tools (Windows\MAC)
-
-#### 5. Interviste Opzionali
 

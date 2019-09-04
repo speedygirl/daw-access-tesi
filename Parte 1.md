@@ -497,11 +497,11 @@ Un esempio di applicazione è il preamplificatore con convertitore A/D integrato
 Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale.
 
 La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita.
-In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali; sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software e sono scaricabili sul sito della casa produttrice della scheda.
+In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali. Sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software e sono scaricabili sul sito della casa produttrice della scheda.
 
 DAW, digital audio workstation
-Come già detto una DAW (Ditigal Auio Workstation) è un software che consente di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale gestendo anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
-Essa consente di gestire il segnale sonoro in ingresso e in uscita tramite i convertitori da audio a digitale e da digitale a audio presenti sulla scheda che, può essere integrata nel computer o esterna.
+Le DAW di nuova generazione consentono di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale, integrando anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
+Essa gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio presenti sulla scheda, che può essere integrata nel computer o esterna.
 
 
 What are the Basic Functions of a DAW?

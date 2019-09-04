@@ -485,71 +485,11 @@ Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
 ### 1.3.5 SCHEDA AUDIO
-Una scheda è un componente che espande le funzionalità del computer.
-Le schede audio hanno ingressi e uscite analogiche; alcune, quelle di elevata qualità, hanno ingressi e uscite digitali.
-Gli ingressi e le uscite digitali si interfacciano con apparecchiature per gestire l'audio digitale, mentre quelle analogiche, elettriche, consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse, cuffie.
-Solitamente le schede sono dotate di ingressi e uscite analogici "combo", jack da 1/4 più canon.  Questa dimensioone è tipica delle schede professionali, mentre quelle economiche sono dotate di un ack da 1/8.
-
-L'ADAT è uno standard digitale che consente la comunicazione audio, è un protocollo per favorire la trasmissione di 8 tracce a 24 bit o 48 khz: alzando il numero di KHz è necessario diminuire il numero di tracce da gestire.
-Un esempio di applicazione è il preamplificatore con convertitore A/D integrato e un'uscita ADAT; la cui funzione è inviare il segnale digitale a un dispositivo che lo possa gestire correttamente.
-
-
-Le schede audio sono di diverse tipologie, si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale.
-
-La scheda audio, anche definita interfaccia audio, gestisce diverse tipologie di Input/output (I\O), quelle fondamentali sono gli ingressi e le uscite. Generalmente presentano almeno un canale stereo (L, R) in ingresso e un altro in uscita.
-In generale la scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali, con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione. Per interfacciare la scheda audio al computer vi sono sistemi analogici e digitali. Sono disponibili vari driver per permettere la compatibilità della scheda audio con diversi software e sono scaricabili sul sito della casa produttrice della scheda.
-
-DAW, digital audio workstation
+Una scheda audio, anche definita interfaccia audio, è un componente che espande le funzionalità del computer, e può essere integrata nel computer stesso o esterna. Le schede audio si distinguono per formato e tipo di collegamento dati. Si possono individuare schede audio che si installano direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a se stanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale. La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali: con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione, mentre quelli analogici consentono di interfacciare la scheda audio con dispositivi esterni come microfoni, casse, cuffie. Essa gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio. Generalmente presenta almeno un canale stereo (L, R) in ingresso e un altro in uscita. Di solito le schede sono dotate di ingressi e uscite analogici "combo", jack da 1/4 più canon, la dimensione tipica delle schede professionali, mentre quelle economiche sono dotate di un jack da 1/8.
+ 
+Per permettere la compatibilità della scheda audio con diversi software, sono disponibili vari drive scaricabili sul sito della casa produttrice della scheda.
 Le DAW di nuova generazione consentono di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale, integrando anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
-Essa gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio presenti sulla scheda, che può essere integrata nel computer o esterna.
 
-
-What are the Basic Functions of a DAW?
-
-Recording Program Types
-
-Audio Recorders: These usually come in the form of mobile apps, and are best for saving ideas when inspiration hits, and for getting recordings when you are away from the studio. They record audio from the built-in microphone or one plugged into the headset jack and that’s about it. When searching for one to use in audio production, make sure it has settings for uncompressed exporting of WAV or AIFF files at 24 bits and 48K resolution. Many “voice recorder” apps won’t do this, and a lot of “pro recorder” apps won’t either. Also, make sure you have a real microphone; the one on the device won’t give you high enough quality. There are many mics built for iOS and a few for Android and others (Rode SmartLav, Shure Motiv, and Zoom i-series are the most popular). Another option for portable audio recording is to get a dedicated field recorder (usually from Zoom, TASCAM, and Roland).
-iPhone with Rode Rec App and SmartLav+ Lavalier Microphone.
-
-RodeRec app on an iPhone, with a SmartLav+ microphone.
-
-Audio Editors: Editors can record audio, cut it up, add fades in and out, and apply audio effects. Most can handle mixing multiple audio tracks but lack the MIDI support of a real DAW. The most popular free one is Audacity, with Adobe Audition being the most famous paid option.
-Screenshot of Adobe Audition, note effects rack and spectogram view.
-
-Screenshot of Adobe Audition, note the effects rack and spectrogram view.
-
-Virtual Instruments and Pseudo DAWs: There are many apps on the market that give students an introduction into synthesizers and sequencers without hitting them with the full brunt of a DAW. It’s a great option for the Elementary school level, where kids need something colorful and exciting. Apps like NodeBeat and Bloom (the latter co-created by Brian Eno) provide an immediately-accessible synth, while apps like BlokDust provide a more in-depth approach at what components go into synthesis and an intro to basic audio effects. fluXpad allows students to create entire tunes by drawing in parts for each instrument. Some simple apps push the envelope of sound design while still being incredibly user-friendly and interesting, like Photophore’s flock synthesis engine that resembles a swarm of fireflies. There are dozens of great options for free and cheap, from actual instrument emulators to completely wild stuff.
-NodeBeat App on a Nexus 7 Android Tablet.
-
-NodeBeat App on a Nexus 7 Android tablet.
-
-Full-Featured DAWs: Now we’re into the meat. DAWs are regularly called “sequencers,” since they have the ability to sequence MIDI data. But that’s only one of a long line of features available. The trend in software development, in general, is to slowly update every product to do everything. In the early years of digital audio, programs would do the one or two things they were best at. Over time, each company has added features pioneered by other companies to the point where almost every DAW can do just about anything you can think of, in regards to audio (and basic video).
-ProTools digital audio workstation screen shot, click to view in a new window.
-
-ProTools Screenshot. Click to view larger.
-
-Basic Functions of a DAW
-
-We’ll go into each of these functions in detail, so here is just a quick overview.
-
-Audio Recording: The basic function of any DAW is record audio. This can be done in a single pass, or by “punching in” exactly where a trouble spot began. DAWs can handle dozens to hundreds of audio tracks without causing too much strain on most systems. Where it used to take highly-skilled professionals a lot of time to physically cut and join tapes, now anyone can press a single key and they’ve hit the ground running.
-
-Audio Editing: Audio clips can be cut, copied and pasted. They can be nudged around with the accuracy of a single sample. Audio levels can be raised or lowered at any point in the clip. Fade ins, outs, and crossfades are common. Coupled with extra tools, audio clips can be mostly relieved of distortion, pops, clicks, noise, and other artifacts.
-
-Audio Routing/Mixing: DAWs generally have an edit window for recording, editing, and arranging clips; the other essential window is the mixer. It usually resembles a hardware mixer, with a fader to mix levels, input and output selection, pan, mute, and solo. The main difference is it’ll have spots to insert more effects and send audio to more places (to a bus) than are usually available on a hardware mixer (and you don’t have to actually buy gear or fuss with patch cables).
-
-Applying Audio Effects: Audio effects can alter dynamics, time, placement, filter, pitch, and just about anything else you can think to do with audio. They are used to alter the sound to whatever is needed for a given project. The most common effects are compression to level out audio, EQ to fix undesirable frequencies, and spatial/panning effects to place audio in different sonic locations.
-
-Automating Effects: Effects don’t have to be static, nor do you have to physically move a knob during a performance. Automation can alter any parameter of any effect over time. To write automation, you can either physically move a controller during playback/performance, use the mouse to create and move points, or employ the small array of drawing tools most DAWs make available.
-
-Working with MIDI Data: Now we get to the sequencing part. DAWs read MIDI data, which is usually notes and their accompanying dynamics/time signatures/tempos/pedal states, etc . . . from notation programs and prior MIDI performances or programming. They also have the ability to write new MIDI data from controllers, including the humble computer keyboard and mouse. The most common MIDI creation tool is the MIDI keyboard.
-
-Playing Instruments with MIDI Data: Like effects, software instruments can be a deep and expensive rabbit hole if you aren’t careful. Similar to how DAWs get better and more feature-rich over the years, software synths and sampled instruments get significantly better regularly. For schools, there are many free options and huge discounts on some of the finest commercial libraries.
-
-Audio for Video: Most DAWs can now import videos, and some can also export them with the accompanying audio or stream them live. This makes tasks like film scoring immensely easier than before. Since it’s a newer feature for a lot of DAWs, there are still some bugs to work out in some programs
-
-<!-- in sosspeso -->
-essa vede un minor coinvolgimento dell'artista e, come aspetto principale, contempla l'applicazione di effetti volti a creare, attraverso la DAW, il sound progettato.
 
 <!-- Un player audio non è una DAW. -->
 

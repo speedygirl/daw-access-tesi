@@ -437,7 +437,7 @@ Una tappa fondamentale era stata l'introduzione del nastro magnetico, che in bre
 
 Una modalità comune di registrazione tradizionale, oggi sostanzialmente abbandonata, prevedeva la registrazione in tempo reale su due canali, destro e sinistro, mediante l'uso di due microfoni.
 Negli anni '60, vengono utilizzati i primi sequencer, dispositivi analogici la cui funzione è generare e controllare sequenze di segnali tramite le quali si pilotano potenziometri e pulsanti dei sintetizzatori. In pratica, variando i segnali di tensione elettrica, si poteva eseguire una sequenza di controllo ciclica, generare note, controllare parametri ed effetti del sintetizzatore.
-
+Il sequencer nasce inizialmente come generatore di segnali di controllo per strumenti elettronici. Per estensione il termine viene usato oggi in senso più ampio per identificare strumenti software in grado di registrare e richiamare materiali MIDI e audio.
 Nel decennio successivo sono implementati i sequencer che sfruttano una memoria digitale per archiviare gli eventi, dotati di uscite analogiche e programmabili usando una tastiera alfanumerica. 
 
 Negli anni '80 nascono i sequencer dotati di tastiera simile a quella del pianoforte che facilitano l'esecuzione ai performer. Il primo campionatore e sintetizzatore digitale, il Fairlight CMI, esce nel 1979 con un sistema operativo dedicato il QDOS. Era composto da una tastiera, un monitor, un case contenente il computer e le connessioni audio. Nella foto il modello Fairlight CMI.
@@ -450,7 +450,7 @@ A fine anni '80 viene rilasciato Steinberg Cubase, capostipide dei software con 
 Altri esempi di programmi di questo tipo sono: Pro Tools di Avid, Garage Band di Apple, Logic Pro di Apple, Reaper di Cockos, Ableton Live di Ableton, Sony ACID di Sony. 
 Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU.
 
-Il sequencer nasce inizialmente come come generatore di segnali di controllo per strumenti elettronici. Per estensione il termine viene usato oggi in senso più ampio per identificare strumenti software in grado di registrare e richiamare materiali MIDI e audio.
+
 
 <!-- fine parte revisionata -->
 
@@ -501,7 +501,7 @@ In generale la scheda audio ha diversi tipi di connettori e quindi di interfacci
 
 ## DAW, digital audio workstation
 Come già detto una DAW (Ditigal Auio Workstation) è un software che consente di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale gestendo anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
-Essa consente di gestire il segnale sonoro in ingresso e in uscita tramite i convertitori da audio a digitale e da digitale a audio presenti sulla scheda che, come già detto, può essere integrata nel computer o esterna.
+Essa consente di gestire il segnale sonoro in ingresso e in uscita tramite i convertitori da audio a digitale e da digitale a audio presenti sulla scheda che, può essere integrata nel computer o esterna.
 
 
 What are the Basic Functions of a DAW?

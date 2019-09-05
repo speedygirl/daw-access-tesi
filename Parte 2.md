@@ -54,14 +54,7 @@ Ai fini della presente legge, si intende per: \
 a) “accessibilità”: la capacità dei sistemi informatici, ivi inclusi i siti Web e le applicazioni mobili, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari; \
  \
 a-bis) “applicazioni mobili”: il software applicativo progettato e sviluppato da parte o per conto dei soggetti erogatori, per essere utilizzato dagli utenti su dispositivi mobili, quali smartphone e tablet; è escluso il software che controlla tali dispositivi (sistemi operativi mobili) o lo stesso hardware informatico; \
- \
-a-ter) “sito Web”: insieme strutturato di pagine Web utilizzato per veicolare informazioni o erogare servizi, comunemente definito anche sito Internet; \
- \
-a-quater) “contenuti di extranet o intranet”: siti Web disponibili soltanto per un gruppo chiuso di persone e non per il pubblico; \
- \
-a-quinquies) “soggetti erogatori”: i soggetti di cui all’articolo 3, comma 1; \
- \
-a-sexies) “dati misurati”: i risultati quantificati dell’attività di monitoraggio effettuata per verificare la conformità dei siti Web e delle applicazioni mobili dei soggetti erogatori alle prescrizioni in materia di accessibilità di cui alla presente legge. I dati misurati comprendono informazioni quantitative sul campione di siti Web e applicazioni mobili sottoposti a verifiche, tra i quali il numero di siti Web e le applicazioni con il numero potenziale di visitatori o utenti, nonché informazioni quantitative sul livello di accessibilità;” \
+ \\
  \
 b) “tecnologie assistive”: gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici. \
  \
@@ -72,7 +65,6 @@ La presente legge si applica alle pubbliche amministrazioni di cui al comma \
 2 dell’articolo 1 del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni, agli enti pubblici economici, alle aziende private concessionarie di servizi pubblici, alle aziende municipalizzate regionali, agli enti di assistenza e di riabilitazione pubblici, alle aziende di trasporto e di telecomunicazione a prevalente partecipazione di capitale pubblico e alle aziende appaltatrici di servizi informatici, agli organismi di diritto pubblico ai sensi dell’articolo 2, paragrafo 1, punto 4, della direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014 nonché a tutti i soggetti che usufruiscono di contributi pubblici o agevolazioni per l’erogazione dei propri servizi tramite sistemi informativi o internet. \
  \
 Le disposizioni della presente legge in ordine agli obblighi per l’accessibilità non si applicano ai contenuti che si trovano esclusivamente su dispositivi mobili o programmi utente per dispositivi mobili sviluppati per gruppi chiusi di utenti o per uso specifico in determinati contesti e non disponibili e usati da ampi segmenti di utenti. Le medesime disposizioni non si applicano ai contenuti di extranet o intranet, di cui all’articolo 2, comma 1, lettera a-quater), pubblicati prima del 23 settembre 2019 fino a una loro revisione sostanziale. \
- \
  \
 Art. 3-bis (Principi generali per l’accessibilità) \
  \
@@ -99,8 +91,6 @@ I soggetti erogatori applicano le prescrizioni in materia di accessibilità prev
  \
 Per onere sproporzionato si intende un onere organizzativo o finanziario eccessivo per i soggetti erogatori ovvero un onere che pregiudica la capacità degli stessi di adempiere allo scopo prefissato o di pubblicare le informazioni necessarie o pertinenti per i compiti e servizi, pur tenendo conto del probabile beneficio o pregiudizio che ne deriverebbe per i cittadini e, in particolare, per le persone con disabilità. Non possono costituire, di per sé, un onere sproporzionato i tempi occorrenti per sviluppare i siti Web ed applicazioni mobili ovvero la necessità di acquisire le informazioni occorrenti per garantire il rispetto degli obblighi previsti dalla presente legge e dalle linee guida. \
  \
-I soggetti erogatori effettuano, sulla base delle Linee guida di cui all’articolo 11, la valutazione relativa alla sussistenza delle circostanze che determinano l’onere sproporzionato. \
- \
 Nei casi di cui al comma 2, i soggetti erogatori effettuano la dichiarazione di accessibilità secondo le modalità di cui all’articolo 3-quater, comma 2, lettera a). \
  \
 Art. 3–quater (Dichiarazione di accessibilità) \
@@ -125,22 +115,6 @@ Art. 3-quinquies (Procedura di attuazione) \
  \
 La dichiarazione di accessibilità è verificata dall’Agenzia per l’Italia digitale con riferimento alla conformità al modello di cui all’articolo 3-quater, comma 3, e ai casi di inaccessibilità. \
  \
-In caso di contestazione sulla dichiarazione di accessibilità ovvero in caso di esito insoddisfacente del monitoraggio di cui all’articolo 7, comma 1, lettere a) e a-bis), il difensore civico digitale di cui all’articolo 17 del decreto legislativo n. 82 del 2005, decide in merito alla corretta attuazione della presente legge e dispone eventuali misure correttive. \
- \
-Il difensore civico digitale decide, altresì, nei casi di cui all’articolo 3-quater, comma 2, lettera c), su segnalazione dell’utente, disponendo eventuali misure correttive e informando l’Agenzia per l’Italia digitale. \
- \
-Art. 4 (Obblighi per l’accessibilità) \
- \
- \
-Nelle procedure svolte dai soggetti di cui all’articolo 3, comma 1, per l’acquisto di beni e per la fornitura di servizi informatici, i requisiti di accessibilità stabiliti con le linee guida di cui all’articolo 11 sono necessari. La mancata considerazione dei requisiti di accessibilità o l’eventuale acquisizione di beni o fornitura di servizi non accessibili è consentita nei casi di cui all’articolo 3, comma 2, ovvero in presenza di un onere sproporzionato nei casi di cui all’articolo 3-ter ed è adeguatamente motivata. \
- \
-I soggetti di cui all’articolo 3, comma 1, non possono stipulare, a pena di nullità, contratti per la realizzazione e la modifica di siti Web e applicazioni mobili quando non è previsto che essi rispettino i requisiti di accessibilità stabiliti dalle linee guida di cui all’articolo 11, fatto salvo quanto previsto dall’articolo 3-ter. I contratti in essere alla data di pubblicazione delle linee guida di cui all’articolo 11, in caso di rinnovo, modifica o novazione, sono adeguati, a pena di nullità, alle disposizioni della presente legge circa il rispetto dei requisiti di accessibilità, con l’obiettivo di realizzare tale adeguamento entro dodici mesi dalla medesima data di adozione delle predette linee guida. \
- \
-La concessione di contributi pubblici a soggetti privati per l’acquisto di beni e servizi informatici destinati all’utilizzo da parte di lavoratori con disabilità o del pubblico, anche per la predisposizione di postazioni di telelavoro, è subordinata alla rispondenza di tali beni e servizi ai requisiti di accessibilità stabiliti dalle linee guida di cui all’articolo 11. \
- \
-I datori di lavoro pubblici e privati pongono a disposizione del dipendente con disabilità la strumentazione hardware e software e la tecnologia assistiva adeguata alla specifica disabilità, anche in caso di telelavoro, in relazione alle mansioni effettivamente svolte. Ai datori di lavoro privati si applica la disposizione di cui all’articolo 13, comma 1, lettera c), della legge 12 marzo 1999, n. 68. L’Agenzia per l’Italia Digitale stabilisce le specifiche tecniche delle suddette postazioni, nel rispetto della normativa internazionale. \
- \
-I datori di lavoro pubblici provvedono all’attuazione del comma 4 nell’ambito delle specifiche dotazioni di bilancio destinate alla realizzazione e allo sviluppo del sistema informatico. \
  \
  \
 Art. 5 (Accessibilità degli strumenti didattici e formativi) \
@@ -161,7 +135,7 @@ AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo gover
 - formazione alla pubblica amministrazione sui temi dell'accessibilità.
 - Osservatorio Nazionale sulla Disabilità del Ministero del Lavoro e delle Politiche sociali (OND);
 - Enti di normazione CEN, UNI e UNINFO.
-Possiamo considerare questi ultimmi commi, riportatai per intero, come l'ultimo aggiornamento legislativo in questo ambito. è da qui che si è potuto comprendere come la normativa, anche la più aggiornata, tratti esclusivamente gli aspetti di accessibilità Web, senza un rimando specifico all'accessibilità per software, e costituisca un aspetto coercitivo soltanto per quanto riguarda l'ambito pubblico e non  i prodotti immessi sul mercato da aziende private. Gli esperti del settore hanno in ogni caso adottato, qualora interessati a realizzare un prodotto accessibile, queste normative quali linee guida generali nello svilupo software: risultano essere pertanto gli unici riferimenti normativi in questo ambito, pur non essendo nè specifiche nè obbligatorie. 
+Possiamo considerare questi ultimmi commi, riportati per intero, come l'ultimo aggiornamento legislativo in questo ambito. è da qui che si è potuto comprendere come la normativa, anche la più aggiornata, tratti esclusivamente gli aspetti di accessibilità Web, senza un rimando specifico all'accessibilità per software, e costituisca un aspetto coercitivo soltanto per quanto riguarda l'ambito pubblico e non i prodotti immessi sul mercato da aziende private. Gli esperti del settore hanno in ogni caso adottato, qualora interessati a realizzare un prodotto accessibile, queste normative quali linee guida generali nello svilupo software: risultano essere pertanto gli unici riferimenti normativi in questo ambito, pur non essendo nè specifiche nè obbligatorie. 
 Questo fatto è ben testimoniato dall'esistenza di un'ampia documentazione tecnica reperibile sul Web, corredata da un'abbondanza di stralci di codice a titolo di esempio e tutorial, per quanto riguarda lo sviluppo Web e per applicativi mobili, non è invece stato possibile reperire materiale simile, che fosse specifico per quanto riguarda il sofware.
 
 ## 2.3 concetto di accessibilità e usabilità
@@ -206,9 +180,9 @@ Nello sviluppo di interfacce software gli sviluppatori devono tener in considera
 
 Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
-- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel. <!-- chiarisci i termini mappa, label, mapping dei pixel -->
+- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel. 
 
-- è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità. <!-- chiarisci il termine API e cosa intendi per controlli personalizzati -->
+- è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità.
 
 - il contrasto elevato e la possibilità di invertire i colori (tra testo e sfondo) sono funzionalità da non tralasciare, utili all'ipovedente.
 
@@ -216,7 +190,7 @@ Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
 - per rendere accessibili i moduli, lo spostamento del cursore del focus della sintesi vocale tramite tastiera deve seguire un ordine logico e significativo e deve essere garantito che il nome, definito in gergo tecnico "tag", sia quello corrispondente al campo che è stato selezionato, detto "field", sfruttando gli strumenti dati dall'ambiente di sviluppo; inoltre sarebbe opportuno creare etichette chiare per ogni elemento del modulo
 
-- è importante costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecnica, e corredata di shortcut chiare e intuitive
+- è importante costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecnica, corredata di shortcut chiare e intuitive
 
 - il significato delle icone non deve passare solo per via visiva (colore, immagine) ma essere corredato di testo alternativo; dev'essere reso chiaro all'utente quando il pulsante è attivato o disattivato, visivamente con la modifica grafica del pulsante stesso, ma anche dando un feedback uditivo agli utilizzatori di tecnologie assistive sonore
 
@@ -230,7 +204,7 @@ Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
 - dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli per farlo questi si possono precompilare con dei valori predefiniti
 
-- le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta alll'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
+- le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta all'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
 
 ## 2.5 Assistive Technology
 

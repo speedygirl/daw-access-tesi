@@ -303,14 +303,15 @@ L'ingranditore, nei sistemi sviluppati da Apple, è presente sin dalle prime ver
 La procedura standard in un iMac o in un MacBook è aprire Apple menù e selezionare System Preferences; all’interno del System row selezionare Universal Access e attivare il pulsante Zoom. Per ulteriori opzioni va cliccato il pulsante Options. [^mac-magnifie-method] 
 
 ### 2.6.5 LE API’s
-La sintesi vocale per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo, per ottenere le informazioni di accessibilità, ad esempio le Users Interface Automation (UIA), abbreviate come UI automation di Windows. Esse forniscono allo screen reader, e di conseguenza alla barra braille, informazioni riguardo:
+Una tipologia di API sono le Microsoft Users Interface Automation (UIA), proprietarie di WIndows, ovvero porzionid di codice in grado di manipolare le interfacce utenti di altri programmi o applicazioni.
+La sintesi vocale per interfacciarsi con la barra braille si appoggia alle APIs standard del sistema operativo, ad esempio appunto le UIA, per ottenere le informazioni di accessibilità. Esse forniscono allo screen reader, e di conseguenza alla barra braille, informazioni riguardo:
 
 - l’azione da parte dell’utente,(l’elemento è selezionato, il pulsante è stato premuto, il menù è espanso ecc…), 
 - il tipo di controllo (pulsante, menù a discesa, checkbox, combo, slider, link), 
 - le proprietà del controllo (nome, properties values che aiuta l'utente a localizzare e capire la caratteristica del controllo stesso), 
 - automation properties (comandi da tastiera), uia patterns indica se il controllo è selezionabile o non selezionabile, patterns/behaviour (toggle, invoke, select, expande/collapse); infine “layout the hierarky for expected behaviour”.  (tratto da PDF "UIA Windows Accessibility" dal sito Microsoft)[^layout-the-hierarky-for-expected-behaviour-pdf-sito-microsoft] 
 da questo link si può eseguire il suo download)
-Le UIA danno anche informazioni sul contesto in cui il comando si trova, il contesto in cui il focus è posizionato (ad esempio il cursore di testo all’apertura di un documento di Word).
+Le Microsoft UIA danno anche informazioni sul contesto in cui il comando si trova, il contesto in cui il focus è posizionato (ad esempio il cursore di testo all’apertura di un documento di Word).
 La quantità di informazioni fornite all’utente dipende da come quest’ultimo ha impostato il “grado di verbosità”, ad esempio si può scegliere se lo screen reader deve annunciare o meno che il pulsante è selezionato, se deve dare suggerimenti sulle azioni che è possibile eseguire (*premere invio o spazio per selezionare*); oppure ancora (premere le frecce) per espandere il sottomenù quindi si può anche impostare che vengano forniti suggerimenti  sulle shortcut da utilizzare <!-- non ho ben capito l'ultima parte della frase, dal ; Puoi ricontrollare? -->. (Si noti che molto spesso è data la possibilità di personalizzare le shortcut, sia relative a alcune funzioni interne allo screen reader, sia relative a funzionalità presenti nei vari programmi, ma non si affronterà questo argomento in quanto il tentativo è di riuscire a essere il più generici possibile).
 NB si ricorda che anche il magnifier <!-- spiega cos'è --> fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
 
@@ -339,7 +340,7 @@ Ritengo infine opportuno citare VoiceOver [^voiceover-apple-ufficiale] utilizzab
 
 
 ## 2.8 Conclusioni accessibilità
-Nei primi decenni di questo secolo si è assistito a uno sviluppo fortissimo delle tecnologie di sintetizzazione delle voci umane, ingenti investimenti sono stati fatti per portare questa tecnica ad un livello di perfezione che non sarebbe mai stato raggiunto, se non si fosse trovato per le sintesi un risvolto commerciale. È oramai funzionalità di base in ogni smartphone e tablet la capacità di riconoscimento del proprietario per impartire ordini hands free. L'accessibilità ha tratto quindi immenso giovamento da questi ritrovati tecnologici, raggiungendo qualità e prestazioni che non sarebbero mai stati raggiunti con l'imposizione legislativa tramite semplici linee guida. 
+Nei primi decenni di questo secolo si è assistito a uno sviluppo fortissimo delle tecnologie di sintetizzazione delle voci umane, ingenti investimenti sono stati fatti per portare questa tecnica ad un livello di perfezione che non sarebbe mai stato raggiunto, se non si fosse trovato per le sintesi un risvolto commerciale. È oramai funzionalità di base in ogni smartphone e tablet la capacità di riconoscimento del proprietario per impartire ordini hands free. L'accessibilità ha tratto quindi immenso giovamento da questi ritrovati tecnologici, raggiungendo qualità e prestazioni che non sarebbero mai stati raggiunti solo con l'imposizione normativa. 
 
-<!-- La posizione è interessante, ma va argomentata, da cosa deduci quello che hai scritto? -->
+
 

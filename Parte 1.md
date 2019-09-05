@@ -1,32 +1,33 @@
 # PREFAZIONE
 Questa tesi si occupa di indagare l'accessibilità da parte di disabili visivi ai software di produzione musicale DAW (Digital Audio Workstation).
-Per le definizioni di disabile e di accessibilità si è fatto riferimento alla Convenzione delle Nazioni Unite sui diritti delle persone con disabilità del 2008.
-Nella convenzione si dice che "la disabilità è il risultato dell'interazione tra persone con minorazioni e barriere attitudinali e ambientali, che impedisce la loro piena ed efficace partecipazione nella società su una base di parità con gli altri".
+Per le definizioni di disabile e di accessibilità si è fatto riferimento alla Convenzione delle Nazioni Unite sui diritti delle persone con disabilità del 2008 (abbreviata CRPD).
+Nella Convenzione si dice che "la disabilità è il risultato dell'interazione tra persone con minorazioni e barriere attitudinali e ambientali, che impedisce la loro piena ed efficace partecipazione nella società su una base di parità con gli altri".
 
 Si definisce disabile visivo la mancanza totale o parziale della percezione visiva in uno o in entrambi gli occhi.
 
-L'accessibilità, nell'articolo 9 della sopracitata convenzione abbreviata CRPD, è "l'accesso all'ambiente fisico, sociale, economico e culturale, ai trasporti, all'informazione e alla comunicazione, compresi i sistemi e le tecnologie di informazione e comunicazione, e ad altre attrezzature e servizi aperti o forniti al pubblico."
+L'accessibilità, nell'articolo 9 della CRPD, è "l'accesso all'ambiente fisico, sociale, economico e culturale, ai trasporti, all'informazione e alla comunicazione, compresi i sistemi e le tecnologie di informazione e comunicazione, e ad altre attrezzature e servizi aperti o forniti al pubblico."
 
 Nell'ambito specifico dell'informatica, per accessibilità si intende la possibilità di poter fruire di informazioni hardware e sotware specificatamente ottimizzate ed è regolata da una specifica normativa, la Legge Stanca. 
 
-La Costituzione italiana stessa garantisce la tutela tutte le categorie di cittadiniaffermandone l'uguaglianza e il dovere dello Stato di rimuovere gli ostacoli che ne impediscano la piena realizzazione personale e sociale.
+La Costituzione italiana stessa garantisce la tutela di tutti i cittadini, affermandone l'uguaglianza e il dovere dello Stato di rimuovere gli ostacoli che ne impediscano la piena realizzazione personale e sociale.
 > Tutti i cittadini hanno pari dignità sociale e sono eguali davanti alla legge, senza distinzione di sesso, di razza, di lingua, di religione, di opinioni politiche, di condizioni personali e sociali.
 E` compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale, che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana e l'effettiva partecipazione di tutti i lavoratori all'organizzazione politica, economica e sociale del Paese.
 
-Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni/sound design per materiali audiovisivi e installazioni artistiche o di intrattenimento.
+Una DAW è un software complesso in grado di gestire tutte le fasi della produzione audio. Con produzione audio si intendono tutte le attività implicate nella realizzazione di materiali sonori, in particolare di brani musicali e sonorizzazioni sound-design per materiali audiovisivi e installazioni artistiche o di intrattenimento.
 
-La scelta di affrontare l'argomento trattato è nata in seguito alla partecipazione ad un corso di produzione musicale con la DAW Steinberg Cubase, corso durante il quale ho potuto constatare l'alto livello di inaccessibilità del software. 
+La scelta di affrontare l'argomento trattato è nata in seguito alla partecipazione ad un corso di produzione musicale con la DAW Steinberg Cubase, corso durante il quale ho potuto constatare l'inaccessibilità del software. 
 
-Ho ritenuto opportuno offrire un'ampia introduzione di carattere storico e teorico, cimentandomi quindi l'analisi di alcune DAW selezionate, valutandone l'accessibilità.
+Ho ritenuto opportuno offrire un'ampia introduzione di carattere storico e teorico, cimentandomi in seguito nell'analisi di alcune DAW selezionate, per valutarne l'accessibilità.
 
 Ho deciso per completezza di non limitarmi a testare i software su un solo sistema operativo, ma di usare i due più diffusi, Microsoft Windows e Mac Os X (sistemi che tra l'altro sono entrambi molto ben equipaggiati a livello di assistive technologies).
 
-Per quanto riguarda le DAW la scelta è caduta su Cockos Reaper, Avid Pro-Tools e Steinberg Cubase, tre delle DAW più diffuse. Per ciascuna si è valutato il grado di accessibilità in relazione a una serie di operazioni e funzioni fondamentla, scegliendo di sintetizzare i risultati dell'analisi stilando per ogni programma una tabella in cui sono riportati i comandi e la relativa valutazione del grado di delle stesse attraverso un valore numerico da 0 a 4, in cui 4 corrisponde a perfettamente accessibile e 0 a completamente inaccessibile.
+Per quanto riguarda le DAW la scelta è caduta su Cockos Reaper, Avid Pro-Tools e Steinberg Cubase, tre delle DAW più diffuse. Per ciascuna si è valutato il grado di accessibilità in relazione a una serie di operazioni e funzioni fondamentali, scegliendo di stilare una tabella coi risultati dell'analisi per ogni programma, tabella in cui sono riportati i comandi e la relativa valutazione. Il grado di accessibilità è stato espreso attraverso un valore numerico da 0 a 4, in cui 4 corrisponde a perfettamente accessibile e 0 a completamente inaccessibile.
 
 La trattazione è suddivisa in tre macrosezioni.
-Nella prima parte si definisce il concetto di produzione audio, per poi analizzare come è cambiato il lavoro del produttore dalla metà degli anni '50 a oggi. Si passano poi in rassegna le principali tecnologie utilizzate per la registrazione e la riproduzione sonora dalle origini ad oggi (dal fonografo alle Digital Audio Workstation). Si definisce infine il concetto di MIDI offrendone una panoramica storica e le principali specifiche tecniche.
-Nella seconda parte, la tesi affronta il concetto di accessibilità e di usabilità, le legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo software e applicazioni, per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti.è stata riportata anche una breve panoramica storica dell'evoluzione delle tecnologie assistive.
-Infine, nella terza parte, si confrontano i tre software di produzione musicale sopra citati (Cubase, Reaper e Pro Tools), valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente disabile visivo. Sempre nella terza parte, trova spazio una disamina teorica dei problemi che causano l'inacessibilità nei software. 
+Nella prima parte si passano in rassegna le principali tecnologie utilizzate per la registrazione e la riproduzione sonora dalle origini ad oggi (dal fonografo alle Digital Audio Workstation). Si definisce poi il concetto di produzione audio, analizzando come è cambiato il lavoro del produttore dalla metà degli anni '50 a oggi. Infine si definisce il concetto di MIDI offrendone una panoramica storica e le principali specifiche tecniche.
+Nella seconda parte, la tesi affronta il concetto di accessibilità e di usabilità, la legislazione europea, le linee guida cui i programmatori si devono attenere nello sviluppo software e applicazioni, per permetterne la fruizione anche a utenti disabili, nello specifico non vedenti e ipovedenti. E' stata riportata anche una breve panoramica storica dell'evoluzione delle tecnologie assistive.
+La terza parte si occupa dell'interazione dei sistemi operativi  con le tecnologie assistive, per poi confrontare i tre software di produzione musicale sopra citati (Cubase, Reaper e Pro Tools), valutandone il grado di accessibilità e le difficoltà d’uso dal punto di vista dell'utente disabile visivo. 
+
 
 \newpage
 
@@ -35,7 +36,7 @@ Infine, nella terza parte, si confrontano i tre software di produzione musicale 
 ## 1.1 BREVE STORIA DELLE TECNOLOGIE APPLICATE ALL'AUDIO
 La produzione audio è l'insieme delle attività che portano alla creazione di materiali sonori accessibili in formato digitale o su supporti analogici. 
 Storicamente la produzione audio si è di necessità sviluppata ed evoluta di pari passo con gli strumenti tecnologici ad essa dedicati. Si rende quindi opportuno effettuare una breve panoramica relativa all'evoluzione storica degli strumenti hardware e software di registrazione, manipolazione e riproduzione del suono.
-Roberto Diem Tigani[^roberto-diem-tigani] individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec., quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso, la digitale a fine secolo scorso.
+<Roberto Diem Tigani[^roberto-diem-tigani] individua tre stadi fondamentali di sviluppo: la registrazione meccanica, mediante fonografi e grammofoni a partire dal XIX sec.; quella elettrica e magnetica su nastro o bobina, nella prima metà del secolo scorso; la digitale a fine secolo scorso.
 Ad ogni passaggio corrisponde un diverso modo di produrre e ascoltare musica, ogni innovazione ha influito sulla sfera sia pubblica che privata dell'ascolto, contribuendo allo sviluppo e all'evoluzione dei mezzi di comunicazione di massa.
 
 ### 1.1.1 LA REGISTRAZIONE MECCANICA

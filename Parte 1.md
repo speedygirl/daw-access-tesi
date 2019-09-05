@@ -467,7 +467,7 @@ La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.
 Successivamente le tracce vengono miscelate e mixate; si possono aggiungere effetti su ogni traccia o su un punto specifico.
 
-### 1.3.4 IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
+### 1.3.3 IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
 In uno studio di registrazione digitale, gli elementi nel percorso di elaborazione del suono, sono: 
 
 - sorgente sonora
@@ -488,14 +488,14 @@ Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware
 
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
-### 1.3.5 SCHEDA AUDIO
+### 1.3.4 SCHEDA AUDIO
 Una scheda audio, anche definita interfaccia audio, è un componente che espande le funzionalità del computer e può essere integrata nel computer stesso o esterna. Le schede audio si distinguono per formato e tipo di collegamento dati. Se ne possono trovare installate direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a sestanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale. La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali: con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione, mentre con quelli analogici si interfacciano i dispositivi esterni come microfoni, casse, cuffie. La scheda audio  gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio. Generalmente presenta almeno un canale stereo (L, R) in ingresso e un altro in uscita; esempi di porte sono: RCA/Jack, Cannon, USB B. Il jack può essere sia mono che stereo e si definisce un "cavo di segnale": se è mono comprende un canale e la massa, mentre se è  stereo gestisce i canali left e right e si riconosce dai due solchi presenti sul jack stesso.Di solito le schede sono dotate di ingressi e uscite analogici "combo" jack da 1/4 più canon, la dimensione tipica delle schede professionali, mentre quelle economiche sono dotate di un jack da 1/8.
  
 Per permettere la compatibilità della scheda audio con diversi software, sono disponibili vari drive scaricabili sul sito della casa produttrice della scheda.
 
 
 
-### 1.3.6 Cos'è il MIDI
+### 1.3.5 Cos'è il MIDI
 
 Le informazioni contenute in questa parte e gli schemi illustrativi sono stati tratti da: 
 M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica

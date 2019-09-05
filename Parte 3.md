@@ -1329,27 +1329,30 @@ Nel menù “Audio suite” si trovano le funzionalità seguenti:
 ![Screenshot Menu AudioSuite](.\images\protools-windows-images\windows-protools-9-menu-audiosuite.png)
 
 Nel menù “Options” si trovano gli items seguenti:
-* Loop Record (Alt+L)
-* QuickPunch (Ctrl+Shift+P)
-* Pre/Post-Roll (Ctrl+K)
-* Loop Playback (Ctrl+Shift+L)
-* Edit Window Scrolling
-* Insertion Follows PlaybackTab to Transient (Ctrl+Alt+Tab)
-* Click
-* Pre-Fader Metering
-+ Low Latency Monitoring
 
-![Screenshot Menu Options](.\images\protools-windows-images\windows-protools-10-menu-options.png)
+- Loop Record (Alt+L)
+- QuickPunch (Ctrl+Shift+P)
+- Pre/Post-Roll (Ctrl+K)
+- Loop Playback (Ctrl+Shift+L)
+- Edit Window Scrolling
+- Insertion Follows PlaybackTab to Transient (Ctrl+Alt+Tab)
+- Click
+- Pre-Fader Metering
+- Low Latency Monitoring
 
-* Il menù “Setup” contiene:
-* Hardware...
-* Playback Engine...
-* MIDI Studio...
-* MIDI Beat Clock...
-* MIDI Input Filter...
-* MIDI Input Devices...
-* Click/Countoff....
-* Language
+![](.\images\protools-windows-images\windows-protools-10-menu-options.png)
+*Screenshot Menu Options*
+
+Il menù “Setup” contiene:
+
+- Hardware...
+- Playback Engine...
+- MIDI Studio...
+- MIDI Beat Clock...
+- MIDI Input Filter...
+- MIDI Input Devices...
+- Click/Countoff....
+- Language
 
 ![Screenshot Menu Setup](.\images\protools-windows-images\windows-protools-11-menu-setup.png)
 
@@ -1638,7 +1641,7 @@ azioni 0
 
 [^accessibility-inspector-xcode]: Per usare Xcode si seleziona il controllo da analizzare: l'analizzatore visualizza i metadati relativi alla zona selezionata mediante  mouse.
 
-----------------
+\newpage
 
 principali funzionalità dal punto di vista dei vedenti da appunti grotta (già rielaborati qui sotto)
 
@@ -1687,20 +1690,15 @@ Ignora etichette ridondanti potrebbe servire a
 2. barra di stato e button dentro si chiama “barra di stato pulsante” e pu evitare di dire “barra di stato”.
 
 
-
-note parte 3
-[^steimberg-sito-ufficiale]: https://www.steinberg.net/en/home.html
-
-http://akmedia.digidesign.com/support/docs/Pro_Tools_SE_8_0_3_User_Guide_83889.pdf
-protools-manuale-accessibilita]
-
+[^steimberg-sito-ufficiale]: Sito della Steimberg *https://www.steinberg.net/en/home.html*
+[^protools-manuale-accessibilita]: Protools manuale di accessibilità *http://akmedia.digidesign.com/support/docs/Pro_Tools_SE_8_0_3_User_Guide_83889.pdf*. consultato il 25 agosto 2019
 [^osara]: *https://osara.reaperaccessibility.com/snapshots/*
-[^github-link]: https://github.com/jcsteh/osara
-[^garth-humphreys]: https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow
-[^youtube-ciechi]: https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow
-[^english-questions]: Versione in lingua originale Link *http://www.afb.org/info/assistive-technology/speech-systems/* 35consultato in data 11/01/2018]
-[^link-installazione-mac]:  https://reaperaccessibility.com/index.php/CHAPTER_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac Consultato 2/01/2019]
-[^link-download]: https://www.reaper.fm/download.php
-http://reaproducer.com/index.php/rt002/
+[^github-link]: *https://github.com/jcsteh/osara*
+[^garth-humphreys]: *https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow*
+[^youtube-ciechi]: *https://www.youtube.com/channel/UC-rL46RtrPdb_I3awd9eJow*
+[^english-questions]: Versione in lingua originale Link *http://www.afb.org/info/assistive-technology/speech-systems/35* consultato in data 11/01/2018
 
+[^link-installazione-mac]: Reaper Accessibility, Getting Started  *https://reaperaccessibility.com/index.php/CHAPTER_1:_Setting_Up_and_Getting_Started#1.2_Installing_REAPER_on_an_OS_X_Mac*  Consultato il 02/01/2019 
+[^link-download]: Download Reaper *https://www.reaper.fm/download.php*
+[^reaperproducer]: Blog Reaperproducer, Reaper Basics, Tracks, Media & OSARA Configuration – RT02 *http://reaproducer.com/index.php/rt002/* consultato il 02/01/2019
 

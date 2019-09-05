@@ -51,6 +51,7 @@ https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibil
 
 [^mac-magnifier-attivazione]: Life Wire, *https://www.lifewire.com/zoom-apples-built-in-screen-magnifier-198673* consultato il 2 agosto 2019
 
+[^agid-pdf]: *https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf* consultato il 25 novembre 2018
 
 [^stanford-sito-ufficiale]: Sito Ufficiale di Standford *https://cs.stanford.edu/people/eroberts/courses/soco/projects/2005-06/accessibility/software.html* consultato il 2 agosto 2019
 

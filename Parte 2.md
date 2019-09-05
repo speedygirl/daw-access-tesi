@@ -7,7 +7,7 @@ La diffusione e lo sviluppo della rete Internet e del Web hanno portato particol
 
 Scrive a questo proposito Valentina Arnato nel suo articolo "Accessibilità e usabilità: metodologie di inclusione sociale":
  
-> I digital media... sono divenuti spazi di fruizione delle informazioni, così come spazi alternativi alla realtà quotidiana, per la fruizione dei più svariati servizi. Il loro avvento ha ridefinito i concetti di spazio e tempo e di riflesso l’essenza stessa dell’individuo-cittadino: gli ambienti digitali, oltre a ridurre le distanze fisiche e comunicative, generano relazioni che non sono più solo fondate sul rapporto face to face. [^accessibilita-usabilita-rivista]
+> I digital media \[...\] sono divenuti spazi di fruizione delle informazioni, così come spazi alternativi alla realtà quotidiana, per la fruizione dei più svariati servizi. Il loro avvento ha ridefinito i concetti di spazio e tempo e di riflesso l’essenza stessa dell’individuo-cittadino: gli ambienti digitali, oltre a ridurre le distanze fisiche e comunicative, generano relazioni che non sono più solo fondate sul rapporto face to face. [^accessibilita-usabilita-rivista]
 
 Si è di fronte a quella che storicamente viene considerata la Terza Rivoluzione Industriale[^jeremy-rifkin-p329], appunto per sottolinearne la portata innovativa, da cui non è più possibile prescindere, a livello di modello comunicativo, linguaggio interpersonale, relazioni e ambito lavorativo o artistico.
 
@@ -124,7 +124,7 @@ Le disposizioni della presente legge si applicano, altresì, al materiale format
 Le convenzioni stipulate tra il Ministero dell’istruzione, dell’università e della ricerca e le associazioni di editori per la fornitura di libri alle biblioteche scolastiche prevedono sempre la fornitura di copie su supporto digitale degli strumenti didattici fondamentali, accessibili, anche agli alunni con disabilità e agli insegnanti di sostegno, nell’ambito delle disponibilità di bilancio.  [^aggiornamento-legge-stanca-2018]
 
 Segue la pubblicazione da parte di AGID delle linee guida.
-AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. 
+AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale) è un organismo governativo incaricato di gestire la tematica dell’accessibilità. 
 Da quest'ultimo aggiornamento legislativo si evince come la normativa, anche la più aggiornata, tratti esclusivamente gli aspetti di accessibilità Web, senza un rimando specifico all'accessibilità per software, e costituisca un aspetto coercitivo soltanto per quanto riguarda l'ambito pubblico e non i prodotti immessi sul mercato da aziende private. Gli esperti del settore hanno in ogni caso adottato, qualora interessati a realizzare un prodotto accessibile, queste normative quali linee guida generali nello sviluppo software: risultano essere pertanto gli unici riferimenti normativi in questo ambito, pur non essendo né specifici né obbligatori. 
 Questo fatto è ben testimoniato dall'esistenza di un'ampia documentazione tecnica reperibile sul Web, corredata da un'abbondanza di stralci di codice a titolo di esempio e tutorial. Invece,  per quanto riguarda lo sviluppo Web e per applicativi mobili, non è stato possibile reperire materiale simile, che fosse specifico per quanto riguarda il sofware.
 
@@ -135,11 +135,11 @@ Trattato istitutivo della comunità europea [^direttiva-europea-pdf] art.13
 > Fatte salve le altre disposizioni del presente trattato e nell’ambito delle competenze da esso conferite alla Comunità, il Consiglio, deliberando all’unanimità su proposta della Commissione e previa consultazione del Parlamento europeo, può prendere i provvedimenti opportuni per combattere le discriminazioni fondate sul sesso, la razza o l’origine etnica, la religione o le convinzioni personali, gli handicap, l’età o le tendenze sessuali. \
 I principi di usabilità e accessibilità si basano sul valore primario di uguaglianza dei cittadini in tutti i settori della società. L'impossibilità  di accesso per le persone disabili alle risorse digitali equivale a negare uno dei diritti fondamentali e impedire il pieno sviluppo della persona umana. Quindi, come tutte le barriere, anche quelle digitali devono essere abolite e siti Web resi accessibili a tutti. La Legge n. 4/2004 (Legge Stanca) definisce: 
 
-> Accessibilità: la capacità dei sistemi informatici ... nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari. \
+> Accessibilità: la capacità dei sistemi informatici \[...\] nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazione, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari. \
 Questo si può attuare tramite “tecnologie assistive gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici”
 
 Si parla di accessibilità dei sistemi informatici quando ci si riferisce alla possibilità di fruire delle informazioni e dei servizi forniti, attraverso sistemi hardware e software appositamente progettati.
-Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto" [^agid-sito-ufficiale]. 
+Al concetto di accessibilità si connette quello di usabilità, che "misura il grado di facilità e soddisfazione con cui gli utenti si relazionano con l'interfaccia di un sito, che risulta quindi tanto più usabile, quanto più le idee alla base della progettazione si avvicinano alle aspettative ddel soggetto" [^agid-pdf]. 
 Secondo le norme standard ISO 9241, il concetto di usabilità viene definito secondo tre parametri:
 
 - efficacia: intesa come precisione e completezza del raggiungimento di obiettivi prefissati da parte degli utenti. \
@@ -160,47 +160,31 @@ La crescita del Web in ambito sociale ha portato, come detto, gli enti governati
 Nello sviluppo di interfacce software gli sviluppatori devono tener in considerazione la compatibilità del loro prodotto con le tecnologie assistive usate a seconda della tipologia di disabilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità nei software si riscontrano:
 
 - nei controlli etichettati con immagini anzichè con il nome, detto "tag"
-
 - nell'assenza di testi alternativi, che ne esplicitino la funzione
-
 - nella priorità di lettura dei tag (i nomi descrittori devono seguire un ordinamento logico che sia funzionale)
-
 - nella necessità di utilizzo del mouse per raggiungere controlli altrimenti irraggiungibili dal focus della sintesi vocale
 - nelle opzioni di visualizzazione non facilmente localizzabili e irraggiungibili mediante la navigazione da tastiera.
 
 Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
 - per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label e circondare i controlli sfruttando il mapping dei pixel. 
-
 - è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità.
-
 - il contrasto elevato e la possibilità di invertire i colori (tra testo e sfondo) sono funzionalità da non tralasciare, utili all'ipovedente.
-
 - è consigliabile testare il software sia attraverso tools automatici, sia manualmente per accertarsi che componenti quali moduli (l'insieme di controlli all'interno di una maschera adibiti all'inserimento dei dati), menù, tendine di selezione, combobox, checkbox ecc. siano accessibili sia da mouse che da tastiera,
-
 - per rendere accessibili i moduli, lo spostamento del cursore del focus della sintesi vocale tramite tastiera deve seguire un ordine logico e significativo e deve essere garantito che il nome, definito in gergo tecnico "tag", sia quello corrispondente al campo che è stato selezionato, detto "field", sfruttando gli strumenti dati dall'ambiente di sviluppo; inoltre sarebbe opportuno creare etichette chiare per ogni elemento del modulo
-
 - è importante costruire un'interfaccia facilmente intuitiva e configurabile da parte degli utenti fornendo anche documentazione di supporto non troppo tecnica, corredata di shortcut chiare e intuitive
-
 - il significato delle icone non deve passare solo per via visiva (colore, immagine) ma essere corredato di testo alternativo; dev'essere reso chiaro all'utente quando il pulsante è attivato o disattivato, visivamente con la modifica grafica del pulsante stesso, ma anche dando un feedback uditivo agli utilizzatori di tecnologie assistive sonore
-
 - ogni volta che gli sviluppatori progettano una GUI basata sull'impiego del mouse, stanno tralasciando il fatto che creano difficoltà a coloro che non lo possono usare o che lo impiegano in maniera alternativa (ad esempio con la sua emulazione tramite tastiera). Sarebbe opportuno evitare perciò le interfacce basate su strutturazioni grafiche complesse inaccessibili senza l'ausilio visivo o comunque senza utilizzo del mouse
-
 - vanno evitati i linguaggi di scripting che le Assistive Technology non possono rilevare ed elaborare
-
 - buona norma è fornire titoli ed etichette per ogni elemento dell'interfaccia. [^roberto-scano-linee-guida]
-
 - occorre differenziare le modalità di fruizione delle informazioni non limitandosi a trasmetterle visivamente (ad esempio tramite il colore), ma fornendo testi alternativi (quali "grassetto attivato" e il pulsante evidenziato; "errore nell'inserimento" oltre al campo evidenziato in rosso per indicare un inserimento scorretto)
-
 - dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli, questi si possono precompilare con valori predefiniti
-
 - le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta all'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
 
 ## 2.5 Assistive Technology
 
 Con il termine “Assistive Technology” (AT), o nella traduzione italiana “tecnologie assistive”, ci si riferisce all’insieme delle soluzioni hardware e software che rendono accessibile e usabile qualsiasi sistema informatico da parte di persone con disabilità fisica, sensoriale o cognitiva, consentendo la fruizione delle informazioni e dei servizi da esso erogati.
-L’ideale sarebbe progettare applicazioni nativamente accessibili, ma troppo spesso questo principio viene disatteso
-.
+L’ideale sarebbe progettare applicazioni nativamente accessibili, ma troppo spesso questo principio viene disatteso.
 Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insieme delle parti hardware e software che forniscono informazioni relative allo stato della macchina e ai comandi necessari all’utente per svolgere le funzioni specifiche per cui il programma è stato progettato. [^massimiliano-salfi-assistive-technology-slide]
 
 La prima formalizzazione del concetto di Assistive Technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
@@ -209,8 +193,6 @@ La prima formalizzazione del concetto di Assistive Technology si trova nel “Te
 ## 2.6 Esempi di Assistive Technology legati alla disabilità visiva
 Fin dalla nascita del Personal Computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, trasmettono frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono sviluppati software di input tramite comandi vocali. 
-https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
-(…… ; consultato 25 novembre 2018). -->
 
 ### 2.6.1 Screen Reader
 Con il termine *screen reader* si intende una categoria di ausili composta da software che possono analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.5.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavette usb o hard-disk esterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
@@ -274,8 +256,8 @@ Si definisce Speech Recognition la capacità di un supporto elettronico di compr
 Le prime release di questo genere di software avevano un vocabolario molto limitato e potevano interpretare solo semplici frasi che fossero ben scandite e perfettamente pronunciate. 
 I due più famosi software erano Via Voice [^via-voice] a metà degli anni ’90 e Dragon Naturally Speaking [^dragon-Naturally-Speaking] dell'IBM del 1975, la cui più recente versione risale ad agosto 2016.
 Attualmente queste funzioni hanno riscontrato un notevole utilizzo commerciale, soprattutto nell’era degli smartphone: supportano l’utilizzo alla guida, o hands free, e recentemente in dispositivi come il Google Home supportano l’IOT (Internet of Things).
-Una delle declinazioni più comuni degli applicativi di riconoscimento vocale, sono i software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione testi. Questi ultimi non sono però in grado di eseguire comandi (Dragon Naturally Speaking), mentre recenti funzionalità built-in nei sistemi operativi Windows (Cortana) e Mac OS (Siri) consentono di eseguire qualsiasi operazione, rappresentando un'alternativa a mouse e tastiera. Alcuni programmi supportano in automatico lo speech recognition mentre altri no; questa funzione  può essere abilitata per ogni applicazione selezionando in Windows 10 “Start” > “Impostazioni” > “Data Ora e Lingua” > “Riconoscimento Vocale” > “Inizia” 
-In Mac Os X il percorso è invece “Preferenze di sistema” > “Tastiera” > "Dettatura".
+Una delle declinazioni più comuni degli applicativi di riconoscimento vocale, sono i software di dettatura cosiddetti “speech to text” che si limitano a interpretare quanto detto e trascriverlo su un documento di un programma di elaborazione testi. Questi ultimi non sono però in grado di eseguire comandi (Dragon Naturally Speaking), mentre recenti funzionalità built-in nei sistemi operativi Windows (Cortana) e Mac OS (Siri) consentono di eseguire qualsiasi operazione, rappresentando un'alternativa a mouse e tastiera. Alcuni programmi supportano in automatico lo speech recognition mentre altri no; questa funzione  può essere abilitata per ogni applicazione selezionando in Windows 10 “Start” \> “Impostazioni” \> “Data Ora e Lingua” \> “Riconoscimento Vocale” \> “Inizia” 
+In Mac Os X il percorso è invece “Preferenze di sistema” \> “Tastiera” \> "Dettatura".
 La nuova frontiera di sviluppo di queste tecnologie sono l’interactive speech e l’utilizzo hands free di dispositivi mobile. 
 
 
@@ -316,17 +298,18 @@ La quantità di informazioni fornite all’utente dipende da come quest’ultimo
 NB si ricorda che anche il magnifier <!-- spiega cos'è --> fa uso delle UIA ad esempio per captare quando il focus, mosso dai comandi da tastiera o dal mouse, viene spostato dall’utente.
 
 ![](.\images\generic\schema-api-uia-microsoft.png)
-*Video Guida Microsoft https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s* consultata il 29 agosto 2019
+Video Guida Microsoft *https://www.youtube.com/watch?v=6b0K2883rXA&t=1207s* consultata il 29 agosto 2019
 
 **Active Accessibility
 Microsoft Active Accessibility (MSAA) is a set of programming language enhancements and standards for programmers to follow. For a user to benefit from MSAA, it is necessary for it to be incorporated into both the application and the screen reader being used. Applications that use MSAA currently include: Microsoft Word, Excel, Internet Explorer, and Lotus Notes.**
 
 
 ## 2.7 Storia delle Assistive Technologies
-Per la stesura di questa sezione ho fatto riferimento al sito https://cs.stanford.edu/. [^stanford-sito-ufficiale]
+Per la stesura di questa sezione ho fatto riferimento al sito *https://cs.stanford.edu/*. [^stanford-sito-ufficiale]
 Storicamente, i primi applicativi sviluppati si occupavano esclusivamente di riprodurre testi, in quanto si riteneva che l’utenza di non vedenti potesse servirsi del PC ad esclusivo scopo di lettura, e non invece di altri applicativi quali fogli di calcolo oppure linguaggi di programmazione. 
-Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech) sviluppato dalla Freedom Scientific a partire dal 1995 quando fu prodotta laversione 1.0. E'utilizzabile esclusivamente su sistema operativo Windows 3.1 e Windows for Workgroups 3.11 (DOS)  e successivi. Dalla versione Windows 98 in avanti JAWS aveva come caratteristiche uniche la possibilità di utilizzare i menù a tendina e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo lo portò ad avere una grande diffusione nonostante la suite di comandi da tastiera particolarmentecomplicata e i costi elevati, in Italia spesso sostenuti dal sistema sanitario locale o dal sistema scolastico.
-Un elemento a sfavore è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. Per ovviare a questo inconveniente gli sviluppatori hanno diviso le tipologie di navigazione in due: modalità maschere, per dare comandi a jaws, e modalità d'inserimento semplice, per poter eseguire la ricerca in  modo comune.>[^germano-carella-ausili]
+Quando ci si rese conto che invece lo sviluppo di software più complessi avrebbe aperto notevoli opportunità, entrarono in commercio numerosi software proprietari, tra cui il più famoso per diffusione fu JAWS (acronimo di *Job Access With Speech)* sviluppato dalla Freedom Scientific a partire dal 1995 quando fu prodotta laversione 1.0. E'utilizzabile esclusivamente su sistema operativo Windows 3.1 e Windows for Workgroups 3.11 (DOS)  e successivi. Dalla versione Windows 98 in avanti JAWS aveva come caratteristiche uniche la possibilità di utilizzare i menù a tendina e il poter sviluppare delle macro di personalizzazione del suo utilizzo pur non andando a modificare la normale interfaccia utente. Questo lo portò ad avere una grande diffusione nonostante la suite di comandi da tastiera particolarmentecomplicata e i costi elevati, in Italia spesso sostenuti dal sistema sanitario locale o dal sistema scolastico.
+
+> Un elemento a sfavore è legato all’utilizzo del browser, in quanto molte delle shortcut necessarie a questo scopo vengono interpretate dal software come comandi e non come oggetto della ricerca. Per ovviare a questo inconveniente gli sviluppatori hanno diviso le tipologie di navigazione in due: modalità maschere, per dare comandi a jaws, e modalità d'inserimento semplice, per poter eseguire la ricerca in  modo comune. [^germano-carella-ausili]
 
 Recentemente, anche grazie alla spinta normativa imposta dai vari governi, hanno cominciato a diffondersi software efficienti e gratuiti, che hanno comportato una notevole svolta nell’autonomia dei disabili visivi. 
 Sicuramente degno di nota è il software opensource gratuito NVDA *(Non Visual Desktop Access)*, introdotto a partire da Windows 7 e disponibile anche in versione “portable” ovvero caricabile su supporto esterno al PC, quindi trasportabile facilmente da un PC ad un altro, rendendo immediatamente accessibile la macchina di interesse. Questo fatto ha abbattuto un’ulteriore barriera, secondo cui il disabile visivo sarebbe costretto ad utilizzare esclusivamente i propri supporti hardware. 

@@ -456,10 +456,10 @@ In seguito lo stesso computer sarà utilizzato come sequencer, compatibile con c
 A fine anni '80 viene rilasciato Steinberg Cubase, capostipide dei software con funzione di sequencer. Nel 1997 venne poi rilasciata la versione VST. Due novità da essa introdotte sono il protocollo VST [^virtual-standard-technology] e la tecnologia ASIO [^asio].
 
 Altri esempi di programmi di questo tipo sono: Pro Tools di Avid, Garage Band di Apple, Logic Pro di Apple, Reaper di Cockos, Ableton Live di Ableton, Sony ACID di Sony. 
-Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU.
+Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali (in particolare sintetizzatori e campionatori o ROMpler) ed effetti non presenti nativamente nel software tramite installazione di componenti aggiuntivi (plug in) in diversi formati: VST, RTAS, TDM, AU. Le DAW di nuova generazione consentono di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale, integrando anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
 
 
-Gli strumenti virtuali possono essere controllati, attraverso tastiere o controllers connessi, mediante protocollo MIDI alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio e consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o moduli di effetti hardware ad essa collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte delle situazioni negli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
+Gli strumenti virtuali possono essere controllati, attraverso tastiere o controllers connessi, mediante protocollo MIDI alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio, che consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o effetti hardware collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte degli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
 <!-- registrazione multitraccia in sospeso --!
 La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio.
@@ -468,42 +468,42 @@ Si può anche registrare dapprima la batteria, poi, mettendo in playback la batt
 Successivamente le tracce vengono miscelate e mixate; si possono aggiungere effetti su ogni traccia o su un punto specifico.
 
 ### 1.3.4 IL PERCORSO ALL'INTERNO DI UNO STUDIO DI REGISTRAZIONE.
-percorso all'interno dello studio di registrazione lavorando con il digitale. 
+In uno studio di registrazione digitale, gli elementi nel percorso di elaborazione del suono, sono: 
 
-- suono
+- sorgente sonora
 - microfono
 - preamplificazione
-- conversione A/D (o macchinario a sè opppure integrati in scheda audio)
+- conversione A/D (o macchinario a sè opppure integrato in scheda audio)
 - computer (c'è il segnale digitale pronto per essere manipolato tramite la daw)
-- convertitore D/A
-- diffusore (il cavo parte da scheda audio verso diffusori e porta il segnale elettrico analogico.
-elettrico = analogico
+- conversione D/A
+- diffusore (il cavo parte da scheda audio verso diffusori e porta il segnale elettrico analogico).
 
 
-La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse, ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio.
+
+La sorgente sonora, in un contesto dal vivo, emette un suono che esercita una variazione di pressione dell'aria circostante. Tale variazione è caratterizzata da uno spostamento delle particelle sul loro asse: ciò significa che le particelle non si spostano ma semplicemente si trasmettono l'un l'altra, vicendevolmente, il moto oscillatorio.
 
 Il microfono, denominato anche trasduttore fonoelettrico, trasduce le variazioni di pressione in variazioni di tensione, però non è in grado di generare un segnale elettrico sufficientemente potente da poter essere direttamente trasmesso all'amplificatore. È perciò indispensabile un preamplificatore, interno o esterno al mixer, che lo rielabori portandolo a un livello di potenza elettrica sufficiente per essere fruibile dall'amplificatore. Il segnale amplificato, può ora mettere in vibrazione gli altoparlanti o diffusori. Il ruolo dei diffusori è tradurre le variazioni di tensione producendo una perturbazione meccanica del mezzo di conduzione, l'aria, e ritornando così al "suono originario", cioè a un'oscillazione di particelle e non più a variazioni di tensione elettrica.
 
-Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni impiegando plug-in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
+Il segnale sonoro in uscita dal preamplificatore, può poi passare nell'hardware FX, l'unità dedicata agli effetti. Questi processori, di cui un esempio sono gli equalizzatori (EQ) e i compressori, elaborano il segnale, ancora in analogico. Spesso queste elaborazioni vengono eseguite impiegando la più pratica DAW. Nell'A/D converter, il segnale è convertito da analogico a digitale. A questo punto viene indirizzato all'Audio Interface IN, cioè alla scheda audio nel canale input, e inviato al computer che lo processa e consente ulteriori rielaborazioni, impiegando plug-in interni alla DAW; subisce le operazioni di editing e di mixaggio. Dal computer è nuovamente trasferito all'Audio interface Out e al D/A converter che, coi convertitori da digitale a analogico, lo ritrasforma in segnale analogico. Infine approda alle cuffie o, in alternativa, alle casse.
 
 In alcuni modelli di scheda audio, come ad esempio la Scarlett, scheda impiegata per fare i test delle DAW, tutte queste componenti sono integrate all'interno...
 
 ### 1.3.5 SCHEDA AUDIO
-Una scheda audio, anche definita interfaccia audio, è un componente che espande le funzionalità del computer, e può essere integrata nel computer stesso o esterna. Le schede audio si distinguono per formato e tipo di collegamento dati. Se ne possono trovare installate direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a sestanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale. La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali: con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione, mentre con quelli analogici si interfacciano i dispositivi esterni come microfoni, casse, cuffie. La scheda audio  gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio. Generalmente presenta almeno un canale stereo (L, R) in ingresso e un altro in uscita; esempi di porte sono: RCA/Jack, Cannon, USB B. Il ack può essere sia mono che stereo e si definisce  un cavo di segnale: se è mono comprende un canale e la massa, mentre se è  stereo gestisce i canali left e right e si riconosce dai due solchi presenti sul jack stesso..Di solito le schede sono dotate di ingressi e uscite analogici "combo" jack da 1/4 più canon, la dimensione tipica delle schede professionali, mentre quelle economiche sono dotate di un jack da 1/8.
+Una scheda audio, anche definita interfaccia audio, è un componente che espande le funzionalità del computer e può essere integrata nel computer stesso o esterna. Le schede audio si distinguono per formato e tipo di collegamento dati. Se ne possono trovare installate direttamente all'interno della macchina o che si collegano tramite protocollo USB o Firewire. I computer comuni hanno dei chipset audio direttamente integrati all'interno della scheda madre oppure a sestanti, ma è comunque possibile collegare una scheda audio esterna per svolgere lavori di registrazione di qualità professionale. La scheda audio ha diversi tipi di connettori e quindi di interfacciamenti, sia analogici che digitali: con i sistemi hardware si collegano strumenti, processori, sistemi di registrazione e impianti di diffusione, mentre con quelli analogici si interfacciano i dispositivi esterni come microfoni, casse, cuffie. La scheda audio  gestisce il segnale sonoro in ingresso e in uscita tramite i convertitori, da audio a digitale e da digitale ad audio. Generalmente presenta almeno un canale stereo (L, R) in ingresso e un altro in uscita; esempi di porte sono: RCA/Jack, Cannon, USB B. Il jack può essere sia mono che stereo e si definisce un "cavo di segnale": se è mono comprende un canale e la massa, mentre se è  stereo gestisce i canali left e right e si riconosce dai due solchi presenti sul jack stesso.Di solito le schede sono dotate di ingressi e uscite analogici "combo" jack da 1/4 più canon, la dimensione tipica delle schede professionali, mentre quelle economiche sono dotate di un jack da 1/8.
  
 Per permettere la compatibilità della scheda audio con diversi software, sono disponibili vari drive scaricabili sul sito della casa produttrice della scheda.
-Le DAW di nuova generazione consentono di eseguire la totalità delle operazioni di produzione e postproduzione di un musicale, integrando anche la componente video, permettendo quindi di fare sincronizzazioni di video e musica.
+
 
 
 ### 1.3.6 Cos'è il MIDI
 
-Le informazioni contenute in questa parte e gli schemi illustrativi sono stati tratti da:
+Le informazioni contenute in questa parte e gli schemi illustrativi sono stati tratti da: 
 M. SALFI, Il MIDI, presentazione in formato pdf per il corso di Informatica musicale, Università degli Studi di Catania, Dipartimento di matematica e informatica
 G. HAUS, Corso di informatica applicata alla musica, pdf disponibile sul sito http://www.lim.di.unimi.it/teaching/materials_pdf/MIDI2.pdf, URL consultato il 14/06/2018
 
-La nascita del protocollo MIDI si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0,, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali.
-Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono case quali: la statunitense SCI e le giapponesi Yamaha e Kaway.La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici, mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei, si basavano su algoritmi proprietari, erano quindi in grado di far dialogare solo strumenti prodotti dalla medesima azienda.
-Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò portava la conseguenza che i brani MIDI registrati in questo modo potessero essere in un secondo momento letti con un programma identico a quello col quale erano stati generati.
+La nascita del protocollo MIDI si deve all’opera degli ingegneri elettronici D. Smith e C. Wood, autori del documento The complete SC MIDI del 1981 che prelude alla presentazione, avvenuta l’anno successivo, del cosiddetto MIDI 1.0, ancora oggi in uso e rimasta pressoché invariata nelle specifiche fondamentali.
+Già nel 1981 fu richiesto l’apporto di alcune case produttrici alla definizione dello standard; vi aderirono la statunitense SCI e le giapponesi Yamaha, Kaway e altre minori. La novità del protocollo elaborato da Smith e Wood permetteva la compatibilità e l’interfacciamento tra strumentazioni (sequencer e strumenti musicali) di diverse case produttrici, mentre le soluzioni elaborate fino a quel momento, per esempio da Roland e Oblerei, si basavano su algoritmi proprietari, erano quindi in grado di far dialogare solo strumenti prodotti dalla medesima azienda.
+Va inoltre ricordato che lo standard MIDI (SMF) fu proposto nel 1986 dalla società americana Opcode Systems e adottato nel 1988. Prima della definizione di questo protocollo veniva impiegato, da parte dei produttori, uno specifico formato per la memorizzazione di eventi MIDI, ma ciò comportava che i brani, registrati in questo modo, dovessero essere letti con un programma identico a quello col quale erano stati generati.
 
 ![Pin Connettore MIDI](.\images\midi\pin_connettore_1.PNG)
 
@@ -520,11 +520,11 @@ Non è possibile collegare tra loro porte del medesimo tipo: in altre parole non
 | - | - |
 | Dettaglio Connettore (**M. Salfi**) | Dettaglio Connettore (**G. HAUS**) |
 
-Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti che consentono la trasmissione simultanea di più messaggi.
+Il MIDI è caratterizzato da una trasmissione asincrona, pertanto sono necessari i due bit di start e stop, più altri 8 per la trasmissione. Al fine di moltiplicare le possibilità di trasmissione, il cavo MIDI è stato suddiviso in sedici canali logici indipendenti, che consentono la trasmissione simultanea di più messaggi.
 
 ![Pacchetto MIDI (Byte)](.\images\midi\byte_5.PNG)
 
-Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 sono del tipo Status Byte e 1 è del tipo Data Byte.
+Per comporre un messaggio MIDI è necessario disporre di 3 Byte di cui 2 del tipo Status Byte e 1 del tipo Data Byte.
 La funzione degli Status Byte è quella di consentire una trasmissione univoca e corretta di comandi, senza possibilità di errore, perciò devono necessariamente essere inviati per primi; essi possono assumere valori tra 128 e 256.
 I Data Byte forniscono i parametri per un corretto funzionamento degli Status Byte e possono assumere valori compresi tra 0 e 127.
 

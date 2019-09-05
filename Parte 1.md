@@ -157,9 +157,9 @@ Questi fattori aumentarono di gran lunga la popolarità del supporto e fu per ri
 
 I primi tentativi di una registrazione su dispositivi magnetici erano stati fatti già a fine '800 da Bell e Tainter, ma non ebbero applicazione commerciale. Data 1898 la prima vera riproduzione magnetica ad opera dell'ingegnere danese Valdemar Poulsen (1869-1942), che inventò un apparecchio detto *telegraphone*, in grado di produrre registrazioni di buona qualità e durata.
 
-![Telegraphone (**ssplprints.com**)](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg)
-
-> \[...\] l'apparecchio consisteva nello scorrimento di un filo d'acciaio al carbonio, alloggiato in un cilindro d'ottone rotante, di fronte a un elettromagnete al quale venivano inviati impulsi elettrici provenienti da un microfono telefonico. Durante la riproduzione il magnete restituiva gli impulsi elettrici convertendoli nuovamente in suoni per mezzo di una cuffia. [^roberto-diemg-igani-p173]
+|![](.\images\supporti_registrazione_riproduzione\telegraphone_poulsen.jpg)|
+|-|
+|*Telegraphone (**ssplprints.com**)*|
 
 | ![](.\images\supporti_registrazione_riproduzione\registratore-a-filo-01.jpg) | ![](.\images\supporti_registrazione_riproduzione\registratore-a-filo-valigetta-3.jpg) |
 | - | - |

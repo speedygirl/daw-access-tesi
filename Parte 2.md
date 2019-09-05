@@ -54,7 +54,7 @@ Ai fini della presente legge, si intende per: \
 a) “accessibilità”: la capacità dei sistemi informatici, ivi inclusi i siti Web e le applicazioni mobili, nelle forme e nei limiti consentiti dalle conoscenze tecnologiche, di erogare servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte di coloro che a causa di disabilità necessitano di tecnologie assistive o configurazioni particolari; \
  \
 a-bis) “applicazioni mobili”: il software applicativo progettato e sviluppato da parte o per conto dei soggetti erogatori, per essere utilizzato dagli utenti su dispositivi mobili, quali smartphone e tablet; è escluso il software che controlla tali dispositivi (sistemi operativi mobili) o lo stesso hardware informatico; \
- \\
+ \
  \
 b) “tecnologie assistive”: gli strumenti e le soluzioni tecniche, hardware e software, che permettono alla persona disabile, superando o riducendo le condizioni di svantaggio, di accedere alle informazioni e ai servizi erogati dai sistemi informatici. \
  \

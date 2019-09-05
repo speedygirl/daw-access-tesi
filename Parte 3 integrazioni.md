@@ -74,6 +74,7 @@ Tra i sistemi operativi commerciali per Personal Computer, windows è il più di
 
 Nel linguaggio Microsoft le funzioni di accessibilità vengono definite "Ease of Access", che in italiano sarebbe "Accesso Facilitato". Queste funzionalità sono eterogenee e influenzano l'interazione con l'utente, alcune agendo a livello di comandi di input, altre aggiungendo riferimenti visivi o uditivi. Generalmente vengono gestite dal pannello di controllo, anche se possono essere attivate tramite specifiche scorciatoie da tastiera predefinite. Quando queste funzionalità vengono attivate, le applicazioni devono essere in grado di gestirle. Per questo Windows, in fase di esecuzione, mette a disposizione un elenco di parametri che le applicazioni possono leggere per modificare il loro comportamento o disabilitare\abilitare, secondo necessità, funzionalità potenzialmente dannose per l'esperienza utente; ad esempio un'applicazione potrebbe cambiare il modo in cui gestisce il focus da tastiera quando è attivo uno screenreader. 
 Tra questi parametri si trovano: [^win-access-params]
+
 - Contrasto Elevato, indica alle applicazioni di impostare una combinazione di colori ad alto contrasto
 - Preferenza Tastiera, comunica che l'utente preferisce accedere utilizzando la tastiera invece del mouse o del touch: l'applicazione potrebbe aver bisogno di mostrare dei controlli dedicati all'accesso da tastiera
 - Lettore Schermo, indica che l'utente sta accedendo alle applicazioni attraverso uno screen reader, in questo caso le applicazioni dovranno esportare i metadati necessari allo screenreader, per interpretare sia la situazione corrente dell'applicazione che le eventuali azioni disponibili nel contesto attuale in forma completamente testuale
@@ -83,6 +84,7 @@ Tra questi parametri si trovano: [^win-access-params]
 - Durata Messaggi, indica alle applicazioni che l'utente necessità di più tempo per interpretare le comunicazioni degli alert o di altri tipi di messaggi temporanei
 
 Queste configurazioni delegano completamente all'applicazione l'implementazione e la gestione dei vari casi d'uso, ci sono però alcune feature di accessibilità che il sistema operativo può attivare su richiesta dell'utente o dell'applicazione. Tra queste si trovano:
+
 - Timeout Accesso, permette di definire un tempo dopo il quale le tecnologie assistive si disattivano, questa funzionalità è pensata per chi condivivde la macchina
 - Filtro Tasti, parametrizza un isteresi temporale di tolleranza nella fase di inserimento delle combinazioni di tasti, definisce dopo quanto tempo un tasto è considerarsi ripetuto e permette di aggiungere dei feedback sonori che aiutano l'utente a capire quando la funzionalità interviene
 - Tasti Puntatore, permette di utilizzare le frecce del tastierino numerico per muovere il cursore della tastiera
@@ -94,12 +96,14 @@ Queste configurazioni delegano completamente all'applicazione l'implementazione 
 Per gli sviluppatori software, Microsoft ha sempre offerto supporti dedicati all'accessibilità; già Windows 95 supportava un modulo aggiuntivo che offriva uno speciale set di API dedicate all'accessibilità delle interfacce utente. Questo modulo, Microsoft Active Accessbility (MSAA), permetteva l'intercomunicazione tra le tecnologie assistive e le applicazioni: tutt'oggi MSAA è presente in windows 10 come supporto legacy ed è la fondazione su cui si basa il più recente e potente UI Automation Framework. Questi due framework sono delle librerie che gli sviluppatori integrano all'interno delle loro applicazioni per interagire con strumenti come gli screen reader; dall'altra parte gli sviluppatori che implementano gli screen reader utilizzano il framework per reperire i metadati relativi alle applicazioni. I metadati di accessibilità di MSAA e UI Automation sono molto simili, entrambi creano una rappresentazione gerarchica delle finestre e dei controlli grafici contenuti al loro interno, prendendo come nodo principale il desktop: le applicazioni non fanno altro che aggiornare questo modello del loro stato interno attraverso le API software, dall'altra parte agli screen reader vengono esposti dei comandi per il controllo del cursore e del focus. Con questo sistema microsoft ha astratto completamente l'implementazione lato applicativo e screenreader, infatti una delle novità introdotte dell'UI Automation Framework riguarda la standardizzazione delle specifiche definitite nel "Microsoft UI Automation Standard", così il sistema è predisposto per poter funzionare anche su altri sistemi operativi, mantenendo comunque un certo grado di compatibilità. 
 
 Tra gli strumenti dedicati all'accessibilità troviamo:
+
 - Windows Narrator, lo screenreader preinstallato in Windows
 - Windows Lens, un software che fa da ingranditore
 - Funzione Dettatura, permette di scrivere un testo hand-free su tutte le applicazioni
 - Cortana, è un assistente vocale che permettere di effettuare varie tipologie di task integrate all'interno del sistema operativo e delle applicazioni
 
 Per creare interfacce grafiche su windows esistono 3 principali framework:
+
 - Windows MFC, framework di accesso alle API di windows per C++ e Visual C++
 - Windows Forms, wrapper di Windows MFC della piattaforma .Net scritto C# dedicato alla creazione di finestre
 - Windows WPF, framework della piattaforma .Net come successore delle Windows Forms, poi utilizzato come base per le applicazioni UWP (Universal Windows Platform) 
@@ -134,24 +138,25 @@ Partendo dalle feature dedicate alla vista, si trova VoiceOver, lo screenreader 
 - **Descrizioni Audio**, permettono al sistema di dare all'utente informazioni vocali dei contenuti multimediali immagini\video: queste informazioni sono generalmente ottenute utilizzando l'intelligenza artificiale
 
 Nella sezione Udito :
+
 - Audio, trasforma i feedback uditivi in feedback visivi e converte l'output audio da stereo a mono
 - RTT, (Real Time Text) è un protocollo ideato per non udenti che permette di scambiare testo real time all'interno di una telefonata
 - Sottotitoli Non Udenti, permette di configurare il layout con cui vengono visualizzati i sottotitoli
 
-Nella sezione Capacità Motorie troviamo:
+Nella sezione Capacità Motorie troviamo:ù
+
 - Controllo Vocale, è una nuova feature introdotta in MacOs catalina che permette agli utenti di controllare l'intero sistema esclusivamente utilizzando la voce; la modalità di navigazione è molto interessante e il sistema è stato sviluppato sfruttando lo stesso set di metadati che vengono gestiti da voice over
 - Tastiera, permette di abilitare le combinazioni di tasti a tasti singoli e di configurare il tempo con cui viene validata la pressione 
 - Controllo Puntatore, configurala sensibilità del touchpad e gli altri parametri annessi
 - Controllo Interruttori, configura il computer in maniera tale da poter essere controllato da un set di interruttori; i pulsanti configurabili sono quelli della tastiera, del mouse o di altri tipi di controlli esterni
 
 Nel menu Generali:
+
 - Siri, è il famoso assistente vocale per Mac, utilissimo nell'ambito dell'accessibilità hands-free
 - Abbreviazioni, permette di configurare delle shortcut per abilitare le feature di accessibilità
 
-
-
-
 Comparando le tecnologie assistive offerte su MacOs con quelle di Windows, la principale differenza riguarda il backend; al contrario di windows MacOs sviluppa il proprio screenreader senza demandare a terze parti le funzionalità. VoiceOver è stato il primo lettore di schermo su piattaforma Machintosh:introdotto nella versione 10.4 (OSx Tiger 29 aprile 2005) [^apple-vis]  è stato poi esteso nel 2009 all'iPhone e negli anni non ha smesso di ricevere aggiornamenti. Le API dedicate all'accessibilità su Mac sono state rinnovate nelle ultime versioni di MacOs, per far sì che sia la versione mobile che quella desktop condividessero il medesimo gruppo di comandi [^apple-doc].
+
 [^apple-vis]: VoiceOver Turns 10 *https://www.applevis.com/blog/voiceover-turns-10* link consultato il 1 settembre 2019
 [^apple-doc]: Accessibilità su MacOs *https://developer.apple.com/library/archive/documentation/Accessibility/Conceptual/AccessibilityMacOSX/index.html#//apple_ref/doc/uid/TP40001078-CH254-SW1*
 
@@ -165,6 +170,7 @@ Per gli sviluppatori software, Microsoft ha sempre offerto supporti dedicati all
 Esistono però altre funzionalità di accessibilità che vengono gestite direttamente dall'os,il quale va ad agire direttamente sui controlli nativi; questo significa che se l'applicazione è stata sviluppata utilizzando i componenti grafici standard, sarà automaticamente compatibile con queste funzionalità. 
 
 Su windows esistono 4 principali framework per lo sviluppo di interfacce grafiche:
+
 - Win MCF
 - Windows Form
 - Windows WPF 

@@ -1,8 +1,8 @@
 
 [^roberto-diem-tigani]: Roberto Diem Tigani, Custodi del suono. Un secolo e mezzo di storia della riproduzione sonora, 2012 Varese Zecchini Editore.
-[^young]: Enciclopedia Treccani al seguente url consultato il 9/04/2018 *https://www.treccani.it/Fenciclopedia/thomas-young*
+[^young]: Enciclopedia Treccani *https://www.treccani.it/Fenciclopedia/thomas-young* 
 [^taylor-and-walton]: THOMAS YOUNG, Course of Lectures on Natura1 Philosophy and the Mechanical Arts, Taylor and Walton, London, 1845, lecture XXXI, pp. 288-289.)
-[^ampiezza-onda]: consultato 20 settembre 2018 Enciclopedia Treccani url: *http://www.treccani.it/enciclopedia/ampiezza/*
+[^ampiezza-onda]: Enciclopedia Treccani *http://www.treccani.it/enciclopedia/ampiezza/* consultato 20 settembre 2018 
 [^luca-cerchiari-p12-13]: Luca Cerchiari "Il disco: musica tecnologia mercato", cap.1,pp 12-13, Luca Cerchiari – Milano, Sansoni. C2001
 [^luca-cerchiari-p17]: Luca Cerchiari "Il disco: musica tecnologia mercato", p 17, Luca Cerchiari – Milano, Sansoni. C2001
 [^fred-gaisberg]: Fred Gaisberg, The Music Goes Around. Macmillian, New York, 1942; trad. it. La musica e il disco, F.lli Bocca, Milano, 1949 pp. 15-16.

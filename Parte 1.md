@@ -461,7 +461,7 @@ Le moderne DAW (Digital Audio Workstation) possono integrare strumenti virtuali 
 
 Gli strumenti virtuali possono essere controllati, attraverso tastiere o controllers connessi, mediante protocollo MIDI alla DAW, fulcro dell'odierno studio di registrazione, un sistema software tramite il quale si possono eseguire operazioni come la registrazione e la manipolazione delle tracce audio, che consente sia la scrittura di partiture sia l'interfacciamento di moduli come sintetizzatori o effetti hardware collegati agli I/O (input/output) della scheda audio. Possono inoltre essere aggiunti moduli come sintetizzatori o moduli di effetti hardware collegati agli I/O (input/output) della scheda audio. Nella maggior parte degli studi si osservano soluzioni ibride hardware/software, è così possibile trovare un'elevata qualità audio che si accompagna a flessibilità e versatilità.
 
-<!-- registrazione multitraccia in sospeso --!
+<!-- registrazione multitraccia in sospeso -->
 La registrazione multitraccia è caratterizzata dalla ripresa con più microfoni, ad esempio, una batteria ripresa con quattro microfoni; un basso con un microfono; una voce con un microfono; una chitarra con due. In totale servono almeno otto ingressi sulla scheda audio. Quindi si armano sul banco otto tracce su ciascuna delle quali viene indirizzato un canale in ingresso dalla scheda audio.
 
 Si può anche registrare dapprima la batteria, poi, mettendo in playback la batteria, sovraincidere gli altri strumenti in differita.

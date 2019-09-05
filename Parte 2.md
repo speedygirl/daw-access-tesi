@@ -124,19 +124,9 @@ Le disposizioni della presente legge si applicano, altresì, al materiale format
 Le convenzioni stipulate tra il Ministero dell’istruzione, dell’università e della ricerca e le associazioni di editori per la fornitura di libri alle biblioteche scolastiche prevedono sempre la fornitura di copie su supporto digitale degli strumenti didattici fondamentali, accessibili, anche agli alunni con disabilità e agli insegnanti di sostegno, nell’ambito delle disponibilità di bilancio.  [^aggiornamento-legge-stanca-2018]
 
 Segue la pubblicazione da parte di AGID delle linee guida.
-AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. I suoi compiti sono:
-
-- monitoraggio dei siti Web della pubblica amministrazione e assistenza per l’adeguamento alla normativa
-- predisposizione di modelli per l’autovalutazione ai fini della redazione degli Obiettivi di accessibilità che le pubbliche amministrazioni sono tenute a pubblicare entro il 31 marzo di ciascun anno
-- gestione delle segnalazioni di inaccessibilità e attivazione delle procedure previste
-- gestione elenco valutatori di accessibilità
-- concessione del logo di accessibilità alle amministrazioni richiedenti il Logo di accessibilità
-- definizione e pubblicazione delle Specifiche tecniche sulle postazioni di lavoro per i dipendenti con disabilità
-- formazione alla pubblica amministrazione sui temi dell'accessibilità.
-- Osservatorio Nazionale sulla Disabilità del Ministero del Lavoro e delle Politiche sociali (OND);
-- Enti di normazione CEN, UNI e UNINFO.
-Possiamo considerare questi ultimmi commi, riportati per intero, come l'ultimo aggiornamento legislativo in questo ambito. è da qui che si è potuto comprendere come la normativa, anche la più aggiornata, tratti esclusivamente gli aspetti di accessibilità Web, senza un rimando specifico all'accessibilità per software, e costituisca un aspetto coercitivo soltanto per quanto riguarda l'ambito pubblico e non i prodotti immessi sul mercato da aziende private. Gli esperti del settore hanno in ogni caso adottato, qualora interessati a realizzare un prodotto accessibile, queste normative quali linee guida generali nello svilupo software: risultano essere pertanto gli unici riferimenti normativi in questo ambito, pur non essendo nè specifiche nè obbligatorie. 
-Questo fatto è ben testimoniato dall'esistenza di un'ampia documentazione tecnica reperibile sul Web, corredata da un'abbondanza di stralci di codice a titolo di esempio e tutorial, per quanto riguarda lo sviluppo Web e per applicativi mobili, non è invece stato possibile reperire materiale simile, che fosse specifico per quanto riguarda il sofware.
+AGID [^agid-sito-ufficiale] (Agenzia per l'Italia digitale)è un organismo governativo incaricato di gestire la tematica dell’accessibilità. 
+Da quest'ultimo aggiornamento legislativo si evince come la normativa, anche la più aggiornata, tratti esclusivamente gli aspetti di accessibilità Web, senza un rimando specifico all'accessibilità per software, e costituisca un aspetto coercitivo soltanto per quanto riguarda l'ambito pubblico e non i prodotti immessi sul mercato da aziende private. Gli esperti del settore hanno in ogni caso adottato, qualora interessati a realizzare un prodotto accessibile, queste normative quali linee guida generali nello sviluppo software: risultano essere pertanto gli unici riferimenti normativi in questo ambito, pur non essendo né specifici né obbligatori. 
+Questo fatto è ben testimoniato dall'esistenza di un'ampia documentazione tecnica reperibile sul Web, corredata da un'abbondanza di stralci di codice a titolo di esempio e tutorial. Invece,  per quanto riguarda lo sviluppo Web e per applicativi mobili, non è stato possibile reperire materiale simile, che fosse specifico per quanto riguarda il sofware.
 
 ## 2.3 concetto di accessibilità e usabilità
 In questo paragrafo, saranno affrontati i concetti di accessibilità e usabilità, che sono ben definiti dalla normativa stessa: 
@@ -158,7 +148,7 @@ Secondo le norme standard ISO 9241, il concetto di usabilità viene definito sec
 
 - soddisfazione: grado di facilità con cui gli utenti ottengono gli obiettivi tramite l’uso del prodotto. \
 
-L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere e che rendano possibile il recupero di eventuali errori.
+L’usabilità quindi si propone l’intento di ridurre la fatica dell’utente nell’utilizzo di prodotti, facendo in modo che siano facili da comprendere, da usare, da ricordare e apprendere, e che rendano possibile il recupero di eventuali errori.
 È opportuno sottolineare la fondamentale differenza tra i due concetti: se l’usabilità è la ricerca di una semplificazione che si rivolge a tutti gli utenti, l’accessibilità cerca di sopperire alle carenze dovute a specifiche disabilità con tecnologie dedicate.
 
 Il concetto di usabilità nasce negli anni ’60, ma si è sviluppato alla fine degli anni ’80 con il diffondersi delle tecnologie informatiche e del Personal Computer tra un numero sempre crescente di soggetti. Fino ad allora il problema non sussisteva, in quanto queste tecnologie erano utilizzate esclusivamente da esperti. 
@@ -167,7 +157,7 @@ La crescita del Web in ambito sociale ha portato, come detto, gli enti governati
 
 
 ## 2.4 Attuazione nello sviluppo software e Web
-Nello sviluppo di interfacce software gli sviluppatori devono tener in considerazione  la compatibilità del loro prodotto con le tecnologie assistive usate a seconda della tipologia di disabilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità nei software si riscontrano:
+Nello sviluppo di interfacce software gli sviluppatori devono tener in considerazione la compatibilità del loro prodotto con le tecnologie assistive usate a seconda della tipologia di disabilità. Le più comuni problematiche [^introduction-to-web-accessibility] riguardanti l'accessibilità nei software si riscontrano:
 
 - nei controlli etichettati con immagini anzichè con il nome, detto "tag"
 
@@ -180,7 +170,7 @@ Nello sviluppo di interfacce software gli sviluppatori devono tener in considera
 
 Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
-- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label, e circondare i controlli sfruttando il mapping dei pixel. 
+- per rendere gli elementi raggiungibili dal focus della sintesi [^stanford-sito-ufficiale] è necessario suddividere la mappa in label e circondare i controlli sfruttando il mapping dei pixel. 
 
 - è buona prassi usare le APIs standard fornite dal sistema operativo oppure, per la costruzione di controlli personalizzati, seguire le linee guida per l'accessibilità.
 
@@ -202,7 +192,7 @@ Per quanto riguarda le buone prassi possiamo osservare innanzitutto che:
 
 - occorre differenziare le modalità di fruizione delle informazioni non limitandosi a trasmetterle visivamente (ad esempio tramite il colore), ma fornendo testi alternativi (quali "grassetto attivato" e il pulsante evidenziato; "errore nell'inserimento" oltre al campo evidenziato in rosso per indicare un inserimento scorretto)
 
-- dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli per farlo questi si possono precompilare con dei valori predefiniti
+- dev'essere facile per l'utente individuare e correggere gli errori di inserimento dati; nel caso dei moduli, questi si possono precompilare con valori predefiniti
 
 - le notifiche in sovrimpressione non devono avere un tempo limitato, o quanto meno deve essere offerta all'utente la possibilità di regolare il tempo per cui rimangono attive, così da poterle leggere con lo screen reader.
 
@@ -214,17 +204,16 @@ L’ideale sarebbe progettare applicazioni nativamente accessibili, ma troppo sp
 Le HMI (Human Machine Interfaces), ossia interfacce uomo macchina, sono l’insieme delle parti hardware e software che forniscono informazioni relative allo stato della macchina e ai comandi necessari all’utente per svolgere le funzioni specifiche per cui il programma è stato progettato. [^massimiliano-salfi-assistive-technology-slide]
 
 La prima formalizzazione del concetto di Assistive Technology si trova nel “Technology-Related Assistance for Individuals with Disabilities Act” [^the-tech-act] 1988 “The Tech Act” nel 1988, aggiornato nel 1994 e infine, quattro anni più tardi, sostituito dall’”Assistive Technology Act” "AT Act".
-Negli “Access Board's [^electronic-and-Information-Technology-Accessibility-Standards] si trova la medesima definizione di accessibilità, importante per questo lavoro, in quanto sviluppata come richiesto dall’emendamento del 1998 alla **sezione 508 del Rehabilitation Act, più volte citato.**
+
 
 ## 2.6 Esempi di Assistive Technology legati alla disabilità visiva
 Fin dalla nascita del Personal Computer le aziende produttrici si sono interrogate sulle modalità di fruizione di tale strumento tramite mezzi alternativi allo schermo [^germano-carella-ausili]
 A supporto della disabilità visiva, le tecniche applicate prevedevano principalmente l’utilizzo di capacità sensoriali alternative, quindi l’udito e il tatto. Nasce da qui l’idea di usufruire della tecnologia dei sintetizzatori vocali, software in grado di riprodurre fonemi legati in sillabe che, opportunamente combinati, erano in grado di trasmettere frasi di senso compiuto e la produzione di lettori in grado di riprodurre scritte braille tramite materiali piezoelettrici, aggiornabili con impulsi elettronici ed usufruibili tramite tatto. Solo successivamente si sono sviluppati software di input tramite comandi vocali. <!-- riusciamo a inserire qualche data per collocare storicamente le informazioni? -->
- 
-<!-- INSERIRE TABELLE CON ESEMPI TECNOLOGIE ASSISTIVE E RELATIVO LINK https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
+https://www.agid.gov.it/sites/default/files/repository_files/documentazione/agid_specifiche_tecniche_in_consultazione.pdf 
 (…… ; consultato 25 novembre 2018). -->
 
 ### 2.6.1 Screen Reader
-Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.5.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk essterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
+Con il termine *screen reader* si intende una categoria di ausili composta da software in grado di analizzare, filtrare, interpretare il contenuto del display di un dispositivo informatico e riprodurlo come output in formato audio, attraverso la funzione di text to speech [^funzionamento-screenreader-american-foundation], con sintesi vocale o display braille [^display-braille] (si veda capitolo dedicato 2.5.2 Barra Braille). Alla loro nascita questi software dovevano essere installati appositamente sui computer che il cieco avrebbe utilizzato, mentre successivamente sono diventati esportabili tramite chiavete usb o hard-disk esterni e in tempi ancor più recenti sono le case produttrici di sistemi operativi (Microsoft Windows, Mac Os, Linux) che li inseriscono di default. Oggi un non vedente può usare qualsiasi dispositivo. [^stanford-sito-ufficiale]
 
 <!-- perché qui c'è un URL abbandonato a se stesso?!? -->
 <!-- citare le sue fonti bibliografiche a fondo pagina del sito -->
